@@ -8,7 +8,7 @@ mainpitch:
   title: Amber.health
   description: |
     What is this site: how to use
-description: 'Mission Statement or Purpose: Born of rage and hysteria, Amber.health is '
+description: 'Mission Statement: Born of rage and hysteria, Amber.health is a '
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -19,12 +19,8 @@ intro:
       text: Endometriosis
     - image: /img/meeting-space.png
       text: Lichen Sclerosus
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Where is this?? can't find
+  description: Location? xxx
 main:
   heading: Where is this?
   description: Location??
