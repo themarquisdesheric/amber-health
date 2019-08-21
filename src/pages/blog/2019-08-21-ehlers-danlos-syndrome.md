@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Ehlers-Danlos Syndrome
-date: 2019-08-21T20:23:30.272Z
+date: 2019-08-20T20:23:30.272Z
 description: Information and resources for EDS
 featuredpost: true
 featuredimage: /img/products-grid3.jpg
