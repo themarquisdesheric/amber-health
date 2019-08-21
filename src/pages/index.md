@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: delete
-image: /img/home-jumbotron.jpg
+image: /img/sonjia-splash-3.jpg
 heading: Mission Statement or Purpose
 subheading: delete
 mainpitch:
