@@ -32,7 +32,7 @@ testimonials: []
 full_image: /img/apple-touch-icon.png
 pricing:
   heading: they're making me keep image and header
-  description: same with this BS
+  description: 'same with this BS '
   plans: []
 ---
 
