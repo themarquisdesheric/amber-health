@@ -12,8 +12,6 @@ tags:
   - Urogenital
   - bladder
   - Interstitial cystitis
-  - autoimmune
-  - ''
 ---
 # IC Facts
 
