@@ -15,7 +15,7 @@ intro:
     - image: /img/meeting-space.png
       text: EDS
   heading: '????'
-  description: '?????'
+  description: '????? !'
 main:
   heading: making me keep
   description: making me keep
