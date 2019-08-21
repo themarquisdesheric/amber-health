@@ -22,8 +22,8 @@ intro:
   heading: Where is this?? can't find
   description: Location? xxx
 main:
-  heading: Where is this?
-  description: Location??
+  heading: Where is this? WTF
+  description: Location?? WTF 2
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
