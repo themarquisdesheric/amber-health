@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: delete
-image: /img/pom-2.jpg
+image: /img/sonjiawpom-3.jpg
 heading: Mission Statement or Purpose
 subheading: delete
 mainpitch:
