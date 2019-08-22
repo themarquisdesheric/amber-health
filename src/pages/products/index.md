@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: delete
-image: /img/jumbotron.jpg
+image: /img/sonjiawpom-2.jpg
 heading: Topics (table of contents)
 description: Articles are organized by major topics
 intro:
