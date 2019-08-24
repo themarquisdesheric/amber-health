@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms-app';
+// * remove this if not needed
 import uploadcare from 'netlify-cms-media-library-uploadcare';
 import cloudinary from 'netlify-cms-media-library-cloudinary';
 
