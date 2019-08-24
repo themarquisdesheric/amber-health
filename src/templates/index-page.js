@@ -22,8 +22,8 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`
+        backgroundPosition: 'top left',
+        backgroundAttachment: 'fixed'
       }}
     >
       <div
@@ -100,7 +100,7 @@ export const IndexPageTemplate = ({
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    <Link className="btn" to="/articles">
                       Read more
                     </Link>
                   </div>
