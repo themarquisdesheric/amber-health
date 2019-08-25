@@ -2,7 +2,7 @@
 templateKey: product-page
 title: empty
 image: /img/sonjiawpom-2.jpg
-heading: Topics (table of contents)
+heading: Topics (table of contents)// or RECIPES
 description: Articles are organized by major topics
 intro:
   blurbs:
