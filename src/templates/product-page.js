@@ -11,7 +11,6 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  pricing
 }) => (
   <div className="content">
     <div
@@ -64,10 +63,6 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
             </div>
           </div>
         </div>
@@ -105,7 +100,6 @@ const ProductPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
-        pricing={frontmatter.pricing}
       />
     </Layout>
   );
@@ -182,10 +176,6 @@ export const productPageQuery = graphql`
               }
             }
           }
-        }
-        pricing {
-          heading
-          description
         }
       }
     }
