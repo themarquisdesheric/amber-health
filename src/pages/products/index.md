@@ -1,24 +1,24 @@
 ---
 templateKey: product-page
-title: delete
+title: empty
 image: /img/sonjiawpom-2.jpg
 heading: Topics (table of contents)
 description: Articles are organized by major topics
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: Endo
+      text: Endometriosis
     - image: /img/coffee-gear.png
       text: Lichen Sclerosus
     - image: /img/tutorials.png
-      text: IC
+      text: 'Interstitial Cystitis '
     - image: /img/meeting-space.png
       text: EDS
-  heading: '????'
-  description: '????? !'
+  heading: '???? I can''t find this'
+  description: '????? I can''t find this either'
 main:
-  heading: making me keep
-  description: making me keep
+  heading: making me keep- delete
+  description: making me keep- delete
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -28,11 +28,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
-full_image: /img/apple-touch-icon.png
-pricing:
-  heading: they're making me keep image and header
-  description: 'same with this BS '
-  plans: []
+full_image: /img/sonjiawpom-2.jpg
 ---
 
