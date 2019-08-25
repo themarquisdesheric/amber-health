@@ -9,7 +9,6 @@ tags:
   - EDS
   - hypermobile
   - Ehlers-Danlos Syndrome
-  - ''
 ---
 # Information 
 

@@ -106,21 +106,26 @@ $menu-label-color: $white-ter
 .social
   padding: 2em
 .social a
-    padding: .5em .5em .3em .5em
-    border-radius: 1em
-    background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
-    vertical-align: middle
-    display: inline
+  padding: .5em .5em .3em .5em
+  border-radius: 1em
+  background-color: $white-ter
+  margin: .5em
+  width: 1em
+  height: 1em
+  vertical-align: middle
+  display: inline
 
 // blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033;
+.blog-list-item.box
+  box-shadow: none;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
+.article-links
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2rem 0;
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;

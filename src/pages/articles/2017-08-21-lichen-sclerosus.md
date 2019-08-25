@@ -14,7 +14,6 @@ tags:
   - Urogenital
   - autoimmune
   - skin
-  - ''
 ---
 ![chemex](/img/chemex.jpg)
 
