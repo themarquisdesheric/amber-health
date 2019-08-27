@@ -11,13 +11,13 @@ mainpitch:
 description: 'Mission Statement: Born of rage and hysteria, Amber.health is a '
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pom-2.jpg
       text: Articles
-    - image: /img/coffee-gear.png
+    - image: /img/pom-2.jpg
       text: Recipes
-    - image: /img/tutorials.png
+    - image: /img/pom-2.jpg
       text: Endometriosis
-    - image: /img/meeting-space.png
+    - image: /img/pom-2.jpg
       text: Lichen Sclerosus
   heading: Where is this?? can't find
   description: Location? xxx
