@@ -12,9 +12,9 @@ export const ProductPageTemplate = ({
   intro,
   main,
 }) => (
-  <div className="content">
+  <div>
     <div
-      className="full-width-image-container margin-top-0"
+      className="full-width-image"
       style={{
         backgroundImage: `url(${
           image.childImageSharp ? image.childImageSharp.fluid.src : image

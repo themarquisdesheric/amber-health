@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+  <div>
     {gridItems.map(item => (
-      <div key={item.text} className="column is-6">
+      <div key={item.text}>
         <section className="section">
-          <div className="has-text-centered">
+          <div>
             <div
               style={{
                 width: '240px',

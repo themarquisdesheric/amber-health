@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
@@ -9,19 +9,19 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <Fragment>
-        <h1 className="has-text-centered">Articles</h1>
+      <section className="section">
+        <h1>Articles</h1>
         <div className="article-links">
           <Link to="/tags/ehlers-danlos-syndrome">Ehlers-Danlos Syndrome</Link>
           <Link to="/tags/interstitial-cystitis">Interstitial Cystitis</Link>
           <Link to="/tags/endometriosis">Endometriosis</Link>
           <Link to="/tags/lichen-sclerosus">Lichen Sclerosus</Link>
         </div>
-        <div className="columns is-multiline">
+        <div>
           {posts &&
             posts.map(({ node: post }) => (
-              <div className="is-parent column is-6" key={post.id}>
-                <article className="blog-list-item tile is-child box notification">
+              <div key={post.id}>
+                <article className="article-list-item">
                   <header>
                     {post.frontmatter.featuredimage ? (
                       <div className="featured-thumbnail">
@@ -33,28 +33,18 @@ class BlogRoll extends React.Component {
                         />
                       </div>
                     ) : null}
-                    <p className="post-meta">
-                      <Link
-                        className="title has-text-primary is-size-4"
-                        to={post.fields.slug}
-                      >
+                    <p>
+                      <Link to={post.fields.slug}>
                         {post.frontmatter.title}
                       </Link>
                     </p>
                   </header>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+                  <p>{post.excerpt}</p>
                 </article>
               </div>
             ))}
         </div>
-      </Fragment>
+      </section>
     );
   }
 }
