@@ -11,11 +11,11 @@ const BlogRoll = ({ data }) => {
 
   return (
     <section className="section">
-      <h1 className="text-2xl font-semibold mb-6">Articles</h1>
-      <div className="flex flex-wrap">
+      <p className="mb-16">Home → Articles</p>
+      <div className="flex flex-col items-center">
         {posts &&
           posts.map(({ node: post }) => (
-            <article className="max-w-md mb-8 xs:mr-8" key={post.id}>
+            <article className="max-w-xl mb-8" key={post.id}>
               <Link to={post.fields.slug}>
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -36,15 +36,14 @@ const BlogRoll = ({ data }) => {
               </Link>
             </article>
           ))}
-      </div>
-
-      <div>
-        <p className="w-full text-md font-semibold py-2">Topics</p>
-        {topics.map(topic => 
-          <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm block" key={topic}>
-            {topic}
-          </Link>
-        )}
+        <div>
+          <p className="text-md font-semibold py-2">Topics</p>
+          {topics.map(topic => 
+            <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm block" key={topic}>
+              {topic}
+            </Link>
+          )}
+        </div>
       </div>
     </section>
   );

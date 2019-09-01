@@ -10,7 +10,6 @@ tags:
   - women's health
   - disease
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
 ## Endo facts
 

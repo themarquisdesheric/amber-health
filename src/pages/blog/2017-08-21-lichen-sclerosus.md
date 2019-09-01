@@ -15,11 +15,10 @@ tags:
   - autoimmune
   - skin
 ---
-![chemex](/img/chemex.jpg)
 
 # Lichen Sclerosus:
 
-
+I need a lot more content here I need a lot more content here I need a lot more content here 
 
 ## Resources:
 
