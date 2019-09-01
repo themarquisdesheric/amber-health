@@ -3,6 +3,7 @@
 body  
   margin: 0; 
 
+// HEADER
 .mobile-nav 
   transition: max-height 0.3s ease-out;
 
@@ -14,8 +15,23 @@ body
   width: 30px;
   height: 30px;
 
+// UTILITIES
 .section  
-  padding: 3rem 1.5rem; 
+  padding: 1.5rem;
+  min-height: 50vh;
+
+.full-width-image 
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+// rename "section" to "content"
+
 
 .content .taglist 
   list-style: none;
@@ -30,58 +46,16 @@ body
     margin-bottom: 1.5rem;
     margin-top: 0;
 
-.full-width-image 
-  width: 100vw;
-  height: 400px;
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-footer.footer  
-  padding: 3rem 0rem 0rem; 
-
-footer .social 
-  padding: 1em;
-  text-align: center;
-
+// FOOTER
 footer small 
   display: block;
   text-align: center;
   padding: 1rem 0;
 
-.social  
-  padding: 2em; 
-
 .social a 
-  padding: .5em .5em .3em;
-  border-radius: 1em;
-  margin: .5em;
-  vertical-align: middle;
+  vertical-align: text-bottom;
 
 .social img
   display: inline;
-
-// blog roll
-.article-list-item 
-  padding: 1em;
-  margin-bottom: 1em;
-  border: 1px solid;
-
-.article-list-item header 
-  display: flex;
-  margin-bottom: 1em;
-
-
-.article-links 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 2rem 0; 
-
-
-.article-list-item .featured-thumbnail 
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
-
+  width: 1em;
+  height: 1em;

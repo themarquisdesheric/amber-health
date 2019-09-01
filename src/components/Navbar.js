@@ -14,8 +14,7 @@ const Links = ({ links, mobile }) =>
           : `uppercase sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
       activeStyle={{ 
-        color: '#b3564b',
-        fontWeight: '500'
+        color: '#b3564b'
       }}
       key={link}
     >
