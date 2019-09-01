@@ -8,7 +8,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">
-        <div className="links">
+        <div className="flex justify-around">
           <Link to="/" className="navbar-item">
             Home
           </Link>

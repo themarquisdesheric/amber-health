@@ -1,79 +1,94 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { bool, arrayOf, string, func } from 'prop-types';
 import { Link } from 'gatsby';
 import logo from '../img/logo.svg';
+import menu from '../img/menu.png';
 
-const Navbar = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      navBarActiveClass: ''
-    };
-  }
-
-  toggleHamburger = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.active
-          ? this.setState({
-            navBarActiveClass: 'is-active'
-          })
-          : this.setState({
-            navBarActiveClass: ''
-          });
+const Links = ({ links, mobile }) =>
+  links.map((link, idx) => (
+    <Link 
+      to={`/${link}`}
+      className={
+        mobile 
+          ? '' 
+          : `uppercase sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
-    );
-  };
+      activeStyle={{ 
+        color: '#b3564b',
+        fontWeight: '500'
+      }}
+      key={link}
+    >
+      {link}
+    </Link>  
+  ));
 
-  render() {
-    return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-            </Link>
-            {/* Hamburger menu */}
-            <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={this.toggleHamburger}
-            >
-              <span />
-              <span />
-              <span />
-            </div>
-          </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/articles">
-                Articles
-              </Link>
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-            </div>
-          </div>
-        </div>
-      </nav>
-    );
-  }
+Links.propTypes = {
+  links: arrayOf(string).isRequired,
+  mobile: bool
+};
+
+
+const MobileMenu = ({ links, visible }) => (
+  <div 
+    className={`mobile-nav overflow-hidden h-auto text-center text-xs uppercase ${visible ? 'border-b' : ''} sm:hidden`} 
+    style={{ maxHeight: visible ? '175px' : '0px' }}
+  >
+    <Links links={links} mobile />
+  </div>
+);
+
+MobileMenu.propTypes = {
+  links: arrayOf(string).isRequired,
+  visible: bool.isRequired
+};
+
+
+const HamburgerMenu = ({ handleSetVisible }) => (
+  <div 
+    onClick={() => handleSetVisible(visible => !visible)} 
+    className="hamburger-menu relative h-6 sm:hidden"
+  >
+    <img src={menu} alt="hamburger menu" />
+  </div>
+);
+
+HamburgerMenu.propTypes = {
+  handleSetVisible: func.isRequired
+};
+
+
+const NavLinks = ({ links }) => (
+  <div className="hidden sm:block">
+    <Links links={links} />
+  </div>
+);
+
+NavLinks.propTypes = {
+  links: arrayOf(string).isRequired
+};
+
+
+const Navbar = () => {
+  const [visible, setVisible] = useState(false);
+  const links = ['articles', 'about', 'contact'];
+
+  return (
+    <div>
+      <MobileMenu links={links} visible={visible} />  
+      <header className="flex items-center justify-between h-16 px-6">
+        <h1 className="text-xl sm:text-2xl m-0">
+          <Link to="/" title="Logo">
+            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+          </Link>
+        </h1>
+        <nav className="text-xs">
+          <HamburgerMenu handleSetVisible={setVisible} />
+          <NavLinks links={links} />
+        </nav>
+      </header>
+    </div>
+  );
 };
 
 export default Navbar;

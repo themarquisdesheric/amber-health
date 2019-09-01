@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
-import './styles.css';
+import '../styles/styles.sass';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
