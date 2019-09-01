@@ -1,6 +1,6 @@
 ---
-templateKey: blog-post
-title: 'Chronic Illness '
+templateKey: article
+title: 'Chronic Illness'
 date: 2019-08-25T17:28:51.208Z
 description: Chronic Illness Management  and Chronic Illness Stigma
 featuredimage: /img/sonjiawpom-4.jpg

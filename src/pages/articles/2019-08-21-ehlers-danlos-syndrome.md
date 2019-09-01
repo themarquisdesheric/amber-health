@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: article
 title: Ehlers-Danlos Syndrome
 date: 2019-08-20T20:23:30.272Z
 description: Information and resources for EDS

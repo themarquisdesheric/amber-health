@@ -1,6 +1,6 @@
 ---
-templateKey: blog-post
-title: 'Interstitial Cystitis '
+templateKey: article
+title: 'Interstitial Cystitis'
 date: 2017-01-04T15:04:10.000Z
 description: |
   This article includes resources for IC or PBS, painful bladder syndrome. 

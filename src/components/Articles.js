@@ -6,7 +6,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Endometriosis', 'Lichen Sclerosus'];
 
-const BlogRoll = ({ data }) => {
+const Articles = ({ data }) => {
   const { edges: posts } = data.allMarkdownRemark;
 
   return (
@@ -49,7 +49,7 @@ const BlogRoll = ({ data }) => {
   );
 };
 
-BlogRoll.propTypes = {
+Articles.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array
@@ -60,10 +60,10 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery {
+      query ArticlesQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "article" } } }
         ) {
           edges {
             node {
@@ -88,6 +88,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <Articles data={data} count={count} />}
   />
 );

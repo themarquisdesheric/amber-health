@@ -1,8 +1,8 @@
 import React from 'react';
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
+import Articles from '../../components/Articles';
 
-export default class BlogIndexPage extends React.Component {
+export default class ArticlesIndexPage extends React.Component {
   render() {
     return (
       <Layout>
@@ -12,7 +12,7 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: 'url("/img/sonjiawpom-1.jpg")'
           }}
         />
-        <BlogRoll />
+        <Articles />
       </Layout>
     );
   }

@@ -1,8 +1,8 @@
 ---
-templateKey: blog-post
+templateKey: article
 title: Endometriosis
 date: 2016-12-17T15:04:10.000Z
-description: 'Resources, studies, book reviews, and support '
+description: 'Resources, studies, book reviews, and support'
 featuredpost: false
 featuredimage: /img/pom-2.jpg
 tags:
