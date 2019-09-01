@@ -82,7 +82,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: 'slug',
       node,
-      value: value.replace('blog', 'article')
+      value: value.replace('blog', 'articles')
     });
   }
 };
