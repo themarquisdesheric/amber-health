@@ -18,17 +18,21 @@ body
   height: 20px;
 
 // ARTICLES
-.topics a::before
-  background-image: url(/img/favicon-32.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  content: "";
-  display: inline-block;
-  vertical-align: baseline;
-  width: 1em;
-  height: 1em;
-  position: relative;
-  top: 2px;
+.topics a
+  display: block;
+  margin-bottom: .5rem;
+
+  &::before
+    background-image: url(/img/favicon-32.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    content: "";
+    display: inline-block;
+    vertical-align: baseline;
+    width: 1em;
+    height: 1em;
+    position: relative;
+    top: 2px;
 
 .tag
   display: inline-flex;
@@ -66,6 +70,19 @@ body
   p
     margin-bottom: 1rem;
 
+.breadcrumbs
+  margin-bottom: 3rem;
+
+nav a:hover,
+.breadcrumbs a:hover,
+ul a:hover,
+.browse-all-tags a:hover,
+  color: rgb(179, 86, 75);
+
+.tag:hover,
+  border-color: rgb(179, 86, 75);
+  color: rgb(179, 86, 75);
+
 .full-width-image 
   width: 100vw;
   height: 400px;
@@ -81,3 +98,7 @@ body
 
   .main-content
     min-height: calc(100vh - 75px);
+
+@media all and (min-width: 1441px)
+  .full-width-image 
+    height: 500px;

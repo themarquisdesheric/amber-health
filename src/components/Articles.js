@@ -16,7 +16,7 @@ const Articles = ({ data }) => {
       <div className="flex flex-col items-center">
         {posts &&
           posts.map(({ node: post }) => (
-            <article className="max-w-xl mb-8" key={post.id}>
+            <article className="articles max-w-xl mb-8" key={post.id}>
               <Link to={post.fields.slug}>
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -41,7 +41,7 @@ const Articles = ({ data }) => {
           <p className="text-center text-md font-semibold mt-8 py-2">Topics</p>
           <ul className="topics">
             {topics.map(topic => 
-              <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm block" key={topic}>
+              <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm" key={topic}>
                 {` ${topic}`}
               </Link>
             )}
@@ -59,8 +59,6 @@ Articles.propTypes = {
     })
   })
 };
-
-// ! make sure to increase the max width below to what it currently is 
 
 export default () => (
   <StaticQuery

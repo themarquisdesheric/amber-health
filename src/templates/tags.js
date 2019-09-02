@@ -9,14 +9,6 @@ const TagRoute = ({ data, pageContext }) => {
   const { tag } = pageContext;
   const { title } = data.site.siteMetadata;
   const { totalCount } = data.allMarkdownRemark;
-  
-  const postLinks = posts.map(post => (
-    <li key={post.node.fields.slug}>
-      <Link to={post.node.fields.slug}>
-        <h2>{post.node.frontmatter.title}</h2>
-      </Link>
-    </li>
-  ));
 
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? '' : 's'
@@ -31,8 +23,18 @@ const TagRoute = ({ data, pageContext }) => {
             <Helmet title={`${tag} | ${title}`} />
             <div className="mb-24">
               <h3>{tagHeader}</h3>
-              <ul>{postLinks}</ul>
-              <p>
+              <ul className="topics text-2xl py-4">
+                {posts.map(post => {
+                  const { slug } = post.node.fields;
+                  
+                  return (
+                    <Link to={slug} key={slug}>
+                      {` ${post.node.frontmatter.title}`}
+                    </Link>
+                  );
+                })}
+              </ul>
+              <p className="browse-all-tags">
                 <Link to="/tags/">Browse all tags</Link>
               </p>
             </div>
