@@ -24,4 +24,4 @@ tags:
 
 [www.whoisyuval.com](https://www.whoisyuval.com)
 
-<iframe width="560" height="500" src="https://www.youtube.com/embed/HOmQ_56EAMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="272" height="500" src="https://www.youtube.com/embed/HOmQ_56EAMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -67,14 +67,14 @@ NavLinks.propTypes = {
 };
 
 
-const Navbar = () => {
+const Header = () => {
   const [visible, setVisible] = useState(false);
   const links = ['articles', 'about', 'contact'];
 
   return (
-    <div>
+    <header className="border-b">
       <MobileMenu links={links} visible={visible} />  
-      <header className="navbar flex items-center justify-between h-16 px-6">
+      <div className="navbar flex items-center justify-between h-16 px-6">
         <h1 className="header text-md m-0">
           <Link to="/" title="Logo" className="flex items-center">
             <img src="/img/logo-80.png" alt="amber.health pomegranate logo" className="w-8 mr-2 sm:w-10" />
@@ -85,9 +85,9 @@ const Navbar = () => {
           <HamburgerMenu handleSetVisible={setVisible} />
           <NavLinks links={links} />
         </nav>
-      </header>
-    </div>
+      </div>
+    </header>
   );
 };
 
-export default Navbar;
+export default Header;

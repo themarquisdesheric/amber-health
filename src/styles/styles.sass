@@ -4,7 +4,7 @@ body
 
 // HEADER
 .header
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: 'Averia Serif Libre', sans-serif;
 
 .mobile-nav 
   transition: max-height 0.3s ease-out;
@@ -30,13 +30,24 @@ body
   position: relative;
   top: 2px;
 
-.taglist 
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
+.tag
+  display: inline-flex;
+  height: 2.25em;
+  margin: 0 .5rem .5rem 0;
+  background-color: #fff;
+  border-color: #e2e8f0;
+  border-width: 1px;
+  border-radius: 4px;
+  cursor: pointer;
+  justify-content: center;
+  padding-bottom: calc(.375em - 1px);
+  padding-left: .75em;
+  padding-right: .75em;
+  padding-top: calc(.375em - 1px);
+  text-align: center;
+  white-space: nowrap;
   
-  li 
-    padding: 0 2rem 1rem 0;
+// FOOTER
 .social a 
   vertical-align: text-bottom;
 
@@ -46,9 +57,14 @@ body
   height: 1em;
 
 // UTILITIES
+.main-content
+    min-height: calc(100vh - 64px);
+
 .content  
   padding: 1.5rem;
-  min-height: 50vh;
+
+  p
+    margin-bottom: 1rem;
 
 .full-width-image 
   width: 100vw;
@@ -62,3 +78,6 @@ body
 @media all and (min-width: 768px) 
   .navbar
     height: 75px;
+
+  .main-content
+    min-height: calc(100vh - 75px);

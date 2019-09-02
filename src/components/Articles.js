@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
+import Breadcrumbs from './Breadcrumbs';
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 
@@ -11,7 +12,7 @@ const Articles = ({ data }) => {
 
   return (
     <section className="content">
-      <p className="mb-16">Home → Articles</p>
+      <Breadcrumbs path="Articles" />
       <div className="flex flex-col items-center">
         {posts &&
           posts.map(({ node: post }) => (
@@ -81,7 +82,7 @@ export default () => (
                 templateKey
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 450, quality: 100) {
+                    fluid(maxWidth: 576, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

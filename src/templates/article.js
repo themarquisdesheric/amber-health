@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 export const ArticleTemplate = ({
   content,
@@ -18,24 +19,29 @@ export const ArticleTemplate = ({
 
   return (
     <section className="content">
-      {helmet || ''}
-      <h1>
-        {title}
-      </h1>
-      <p>{description}</p>
-      <PostContent content={content} />
-      {tags && tags.length ? (
-        <div style={{ marginTop: '4rem' }}>
-          <h4>Tags</h4>
-          <ul className="article-taglist">
-            {tags.map(tag => (
-              <li key={tag + 'tag'}>
-                <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-              </li>
-            ))}
-          </ul>
+      <Breadcrumbs path="Articles" />
+      <div className="flex flex-col items-center">
+        <div className="max-w-xl">
+          {helmet || ''}
+          <h1 className="text-2xl font-semibold py-2">
+            {title}
+          </h1>
+          <p>{description}</p>
+          <PostContent content={content} />
+          {tags && tags.length ? (
+            <ul className="mt-16">
+              {tags.map(tag => (
+                <Link to={`/tags/${kebabCase(tag)}/`} key={tag + 'tag'}>
+                  <li className="tag">
+                    {tag}
+                  </li>
+                </Link>
+              ))}
+            </ul>
+          ) : null}
         </div>
-      ) : null}
+
+      </div>
     </section>
   );
 };

@@ -3,16 +3,22 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import Breadcrumbs from '../components/Breadcrumbs';
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <div className="content">
-      <h2>
-        {title}
-      </h2>
-      <PageContent content={content} />
+      <Breadcrumbs path="About" />
+      <div className="flex flex-col items-center">
+        <div className="max-w-xl">
+          <h2>
+            {title}
+          </h2>
+          <PageContent content={content} />
+        </div>
+      </div>
     </div>
   );
 };

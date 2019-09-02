@@ -20,7 +20,7 @@ export const IndexPageTemplate = ({
       }}
     />
     <main className="content flex flex-col items-center">
-      <section className="max-w-md">
+      <section className="max-w-xl">
         <h1>{mainpitch.title}</h1>
         <h3>{mainpitch.description}</h3>
         <h3>
