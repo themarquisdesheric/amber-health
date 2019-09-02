@@ -22,7 +22,7 @@ class TagRoute extends React.Component {
 
     return (
       <Layout>
-        <section className="section">
+        <section className="content">
           <Helmet title={`${tag} | ${title}`} />
           <div style={{ marginBottom: '6rem' }}>
             <h3>{tagHeader}</h3>

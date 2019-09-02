@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { bool, arrayOf, string, func } from 'prop-types';
 import { Link } from 'gatsby';
-import logo from '../img/logo.svg';
 import menu from '../img/menu.png';
 
 const Links = ({ links, mobile }) =>
@@ -75,10 +74,11 @@ const Navbar = () => {
   return (
     <div>
       <MobileMenu links={links} visible={visible} />  
-      <header className="flex items-center justify-between h-16 px-6">
-        <h1 className="text-xl sm:text-2xl m-0">
-          <Link to="/" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+      <header className="navbar flex items-center justify-between h-16 px-6">
+        <h1 className="header text-md m-0">
+          <Link to="/" title="Logo" className="flex items-center">
+            <img src="/img/logo-80.png" alt="amber.health pomegranate logo" className="w-8 mr-2 sm:w-10" />
+            amber.health
           </Link>
         </h1>
         <nav className="text-xs">

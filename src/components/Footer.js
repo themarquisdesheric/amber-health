@@ -5,7 +5,7 @@ import twitter from '../img/social/twitter.svg';
 
 const Footer = () => (
   <footer className="footer pt-12">
-    <small>
+    <small className="block text-center py-4">
       © {new Date().getFullYear()} Amber Robinson
       <span className="social">
         <a title="instagram" href="https://instagram.com" className="px-3">

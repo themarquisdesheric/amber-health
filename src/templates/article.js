@@ -17,7 +17,7 @@ export const ArticleTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="content">
       {helmet || ''}
       <h1>
         {title}
@@ -27,7 +27,7 @@ export const ArticleTemplate = ({
       {tags && tags.length ? (
         <div style={{ marginTop: '4rem' }}>
           <h4>Tags</h4>
-          <ul className="taglist">
+          <ul className="article-taglist">
             {tags.map(tag => (
               <li key={tag + 'tag'}>
                 <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>

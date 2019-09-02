@@ -67,6 +67,16 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`
       }
     },
+    {
+      resolve: 'gatsby-plugin-google-fonts',
+      options: {
+        fonts: [
+          'Averia Serif Libre:300',
+          'Lato'
+        ],
+        display: 'swap'
+      }
+    },
     'gatsby-plugin-postcss',
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
