@@ -12,4 +12,4 @@ CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview);
 CMS.registerPreviewTemplate('about', AboutPagePreview);
-CMS.registerPreviewTemplate('article', ArticlePreview);
+CMS.registerPreviewTemplate('articles', ArticlePreview);
