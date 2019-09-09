@@ -1,104 +1,105 @@
 body  
-  margin: 0;
-  font-family: 'Lato', sans-serif;
+  margin: 0
+  font-family: 'Lato', sans-serif
 
 // HEADER
 .header
-  font-family: 'Averia Serif Libre', sans-serif;
+  font-family: 'Averia Serif Libre', sans-serif
 
 .mobile-nav 
-  transition: max-height 0.3s ease-out;
+  transition: max-height 0.3s ease-out
 
 .mobile-nav a
-  display: block;
-  margin: 1rem 0;
+  display: block
+  margin: 1rem 0
 
 .hamburger-menu
-  width: 20px;
-  height: 20px;
+  width: 20px
+  height: 20px
 
 // ARTICLES
+.article
+  width: 100%
+
 .topics a
-  display: block;
-  margin-bottom: .5rem;
+  display: block
+  margin-bottom: .5rem
 
   &::before
-    background-image: url(/img/favicon-32.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    content: "";
-    display: inline-block;
-    vertical-align: baseline;
-    width: 1em;
-    height: 1em;
-    position: relative;
-    top: 2px;
+    background-image: url(/img/favicon-32.png)
+    background-size: contain
+    background-repeat: no-repeat
+    content: ""
+    display: inline-block
+    vertical-align: baseline
+    width: 1em
+    height: 1em
+    position: relative
+    top: 2px
 
 .tag
-  display: inline-flex;
-  height: 2.25em;
-  margin: 0 .5rem .5rem 0;
-  background-color: #fff;
-  border-color: #e2e8f0;
-  border-width: 1px;
-  border-radius: 4px;
-  cursor: pointer;
-  justify-content: center;
-  padding-bottom: calc(.375em - 1px);
-  padding-left: .75em;
-  padding-right: .75em;
-  padding-top: calc(.375em - 1px);
-  text-align: center;
-  white-space: nowrap;
+  display: inline-flex
+  height: 2.25em
+  margin: 0 .5rem .5rem 0
+  background-color: #fff
+  border-color: #e2e8f0
+  border-width: 1px
+  border-radius: 4px
+  cursor: pointer
+  justify-content: center
+  padding-bottom: calc(.375em - 1px)
+  padding-left: .75em
+  padding-right: .75em
+  padding-top: calc(.375em - 1px)
+  text-align: center
+  white-space: nowrap
   
 // FOOTER
 .social a 
-  vertical-align: text-bottom;
+  vertical-align: text-bottom
 
 .social img
-  display: inline;
-  width: 1em;
-  height: 1em;
+  display: inline
+  width: 1em
+  height: 1em
 
 // UTILITIES
 .main-content
-    min-height: calc(100vh - 64px);
+    min-height: calc(100vh - 64px)
 
 .content  
-  padding: 1.5rem;
-
-  p
-    margin-bottom: 1rem;
+  padding: 1.5rem
 
 .breadcrumbs
-  margin-bottom: 3rem;
+  margin-bottom: 3rem
 
 nav a:hover,
 .breadcrumbs a:hover,
 ul a:hover,
 .browse-all-tags a:hover,
-  color: rgb(179, 86, 75);
+  color: rgb(179, 86, 75)
 
 .tag:hover,
-  border-color: rgb(179, 86, 75);
-  color: rgb(179, 86, 75);
+  border-color: rgb(179, 86, 75)
+  color: rgb(179, 86, 75)
 
 .full-width-image 
-  width: 100%;
-  height: 400px;
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 400px
+  background-size: cover
+  background-position: center
+
+@media all and (min-width: 550px)
+  .tag-tile
+    width: 30%
+    margin-right: 1rem
 
 @media all and (min-width: 768px) 
   .navbar
-    height: 75px;
+    height: 75px
 
   .main-content
-    min-height: calc(100vh - 75px);
+    min-height: calc(100vh - 75px)
 
 @media all and (min-width: 1441px)
   .full-width-image 
-    height: 500px;
+    height: 500px

@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import kebabCase from 'lodash/kebabCase';
 import { Link, graphql, StaticQuery } from 'gatsby';
-import PreviewCompatibleImage from './PreviewCompatibleImage';
 import Breadcrumbs from './Breadcrumbs';
+import Article from './Article';
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 
@@ -16,29 +16,10 @@ const Articles = ({ data }) => {
       <div className="flex flex-col items-center">
         {posts &&
           posts.map(({ node: post }) => (
-            <article className="articles max-w-xl mb-8" key={post.id}>
-              <Link to={post.fields.slug}>
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="w-full">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.title}`
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="text-lg font-semibold py-2">
-                    {post.frontmatter.title}
-                  </p>
-                </header>
-                <p className="text-sm">{post.excerpt}</p>
-              </Link>
-            </article>
+            <Article post={post} className="article max-w-xl" key={post.id} />
           ))}
         <div>
-          <p className="text-center text-md font-semibold mt-8 py-2">Topics</p>
+          <p className="text-center text-md font-semibold mt-8 py-3">Topics</p>
           <ul className="topics">
             {topics.map(topic => 
               <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm" key={topic}>
@@ -70,13 +51,13 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
               id
               fields {
                 slug
               }
               frontmatter {
                 title
+                description
                 templateKey
                 featuredimage {
                   childImageSharp {

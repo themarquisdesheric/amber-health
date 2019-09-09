@@ -78,7 +78,9 @@ const Header = () => {
         <h1 className="header text-md m-0">
           <Link to="/" title="Logo" className="flex items-center">
             <img src="/img/logo-80.png" alt="amber.health pomegranate logo" className="w-8 mr-2 sm:w-10" />
-            amber.health
+            amber
+            <img src="/img/logo-80.png" alt="amber.health pomegranate logo" className="mx-1" style={{ width: '5px' }} />
+            health
           </Link>
         </h1>
         <nav className="text-xs">

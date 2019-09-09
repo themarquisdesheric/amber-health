@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Breadcrumbs from '../components/Breadcrumbs';
+import Article from '../components/Article';
 
 const TagRoute = ({ data, pageContext }) => {
   const posts = data.allMarkdownRemark.edges;
@@ -23,16 +24,10 @@ const TagRoute = ({ data, pageContext }) => {
             <Helmet title={`${tag} | ${title}`} />
             <div className="mb-24">
               <h3>{tagHeader}</h3>
-              <ul className="topics text-2xl py-4">
-                {posts.map(post => {
-                  const { slug } = post.node.fields;
-                  
-                  return (
-                    <Link to={slug} key={slug}>
-                      {` ${post.node.frontmatter.title}`}
-                    </Link>
-                  );
-                })}
+              <ul className="py-4 flex flex-wrap">
+                {posts.map(({ node: post }) => (
+                  <Article post={post} className="tag-tile max-w-sm" key={post.id} />
+                ))}
               </ul>
               <p className="browse-all-tags">
                 <Link to="/tags/">Browse all tags</Link>
@@ -62,11 +57,20 @@ export const tagPageQuery = graphql`
       totalCount
       edges {
         node {
+          id
           fields {
             slug
           }
           frontmatter {
             title
+            description
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 576, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
