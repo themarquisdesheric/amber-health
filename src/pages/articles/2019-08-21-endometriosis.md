@@ -19,8 +19,7 @@ tags:
 
 Here are trusted informational online resources that explain the definition, believed causes, and treatment options available for the disease:
 
-* \
-  <http://endometriosis.org/>
+* [endo](http://endometriosis.org/)
 
 ## Books (H2):
 
