@@ -25,23 +25,19 @@ const Index = () => {
     });
   };
 
-  const handleSubmit = () => {};
-
   return ( 
     <Layout className="contact">
       <section className="content">
         <Breadcrumbs path="Contact" />
         <div className="flex flex-col items-center">
-          <h1 className="text-2xl font-semibold text-center mb-12">Get in touch.</h1>
-
+          <h1 className="text-2xl font-semibold text-center mb-12 md:text-3xl">Get in touch.</h1>
           <form
             name="contact"
             action="mailto:someone@example.com" 
             method="post" 
-            enctype="text/plain"
+            encType="text/plain"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
-            onSubmit={handleSubmit}
             className="max-w-xl"
           >
             {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
@@ -69,6 +65,7 @@ const Index = () => {
               Email
             </label>
             
+            {/* ensure email input validation is working */}
             <div>
               <input
                 type="email"
@@ -91,7 +88,7 @@ const Index = () => {
                 required={true}
               ></textarea>
             </div>
-            <button type="submit" disabled={!form.isValid}>
+            <button type="submit" disabled={!isValid}>
               Send
             </button>
           </form>
