@@ -52,10 +52,6 @@ tags:
 
 > While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many women experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a woman during her period – while this may be the case for some women, for most patients the pain affects them both during and outside their period. 
 >
-> \
->
-> \
->
 > \-Vital Health Endometriosis Center 
 
 ## **Online Resources**:
@@ -106,35 +102,17 @@ Due to prevailing myths and misinformation patients and providers are often not 
 
 > Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
 >
-> \
->
-> * 
->
-> [Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
+> \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 
 According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
 
-> **Laparoscopy & Pathology Report:**
+> **Laparoscopy & Pathology Report:** The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
 >
->  The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
+> **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
 >
-> **Lab testing does not test for endometriosis:**
+> I**maging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
 >
->  There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
->
-> I
->
-> **maging testing is helpful but not definitive:**
->
-> Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
->
-> **The big issue at hand:**
->
->  It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
->
-> \
->
-> \
+> **The big issue at hand:** It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
 >
 > \-Endofound.org
 
@@ -153,23 +131,13 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 
 > Minimally invasive laparoscopic excision surgery remains the gold standard for diagnosis and treatment, ideally performed in the specialty treatment setting or performed by an advanced surgeon.
 >
-> \
->
 > \-ERC
 >
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg -  despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
-> \
->
-> \
->
 > \-endofound.org
 >
 > In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
->
-> \
->
-> \
 >
 > [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
 
@@ -177,27 +145,21 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 
 > To reiterate, other types of surgery include ablation or cauterization. Both of these only remove the tissue on the surface but neglect the tissue growing beneath the surface. In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. Excess scar tissue can also form using these methods due to the high energy and heat applied to surrounding healthy tissue. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
 >
-> \
->
 > \-endofound.org
 
 **Why Hysterectomy is not a treatment option?**
 
 > It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain. 
 >
-> \
->
-> \
->
 > \-Endofound.org
 
-\*\*\*\*[Endometriosis persisting after castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
+[Endometriosis persisting after castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
 **Hormonal Contraceptives/ Oral Birth Control:**
 
-Knowing the true place of hormonal contraceptive in one's care is important for a patient to know. Many providers will inaccurately present oral contraceptives to patients as a "treatment" for the actual disease mechanism and fail to inform them it is only symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+Knowing the true place of hormonal contraceptive in the treament of endometriosis is important for a patient to know. Many providers will inaccurately present oral contraceptives to patients as a "treatment" for the actual disease mechanism and fail to inform them it is only symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives  and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
@@ -205,11 +167,11 @@ This means certain hormonal contraceptives work to relieve symptoms but have no 
 \
  The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
 
-For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Endopedia.com discusses specific drugs effectiveness and side effects on their [site](http://endopaedia.info/treatment7.html).  
+For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
 
 **Alternative Therapies:**
 
-Alternative therapies can include various methods aimed at mitigating symptoms and disease management. Chinese medicine, acupuncture, yoga, and 
+Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and disease management. Chinese medicine, acupuncture, yoga, and 
 
 (physical therapy, acupuncture, aromatherapy, myofascial release therapy, exercise (see our group here), herbal therapy, holistic, integrative medicine, Diet and lifestyle
 
