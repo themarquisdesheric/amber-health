@@ -102,11 +102,9 @@ These books cover an array of information on the disease so I would suggest choo
 >
 > \-Endometriosis Research Center
 
+**Include Center for endo care's list here, if allowed.**
+
 Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), discusses potential causes and theories and reviews over 200 articles on endometriosis. Dr. Martin states, "No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read."
-
-It's worth exploring these concepts and familiarizing yourself with the theories since they determine the current standard of care. 
-
-
 
 ## What are the Diagnostic Options?
 
@@ -116,10 +114,12 @@ It's worth exploring these concepts and familiarizing yourself with the theories
 
 ## What are the Treatment options?
 
-These article provide information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. 
+This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. 
 
 * Excision vs ablation
 * Birth control methods/ Side Effects
+
+**Surgery:** 
 
 > In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes.  Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 >
@@ -132,6 +132,22 @@ These article provide information on the available endometriosis treatments with
 >
 >
 > -Womenssurgerycentertn.com
+
+**Hormonal Contraceptives/ Oral Birth Control:**
+
+Knowing the true place of hormonal contraceptive in one's care is important for a patient to know. Many providers will inaccurately present oral contraceptives as a "treatment" for the actual disease mechanism and fail to inform the patient it is only symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+
+> Combined hormonal contraceptives  and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
+
+This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives decreaed the recurrnce of disease after sugery, but does not mean they provide this effect alone. \
+\
+ The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
+
+For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest Dr. Jolene Brighten and Dr. Laura Briden as top authorities on hormonal health and hormonal contraceptives. 
+
+**Alternative Therapies:** 
+
+
 
 ## Finding a Specialist:
 
