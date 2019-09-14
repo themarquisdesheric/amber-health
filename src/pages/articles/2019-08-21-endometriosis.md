@@ -29,19 +29,20 @@ tags:
 >
 > \-Kasvandik, Sergo (2015). Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells. J. Proteome Res. 2016, 15, 2, 572-584. https://doi.org/10.1021/acs.jproteome.5b00965
 >
-> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb.  These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
+> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
 >
 > \-Endometriosis Research Center 
 
 ## **What are the symptoms?(H2)**
 
+* Pain with Menstruation, Dysmenorrhea
 * Pelvic Pain
 * Low Back Pain
 * Leg Pain
 * Cyclical Pain
 * Pain in Bowel and Bladder
 * Bladder and Bowel Dysfunction
-* Pain with Sex
+* Pain with Sex, Dyspareunia
 * Bloating
 * Nausea and Vomiting
 * Fatigue
@@ -58,13 +59,11 @@ tags:
 >
 > -Vital Health Endometriosis Center 
 
-
-
 ## **Online Resources**:
 
-Here are trusted informational online resources that explain the definition, theorized causes, and treatment options available for the disease. Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site, unless I am citing a quote.:
+Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site, unless I am citing a quote.:
 
-* [Centerforendo.com](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
+* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
 * [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
 * [Endometriosis Foundation of America](https://www.endofound.org/endometriosis-a-to-z) is a non profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
 * [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
@@ -78,17 +77,27 @@ These books cover an array of information on the disease so I would suggest choo
 
 
 
-## Causes:
+## What are the Potential Causes?
 
-> Often called a “disease of theories,” the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist.  NO SINGLE RESEARCHER HAS FOUND “THE” ANSWER.  The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances.
+> Often called a “disease of theories,” the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
+>
+> * Retrograde menstruation – Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
+> * Immunologic dysfunction – a 'broken' immune system allows for implantation of menstrual debris
+> * Stem Cells – have been demonstrated to populate lesions, even in absence of menstruation
+> * Genetics – a 7-10 fold risk exists in those whose mother or relative has disease
+> * Environmental Toxins – can cause cell changes which allow for implantation and errant immune response
+>
+> No single theory explains endometriosis in all patients, particularly in males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
 >
 > \-Endometriosis Research Center
 
-## Diagnostic Options:
+## What are the Diagnostic Options?
 
 
 
-## Treatment options:
+
+
+## What are the Treatment options?
 
 These article provide information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. 
 
