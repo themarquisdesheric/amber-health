@@ -179,6 +179,8 @@ An excerpt from [Elagolix for endometriosis: all that glitters is not gold](http
 
 > To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
+**Lupron**, a commonly used has a long history of significant and long lasting side effects.
+
 **Alternative Therapies:**
 
 Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and disease management. Chinese medicine, acupuncture, yoga, and 
