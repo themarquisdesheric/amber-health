@@ -35,17 +35,20 @@ tags:
 
 ## **What are the symptoms?(H2)**
 
-* Pain with Menstruation, Dysmenorrhea
+* Pain with Menstruation
 * Pelvic Pain
+* Abdominal Pain
 * Low Back Pain
 * Leg Pain
 * Cyclical Pain
 * Pain in Bowel and Bladder
 * Bladder and Bowel Dysfunction
 * Pain with Sex, Dyspareunia
+* Pain with Vaginal Penetration or Insertion 
 * Bloating
 * Nausea and Vomiting
 * Fatigue
+* Possibly Comorbidities: Allergies, Migraines, and Asthma 
 
 > While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many women experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a woman during her period – while this may be the case for some women, for most patients the pain affects them both during and outside their period. 
 >
@@ -61,7 +64,7 @@ tags:
 
 ## **Online Resources**:
 
-Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site, unless I am citing a quote.:
+Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered health language. I will always use inclusive language on my site, unless I am citing a quote._:
 
 * [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
 * [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
