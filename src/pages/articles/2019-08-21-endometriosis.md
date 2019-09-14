@@ -71,18 +71,26 @@ Here are trusted informational online resources that explain the definition, the
 * [Endometriosis Foundation of America](https://www.endofound.org/endometriosis-a-to-z) is a non profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
 * [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
 * [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
+* [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
+
 
 ## Books:
 
 These books cover an array of information on the disease so I would suggest choosing the topics most relevant to your case. When possible, read as many as you can to expand your understanding of this complex disease. Use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
-* Beating Endo: How to Reclaim Your Life from Endometriosis by Orbuch MD and Iris Kerin
-
+* [Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
+* [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
+* [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
+* [Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know](https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574) by Andrew S. Cook MD FACOG and Robert Franklin MD
+* [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten
+* [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden 
+* [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein
+* [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
 
 
 ## What are the Potential Causes?
 
-> Often called a “disease of theories,” the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
+> Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
 >
 > * Retrograde menstruation – Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
 > * Immunologic dysfunction – a 'broken' immune system allows for implantation of menstrual debris
@@ -93,6 +101,12 @@ These books cover an array of information on the disease so I would suggest choo
 > No single theory explains endometriosis in all patients, particularly in males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
 >
 > \-Endometriosis Research Center
+
+Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), discusses potential causes and theories and reviews over 200 articles on endometriosis. Dr. Martin states, "No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read."
+
+It's worth exploring these concepts and familiarizing yourself with the theories since they determine the current standard of care. 
+
+
 
 ## What are the Diagnostic Options?
 
