@@ -73,7 +73,6 @@ Here are trusted informational online resources that explain the definition, the
 * [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
 * [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
 
-
 ## Books:
 
 These books cover an array of information on the disease so I would suggest choosing the topics most relevant to your case. When possible, read as many as you can to expand your understanding of this complex disease. Use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
@@ -153,21 +152,26 @@ According to clinical reports, recent studies, and endo specialists the only way
 >
 > -Endofound.org
 
-
-
 ## What are the Treatment options?
 
-This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. 
+This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target the disease progression while others only address the symptoms. 
 
 * Surgery: Excision vs Ablation 
 * Hormonal Contraceptives 
 * Alternative Therapies
 * Pain Management
 
-**Surgery:** 
+**Excision Surgery:** 
 
-**Excision**: Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care  and has proven effective through years of clinical success and more recently clinical trails.
+Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care and has proven effective through years of clinical success and more recently clinical trails.
 
+> Minimally invasive laparoscopic excision surgery remains the gold standard for diagnosis and treatment, ideally performed in the specialty treatment setting or performed by an advanced surgeon.
+>
+> \
+>
+>
+> -ERC
+>
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg -  despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \
@@ -180,7 +184,7 @@ This section provides information on the available endometriosis treatments with
 >
 > -endofound.org
 >
-> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes.  Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
+> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 >
 > \
 >
@@ -223,8 +227,6 @@ This section provides information on the available endometriosis treatments with
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
-
-
 **Hormonal Contraceptives/ Oral Birth Control:**
 
 Knowing the true place of hormonal contraceptive in one's care is important for a patient to know. Many providers will inaccurately present oral contraceptives to patients as a "treatment" for the actual disease mechanism and fail to inform them it is only symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
@@ -235,15 +237,23 @@ This means certain hormonal contraceptives work to relieve symptoms but have no 
 \
  The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
 
-For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest Dr. Jolene Brighten and Dr. Laura Briden as top authorities on hormonal health and hormonal contraceptives. 
+For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Endopedia.com discusses specific drugs effectiveness and side effects on their [site](http://endopaedia.info/treatment7.html).  
 
 **Alternative Therapies:**
 
-Alternative therapies can include Chinese medicine, acupuncture, yoga, and 
+Alternative therapies can include various methods aimed at mitigating symptoms and disease management. Chinese medicine, acupuncture, yoga, and 
+
+(physical therapy, acupuncture, aromatherapy, myofascial release therapy, exercise (see our group here), herbal therapy, holistic, integrative medicine, Diet and lifestyle
 
 **Pain Management:** 
 
-****
+Pain management can include any method of therapy including medical, coping, and
+
+
+
+For more details on specific treatment options check out Vital Health Endometriosis Center's helpful [site](https://www.vitalhealth.com/endometriosis-specialty-center/learn-about-endometriosis/endometriosis-treatment-options/). 
+
+
 
 ## Finding a Specialist:
 
