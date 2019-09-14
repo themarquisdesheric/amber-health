@@ -1,6 +1,6 @@
 ---
 templateKey: article
-title: 'Endometriosis '
+title: Endometriosis 101
 date: 2016-12-17T15:04:10.000Z
 description: >
   What to learn when you’re first diagnosed and where to find accurate
@@ -54,13 +54,9 @@ tags:
 >
 > \
 >
->
->
->
 > \
 >
->
-> -Vital Health Endometriosis Center 
+> \-Vital Health Endometriosis Center 
 
 ## **Online Resources**:
 
@@ -85,7 +81,6 @@ These books cover an array of information on the disease so I would suggest choo
 * [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden 
 * [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein
 * [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
-
 
 ## What are the Potential Causes?
 
@@ -113,12 +108,9 @@ Due to prevailing myths and misinformation patients and providers are often not 
 >
 > \
 >
->
-> - 
+> * 
 >
 > [Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
->
->
 
 According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
 
@@ -134,8 +126,6 @@ According to clinical reports, recent studies, and endo specialists the only way
 >
 > **maging testing is helpful but not definitive:**
 >
->  
->
 > Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
 >
 > **The big issue at hand:**
@@ -144,13 +134,9 @@ According to clinical reports, recent studies, and endo specialists the only way
 >
 > \
 >
->
->
->
 > \
 >
->
-> -Endofound.org
+> \-Endofound.org
 
 ## What are the Treatment options?
 
@@ -169,36 +155,23 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 >
 > \
 >
->
-> -ERC
+> \-ERC
 >
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg -  despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \
 >
->
->
->
 > \
 >
->
-> -endofound.org
+> \-endofound.org
 >
 > In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 >
 > \
 >
->
->
->
 > \
 >
->
->
->
 > [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
->
->
 
 **Other Surgeries:**
 
@@ -206,8 +179,7 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 >
 > \
 >
->
-> -endofound.org
+> \-endofound.org
 
 **Why Hysterectomy is not a treatment option?**
 
@@ -215,15 +187,11 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 >
 > \
 >
->
->
->
 > \
 >
->
-> -Endofound.org
+> \-Endofound.org
 
-****[Endometriosis persisting after castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
+\*\*\*\*[Endometriosis persisting after castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
@@ -249,11 +217,7 @@ Alternative therapies can include various methods aimed at mitigating symptoms a
 
 Pain management can include any method of therapy including medical, coping, and
 
-
-
 For more details on specific treatment options check out Vital Health Endometriosis Center's helpful [site](https://www.vitalhealth.com/endometriosis-specialty-center/learn-about-endometriosis/endometriosis-treatment-options/). 
-
-
 
 ## Finding a Specialist:
 
