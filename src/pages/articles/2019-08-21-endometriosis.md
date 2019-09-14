@@ -165,9 +165,19 @@ Knowing the true place of hormonal contraceptive in the treament of endometriosi
 
 This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives decreased the recurrence of disease after surgery, but does not mean they provide this effect alone. \
 \
- The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
+The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
 
-For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
+For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. 
+
+Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
+
+To note [here](https://icer-review.org/announcements/elagolix-final-report/) is information on the newest hormonal medication, Orilissa/Elagolix:
+
+> “While elagolix appears to offer short-term clinical benefits in terms of reduced pain and improved quality of life for women living with endometriosis, evidence is not yet sufficient to rule out the possibility that this therapy may pose long-term safety risks for patients,” noted Dan Ollendorf, PhD, ICER’s Chief Scientific Officer. “
+
+An excerpt from [Elagolix for endometriosis: all that glitters is not gold](https://www.ncbi.nlm.nih.gov/pubmed/30551159) says,
+
+> To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
 **Alternative Therapies:**
 
@@ -202,4 +212,4 @@ These resources provide insight on dietary and lifestyle changes that can aid in
 Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights.
 
 * [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
-*
+* Aubrey Deemer's group
