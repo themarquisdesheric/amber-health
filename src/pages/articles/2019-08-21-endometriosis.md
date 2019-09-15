@@ -119,11 +119,15 @@ Due to prevailing myths and misinformation patients and providers are often not 
 This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target the disease progression while others only address the symptoms. 
 
 * Surgery: Excision vs Ablation 
-* Hormonal Contraceptives 
+* Hormonal Contraceptives or Suppression/ Hormonal Therapy?
 * Alternative Therapies
 * Pain Management
 
 **Excision Surgery:** 
+
+> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
+>
+> [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
 
 **LAPEX**, 
 
@@ -136,10 +140,6 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg -  despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \-endofound.org
->
-> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
->
-> [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
 
 **Other Surgeries:**
 
@@ -153,25 +153,25 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 >
 > \-Endofound.org
 
-[Endometriosis persisting after castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
+The article [Endometriosis Persisting after Castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
-**Hormonal Contraceptives and Hormone Suppression:**
+**Hormonal Contraceptives and Hormone Therapy:**
 
-Knowing the true place of hormonal contraceptives in the treatment of endometriosis is imperative for a patient. Most providers will offer, mention, or suggest using hormonal suppression as treatment option but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" for the disease mechanism and fail to inform us it is only providing symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy may come in the form of birth control pills, progesterone only pills, long acting progesterone medicines, and GnRH agonists such as Lupron or Zoladex. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment"  to stop the disease mechanism. They often fail to inform us it is only providing symptomatic relief and that the disease will continue to progress. Studies and Endo specialists agree hormonal therapies do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
-This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but does not mean they provide this effect alone. As [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
+This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. As [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
 
-> There was no evidence of benefit for post-surgical hormonal suppression of endometriosis compared to surgery alone for the outcomes of pain, disease recurrence or pregnancy rates (RR 0.84, 95% CI 0.59 to 1.18).
+> There was no evidence of benefit for post-surgical hormonal suppression of endometriosis compared to surgery alone for the outcomes of pain, disease recurrence or pregnancy rates.
 
 The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy.
 
-Hormonal contraceptives can cause intolerable, significantly negative side effects including [stroke](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084), [Chron's Disease](https://gut.bmj.com/content/45/2/165), and certain [cancers](https://www.npr.org/sections/health-shots/2017/12/06/568836583/even-low-dose-contraceptives-slightly-increase-breast-cancer-risk-study-finds). Side effects can last long after cessation of the medication. For a deeper dive into the benefits and side effects of hormonal contraceptives, I would suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Dr. Isabella Wentz's, an expert in thyroid health, touches on this topic in her article, [14 Ways Birth Control Pills Rob Us of Our Health. ](https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/) For more information, [Endopedia.com](http://endopaedia.info/treatment7.html) discusses specific drugs, effectiveness, and side effects.  
+Hormonal contraceptives can cause intolerable, significantly negative side effects including [stroke](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084), [Crohn's Disease](https://gut.bmj.com/content/45/2/165), and certain [cancers](https://www.npr.org/sections/health-shots/2017/12/06/568836583/even-low-dose-contraceptives-slightly-increase-breast-cancer-risk-study-finds). Side effects can last long after cessation of the medication. For a deeper dive into the benefits and side effects of hormonal contraceptives, I would suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Dr. Isabella Wentz's, an expert in thyroid health, touches on this topic in her article, [14 Ways Birth Control Pills Rob Us of Our Health. ](https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/) For more information, [Endopedia.com](http://endopaedia.info/treatment7.html) discusses specific drugs, effectiveness, and side effects.  
 
-The the newest hormonal option, **Orilissa/Elagolix**, has received largely negative reviews. For example, [The Institute for Clinical and Economic Review's final report](https://icer-review.org/announcements/elagolix-final-report/) showed limitations in evidence on the long-term safety and effectiveness of Elagolix for Endometriosis.
+The newest hormonal drug, **Orilissa/Elagolix**, has received largely negative reviews. For example, [The Institute for Clinical and Economic Review's final report](https://icer-review.org/announcements/elagolix-final-report/) showed limitations in evidence on the long-term safety and effectiveness of Elagolix for Endometriosis.
 
 > “While elagolix appears to offer short-term clinical benefits in terms of reduced pain and improved quality of life for women living with endometriosis, evidence is not yet sufficient to rule out the possibility that this therapy may pose long-term safety risks for patients,” noted Dan Ollendorf, PhD, ICER’s Chief Scientific Officer. “
 
@@ -179,7 +179,7 @@ An excerpt from [Elagolix for endometriosis: all that glitters is not gold](http
 
 > To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
-**Lupron**, a GnRH antagonist, was originally approved for treatment of advanced male prostate cancer but is now commonly used in endometriosis care. It's creator,  Takeda-Abbott Pharmaceuticals which has dissolved into Abbvie, has been found guilty of [fraudulent drug prices](https://www.justice.gov/archive/opa/pr/2001/October/513civ.htm) and [marketing conduct](https://www.nytimes.com/2001/10/04/business/2-drug-makers-to-pay-875-million-to-settle-fraud-case.html) and was later reprimanded for not [investigating deaths](https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/) in association with several of its drugs, including Lupron. 
+**Lupron**, a GnRH antagonist, was originally approved for treatment of advanced male prostate cancer but is now commonly used in endometriosis care. It's creator, Takeda-Abbott Pharmaceuticals now part of AbbVie, has been found guilty of [fraudulent drug prices](https://www.justice.gov/archive/opa/pr/2001/October/513civ.htm) and [marketing conduct](https://www.nytimes.com/2001/10/04/business/2-drug-makers-to-pay-875-million-to-settle-fraud-case.html) and was later reprimanded for not [investigating deaths](https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/) in association with several of its drugs, including Lupron. 
 
 Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting [side effects](https://www.rxlist.com/lupron-side-effects-drug-center.htm#overview). There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. Patients have filed nearly 24,000 reports for adverse reaction from Lupron to the FDA. [The FDA](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/potential-signals-serious-risksnew-safety-information-identified-fda-adverse-event-reporting-system-15) deemed more than half of them serious cases and is evaluating it for regulatory actions.
 
@@ -200,7 +200,9 @@ Alternative therapies can include various methods be aimed at mitigating symptom
 
 **Pain Management:** 
 
-Pain management can include any method of therapy including medical, coping, andpain medications, over the counter and pharmaceuticals
+Since severe and chronic pain are often symptoms of endometriosis, it's important to find methods of mitigating and coping. 
+
+Pain management can include any method of therapy including medical, coping, and pain medications, over the counter and pharmaceuticals
 
 ## Finding a Specialist:
 
@@ -209,7 +211,7 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists
 * [The American End of Endo Project's](https://endofendoproject.org/physician-directory/) physician's directory is a locator tool for specialists
 * [Endometriosis.org](http://endometriosis.org/resources/articles/finding-a-specialist/) provides some key points on finding a specialist
-* Vital Health
+* [Endo West: Endo and Pelvic Surgery Center](http://endowest.net/questions-to-ask-your-doctor/) has a list of questions to ask your doctor.
 * [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
@@ -228,6 +230,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 * [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
 * [Dr. Jolene Brighten Hormone Community](https://www.facebook.com/groups/330316127499514/) offers community, advice, and support from fellow endo patients and is moderated by Dr. Jolene Brighten.
-* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients 
-* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members 
+* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
+* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
+* [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease.
