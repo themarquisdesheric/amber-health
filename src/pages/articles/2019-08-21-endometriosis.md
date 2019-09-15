@@ -54,6 +54,16 @@ tags:
 > While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many women experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a woman during her period – while this may be the case for some women, for most patients the pain affects them both during and outside their period. 
 >
 > \-Vital Health Endometriosis Center 
+>
+> Endometriosis is much more than simple, so-called “killer cramps,” as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature
+>
+> \-center
+>
+>
+>
+> Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
+>
+> \-[wiley](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x)
 
 ## **Online Resources**:
 
@@ -124,6 +134,12 @@ This section provides information on the available endometriosis treatments with
 * Alternative Therapies
 * Pain Management
 
+We do believe, however, that multidisciplinary care combined with surgical excision as the cornerstone can facilitate a successful approach to living well in spite of endometriosis; i.e. nutrition, physical therapy and more. 
+
+Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
+
+\-center
+
 **Excision Surgery:** 
 
 > In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
@@ -131,6 +147,14 @@ This section provides information on the available endometriosis treatments with
 > [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
 
 **LAPEX**, 
+
+> Excision has been studied quite extensively, and many different studies from around the world have shown very consistent results. Redwine published his outcomes in 1991 after laparoscopic excision of endometriosis where he followed those patients for up to 7 years postop. About half had no further pain and no reasons for subsequent surgery, and the other half required another surgery for various indications- pain, bleeding, masses, etc. He showed a 57% cure rate in reoperated patients, and a 19% incidence of recurrence or persistence among all patients who underwent excision (this assumes no recurrences in the pain-free patients who didn’t have another surgery). Several other studies showed very similar results (Wheeler, Malinak; Varol et al). - 
+>
+> [pacific center](https://pacificendometriosis.com/excision-of-endometriosis/)
+>
+>
+
+
 
 Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care and has proven effective through years of clinical success and more recently clinical trails.
 
@@ -211,14 +235,18 @@ Pain management can include any method of therapy including medical, coping, and
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
 
-* [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists
+* [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists that have undergone specific vetting by nurse Nancy Peterson
 * [The American End of Endo Project's](https://endofendoproject.org/physician-directory/) physician's directory is a locator tool for specialists
 * [Endometriosis.org](http://endometriosis.org/resources/articles/finding-a-specialist/) provides some key points on finding a specialist
 * [Endo West: Endo and Pelvic Surgery Center](http://endowest.net/questions-to-ask-your-doctor/) has a list of questions to ask your doctor.
 * [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
+* [Must Ask Questions For Your Surgeon](https://endogirlblog.com/surgeonquestions/) from Endo Girls Blog can help you screen doctors. 
+* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
+* Center for Endometriosis Care is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
-* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
+
+
 
 ## Holistic Natural Approaches:
 
