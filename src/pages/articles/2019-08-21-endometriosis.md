@@ -163,13 +163,14 @@ Knowing the true place of hormonal contraceptives in the treatment of endometrio
 
 > Combined hormonal contraceptives  and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
-This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives decreased the recurrence of disease after surgery, but does not mean they provide this effect alone. \
+This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but does not mean they provide this effect alone. As [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
+
+> There was no evidence of benefit for post-surgical hormonal suppression of endometriosis compared to surgery alone for the outcomes of pain, disease recurrence or pregnancy rates (RR 0.84, 95% CI 0.59 to 1.18).
+
 \
 The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
 
-For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Dr. Isabella Wentz's explains  further in her article, [14 Ways Birth Control Pills Rob Us of Our Health. ](https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/)
-
-Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
+Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Dr. Isabella Wentz's, an expert in thyroid health, touches on this topic in her article, [14 Ways Birth Control Pills Rob Us of Our Health. ](https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/) Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
 
 The the newest hormonal medication, Orilissa/Elagolix, has received largely negative reviews. For example, [The Institute for Clinical and Economic Review's final report](https://icer-review.org/announcements/elagolix-final-report/) showed limitations in evidence on the long-term safety and effectiveness of Elagolix for Endometriosis.
 
@@ -179,9 +180,9 @@ An excerpt from [Elagolix for endometriosis: all that glitters is not gold](http
 
 > To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
-**Lupron**, a commonly used GnRH antagonist, was originally approved for treatment of advanced male prostate cancer. It's creator,  has been found guilty of
+**Lupron**, a commonly used GnRH antagonist, was originally approved for treatment of advanced male prostate cancer but is now commonly used in endometriosis care. It's creator,  Takeda-Abbott Pharmaceuticals which has dissolved into Abbvie, has been found guilty of [fraudulent drug prices](https://www.justice.gov/archive/opa/pr/2001/October/513civ.htm) and [marketing conduct](https://www.nytimes.com/2001/10/04/business/2-drug-makers-to-pay-875-million-to-settle-fraud-case.html) and was later reprimanded for not [investigating deaths](https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/) in association with several of its drugs, including Lupron. 
 
-Lupron also [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting side effects.  There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. 
+Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting [side effects](https://www.rxlist.com/lupron-side-effects-drug-center.htm#overview). There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. Patients have filed nearly 24,000 reports for adverse reaction from Lupron to the FDA. [The FDA](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/potential-signals-serious-risksnew-safety-information-identified-fda-adverse-event-reporting-system-15) deemed more than half of them serious cases.
 
 
 
@@ -199,15 +200,18 @@ For more details on specific treatment options check out Vital Health Endometrio
 
 ## Finding a Specialist:
 
-Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only 100-200 excision surgeons in practice worldwide. (womenssurgerycenter) What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a provider near you:
+Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a provider near you:
 
 * [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists
+* http://endometriosis.org/resources/articles/finding-a-specialist/
 
 https://www.facebook.com/EndometriosisSurgeon/
 
-https://endofendoproject.org/directory/listing/dr-andrea-vidali
+https://endofendoproject.org/physician-directory/
 
 https://www.endofound.org/preparing-to-see-a-doctor
+
+https://www.speakendo.com/endometriosis-resources/doctor-locator
 
 ## Holistic Natural Approach:
 
@@ -216,7 +220,6 @@ These resources provide insight on a whole body approach to wellness with dietar
 * [Dr. Jolene Brighten](https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/) is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her social media for daily women's health information. 
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
-* 
 
 ## Support:
 
@@ -224,4 +227,5 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 * [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
 * [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients 
-* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members
+* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members 
+* [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
