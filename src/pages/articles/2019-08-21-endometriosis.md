@@ -10,6 +10,7 @@ tags:
   - endometriosis
   - women's health
   - disease
+  - ''
 ---
 # What is Endometriosis? (this is H1, prevent this)
 
@@ -137,7 +138,7 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 >
 > \-ERC
 >
-> Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg -  despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
+> Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg- despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \-endofound.org
 
@@ -179,9 +180,11 @@ An excerpt from [Elagolix for endometriosis: all that glitters is not gold](http
 
 > To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
+Here is a searchable [database](http://www.fdable.com/basic_query/aers/7fa29a3fe647402fb0fdd36d2f64c00d) of FDA Adverse Event Cases for Elagolix. 
+
 **Lupron**, a GnRH antagonist, was originally approved for treatment of advanced male prostate cancer but is now commonly used in endometriosis care. It's creator, Takeda-Abbott Pharmaceuticals now part of AbbVie, has been found guilty of [fraudulent drug prices](https://www.justice.gov/archive/opa/pr/2001/October/513civ.htm) and [marketing conduct](https://www.nytimes.com/2001/10/04/business/2-drug-makers-to-pay-875-million-to-settle-fraud-case.html) and was later reprimanded for not [investigating deaths](https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/) in association with several of its drugs, including Lupron. 
 
-Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting [side effects](https://www.rxlist.com/lupron-side-effects-drug-center.htm#overview). There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. Patients have filed nearly 24,000 reports for adverse reaction from Lupron to the FDA. [The FDA](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/potential-signals-serious-risksnew-safety-information-identified-fda-adverse-event-reporting-system-15) deemed more than half of them serious cases and is evaluating it for regulatory actions.
+Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting [side effects](https://www.rxlist.com/lupron-side-effects-drug-center.htm#overview). There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. Patients have filed nearly 24,000 reports for adverse reaction from Lupron to the FDA. [The FDA](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/potential-signals-serious-risksnew-safety-information-identified-fda-adverse-event-reporting-system-15) deemed more than half of them serious cases and is evaluating it for regulatory actions. Here is a searchable [database](http://www.fdable.com/basic_query/aers/81dd978d5a329b02fb95fcb4bafd485b) of FDA Adverse Event Cases for Lupron. 
 
 **Alternative Therapies:**
 
@@ -215,6 +218,7 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
+* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about surgery. 
 
 ## Holistic Natural Approaches:
 
