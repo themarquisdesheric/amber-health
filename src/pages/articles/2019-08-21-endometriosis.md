@@ -127,7 +127,7 @@ This section provides information on the available endometriosis treatments with
 
 **Excision Surgery:** 
 
-Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care and has proven effective through years of clinical success and more recently clinical trails.
+LAPEX, Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care and has proven effective through years of clinical success and more recently clinical trails.
 
 > Minimally invasive laparoscopic excision surgery remains the gold standard for diagnosis and treatment, ideally performed in the specialty treatment setting or performed by an advanced surgeon.
 >
@@ -157,9 +157,9 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
-**Hormonal Contraceptives/ Oral Birth Control:**
+**Hormonal Contraceptives and Hormone Suppression:**
 
-Knowing the true place of hormonal contraceptive in the treament of endometriosis is important for a patient to know. Many providers will inaccurately present oral contraceptives to patients as a "treatment" for the actual disease mechanism and fail to inform them it is only symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+Knowing the true place of hormonal contraceptives in the treatment of endometriosis is imperative for a patient. Most providers will offer, mention, or suggest using hormonal suppression as treatment option but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" for the disease mechanism and fail to inform us it is only providing symptomatic suppression that can allow the disease to progress. A doctor should not believe all hormonal contraceptives work equally to manage the disease. Endo specialists agree hormonal contraceptives do not treat the disease, but can at times manage the symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives  and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
@@ -167,11 +167,11 @@ This means certain hormonal contraceptives work to relieve symptoms but have no 
 \
 The article [Continuous Amenorrhea May Be Insufficient to Stop the Progression of Colorectal Endometriosis](https://www.jmig.org/article/S1553-4650(16)30047-4/abstract) provides similar insights into the use of hormonal contraception for disease management. It "demonstrates the obvious progression of deep rectal endometriosis despite 4 years of continuous hormonal therapy." 
 
-For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. 
+For a deeper dive into the benefits and side effects of hormonal contraceptives, I would again suggest[ Dr. Jolene Brighten](https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/) and [Dr. Laura Briden](https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/) as top authorities on hormonal health and hormonal contraceptives. Hormonal contraceptives can cause intolerable, significantly negative side effects including stroke, Chron's Disease, and certain cancers. Side effects can last long after cessation of the medication. Dr. Isabella Wentz's explains  further in her article, [14 Ways Birth Control Pills Rob Us of Our Health. ](https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/)
 
 Endopedia.com discusses specific drugs, effectiveness, and side effects on their [site](http://endopaedia.info/treatment7.html).  
 
-To note [here](https://icer-review.org/announcements/elagolix-final-report/) is information on the newest hormonal medication, Orilissa/Elagolix:
+The the newest hormonal medication, Orilissa/Elagolix, has received largely negative reviews. For example, [The Institute for Clinical and Economic Review's final report](https://icer-review.org/announcements/elagolix-final-report/) showed limitations in evidence on the long-term safety and effectiveness of Elagolix for Endometriosis.
 
 > “While elagolix appears to offer short-term clinical benefits in terms of reduced pain and improved quality of life for women living with endometriosis, evidence is not yet sufficient to rule out the possibility that this therapy may pose long-term safety risks for patients,” noted Dan Ollendorf, PhD, ICER’s Chief Scientific Officer. “
 
@@ -179,7 +179,11 @@ An excerpt from [Elagolix for endometriosis: all that glitters is not gold](http
 
 > To date, the efficacy of elagolix has only been demonstrated in placebo-controlled explanatory trials. Pragmatic trials comparing elagolix with low-dose hormonal contraceptives and progestogens should be planned to verify the magnitude of the incremental benefit, if any, of this GnRH antagonist over currently used standard treatments.
 
-**Lupron**, a commonly used has a long history of significant and long lasting side effects.
+**Lupron**, a commonly used GnRH antagonist, was originally approved for treatment of advanced male prostate cancer. It's creator,  has been found guilty of
+
+Lupron also [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting side effects.  There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms including bone loss, memory loss, vision loss, and pain. 
+
+
 
 **Alternative Therapies:**
 
@@ -199,19 +203,25 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 
 * [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists
 
+https://www.facebook.com/EndometriosisSurgeon/
+
+https://endofendoproject.org/directory/listing/dr-andrea-vidali
+
 https://www.endofound.org/preparing-to-see-a-doctor
 
 ## Holistic Natural Approach:
 
-These resources provide insight on dietary and lifestyle changes that can aid in the healing process and a whole body approach when it comes to treatments.
+These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process.
 
 * [Dr. Jolene Brighten](https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/) is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her social media for daily women's health information. 
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
+* 
 
 ## Support:
 
-Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights.
+Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
 
 * [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
-* Aubrey Deemer's group
+* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients 
+* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members
