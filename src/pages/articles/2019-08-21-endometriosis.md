@@ -34,7 +34,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 >
 > \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
 
-## **What are the symptoms?(H2)**
+## **What are the symptoms?**
 
 * Pain with Menstruation
 * Pelvic Pain
@@ -57,35 +57,11 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 >
 > Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
 >
-> \-Gary, Ray (2005) [Laparoscopic excision of endometriosis: the treatment of choice?](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x) BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
+> \-Gary, Ray (2005). [Laparoscopic excision of endometriosis: the treatment of choice?](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x) BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
 >
 > While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 >
 > \-Vital Health Endometriosis Center 
-
-## **Online Resources**: (move to bottom of post)
-
-Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
-
-* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
-* [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
-* [Endometriosis Foundation of America](https://www.endofound.org/endometriosis-a-to-z) is a non profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
-* [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
-* [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
-* [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
-
-## Books:
-
-These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex disease. Use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
-
-* [Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
-* [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
-* [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
-* [Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know](https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574) by Andrew S. Cook MD FACOG and Robert Franklin MD
-* [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten
-* [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden 
-* [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein
-* [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
 
 ## What are the Potential Causes?
 
@@ -107,15 +83,13 @@ Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danm
 
 ## How is it Diagnosed?
 
-Due to prevailing myths and misinformation, providers are often not knowledgable about which diagnostic procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
+Due to prevailing myths and misinformation, providers are often not knowledgable about which procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
 
 > Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
 >
 > \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 >
 > **Laparoscopy & Pathology Report:**
->
->  
 >
 > The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
 >
@@ -125,7 +99,7 @@ Due to prevailing myths and misinformation, providers are often not knowledgable
 >
 > **The big issue at hand:** It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
 >
-> \-Endofound.org
+> \-Endofound.org, The Endometriosis Foundation of America (EndoFound)
 
 ## What are the Treatment options?
 
@@ -146,15 +120,13 @@ This section provides information on the available endometriosis treatments with
 >
 > [pacific center](https://pacificendometriosis.com/excision-of-endometriosis/)
 >
->
->
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg- despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
-> \-endofound.org
+> \-endofound.org, The Endometriosis Foundation of America (EndoFound)
 >
 > Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
 >
-> CEC
+> \-Center for Endometriosis Care
 
 **Other Surgeries:**
 
@@ -180,8 +152,7 @@ Knowing the true place of hormonal therapy in the treatment of endometriosis is 
 >
 > \
 >
->
-> -Center for Endometriosis Care
+> \-Center for Endometriosis Care
 
 Studies and endo specialists agree hormonal therapies do not treat the disease. At times, they can be used to manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
@@ -199,15 +170,7 @@ The newest hormonal drug, **Orilissa/Elagolix**, has received largely negative r
 
 > While elagolix appears to offer short-term clinical benefits in terms of reduced pain and improved quality of life for women living with endometriosis, evidence is not yet sufficient to rule out the possibility that this therapy may pose long-term safety risks for patients  
 >
-> \
->
->
->
->
-> \
->
->
-> -Dan Ollendorf, PhD, ICER’s Chief Scientific Officer. 
+> \-Dan Ollendorf, PhD, ICER’s Chief Scientific Officer. 
 
 An excerpt from [Elagolix for Endometriosis: all that glitters is not gold](https://www.ncbi.nlm.nih.gov/pubmed/30551159) says,
 
@@ -221,18 +184,20 @@ Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-wo
 
 **Alternative Therapies:**
 
-Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. ****Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. 
+Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Since all patients are difference, these methods will not be suitable or successful for everyone. 
 
-* Chinese Medicine
+* Physical Therapy
+* Diet and Nutrition
 * Acupuncture
 * Yoga
-* Physical therapy
-* Myofascial release Therapy
-* Exercise
-* Herbal therapy
-* Supplements
+* Chinese Medicine
+* Pelvic Floor Physical Therapy
 * Holistic, Integrative Medicine
-* Diet and lifestyle
+* Myofascial Release Therapy
+* Exercise
+* Herbal Therapy
+* Supplements
+* Meditation
 
 **Pain Management:** 
 
@@ -273,6 +238,30 @@ These resources provide insight on a whole body approach to wellness with dietar
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
 
+## **Online Resources**: 
+
+Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
+
+* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
+* [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
+* [Endometriosis Foundation of America](https://www.endofound.org/endometriosis-a-to-z) is a non profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
+* [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
+* [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
+* [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
+
+## Books:
+
+These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
+
+* [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
+* [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
+* [Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know](https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574) by Andrew S. Cook MD and Robert Franklin MD
+* [Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
+* [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten
+* [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden 
+* [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein
+* [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
+
 ## Support:
 
 Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
@@ -294,19 +283,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 > It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
 >
-> \
->
->
->
->
-> \
->
->
-> -
->
 > [CEC](http://centerforendo.com/endometriosis-understanding-a-complex-disease)
->
->
 
 * [Transgender Man Reveals Gender Bias in Health Care Before and After Transitioning](https://themighty.com/2018/05/transgender-man-health-care-gender-inequality/?utm_source=ChronicIllness_Page&utm_medium=Facebook&fbclid=IwAR0uCRHbGIGEJOhEzNrRHTCLyXL_eUO4aPIEFIXl7k0pZqdsX586W1OYOmk)
 * [Managing Endometriosis when You're Trans ](https://helloclue.com/articles/cycle-a-z/managing-endometriosis-when-you're-trans)
@@ -320,12 +297,12 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 
 
-
 * **Racial Bias in Medicine**
 * [Myths about physical racial differences were used to justify slavery — and are still believed by doctors today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
 * [Behind the times: revisiting endometriosis and race.](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
 
 
-****
 
-****
+- - -
+
+- - -
