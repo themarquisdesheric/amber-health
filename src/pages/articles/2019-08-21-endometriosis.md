@@ -33,6 +33,12 @@ tags:
 > Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
 >
 > \-Endometriosis Research Center 
+>
+> Characterized as the presence of endometrial-like tissue found in extrauterine sites – an important distinction! – the aberrant processes involved in endometriosis give rise to pain, inflammation, development of endometriomas (“chocolate cysts”), fibrosis, formation of adhesions (fibrous bands of dense tissue), organ dysfunction and more. Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules. cec
+>
+> Characterized as the presence of endometrial-like tissue found in extrauterine sites – an important distinction! – the aberrant processes involved in endometriosis give rise to pain, inflammation, development of endometriomas (“chocolate cysts”), fibrosis, formation of adhesions (fibrous bands of dense tissue), organ dysfunction and more. Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
+>
+> \- CEC
 
 ## **What are the symptoms?(H2)**
 
@@ -49,17 +55,15 @@ tags:
 * Bloating
 * Nausea and Vomiting
 * Fatigue
-* Possibly Comorbidities: Allergies, Migraines, and Asthma 
+* Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Disease](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
 
 > While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many women experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a woman during her period – while this may be the case for some women, for most patients the pain affects them both during and outside their period. 
 >
 > \-Vital Health Endometriosis Center 
 >
-> Endometriosis is much more than simple, so-called “killer cramps,” as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature
+> Endometriosis is much more than simple, so-called “killer cramps,” as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature.//Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
 >
-> \-center
->
->
+> \-centercec
 >
 > Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
 >
@@ -102,8 +106,18 @@ These books cover an array of information on the disease so I would suggest choo
 > No single theory explains endometriosis in all patients, particularly in males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
 >
 > \-Endometriosis Research Center
-
-**Include Center for endo care's list here, if allowed.**
+>
+>  Often called a “disease of theories”, the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and even certain menstrual characteristics exist. Current research implicates HOX genes, mesenchymal stem cells and certain immunologic factors in disease origin; nonetheless, no single theory explains endometriosis all those affected; more likely, a composite of several mechanisms is involved. 
+>
+> \
+>
+>
+> Despite the myriad of theories, no single assumption accounts for all cases in all those affected. It is likely that affected individuals are born with endometriosis and a combined number of multiple factors subsequently trigger the disease later in life.
+>
+> \
+>
+>
+> -CEC
 
 Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), discusses potential causes and theories and reviews over 200 articles on endometriosis. Dr. Martin states, "No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read."
 
@@ -130,7 +144,7 @@ Due to prevailing myths and misinformation patients and providers are often not 
 This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target the disease progression while others only address the symptoms. 
 
 * Surgery: Excision vs Ablation 
-* Hormonal Contraceptives or Suppression/ Hormonal Therapy?
+* Hormonal Therapy or Suppression
 * Alternative Therapies
 * Pain Management
 
@@ -138,7 +152,15 @@ We do believe, however, that multidisciplinary care combined with surgical excis
 
 Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
 
-\-center
+Quality surgery, alternative therapies, diet and nutrition, acupuncture, physical therapy and other adjunct treatments can all be helpful at effectively managing symptoms long term. 
+
+Surgery (in the proper hands), alternative therapies, diet and nutrition, acupuncture, physical therapy and other complementary treatments can all be helpful at effectively managing symptoms. 
+
+Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis including those less common such as subtle areas of peritoneal tension, atypical clear vesicles, extrapelvic endometriosis, etc. then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
+
+It is the well-established surgical component of a multidisciplinary approach to treating the disease.
+
+\-[center](http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis)
 
 **Excision Surgery:** 
 
@@ -146,7 +168,7 @@ Quality surgery - excision - is the cornerstone of successful treatment for endo
 >
 > [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
 
-**LAPEX**, 
+
 
 > Excision has been studied quite extensively, and many different studies from around the world have shown very consistent results. Redwine published his outcomes in 1991 after laparoscopic excision of endometriosis where he followed those patients for up to 7 years postop. About half had no further pain and no reasons for subsequent surgery, and the other half required another surgery for various indications- pain, bleeding, masses, etc. He showed a 57% cure rate in reoperated patients, and a 19% incidence of recurrence or persistence among all patients who underwent excision (this assumes no recurrences in the pain-free patients who didn’t have another surgery). Several other studies showed very similar results (Wheeler, Malinak; Varol et al). - 
 >
@@ -184,11 +206,13 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 **Hormonal Contraceptives and Hormone Therapy:**
 
+> In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has “no effect on adhesion of endometriotic cells and cannot improve fertility” \[Aznaurova et al.], and success of said therapies may be dependent on localization/type of lesions, with superficial peritoneal/ovarian disease responding better than deep/infiltrative disease. Still, despite evidence to the contrary, some providers prefer medical management and even “diagnosis” by adopting a strategy of ‘treat without seeing’ through medical suppression. cec
+
 Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, long acting progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease mechanism. They often fail to inform us that it may only provide symptomatic relief and that the disease will continue to progress. Studies and Endo specialists agree hormonal therapies do not treat the disease, but can at times manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
-This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. After reviewing 16 trails,  [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
+This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. However,  [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
 
 > There is no evidence of benefit associated with post surgical medical therapy and insufficient evidence to determine whether there is a benefit from pre-surgical medical therapy with regard to the outcomes evaluated.
 
@@ -231,6 +255,8 @@ Since severe and chronic pain are often symptoms of endometriosis, it's importan
 
 Pain management can include any method of therapy including medical, coping, and pain medications, over the counter and pharmaceuticals
 
+check vital health [treatments](https://www.vitalhealth.com/endometriosis-specialty-center/learn-about-endometriosis/endometriosis-treatment-options/)
+
 ## Finding a Specialist:
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
@@ -245,8 +271,6 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * Center for Endometriosis Care is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
-
-
 
 ## Holistic Natural Approaches:
 
