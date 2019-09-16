@@ -129,7 +129,7 @@ Due to prevailing myths and misinformation, providers are often not knowledge ab
 
 ## What are the Treatment options?
 
-This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target endometriosis while others address the symptoms. Specialist agree that a multidisciplinary approach to care is needed to address the many components and complexities of the disease. Only then can patients effectively manage symptoms long term.
+This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target endometriosis while others work to address the symptoms. Specialist agree that a multidisciplinary approach to care is needed to address the many components and complexities of the disease. Combining treatments may allow patients to effectively manage their symptoms long term.
 
 * Surgery: Excision vs Ablation 
 * Hormonal Therapy
@@ -138,41 +138,27 @@ This section provides information on the available endometriosis treatments with
 
 **Excision Surgery:** 
 
-> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment.  It simply means that there is no better treatment.  For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case.  Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
+> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case. Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 >
 > [\-Womenssurgerycentertn.com](https://womenssurgerycentertn.com/122.68/endometriosis-surgery)
-
-
-
-> Excision has been studied quite extensively, and many different studies from around the world have shown very consistent results. Redwine published his outcomes in 1991 after laparoscopic excision of endometriosis where he followed those patients for up to 7 years postop. About half had no further pain and no reasons for subsequent surgery, and the other half required another surgery for various indications- pain, bleeding, masses, etc. He showed a 57% cure rate in reoperated patients, and a 19% incidence of recurrence or persistence among all patients who underwent excision (this assumes no recurrences in the pain-free patients who didn’t have another surgery). Several other studies showed very similar results (Wheeler, Malinak; Varol et al). - 
+>
+> Excision has been studied quite extensively, and many different studies from around the world have shown very consistent results. Redwine published his outcomes in 1991 after laparoscopic excision of endometriosis where he followed those patients for up to 7 years postop. About half had no further pain and no reasons for subsequent surgery, and the other half required another surgery for various indications- pain, bleeding, masses, etc. He showed a 57% cure rate in reoperated patients, and a 19% incidence of recurrence or persistence among all patients who underwent excision (this assumes no recurrences in the pain-free patients who didn’t have another surgery). Several other studies showed very similar results. - 
 >
 > [pacific center](https://pacificendometriosis.com/excision-of-endometriosis/)
 >
 >
-
-
-
-Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic excision of endometriosis has become the standard of surgical care and has proven effective through years of clinical success and more recently clinical trails.
-
-> Minimally invasive laparoscopic excision surgery remains the gold standard for diagnosis and treatment, ideally performed in the specialty treatment setting or performed by an advanced surgeon.
->
-> \-ERC
 >
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg- despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \-endofound.org
 >
->
->
 > Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
->
-> Quality surgery, alternative therapies, diet and nutrition, acupuncture, physical therapy and other adjunct treatments can all be helpful at effectively managing symptoms long term. 
 >
 > CEC
 
 **Other Surgeries:**
 
-> To reiterate, other types of surgery include ablation or cauterization. Both of these only remove the tissue on the surface but neglect the tissue growing beneath the surface. In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. Excess scar tissue can also form using these methods due to the high energy and heat applied to surrounding healthy tissue. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
+> Other types of surgery include ablation or cauterization. Both of these only remove the tissue on the surface but neglect the tissue growing beneath the surface. In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. Excess scar tissue can also form using these methods due to the high energy and heat applied to surrounding healthy tissue. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
 >
 > \-endofound.org
 
@@ -188,20 +174,20 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 **Hormonal Contraceptives and Hormone Therapy:**
 
-Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, long acting progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease mechanism. They often fail to inform us that it may only provide symptomatic relief and that the disease will continue to progress.
+Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease growth. Too often they fail to inform us that hormone therapy may only provide symptomatic relief and that the disease will continue to progress.
 
-> In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has 'no effect on adhesion of endometriotic cells and cannot improve fertility', and success of said therapies may be dependent on localization/type of lesions, with superficial peritoneal/ovarian disease responding better than deep/infiltrative disease. Still, despite evidence to the contrary, some providers prefer medical management and even “diagnosis” by adopting a strategy of ‘treat without seeing’ through medical suppression. 
+> In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has 'no effect on adhesion of endometriotic cells and cannot improve fertility', and success of said therapies may be dependent on localization/type of lesions, with superficial peritoneal/ovarian disease responding better than deep/infiltrative disease. 
 >
 > \
 >
 >
 > -cec
 
-Studies and Endo specialists agree hormonal therapies do not treat the disease, but can at times manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+Studies and endo specialists agree hormonal therapies do not treat the disease. At times, they can be used to manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
-This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis itself. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. However,  [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
+This means certain hormonal contraceptives work to relieve symptoms but have no impact on the disease progression and should not be used to target endometriosis. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. However,  [The Cochrane Library](https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit) found,
 
 > There is no evidence of benefit associated with post surgical medical therapy and insufficient evidence to determine whether there is a benefit from pre-surgical medical therapy with regard to the outcomes evaluated.
 
