@@ -40,6 +40,8 @@ tags:
 >
 > \- CEC
 
+Ignorance is not bliss when it comes to medicine. Being truly informed about endometriosis and its treatment options are the only way to give informed consent in a medical setting. Unfortunately, endometriosis is shrouded in myths, edical dogma, gender bias, and misinformation. 
+
 ## **What are the symptoms?(H2)**
 
 * Pain with Menstruation
@@ -69,9 +71,9 @@ tags:
 >
 > \-[wiley](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x)
 
-## **Online Resources**:
+## **Online Resources**: (move to bottom of post)
 
-Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered health language. I will always use inclusive language on my site, unless I am citing a quote._:
+Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site, unless I am citing a quote._:
 
 * [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
 * [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
@@ -272,6 +274,12 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
 
+**Advocating for your health needs (H2?? wont work)**
+
+****
+
+****
+
 ## Holistic Natural Approaches:
 
 These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process.
@@ -294,8 +302,9 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 ## More Resources:
 
 * Phendo
-* Racial
-* Trans and Non binary care
+* Racial Bias
+* Gender Baias ?
+* Inclusive Care and Language: Trans and Non binary individuals
 
 > the disease can and does impact menstruators and non-menstruators alike – including rare cis males, post-hysterectomy/menopause and before menarche. It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Endometriosis has also been documented in the human fetus, and is extremely common in teens – though often dismissed, ignored and under-diagnosed due to stigma and lack of awareness. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
 >
