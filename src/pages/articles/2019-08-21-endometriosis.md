@@ -290,3 +290,15 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
 * [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease.
+
+## More Resources:
+
+* Phendo
+* Racial
+* Trans and Non binary care
+
+> the disease can and does impact menstruators and non-menstruators alike – including rare cis males, post-hysterectomy/menopause and before menarche. It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Endometriosis has also been documented in the human fetus, and is extremely common in teens – though often dismissed, ignored and under-diagnosed due to stigma and lack of awareness. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
+>
+> [CEC](http://centerforendo.com/endometriosis-understanding-a-complex-disease)
+>
+>
