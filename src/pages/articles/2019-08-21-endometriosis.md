@@ -184,7 +184,7 @@ Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-wo
 
 **Alternative Therapies:**
 
-Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Since all patients are difference, these methods will not be suitable or successful for everyone. 
+Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Since all patients are different, these methods may not be suitable or successful for everyone. 
 
 * Physical Therapy
 * Diet and Nutrition
@@ -201,19 +201,16 @@ Endo specialists agree a multidisciplinary approach is needed for disease manage
 
 **Pain Management:** 
 
-Since severe and chronic pain can be a debilitating symptom of endometriosis, it's important to find methods that work to stop or reduce it and ways to cope. Pain management can include a wide range of therapies that the patient can cater to their needs.
+Since severe and chronic pain can be a debilitating symptom of endometriosis, it's important to find treatment methods that work and ways to cope. Pain management can include a wide range of therapies that the patient can cater to their individual needs. Since no two patient cases are identical, they may have varying success with these methods.
 
-Pain Medication, , over the counter and pharmaceuticals
-
-Herbal Treatments
-
-Yoga
-
-Exercise 
-
- medical, coping, and pain medications
-
-check vital health [treatments](https://www.vitalhealth.com/endometriosis-specialty-center/learn-about-endometriosis/endometriosis-treatment-options/)
+* Pain Medication, over the counter and pharmaceuticals
+* Herbal Treatments
+* Yoga
+* Exercise 
+* Meditation
+* Massage
+* Acupuncture 
+* Therapy 
 
 ## Finding a Specialist:
 
