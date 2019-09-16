@@ -32,7 +32,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 >
 > Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
 >
-> \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. 2016, 15, 2, 572-584. 
+> \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
 
 ## **What are the symptoms?(H2)**
 
@@ -65,7 +65,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 ## **Online Resources**: (move to bottom of post)
 
-Here are trusted informational online resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site, unless I am citing a quote._:
+Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
 
 * [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
 * [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
@@ -76,7 +76,7 @@ Here are trusted informational online resources that explain the definition, the
 
 ## Books:
 
-These books cover an array of information on the disease so I would suggest choosing the topics most relevant to your case. When possible, read as many as you can to expand your understanding of this complex disease. Use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
+These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex disease. Use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
 * [Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
 * [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
@@ -91,43 +91,37 @@ These books cover an array of information on the disease so I would suggest choo
 
 > Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
 >
-> * Retrograde menstruation – Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
-> * Immunologic dysfunction – a 'broken' immune system allows for implantation of menstrual debris
-> * Stem Cells – have been demonstrated to populate lesions, even in absence of menstruation
-> * Genetics – a 7-10 fold risk exists in those whose mother or relative has disease
-> * Environmental Toxins – can cause cell changes which allow for implantation and errant immune response
+> * Retrograde menstruation– Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
+> * Immunologic dysfunction– a 'broken' immune system allows for implantation of menstrual debris
+> * Stem Cells– have been demonstrated to populate lesions, even in absence of menstruation
+> * Genetics– a 7-10 fold risk exists in those whose mother or relative has disease
+> * Environmental Toxins– can cause cell changes which allow for implantation and errant immune response
 >
-> No single theory explains endometriosis in all patients, particularly in males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
+> No single theory explains endometriosis in all patients, particularly in (cis) males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
 >
 > \-Endometriosis Research Center
->
->  Often called a “disease of theories”, the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and even certain menstrual characteristics exist. Current research implicates HOX genes, mesenchymal stem cells and certain immunologic factors in disease origin; nonetheless, no single theory explains endometriosis all those affected; more likely, a composite of several mechanisms is involved. 
->
-> \
->
->
-> Despite the myriad of theories, no single assumption accounts for all cases in all those affected. It is likely that affected individuals are born with endometriosis and a combined number of multiple factors subsequently trigger the disease later in life.
->
-> \
->
->
-> -CEC
 
-Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), discusses potential causes and theories and reviews over 200 articles on endometriosis. Dr. Martin states, "No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read."
+Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), reviews over 200 articles on endometriosis. Dr. Martin found, 
+
+> No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read.
 
 ## What are the Diagnostic Options?
 
-Due to prevailing myths and misinformation patients and providers are often not knowledge about which diagnostic procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
+Due to prevailing myths and misinformation, providers are often not knowledge about which diagnostic procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
 
 > Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
 >
 > \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 >
-> **Laparoscopy & Pathology Report:** The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
+> **Laparoscopy & Pathology Report:**
+>
+>  
+>
+> The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
 >
 > **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
 >
-> I**maging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
+> **Imaging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
 >
 > **The big issue at hand:** It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
 >
@@ -135,26 +129,12 @@ Due to prevailing myths and misinformation patients and providers are often not 
 
 ## What are the Treatment options?
 
-This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target the disease progression while others only address the symptoms. 
+This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target endometriosis while others address the symptoms. Specialist agree that a multidisciplinary approach to care is needed to address the many components and complexities of the disease. Only then can patients effectively manage symptoms long term.
 
 * Surgery: Excision vs Ablation 
-* Hormonal Therapy or Suppression
+* Hormonal Therapy
 * Alternative Therapies
 * Pain Management
-
-We do believe, however, that multidisciplinary care combined with surgical excision as the cornerstone can facilitate a successful approach to living well in spite of endometriosis; i.e. nutrition, physical therapy and more. 
-
-Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
-
-Quality surgery, alternative therapies, diet and nutrition, acupuncture, physical therapy and other adjunct treatments can all be helpful at effectively managing symptoms long term. 
-
-Surgery (in the proper hands), alternative therapies, diet and nutrition, acupuncture, physical therapy and other complementary treatments can all be helpful at effectively managing symptoms. 
-
-Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis including those less common such as subtle areas of peritoneal tension, atypical clear vesicles, extrapelvic endometriosis, etc. then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
-
-It is the well-established surgical component of a multidisciplinary approach to treating the disease.
-
-\-[center](http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis)
 
 **Excision Surgery:** 
 
@@ -181,6 +161,14 @@ Dr. Redwine's [approach](http://endopaedia.info/treatment.html) to laparoscopic 
 > Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg- despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 >
 > \-endofound.org
+>
+>
+>
+> Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
+>
+> Quality surgery, alternative therapies, diet and nutrition, acupuncture, physical therapy and other adjunct treatments can all be helpful at effectively managing symptoms long term. 
+>
+> CEC
 
 **Other Surgeries:**
 
