@@ -238,7 +238,7 @@ Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-wo
 
 **Alternative Therapies:**
 
-Alternative therapies can include various methods be aimed at mitigating symptoms, stress reduction, and disease management. Do not let the term alternative dissuade you from the importance and effectiveness of treatments outside of the traditional surgery and pharmaceuticals options. 
+Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Do not let the term alternative dissuade you from the importance and effectiveness of treatments in adjunct to or without surgery and pharmaceuticals options. **Endo doctors agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out other doctors and specialists to widen the approach.**
 
 * Chinese Medicine
 * Acupuncture
@@ -282,11 +282,11 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 
 ## Holistic Natural Approaches:
 
-These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process.
+These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
 
 * [Dr. Jolene Brighten](https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/) is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her [IG](https://www.instagram.com/drjolenebrighten/?hl=en) for daily information and advice. 
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
-* [Endo Empowered](https://www.endoempowered.com/) offers a holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
+* [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
 
 ## Support:
 
@@ -297,11 +297,11 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
 * [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
-* [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease.
 
 ## More Resources:
 
 * Phendo
+* [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease. It've available for public screening.
 * Racial Bias
 * Gender Baias ?
 * Inclusive Care and Language: Trans and Non binary individuals
