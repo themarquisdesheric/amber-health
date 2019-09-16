@@ -235,7 +235,7 @@ These resources provide insight on a whole body approach to wellness with dietar
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
 
-## **Online Resources**: 
+## **Online Resources**:
 
 Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
 
@@ -278,9 +278,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 * **Inclusive Care and Language: Trans and Non-binary Patients**
 
-> It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
->
-> [CEC](http://centerforendo.com/endometriosis-understanding-a-complex-disease)
+> It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. -[CEC](http://centerforendo.com/endometriosis-understanding-a-complex-disease)
 
 * [Transgender Man Reveals Gender Bias in Health Care Before and After Transitioning](https://themighty.com/2018/05/transgender-man-health-care-gender-inequality/?utm_source=ChronicIllness_Page&utm_medium=Facebook&fbclid=IwAR0uCRHbGIGEJOhEzNrRHTCLyXL_eUO4aPIEFIXl7k0pZqdsX586W1OYOmk)
 * [Managing Endometriosis when You're Trans ](https://helloclue.com/articles/cycle-a-z/managing-endometriosis-when-you're-trans)
@@ -297,9 +295,3 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * **Racial Bias in Medicine**
 * [Myths about physical racial differences were used to justify slavery — and are still believed by doctors today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
 * [Behind the times: revisiting endometriosis and race.](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
-
-
-
-- - -
-
-- - -
