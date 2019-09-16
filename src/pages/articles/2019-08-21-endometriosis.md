@@ -2,9 +2,9 @@
 templateKey: article
 title: Endometriosis 101
 date: 2016-12-17T15:04:10.000Z
-description: >
+description: >-
   What to learn when you’re first diagnosed and where to find accurate
-  information 
+  information
 featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
@@ -12,35 +12,27 @@ tags:
   - disease
   - ''
 ---
+Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This article and site are dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
+
 # What is Endometriosis? (this is H1, prevent this)
 
-> Endometriosis is a condition in which tissue _similar_ to the lining inside the uterus (called “the endometrium”), is found _outside_ the uterus, where it induces a chronic inflammatory reaction that may result in scar tissue.  It is primarily found on the pelvic peritoneum, on the ovaries, in the recto-vaginal septum, on the bladder, and bowel. **(NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)**
->
-> **\- Endometriosis.org (should this also be a link? prob not since I am linking to each of these site down below in Online Resources.)**
->
-> Endometriosis is a condition where tissue that is _somewhat similar_ to the lining of the uterus (the endometrium) is found _outside the uterus_ where it does not belong. This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. The disease itself and the inflammatory response to the disease can cause the patient severe pelvic pain. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
->
-> \-Vital Health Endometriosis Center
->
-> Endometriosis is a puzzling disease that affects our hormones, our immune system (the system that fights germs and cancer), and the digestive tract (the system involved in the breakdown and absorption of our food).
->
-> \-The Endometriosis Association
->
-> Endometriosis is a prevalent health condition in women of reproductive age characterized by ectopic growth of endometrial-like tissue in the extrauterine environment. Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
->
-> \-Kasvandik, Sergo (2015). Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells. J. Proteome Res. 2016, 15, 2, 572-584. https://doi.org/10.1021/acs.jproteome.5b00965
->
 > Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
 >
 > \-Endometriosis Research Center 
 >
-> Characterized as the presence of endometrial-like tissue found in extrauterine sites – an important distinction! – the aberrant processes involved in endometriosis give rise to pain, inflammation, development of endometriomas (“chocolate cysts”), fibrosis, formation of adhesions (fibrous bands of dense tissue), organ dysfunction and more. Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules. cec
+> **(NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)**
 >
-> Characterized as the presence of endometrial-like tissue found in extrauterine sites – an important distinction! – the aberrant processes involved in endometriosis give rise to pain, inflammation, development of endometriomas (“chocolate cysts”), fibrosis, formation of adhesions (fibrous bands of dense tissue), organ dysfunction and more. Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
+> This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
 >
-> \- CEC
-
-Ignorance is not bliss when it comes to medicine. Being truly informed about endometriosis and its treatment options are the only way to give informed consent in a medical setting. Unfortunately, endometriosis is shrouded in myths, edical dogma, gender bias, and misinformation. 
+> \-Vital Health Endometriosis Center
+>
+> Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
+>
+> \- Center for Endometriosis Care
+>
+> Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
+>
+> \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. 2016, 15, 2, 572-584. 
 
 ## **What are the symptoms?(H2)**
 
@@ -59,17 +51,17 @@ Ignorance is not bliss when it comes to medicine. Being truly informed about end
 * Fatigue
 * Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Disease](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
 
-> While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many women experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a woman during her period – while this may be the case for some women, for most patients the pain affects them both during and outside their period. 
+> Endometriosis is much more than simple, so-called 'killer cramps,' as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature. Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
 >
-> \-Vital Health Endometriosis Center 
->
-> Endometriosis is much more than simple, so-called “killer cramps,” as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature.//Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
->
-> \-centercec
+> \-Center for Endometriosis Care
 >
 > Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
 >
-> \-[wiley](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x)
+> \-Gary, Ray (2005) [Laparoscopic excision of endometriosis: the treatment of choice?](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x) BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
+>
+> While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
+>
+> \-Vital Health Endometriosis Center 
 
 ## **Online Resources**: (move to bottom of post)
 
@@ -208,9 +200,16 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 **Hormonal Contraceptives and Hormone Therapy:**
 
-> In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has “no effect on adhesion of endometriotic cells and cannot improve fertility” \[Aznaurova et al.], and success of said therapies may be dependent on localization/type of lesions, with superficial peritoneal/ovarian disease responding better than deep/infiltrative disease. Still, despite evidence to the contrary, some providers prefer medical management and even “diagnosis” by adopting a strategy of ‘treat without seeing’ through medical suppression. cec
+Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, long acting progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease mechanism. They often fail to inform us that it may only provide symptomatic relief and that the disease will continue to progress.
 
-Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, long acting progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease mechanism. They often fail to inform us that it may only provide symptomatic relief and that the disease will continue to progress. Studies and Endo specialists agree hormonal therapies do not treat the disease, but can at times manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
+> In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has 'no effect on adhesion of endometriotic cells and cannot improve fertility', and success of said therapies may be dependent on localization/type of lesions, with superficial peritoneal/ovarian disease responding better than deep/infiltrative disease. Still, despite evidence to the contrary, some providers prefer medical management and even “diagnosis” by adopting a strategy of ‘treat without seeing’ through medical suppression. 
+>
+> \
+>
+>
+> -cec
+
+Studies and Endo specialists agree hormonal therapies do not treat the disease, but can at times manage certain symptoms until proper intervention or relief can be attained. An eye opening review and one I mention to all of my doctors is [Hormonal Contraception in Women with Endometriosis: a Systematic Review](https://www.ncbi.nlm.nih.gov/pubmed/30664383). The authors found, 
 
 > Combined hormonal contraceptives and progestin-only contraceptives are effective for the relief of endometriosis-related dysmenorrhoea, pelvic pain and dyspareunia, and improve Quality of Life. Some combined oral contraceptives decreased the risk of disease recurrence after conservative surgery, but progestin-only contraceptives did not. There is insufficient evidence, however, to reach definitive conclusions about the overall superiority of any particular hormonal contraceptive.
 
