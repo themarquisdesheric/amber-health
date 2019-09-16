@@ -270,15 +270,9 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
 * [Must Ask Questions For Your Surgeon](https://endogirlblog.com/surgeonquestions/) from Endo Girls Blog can help you screen doctors. 
 * [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
-* Center for Endometriosis Care is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
+* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
-
-**Advocating for your health needs (H2?? wont work)**
-
-****
-
-****
 
 ## Holistic Natural Approaches:
 
@@ -300,14 +294,47 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 ## More Resources:
 
-* Phendo
+* [Phendo](http://citizenendo.org/phendo/) is a multipurpose app that allows patients to track their symptoms, meds, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to [begin phenotyping the disease](https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY). It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endo patient.
 * [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease. It've available for public screening.
-* Racial Bias
-* Gender Baias ?
-* Inclusive Care and Language: Trans and Non binary individuals
 
-> the disease can and does impact menstruators and non-menstruators alike – including rare cis males, post-hysterectomy/menopause and before menarche. It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Endometriosis has also been documented in the human fetus, and is extremely common in teens – though often dismissed, ignored and under-diagnosed due to stigma and lack of awareness. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
+
+
+* **Inclusive Care and Language: Trans and Non-binary Patients**
+
+> It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> -
 >
 > [CEC](http://centerforendo.com/endometriosis-understanding-a-complex-disease)
 >
 >
+
+* [Transgender Man Reveals Gender Bias in Health Care Before and After Transitioning](https://themighty.com/2018/05/transgender-man-health-care-gender-inequality/?utm_source=ChronicIllness_Page&utm_medium=Facebook&fbclid=IwAR0uCRHbGIGEJOhEzNrRHTCLyXL_eUO4aPIEFIXl7k0pZqdsX586W1OYOmk)
+* [Managing Endometriosis when You're Trans ](https://helloclue.com/articles/cycle-a-z/managing-endometriosis-when-you're-trans)
+
+
+
+* **Gender Bias in Medicine** 
+* [The invisible woman? The challenge at the doctor's office every woman needs to know about](https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ)
+* [Why don't doctors trust women? Because they don't know much about us](https://www.theguardian.com/books/2019/sep/02/why-dont-doctors-trust-women-because-they-dont-know-much-about-us?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR3p5w0mFRxXnpkeJP7WGxRYnxB3VZmlTxYNcf5cqOChmFiRVvRSKPQe5Ww#Echobox=1567383798)
+* [Doing Harm](https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809) by Maya Dusenbery
+
+
+
+
+* **Racial Bias in Medicine**
+* [Myths about physical racial differences were used to justify slavery — and are still believed by doctors today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
+* [Behind the times: revisiting endometriosis and race.](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
+
+
+****
+
+****
