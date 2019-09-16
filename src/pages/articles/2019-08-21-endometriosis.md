@@ -105,9 +105,9 @@ Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danm
 
 > No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read.
 
-## What are the Diagnostic Options?
+## How is it Diagnosed?
 
-Due to prevailing myths and misinformation, providers are often not knowledge about which diagnostic procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
+Due to prevailing myths and misinformation, providers are often not knowledgable about which diagnostic procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
 
 > Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
 >
