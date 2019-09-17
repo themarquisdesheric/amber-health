@@ -10,7 +10,6 @@ tags:
   - endometriosis
   - women's health
   - disease
-  - ''
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This article and site are dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
@@ -34,7 +33,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 >
 > \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
 
-## **What are the symptoms?**
+## **What are the Symptoms?**
 
 * Pain with Menstruation
 * Pelvic Pain
@@ -89,9 +88,7 @@ Due to prevailing myths and misinformation, providers are often not knowledgable
 >
 > \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 >
-> **Laparoscopy & Pathology Report:**
->
-> The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
+> **Laparoscopy & Pathology Report:** The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
 >
 > **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
 >
@@ -110,7 +107,7 @@ This section provides information on the available endometriosis treatments with
 * Alternative Therapies
 * Pain Management
 
-**Excision Surgery:** 
+**Excision Surgery**
 
 > In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case. Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 >
@@ -128,7 +125,7 @@ This section provides information on the available endometriosis treatments with
 >
 > \-Center for Endometriosis Care
 
-**Other Surgeries:**
+**Other Surgeries**
 
 > Other types of surgery include ablation or cauterization. Both of these only remove the tissue on the surface but neglect the tissue growing beneath the surface. In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. Excess scar tissue can also form using these methods due to the high energy and heat applied to surrounding healthy tissue. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
 >
@@ -144,7 +141,7 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
-**Hormonal Contraceptives and Hormone Therapy:**
+**Hormonal Contraceptives and Hormone Therapy**
 
 Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease growth. Too often they fail to inform us that hormone therapy may only provide symptomatic relief and that the disease will continue to progress.
 
@@ -180,7 +177,7 @@ Here is a searchable [database](http://www.fdable.com/basic_query/aers/7fa29a3fe
 
 Lupron [has a controversial history](https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892) of significant and long lasting [side effects](https://www.rxlist.com/lupron-side-effects-drug-center.htm#overview). There have been numerous [lawsuits](https://www.lupronvictimshub.com/lawsuits.html) launched by patients who claim the drug is responsible for a wide range of chronic symptoms, including bone loss, memory loss, vision loss, and pain. Patients have filed nearly 24,000 reports for adverse reaction from Lupron to the FDA. [The FDA](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/potential-signals-serious-risksnew-safety-information-identified-fda-adverse-event-reporting-system-15) deemed more than half of them serious cases and is evaluating it for regulatory actions. Here is a searchable [database](http://www.fdable.com/basic_query/aers/81dd978d5a329b02fb95fcb4bafd485b) of FDA Adverse Event Cases for Lupron. 
 
-**Alternative Therapies:**
+**Alternative Therapies**
 
 Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Since all patients are different, these methods may not be suitable or successful for everyone. 
 
@@ -195,7 +192,7 @@ Endo specialists agree a multidisciplinary approach is needed for disease manage
 * Herbal Therapy
 * Meditation
 
-**Pain Management:** 
+**Pain Management**
 
 Since severe and chronic pain can be a debilitating symptom of endometriosis, it's important to find treatment methods that work and ways to cope. Pain management can include a wide range of therapies that the patient can cater to their individual needs. Since no two patient cases are identical, they may have varying success with these methods.
 
@@ -208,7 +205,7 @@ Since severe and chronic pain can be a debilitating symptom of endometriosis, it
 * Therapy 
 * Meditation
 
-## Finding a Specialist:
+## Finding a Specialist
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
 
@@ -223,7 +220,7 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
 
-## Holistic Natural Approaches:
+## Holistic Natural Approaches
 
 These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
 
@@ -231,7 +228,7 @@ These resources provide insight on a whole body approach to wellness with dietar
 * [Dr. Laura Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
 
-## **Online Resources**:
+## **Online Resources**
 
 Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
 
@@ -242,7 +239,7 @@ Here are trusted informational resources that explain the definition, theorized 
 * [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
 * [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
 
-## Books:
+## Books
 
 These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
@@ -255,7 +252,7 @@ These books cover an array of information on endometriosis including diet, nutri
 * [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein DPT
 * [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
 
-## Support:
+## Support
 
 Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
 
@@ -265,13 +262,11 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
 
-## More Resources:
+## More Resources
 
 * [Phendo](http://citizenendo.org/phendo/) is a multipurpose app that allows patients to track their symptoms, meds, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to [begin phenotyping the disease](https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY). It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endo patient.
 * [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease. It've available for public screening.
 * [Your Pace Yoga](https://yourpaceyoga.com/) offers yoga programs for endometriosis and pelvic pain by Dustienne Miller CYT, PT, MS, WCS. 
-
-
 
 **Inclusive Care and Language: Trans and Non-binary Patients**
 
@@ -282,16 +277,12 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Transgender Man Reveals Gender Bias in Health Care Before and After Transitioning](https://themighty.com/2018/05/transgender-man-health-care-gender-inequality/?utm_source=ChronicIllness_Page&utm_medium=Facebook&fbclid=IwAR0uCRHbGIGEJOhEzNrRHTCLyXL_eUO4aPIEFIXl7k0pZqdsX586W1OYOmk)
 * [Managing Endometriosis when You're Trans ](https://helloclue.com/articles/cycle-a-z/managing-endometriosis-when-you're-trans)
 
-
-
 **Gender Bias in Medicine** 
 
 * [Pain Bias: The Health Inequality Rarely Discussed](http://www.bbc.com/future/story/20180518-the-inequality-in-how-women-are-treated-for-pain)
 * [The Invisible Woman? The Challenge at the Doctor's Office Every Woman Needs to Know About](https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ)
 * [Why Don't Doctors Trust Women? Because They Don't Know Much About Us](https://www.theguardian.com/books/2019/sep/02/why-dont-doctors-trust-women-because-they-dont-know-much-about-us?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR3p5w0mFRxXnpkeJP7WGxRYnxB3VZmlTxYNcf5cqOChmFiRVvRSKPQe5Ww#Echobox=1567383798)
 * [Doing Harm](https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809) by Maya Dusenbery
-
-
 
 **Racial Bias in Medicine**
 
