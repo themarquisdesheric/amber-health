@@ -27,28 +27,55 @@ If you'd like to learn more about endometriosis, please visit my article, **Endo
 >
 > -Endometriosis Research Center
 
-Below is a list of endometriosis books. These books cover an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, and more. I've provided reviews for the ones that I have read. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
+Below is a list of endometriosis books. These books cover an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, and more. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
-## Endometriosis Books:
+## Endometriosis Books
 
-**A Multidisciplinary Approach** 
+**Disease Overview**
 
-* ****[Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
+* ****[Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch- This informational, multidisciplinary approached book was written by leading endo specialists, Amy Stein PT, and Dr. Iris Orbuch. These healthcare professionals provide their clinical expertise through a whole mind/body approach, including diet, physical therapy, excision surgery, and mindfulness. Personally, I found the bulk of information to align with endo specialists and current studies which makes it a very valuable resource. However, It does lack inclusive language, comes from a privileged perspective, and makes light of the serious side effects of hormonal contraceptives and birth control. I would still recommend this since there are so few comprehensive books on endo but bear in mind its major shortcomings. 
+* [The Endo Patient’s Survival Guide: A Patient’s Guide to Endometriosis & Chronic Pelvic Pain ](https://www.amazon.com/Endo-Patients-Survival-Guide-Endometriosis/dp/0984953515/ref=sr_1_18?keywords=endometriosis+book&qid=1568750801&sr=8-18)by Andrew S. Cook MD, FACOG- The patient’s essential companion to living with and overcoming endometriosis and pelvic pain: from seeking help and getting an initial diagnosis, to navigating treatment options, and achieving optimal relief and wellness.
+* [Living Well with Endometriosis: What Your Doctor Doesn't Tell You...That You Need to Know](https://www.amazon.com/Living-Well-Endometriosis-Doctor-Collins/dp/0060844264) by Kerry-Ann Morris is a complete guide to the side–effects and treatments – both conventional and alternative – for endometriosis, from a respected name in the field who also suffers from endometriosis.
+* [The Doctor Will See You Now: Recognizing and Treating Endometriosis](https://www.amazon.com/Doctor-Will-See-You-Endometriosis/dp/1681621126) by Tamer Seckin MD. This comprehensive text hopes to raise awareness among other physicians and among general readers, particularly patients who will now have the knowledge necessary to become powerful self-advocates.
+* [Googling Endometriosis: The lost centuries](https://www.amazon.com/Googling-Endometriosis-centuries-David-Redwine/dp/1478321008) by David B. Redwine, M.D.- Dr. Redwine is an internationally recognized as an expert in the diagnosis and surgical treatment of endometriosis. This comprehensive history of endometriosis spans from 1825 BC to 1899 AD, supplying an unsurpassed history of the eras which have not been previously investigated.
 
-**Surgery**
+
+
+**Patient's Perspective**
+
+* [Private Parts: How To Really Live With Endometriosis](https://www.amazon.com/Private-Parts-Really-Live-Endometriosis/dp/1473687551) by Eleanor Thom- Part memoir, part guide book and part survival guide, Private Parts retraces Eleanor's own journey with endometriosis, offering readers practical, down-to-earth and friendly advice covering everything from what actually happens in an internal exam to finding the right specialist for you.
+* [Alone in the Crowd - Living Well with Endometriosis](https://www.amazon.com/Alone-Crowd-Living-Well-Endometriosis/dp/0996148620) by Ania G- Psychologist, Certified Holistic Heath Counselor, Endo patient, and Chernobyl survivor, Ania writes of her personal journey with endometriosis and how she developed various holistic and medical methods of dealing with the disease.
+* [Endometriosis: it's not in your head, it's in your pelvis](https://www.amazon.com/Endometriosis-its-your-head-pelvis/dp/1732395144/ref=sr_1_12_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwODgwMDM0MUlPOFBQRTVLTVQwUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) by Bethany Stahl- Written by an endo patient, Bethany Stahl, shares her insights into navigating healthcare, choosing a doctor, and being chronically ill. The books includes a symptom checklist, surgery checklist, and examples of the financial cost of endometriosis. 
+
+****
+
+**Surgery** 
 
 * [Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know](https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574) by Andrew S. Cook MD and Robert Franklin MD
 
 **Nutrition and Diet**
 
 * [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
-* The Endometriosis Natural Treatment Program: A Complete Self-Help Plan for Improving Health and Well-Being
+
+
+
 * One Part Plant: A Simple Guide to Eating Real, One Meal at a Time
+* [Whole New You: How Real Food Transforms Your Life, for a Healthier, More Gorgeous You: A Cookbook](https://www.amazon.com/Whole-New-You-Transforms-Healthier/dp/1101967358) by Tia Mowry - This cookbook draws on the latest research on whole plant foods, inflammation, and gut flora, to create a diet that can reduce pain and symptoms of endometriosis. 
+
+**Natural Approaches**
+
+* [The Endometriosis Natural Treatment Program: A Complete Self-Help Plan for Improving Health and Well-Being](https://www.amazon.com/Endometriosis-Natural-Treatment-Program-Well-Being/dp/1577315693) by Valerie Ann Worwood- This offers practical, easy-to-implement ways to alleviate symptoms and improve overall health and well-being. It explores the environmental toxins, cosmetics, dietary habits, and other lifestyle issues that may be partially to blame for the condition.
+* [From Pain to Peace With Endo: Lessons Learned on the Road to Healing Endometriosis](https://www.amazon.com/Pain-Peace-Endo-Lessons-Endometriosis/dp/0692297820) by Aubree Deimler- As a certified holistic health coach and founder of Peace With Endo, Aubree is deeply passionate about wellness. She believes in using an alternative, whole body healing approach– on a physical, emotional and spiritual level.
+
+
+
+
 
 **Hormonal Health and Hormonal Contraceptives** 
 
 * [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten
 * [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden
+* [The Happy Hormone Guide: A Plant-based Program to Balance Hormones, Increase Energy, & Reduce PMS Symptoms](https://www.amazon.com/Hormone-Harmony-Plant-Based-Increase-Symptoms/dp/1944515836/ref=sr_1_11_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-11-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwNDcwMzAxMjk3WlBQT1hWMVlPUCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=#customerReviews)
 
 **Pelvic Pain and Pelvic Floor Dysfunction**
 
