@@ -11,8 +11,6 @@ tags:
   - uterus
   - women't health
 ---
-
-
 ## Books:
 
 These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
@@ -25,3 +23,21 @@ These books cover an array of information on endometriosis including diet, nutri
 * [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Laura Briden 
 * [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein DPT
 * [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
+
+Nutrition Diet
+
+
+
+Hormone Health
+
+
+
+Birth Control and Hormonal Contraceptives 
+
+
+
+Pelvic Floor Dysfunction
+
+
+
+Politics and Gender Bias
