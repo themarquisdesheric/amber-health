@@ -20,14 +20,9 @@ If you'd like to learn more about endometriosis, please visit my article, **Endo
 > \
 >
 >
->
->
-> \
->
->
 > -Endometriosis Research Center
 
-Below is a list of endometriosis books. These books cover an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, and more. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
+Below is a list of books on endometriosis. These books cover an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, and more. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
 ## Endometriosis Books
 
@@ -45,7 +40,10 @@ Below is a list of endometriosis books. These books cover an array of topics on 
 
 * [Private Parts: How To Really Live With Endometriosis](https://www.amazon.com/Private-Parts-Really-Live-Endometriosis/dp/1473687551) by Eleanor Thom- Part memoir, part guide book and part survival guide, Private Parts retraces Eleanor's own journey with endometriosis, offering readers practical, down-to-earth and friendly advice covering everything from what actually happens in an internal exam to finding the right specialist for you.
 * [Alone in the Crowd - Living Well with Endometriosis](https://www.amazon.com/Alone-Crowd-Living-Well-Endometriosis/dp/0996148620) by Ania G- Psychologist, Certified Holistic Heath Counselor, Endo patient, and Chernobyl survivor, Ania writes of her personal journey with endometriosis and how she developed various holistic and medical methods of dealing with the disease.
-* [Endometriosis: it's not in your head, it's in your pelvis](https://www.amazon.com/Endometriosis-its-your-head-pelvis/dp/1732395144/ref=sr_1_12_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwODgwMDM0MUlPOFBQRTVLTVQwUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) by Bethany Stahl- Written by an endo patient, Bethany Stahl, shares her insights into navigating healthcare, choosing a doctor, and being chronically ill. The books includes a symptom checklist, surgery checklist, and examples of the financial cost of endometriosis. 
+* [Endometriosis: it's not in your head, it's in your pelvis](https://www.amazon.com/Endometriosis-its-your-head-pelvis/dp/1732395144/ref=sr_1_12_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwODgwMDM0MUlPOFBQRTVLTVQwUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) by Bethany Stahl- Written by an endo patient, Bethany Stahl, shares her insights into navigating healthcare, choosing a doctor, and being chronically ill. The books includes a symptom checklist, surgery checklist, and examples of the financial cost of endometriosis.
+* [Heal Endometriosis Naturally: WITHOUT Painkillers, Drugs, or Surgery](https://www.amazon.com/Heal-Endometriosis-Naturally-WITHOUT-Painkillers/dp/1515385698) Paperback – September 29, 2015
+  by Wendy K Laidlaw  (Author) Wendy is a woman’s health consultant, nutritional therapist, psychotherapist and endometriosis advocate.
+  Inside this book you will find the road map detailing the 12 basic principles I used to heal my endometriosis naturally after suffering for over 33 years. 
 
 ****
 
