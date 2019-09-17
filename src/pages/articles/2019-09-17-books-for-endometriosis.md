@@ -41,9 +41,8 @@ Below is a list of books on endometriosis. These books cover an array of topics 
 * [Private Parts: How To Really Live With Endometriosis](https://www.amazon.com/Private-Parts-Really-Live-Endometriosis/dp/1473687551) by Eleanor Thom- Part memoir, part guide book and part survival guide, Private Parts retraces Eleanor's own journey with endometriosis, offering readers practical, down-to-earth and friendly advice covering everything from what actually happens in an internal exam to finding the right specialist for you.
 * [Alone in the Crowd - Living Well with Endometriosis](https://www.amazon.com/Alone-Crowd-Living-Well-Endometriosis/dp/0996148620) by Ania G- Psychologist, Certified Holistic Heath Counselor, Endo patient, and Chernobyl survivor, Ania writes of her personal journey with endometriosis and how she developed various holistic and medical methods of dealing with the disease.
 * [Endometriosis: it's not in your head, it's in your pelvis](https://www.amazon.com/Endometriosis-its-your-head-pelvis/dp/1732395144/ref=sr_1_12_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwODgwMDM0MUlPOFBQRTVLTVQwUSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) by Bethany Stahl- Written by an endo patient, Bethany Stahl, shares her insights into navigating healthcare, choosing a doctor, and being chronically ill. The books includes a symptom checklist, surgery checklist, and examples of the financial cost of endometriosis.
-* [Heal Endometriosis Naturally: WITHOUT Painkillers, Drugs, or Surgery](https://www.amazon.com/Heal-Endometriosis-Naturally-WITHOUT-Painkillers/dp/1515385698) Paperback – September 29, 2015
-  by Wendy K Laidlaw  (Author) Wendy is a woman’s health consultant, nutritional therapist, psychotherapist and endometriosis advocate.
-  Inside this book you will find the road map detailing the 12 basic principles I used to heal my endometriosis naturally after suffering for over 33 years. 
+* [Heal Endometriosis Naturally: WITHOUT Painkillers, Drugs, or Surgery](https://www.amazon.com/Heal-Endometriosis-Naturally-WITHOUT-Painkillers/dp/1515385698) by Wendy K Laidlaw  Wendy is a woman’s health consultant, nutritional therapist, psychotherapist and endometriosis advocate shares her road map detailing the 12 basic principles she used to heal her endometriosis naturally.
+* [Living with Endometriosis: The Complete Guide to Risk Factors, Symptoms, and Treatment Options](https://www.amazon.com/Living-Endometriosis-Complete-Symptoms-Treatment-ebook/dp/B074DH9DK6) by Samantha Bowick- Written by an experienced author who has lived with endometriosis for years, this book includes expert advice drawn from doctors and researchers tackling this debilitative disease, along with tips for recognizing symptoms and getting the most effective help possible.
 
 ****
 
@@ -54,10 +53,13 @@ Below is a list of books on endometriosis. These books cover an array of topics 
 **Nutrition and Diet**
 
 * [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
+* The Endometriosis Health and Diet Program: Get Your Life Back Paperback – February 21, 2017
+
+by Cook MD FACOG, Dr. Andrew (Author), Cook MS RD CDE, Danielle (Author)
 
 
 
-* One Part Plant: A Simple Guide to Eating Real, One Meal at a Time
+* [One Part Plant: A Simple Guide to Eating Real, One Meal at a Time](https://www.amazon.com/One-Part-Plant-Simple-Eating/dp/0062440616) by Jessica Murnane- Jessica shares what she’s learned on her way to healing her body through food. She keeps it simple and, most importantly, delicious — with 100 allergy-friendly recipes. Personally, I found this cookbook accessible and the recipes fairly simple. Some ingredients will not be suitable for all patients but it can help introduce you to plant based eating.
 * [Whole New You: How Real Food Transforms Your Life, for a Healthier, More Gorgeous You: A Cookbook](https://www.amazon.com/Whole-New-You-Transforms-Healthier/dp/1101967358) by Tia Mowry - This cookbook draws on the latest research on whole plant foods, inflammation, and gut flora, to create a diet that can reduce pain and symptoms of endometriosis. 
 
 **Natural Approaches**
