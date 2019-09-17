@@ -2,10 +2,7 @@
 templateKey: articles
 title: Books for Endometriosis
 date: 2019-09-17T17:16:56.763Z
-description: |-
-  What Endometriosis Books to Read and Book Reviews
-
-  A Guide to Endometriosis Books with Reviews 
+description: 'A Guide to Endometriosis Books with Reviews '
 featuredimage: /img/sonjiawpom-2.jpg
 tags:
   - endometriosis
@@ -45,8 +42,8 @@ Below is a list of endometriosis books. These books cover an array of topics on 
 **Nutrition and Diet**
 
 * [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
-* One Part Plant
-* 
+* The Endometriosis Natural Treatment Program: A Complete Self-Help Plan for Improving Health and Well-Being
+* One Part Plant: A Simple Guide to Eating Real, One Meal at a Time
 
 **Hormonal Health and Hormonal Contraceptives** 
 
