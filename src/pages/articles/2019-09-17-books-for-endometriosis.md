@@ -77,5 +77,8 @@ Below is a list of books on endometriosis. These books cover an array of topics 
 
 * [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
 * Doing Harm: The Truth About How Bad Medicine and Lazy Science Leave Women Dismissed, Misdiagnosed, and Sick by 
-* Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine
-* Sick: A Memoir Paperback by Porochista Khakpour
+* [Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine](https://www.amazon.com/Invisible-Serious-Navigate-Relationships-Pressure/dp/0807023957)
+
+Personally, this book made me feel validated and confirmed that my medical neglect and abuse was not a failing of my own. This book balances the personal struggle of the 
+
+* [Sick: A Memoir](https://www.amazon.com/Sick-Memoir-Porochista-Khakpour/dp/006242873X) Paperback by Porochista Khakpour- A grueling, emotional journey—as a woman, an Iranian-American, a writer, and a lifelong sufferer of undiagnosed health problems—in which she examines her subsequent struggles with mental illness and her addiction to doctor prescribed benzodiazepines.
