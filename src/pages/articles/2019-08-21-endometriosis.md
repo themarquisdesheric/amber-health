@@ -208,7 +208,6 @@ Since severe and chronic pain can be a debilitating symptom of endometriosis, it
 * Therapy 
 * Meditation
 
-
 ## Finding a Specialist:
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
@@ -274,7 +273,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 
 
-* **Inclusive Care and Language: Trans and Non-binary Patients**
+**Inclusive Care and Language: Trans and Non-binary Patients**
 
 > It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due. 
 >
@@ -285,7 +284,8 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 
 
-* **Gender Bias in Medicine** 
+**Gender Bias in Medicine** 
+
 * [Pain Bias: The Health Inequality Rarely Discussed](http://www.bbc.com/future/story/20180518-the-inequality-in-how-women-are-treated-for-pain)
 * [The Invisible Woman? The Challenge at the Doctor's Office Every Woman Needs to Know About](https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ)
 * [Why Don't Doctors Trust Women? Because They Don't Know Much About Us](https://www.theguardian.com/books/2019/sep/02/why-dont-doctors-trust-women-because-they-dont-know-much-about-us?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR3p5w0mFRxXnpkeJP7WGxRYnxB3VZmlTxYNcf5cqOChmFiRVvRSKPQe5Ww#Echobox=1567383798)
@@ -293,6 +293,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 
 
-* **Racial Bias in Medicine**
+**Racial Bias in Medicine**
+
 * [Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
 * [Behind The Times: Revisiting Endometriosis and Race](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
