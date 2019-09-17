@@ -58,3 +58,6 @@ Below is a list of endometriosis books. These books cover an array of topics on 
 **Politics and Gender and Racial Bias**
 
 * [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
+* Doing Harm: The Truth About How Bad Medicine and Lazy Science Leave Women Dismissed, Misdiagnosed, and Sick by 
+* Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine
+* Sick: A Memoir Paperback by Porochista Khakpour
