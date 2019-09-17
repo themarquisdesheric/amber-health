@@ -20,14 +20,14 @@ export const ArticleTemplate = ({
   return (
     <section className="content">
       <Breadcrumbs path="Articles" />
-      <div className="flex flex-col items-center">
+      <div className="article flex flex-col items-center">
         <div className="max-w-xl">
           {helmet || ''}
           <h1 className="text-2xl font-semibold py-2">
             {title}
           </h1>
-          <p>{description}</p>
-          <PostContent content={content} />
+          <p className="italic">{description}</p>
+          <PostContent content={content} className="article-content" />
           {tags && tags.length ? (
             <ul className="mt-16">
               {tags.map(tag => (

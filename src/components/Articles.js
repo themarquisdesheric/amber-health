@@ -16,7 +16,7 @@ const Articles = ({ data }) => {
       <div className="flex flex-col items-center">
         {posts &&
           posts.map(({ node: post }) => (
-            <Article post={post} className="article max-w-xl" key={post.id} />
+            <Article post={post} className="article-card max-w-xl" key={post.id} />
           ))}
         <div>
           <p className="text-center text-md font-semibold mt-8 py-3">Topics</p>
