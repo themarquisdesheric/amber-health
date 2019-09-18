@@ -1,11 +1,8 @@
 ---
 templateKey: article
-title: Lichen Sclerosus
+title: Lichen Sclerosus 101
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  This article provides resources and insights for when you've just been
-  diagnosed with lichen sclerosus
-featuredpost: false
+description: 'What to learn when you''ve first been diagnosed '
 featuredimage: /img/pom-2.jpg
 tags:
   - lichen sclerosus
@@ -15,12 +12,11 @@ tags:
   - autoimmune
   - skin
 ---
+This article provides resources and insights for when you've just been diagnosed with lichen sclerosusResources:
 
-# Lichen Sclerosus:
 
-I need a lot more content here I need a lot more content here I need a lot more content here 
 
-## Resources:
+## What is Lichen Sclerosus?
 
 * dhdh
 * blah
