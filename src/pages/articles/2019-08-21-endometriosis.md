@@ -141,7 +141,7 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
-While surgery is an accepted approach, there are specialists who support non-surgical approaches and I have provided those resources below. 
+While surgery is an accepted approach, there are specialists who support non-surgical approaches and those resources have been provided below. 
 
 **Hormonal Contraceptives and Hormone Therapy**
 
@@ -290,3 +290,11 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 * [Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
 * [Behind The Times: Revisiting Endometriosis and Race](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
+
+## Related Conditions
+
+For more information on possible comorbidities and how these conditions overlap with endometriosis, check out the articles below.
+
+* IC
+* PFD
+* Autoimmunity
