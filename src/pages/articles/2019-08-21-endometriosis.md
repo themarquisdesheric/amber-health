@@ -141,6 +141,8 @@ The article [Endometriosis Persisting after Castration: clinical characteristics
 
 > Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
 
+While surgery is an accepted approach, there are specialists who support non-surgical approaches and I have provided those resources below. 
+
 **Hormonal Contraceptives and Hormone Therapy**
 
 Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease growth. Too often they fail to inform us that hormone therapy may only provide symptomatic relief and that the disease will continue to progress.
