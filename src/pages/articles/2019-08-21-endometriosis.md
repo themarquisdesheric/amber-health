@@ -297,4 +297,3 @@ For more information on possible comorbidities and how these conditions overlap 
 
 * IC
 * PFD
-* Autoimmunity
