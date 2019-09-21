@@ -1,5 +1,5 @@
 ---
-templateKey: articles
+templateKey: article
 title: Books for Endometriosis
 date: 2019-09-17T17:16:56.763Z
 description: 'A Guide to Endometriosis Books with Reviews '
