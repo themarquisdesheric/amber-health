@@ -13,25 +13,25 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This article and site are dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-# What is Endometriosis? (this is H1, prevent this)
+<h3>What is Endometriosis? (this is H3, style this)</h3>
 
-> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
+> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike. 
 >
-> \-Endometriosis Research Center 
->
-> **(NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)**
->
+> \- [Endometriosis Research Center](https://www.endocenter.org/)
+
+(NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)
+
 > This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
 >
 > \-Vital Health Endometriosis Center
->
-> Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
->
-> \- Center for Endometriosis Care
->
-> Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
->
-> \-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
+
+Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
+
+* Center for Endometriosis Care
+
+Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
+
+Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
 
 ## **What are the Symptoms?**
 
@@ -76,7 +76,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 >
 > \-Endometriosis Research Center
 
-Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), reviews over 200 articles on endometriosis. Dr. Martin found, 
+Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), reviews over 200 articles on endometriosis. Dr. Martin found,
 
 > No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read.
 
@@ -88,7 +88,8 @@ Due to prevailing myths and misinformation, providers are often not knowledgable
 >
 > \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 >
-> **Laparoscopy & Pathology Report:** The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
+> <h3>Laparoscopy & Pathology Report</h3> \
+> The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
 >
 > **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
 >
