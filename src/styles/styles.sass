@@ -62,13 +62,24 @@ body
 
 .article
   p
-    padding-bottom: 1rem
+    margin-bottom: 1rem
+
+  ul,
+  ol
+    list-style: unset
+    padding-left: 40px
+    margin: 1rem 0
+
+  p + ul,
+  h2 + ul
+    margin-top: 0
+
 
 .article-content
   h2
     font-size: 1.125rem
     font-weight: 600
-    padding: 0.5rem 0
+    padding: 1rem 0
 
 .topics a
   display: block

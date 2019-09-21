@@ -17,7 +17,7 @@ const Article = ({ post, className = '' }) => (
             />
           </div>
         ) : null}
-        <p className="text-lg font-semibold py-3">
+        <p className="text-lg font-semibold pt-3 pb-1">
           {post.frontmatter.title}
         </p>
       </header>
