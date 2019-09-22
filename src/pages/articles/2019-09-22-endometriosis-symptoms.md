@@ -36,25 +36,27 @@ Endometriosis is much more than simple, so-called 'killer cramps,' as it is ofte
 
 \-Center for Endometriosis Care
 
-
-
 Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms.
 
 \-Gary, Ray (2005). Laparoscopic excision of endometriosis: the treatment of choice? BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
 
+<blockquote>
 
+While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 
-While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period.
+ <cite>
 
 \-Vital Health Endometriosis Center
 
+  </cite>
 
+</blockquote>
 
 
 
 <h3>Table of Contents</h3>
 
-Endometriosis 101
+[Endometriosis 101](/articles/2019-08-21-endometriosis/)
 
 What are the Symptoms?
 
@@ -62,10 +64,8 @@ What are the Potential Causes?
 
 How is it Diagnosed?
 
-What are the Treatment options?
-
-Finding a Specialist
-
+What are the Treatment options?\
+Finding a Specialist\
 Holistic Natural Approaches
 
 Online Resources
