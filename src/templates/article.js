@@ -26,7 +26,7 @@ export const ArticleTemplate = ({
           <h1 className="text-2xl font-semibold py-2 md:text-3xl">
             {title}
           </h1>
-          <p className="italic pb-4 border-b" style={{ marginBottom: '2rem' }}>{description}</p>
+          <p className="italic pb-8" style={{ marginBottom: '3rem' }}>{description}</p>
           <PostContent content={content} className="article-content" />
           {tags && tags.length ? (
             <ul className="tags mt-16">

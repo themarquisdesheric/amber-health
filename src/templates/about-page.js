@@ -5,7 +5,7 @@ import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import Breadcrumbs from '../components/Breadcrumbs';
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({ content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -13,9 +13,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
       <Breadcrumbs path="About" />
       <div className="article flex flex-col items-center">
         <div className="max-w-xl">
-          <h1 className="text-2xl font-semibold py-2 md:text-3xl">
-            {title}
-          </h1>
           <PageContent content={content} className="article-content" />
         </div>
       </div>
@@ -24,7 +21,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 };
 
 AboutPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func
 };
@@ -36,7 +32,6 @@ const AboutPage = ({ data }) => {
     <Layout>
       <AboutPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
         content={post.html}
       />
     </Layout>
@@ -53,9 +48,6 @@ export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
-      frontmatter {
-        title
-      }
     }
   }
 `;

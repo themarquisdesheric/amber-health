@@ -76,6 +76,25 @@ body
   p
     margin-bottom: 1rem
 
+  h1 + p
+    position: relative
+    border-bottom: 1px dotted rgba($theme, .5)
+
+  h1 + p::after
+    background-image: url(/img/logo-80.png)
+    background-color: $white
+    background-size: contain
+    background-repeat: no-repeat
+    background-position: center
+    display: inline-block
+    content: ''
+    vertical-align: baseline
+    width: 3rem
+    height: 2rem
+    position: absolute
+    bottom: -1rem
+    left: calc(50% - 1rem)
+
   ul:not(.tags),
   ol
     padding-left: 1rem

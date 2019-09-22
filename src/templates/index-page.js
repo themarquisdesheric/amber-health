@@ -5,8 +5,7 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 export const IndexPageTemplate = ({
-  image,
-  description
+  image
 }) => (
   <div>
     <div
@@ -17,9 +16,15 @@ export const IndexPageTemplate = ({
         })`
       }}
     />
-    <main className="content flex flex-col items-center">
-      <section className="max-w-xl">
-        <p>{description}</p>
+    <main className="index content flex flex-col items-center">
+      <section className="max-w-xl p-8 text-lg leading-loose md:text-xl">
+        <p>
+          Amberhealth is a comprehensive guide of curated resources
+          for those with chronic illness
+          who are navigating a broken healthcare system
+          while trying to preserve their dignity and self worth
+          and ultimately attain wellness and health.
+        </p>
       </section>
     </main>
   </div>
@@ -27,7 +32,6 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  description: PropTypes.string
 };
 
 const IndexPage = ({ data }) => {
@@ -37,7 +41,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        description={frontmatter.description}
       />
     </Layout>
   );
@@ -64,7 +67,6 @@ export const pageQuery = graphql`
             }
           }
         }
-        description
       }
     }
   }
