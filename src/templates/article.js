@@ -26,10 +26,10 @@ export const ArticleTemplate = ({
           <h1 className="text-2xl font-semibold py-2 md:text-3xl">
             {title}
           </h1>
-          <p className="italic">{description}</p>
+          <p className="italic pb-4 border-b" style={{ marginBottom: '2rem' }}>{description}</p>
           <PostContent content={content} className="article-content" />
           {tags && tags.length ? (
-            <ul className="mt-16">
+            <ul className="tags mt-16">
               {tags.map(tag => (
                 <Link to={`/tags/${kebabCase(tag)}/`} key={tag + 'tag'}>
                   <li className="tag">

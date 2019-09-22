@@ -11,12 +11,12 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <div className="content">
       <Breadcrumbs path="About" />
-      <div className="flex flex-col items-center">
+      <div className="article flex flex-col items-center">
         <div className="max-w-xl">
-          <h2>
+          <h1 className="text-2xl font-semibold py-2 md:text-3xl">
             {title}
-          </h2>
-          <PageContent content={content} />
+          </h1>
+          <PageContent content={content} className="article-content" />
         </div>
       </div>
     </div>

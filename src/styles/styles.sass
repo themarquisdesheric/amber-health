@@ -25,30 +25,31 @@ body
     transform-origin: 50% 75%
 
   // find out why nth-child won't work
+  // catch on animationend and remove class to activate these? 
   .l-1
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .1s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .1s backwards
   .l-2
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .2s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .2s backwards
   .l-3
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .3s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .3s backwards
   .l-4
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .4s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .4s backwards
   .l-5
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .5s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .5s backwards
   .l-6
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .6s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .6s backwards
   .l-7
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .7s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .7s backwards
   .l-8
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .8s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .8s backwards
   .l-9
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) .9s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) .9s backwards
   .l-10
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1s backwards
   .l-11
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1.1s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1.1s backwards
   .l-12
-    animation: flipUp .6s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1.2s backwards
+    animation: flipUp .5s cubic-bezier(0.14, -0.4, 0.26, 1.55) 1.2s backwards
 
 @keyframes flipUp 
   0% 
@@ -59,33 +60,72 @@ body
 // ARTICLES
 .article-card
   width: 100%
+  transition: .15s ease-in-out
+
+  &:hover
+    transform: scale(1.05)
 
 .article
+  *::selection
+    background: $theme
+    color: $white
+
+  h1
+    font-size: 2rem
+
   p
     margin-bottom: 1rem
 
-  ul,
+  ul:not(.tags),
   ol
-    list-style: unset
-    padding-left: 40px
+    padding-left: 1rem
     margin: 1rem 0
 
+  li
+    padding-left: 1rem
+    padding-bottom: 1rem
+    
+    &::before
+      right: .5rem
+
   p + ul,
-  h2 + ul
+  h2 + ul,
+  h3 + ul
     margin-top: 0
 
 
 .article-content
-  h2
-    font-size: 1.125rem
+  h2,
+  h3
     font-weight: 600
     padding: 1rem 0
+
+  h2
+    font-size: 1.5rem
+  
+  h3
+    font-size: 1.25rem
+
+  > p:first-child::first-letter
+    font-family: "Averia Serif Libre", sans-serif
+    font-size: 3rem
+    font-weight: 700
+    float: left
+    padding: 0 .25rem
+    margin-right: .5rem
+    line-height: 3rem
+    color: $theme
+  
+  a
+    text-decoration: underline
+    color: $theme
 
 .topics a
   display: block
   margin-bottom: .5rem
 
-  &::before
+.topics a::before,
+li:not(.tag)::before
     background-image: url(/img/favicon-32.png)
     background-size: contain
     background-repeat: no-repeat
@@ -180,7 +220,7 @@ ul a:hover,
   color: $theme
 
 .full-width-image 
-  height: 400px
+  height: 50vh
   background-size: cover
   background-position: center
 
@@ -199,6 +239,6 @@ ul a:hover,
   .main-content
     min-height: calc(100vh - 75px)
 
-@media all and (min-width: 1441px)
+@media all and (min-width: 1024px)
   .full-width-image 
-    height: 500px
+    height: 60vh

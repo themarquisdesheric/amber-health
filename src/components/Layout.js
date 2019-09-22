@@ -6,7 +6,7 @@ import '../styles/styles.sass';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
-const TemplateWrapper = ({ children, className }) => {
+const TemplateWrapper = ({ children, className = '' }) => {
   const { title, description } = useSiteMetadata();
   return (
     <div>
