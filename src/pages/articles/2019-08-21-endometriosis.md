@@ -15,7 +15,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 <h2>What is Endometriosis?</h2>
 
-> "Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike."
+> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
 >
 > \-<a href="https://www.endocenter.org/" target="_blank">Endometriosis Research Center</a>
 

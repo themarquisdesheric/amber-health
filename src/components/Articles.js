@@ -22,7 +22,7 @@ const Articles = ({ data }) => {
           <p className="text-center text-md font-semibold mt-8 py-3">Topics</p>
           <ul className="topics">
             {topics.map(topic => 
-              <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm" key={topic}>
+              <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>
                 {` ${topic}`}
               </Link>
             )}

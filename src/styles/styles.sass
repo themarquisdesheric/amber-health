@@ -82,8 +82,9 @@ body
     margin: 1rem 0
 
   li
-    padding-left: 1rem
+    padding-left: 1.5rem
     padding-bottom: 1rem
+    position: relative
     
     &::before
       right: .5rem
@@ -92,7 +93,6 @@ body
   h2 + ul,
   h3 + ul
     margin-top: 0
-
 
 .article-content
   h2,
@@ -134,8 +134,15 @@ li:not(.tag)::before
     vertical-align: baseline
     width: 1em
     height: 1em
-    position: relative
-    top: 2px
+    position: absolute
+    left: 0
+    top: 4px
+
+blockquote
+  margin-bottom: 1rem
+
+  cite
+    display: block
 
 .tag
   display: inline-flex

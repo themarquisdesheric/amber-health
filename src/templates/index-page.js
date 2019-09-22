@@ -6,8 +6,6 @@ import Layout from '../components/Layout';
 
 export const IndexPageTemplate = ({
   image,
-  heading,
-  mainpitch,
   description
 }) => (
   <div>
@@ -21,11 +19,6 @@ export const IndexPageTemplate = ({
     />
     <main className="content flex flex-col items-center">
       <section className="max-w-xl">
-        <h1>{mainpitch.title}</h1>
-        <h3>{mainpitch.description}</h3>
-        <h3>
-          {heading}
-        </h3>
         <p>{description}</p>
       </section>
     </main>
@@ -34,8 +27,6 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  heading: PropTypes.string,
-  mainpitch: PropTypes.object,
   description: PropTypes.string
 };
 
@@ -46,8 +37,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        heading={frontmatter.heading}
-        mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
       />
     </Layout>
@@ -74,11 +63,6 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpFluid
             }
           }
-        }
-        heading
-        mainpitch {
-          title
-          description
         }
         description
       }
