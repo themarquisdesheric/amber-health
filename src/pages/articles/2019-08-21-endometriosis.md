@@ -15,30 +15,30 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 <h2>What is Endometriosis?</h2>
 
-> Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally, and behave differently, from the normal endometrium which is shed during a period. With endometriosis, the disease commonly occurs on the pelvic structures (and sometimes beyond), causing severe pain, bowel, bladder or other organ dysfunction, inflammation, scarring and adhesions, and in some cases, infertility. Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected.  Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.
->
-> \-<a href="https://www.endocenter.org/" target="_blank">Endometriosis Research Center</a>
+Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The endometriosis tissue is different than the endometrium which lines the uterus and is shed during a period. This is an <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">important distinction</a> since the tissues behave differently and aren’t structurally the same. Many doctors and resources improperly define the tissue as being identical which is not only inaccurate but also problematic when trying to understand the disease mechanisms at play.
 
-(NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)
+The endometriosis tissue can be found most commonly on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas, but has been found on every internal structure but <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. Other locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
-This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
+The endometriosis tissue contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in  scar tissue and adhesions, which bind organs and tissue together.  
 
-> \-Vital Health Endometriosis Center
+While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
 
-Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
+Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endo patients often experience chronic, severe, and debilitating  pain and symptoms that significantly deteriorated <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has negative social, mental, socioeconomic, legal, and political implications. 
 
-\-Center for Endometriosis Care
+<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients also experience bladder and bowel dysfunction, pain with sex, bloating, and fatigue. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in my article Endometriosis Symptoms
 
-Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
+ articles/2019-09-22-endometriosis-symptoms/
 
-Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabolic Reprogramming and Cancer-Like Changes of Ectopic Endometriotic Stromal Cells](https://www.ncbi.nlm.nih.gov/pubmed/26654049). J. Proteome Res. (15)2, 572-584. 
+
+
+
 
 ## **What are the Symptoms?**
 
 * Pain with Menstruation
 * Pelvic Pain
 * Abdominal Pain
-* Low Back Pain
+* Lower Back Pain
 * Leg Pain
 * Cyclical Pain
 * Pain in Bowel and Bladder
