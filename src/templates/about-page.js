@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
@@ -9,14 +9,22 @@ export const AboutPageTemplate = ({ content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <div className="content">
-      <Breadcrumbs path="About" />
-      <div className="article flex flex-col items-center">
-        <div className="max-w-xl">
-          <PageContent content={content} className="article-content" />
+    <Fragment>
+      <div
+        className="full-width-image"
+        style={{
+          backgroundImage: 'url("/img/pom-2.jpg")'
+        }}
+      />
+      <div className="content">
+        <Breadcrumbs path="About" />
+        <div className="article flex flex-col items-center">
+          <div className="max-w-xl">
+            <PageContent content={content} className="article-content" />
+          </div>
         </div>
       </div>
-    </div>
+    </Fragment>
   );
 };
 

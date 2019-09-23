@@ -10,7 +10,7 @@ const Links = ({ links, mobile }) =>
       className={
         mobile 
           ? '' 
-          : `uppercase sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
+          : `sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
       activeStyle={{ 
         color: '#b3564b'
@@ -29,7 +29,7 @@ Links.propTypes = {
 // * fix element flashing on load issue
 const MobileMenu = ({ links, visible }) => (
   <div 
-    className={`mobile-nav overflow-hidden h-auto text-center text-xs uppercase ${visible ? 'border-b' : ''} sm:hidden`} 
+    className={`mobile-nav overflow-hidden h-auto averia-font text-center text-sm ${visible ? 'border-b' : ''} sm:hidden`} 
     style={{ maxHeight: visible ? '175px' : '0px' }}
   >
     <Links links={links} mobile />
@@ -57,7 +57,7 @@ HamburgerMenu.propTypes = {
 
 
 const NavLinks = ({ links }) => (
-  <div className="hidden sm:block">
+  <div className="hidden averia-font sm:block">
     <Links links={links} />
   </div>
 );
@@ -97,7 +97,7 @@ const Header = () => {
             <span className="l-12">h</span>
           </Link>
         </h1>
-        <nav className="text-xs">
+        <nav className="text-sm">
           <HamburgerMenu handleSetVisible={setVisible} />
           <NavLinks links={links} />
         </nav>
