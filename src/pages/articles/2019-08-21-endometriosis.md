@@ -21,13 +21,13 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 (NOTE: We talked about the block quote having stylized quotation marks with my red color and no indentation. Also, Fix LINKS so they open in a NEW tab.)
 
-> This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
->
+This abnormal tissue contains endometrial glands and stroma. The glands secrete substances that irritate the surrounding tissues, sometimes causing them to bleed. The immune system responds to the release of these substances by releasing inflammatory proteins that rush to the site of disease, causing swelling and inflammation. Over time, scar tissue may form and bands of scarring may develop, sticking the pelvic organs together (adhesions).
+
 > \-Vital Health Endometriosis Center
 
 Alterations in certain biological processes of the endocrine and immune systems have also been observed with the disease, and endometriosis is embodied by a complexity of multiple immunologic abnormalities, endocrine alterations and unusual expression of adhesion molecules.
 
-* Center for Endometriosis Care
+\-Center for Endometriosis Care
 
 Thorough understanding of the molecular mechanisms underlying the disease is still incomplete. Acquired data revealed metabolic reprogramming of ectopic stromal cells with extensive upregulation of glycolysis and downregulation of oxidative respiration, a widespread metabolic phenotype known as the Warburg effect and previously described in many cancers. Our results additionally highlight other molecular changes of ectopic endometriotic stromal cells indicating reduced apoptotic potential, increased cellular invasiveness and adhesiveness, and altered immune function.
 
@@ -48,7 +48,7 @@ Kasvandik, Sergo (2015). [Deep Quantitative Proteomics Reveals Extensive Metabol
 * Bloating
 * Nausea and Vomiting
 * Fatigue
-* Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Disease](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
+* Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Diseases](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
 
 > Endometriosis is much more than simple, so-called 'killer cramps,' as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature. Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
 >
@@ -88,9 +88,6 @@ Due to prevailing myths and misinformation, providers are often not knowledgable
 >
 > \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
 >
-> <h3>Laparoscopy & Pathology Report</h3> \
-> The only way to verify endometriosis is to undergo a diagnostic laparoscopy with pathology confirmation of biopsy specimens.
->
 > **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
 >
 > **Imaging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
@@ -102,6 +99,12 @@ Due to prevailing myths and misinformation, providers are often not knowledgable
 ## What are the Treatment options?
 
 This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target endometriosis while others work to address the symptoms. Specialist agree that a multidisciplinary approach to care is needed to address the many components and complexities of the disease. Combining treatments may allow patients to effectively manage their symptoms long term.
+
+https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA
+
+
+
+http://endopaedia.info/politics1.html
 
 * Surgery: Excision vs Ablation 
 * Hormonal Therapy
