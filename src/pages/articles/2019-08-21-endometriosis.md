@@ -37,12 +37,6 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 This is Part One of my Endo 101 Series.
 
-
-
-
-
-
-
 ## **What are the Symptoms?**
 
 * Pain with Menstruation
@@ -54,7 +48,7 @@ This is Part One of my Endo 101 Series.
 * Pain in Bowel and Bladder
 * Bladder and Bowel Dysfunction
 * Pain with Sex, Dyspareunia
-* Pain with Vaginal Penetration or Insertion 
+* Pain with Vaginal Penetration  
 * Bloating
 * Nausea and Vomiting
 * Fatigue
