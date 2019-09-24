@@ -61,9 +61,10 @@ While endometriosis remains largely unknown, theories abound. In my next article
 
 [Endometriosis 101](/articles/2019-08-21-endometriosis/)
 
-Endometriosis Symptoms (this article)
+[Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
 
-Endometriosis Potential Causes
+[Endometriosis Potential Causes
+](/articles/2019-09-22-endometriosis-symptoms/)
 
 How is it Diagnosed?
 
@@ -73,7 +74,7 @@ Holistic Natural Approaches
 
 Online Resources
 
-Books 
+[Books](/articles/2019-09-17-books-for-endometriosis/)
 
 Support
 
