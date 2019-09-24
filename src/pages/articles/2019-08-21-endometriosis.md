@@ -37,7 +37,7 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 This is Part One of my Endo 101 Series.
 
-## **What are the Symptoms?**
+<h2 id="symptoms">What are the Symptoms?</h2>
 
 * Pain with Menstruation
 * Pelvic Pain
