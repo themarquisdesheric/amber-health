@@ -15,7 +15,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
-This part two of the series on Endometriosis. (maybe add that tag to drop it down to table of contents)
+This part two of the series on Endometriosis. **(maybe add that tag to drop it down to table of contents)**
 
 <h2>What are the Symptoms?</h2>
 
@@ -55,7 +55,8 @@ When approaching medical treatment and care, it’s important to understand that
 * Do not accept a dismissal of your specific, personal symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care.
 
-While endometriosis remains largely unknown, theories abound. In my next article, **Endometriosis:** **Potential Causes (add link)** the current theories are examined. 
+While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes
+](/articles/2019-09-24-endometriosis-potential-causes/)the current theories are examined. 
 
 <h3>Endo Series Table of Contents</h3>
 
@@ -64,7 +65,7 @@ While endometriosis remains largely unknown, theories abound. In my next article
 [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
 
 [Endometriosis Potential Causes
-](/articles/2019-09-22-endometriosis-symptoms/)
+](/articles/2019-09-24-endometriosis-potential-causes/)
 
 How is it Diagnosed?
 
