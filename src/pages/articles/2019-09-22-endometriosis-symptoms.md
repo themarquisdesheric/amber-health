@@ -55,7 +55,7 @@ When approaching medical treatment and care, it’s important to understand that
 * Do not accept a dismissal of your specific, personal symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care.
 
-While endometriosis remains largely unknown, theories abound. In my next article, Endometriosis: **Potential Causes (add link)** the current theories are examined. 
+While endometriosis remains largely unknown, theories abound. In my next article, **Endometriosis:** **Potential Causes (add link)** the current theories are examined. 
 
 <h3>Endo Series Table of Contents</h3>
 
