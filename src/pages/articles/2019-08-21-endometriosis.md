@@ -2,9 +2,7 @@
 templateKey: article
 title: Endometriosis 101
 date: 2016-12-17T15:04:10.000Z
-description: >-
-  What to learn when you’re first diagnosed and where to find accurate
-  information
+description: What to learn when you’re first diagnosed
 featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
