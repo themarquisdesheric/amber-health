@@ -13,9 +13,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This article and site are dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-For more disease overview please read my article Endometriosis 101.
-
-This part two of the series Endometriosis 101.
+For an introduction to endometriosis please read my article Endometriosis 101. This part two of the series on Endometriosis.
 
 <h2>What are the Symptoms?</h2>
 
@@ -32,7 +30,7 @@ This part two of the series Endometriosis 101.
 * Bloating
 * Nausea and Vomiting
 * Fatigue
-* Possible Comorbidities: Migraines, Fibromyalgia, Allergies, Hypothyroidism, Asthma, and Chronic Disease
+* Possible Comorbidities: <a href="https://www.ncbi.nlm.nih.gov/pubmed/22442736" target="_blank" rel="noopener noreferrer">Migraines</a>, Fibromyalgia, Allergies,<a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Hypothyroidism</a>, Asthma, and <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">Chronic Diseases</a>
 
 
 
@@ -44,13 +42,13 @@ This part two of the series Endometriosis 101.
 
 
 
-
+<h3>Table of Contents</h3>
 
 [Endometriosis 101](/articles/2019-08-21-endometriosis/)
 
-What are the Symptoms?
+Endometriosis Symptoms
 
-What are the Potential Causes?
+Endometriosis Potential Causes
 
 How is it Diagnosed?
 
