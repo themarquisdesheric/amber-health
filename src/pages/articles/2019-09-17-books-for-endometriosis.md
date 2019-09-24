@@ -17,7 +17,7 @@ If you'd like to learn more about endometriosis, please visit my article, [Endom
 
 This Part of my series, Endometriosis (tag to bottom table of contents)
 
-This collection of books on endometriosis covers an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, treatment options, and more. I've organized them according to their main focus but often there is an overlap in topics. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
+This collection of books covers an array of topics on endometriosis, including diet, nutrition, surgery, disease management, holistic wellness, treatment options, and more. I've organized them according to their main focus but often there is an overlap in topics. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
 
 <h2>Books by Topic</h2>
 
