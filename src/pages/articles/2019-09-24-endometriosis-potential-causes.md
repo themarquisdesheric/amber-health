@@ -19,7 +19,7 @@ This Part of my series, Endometriosis (tag to bottom table of contents)
 
 <blockquote>
 
-Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of comorbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances.  <cite>
+Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. <cite>
 
 <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a>  </cite>
 
