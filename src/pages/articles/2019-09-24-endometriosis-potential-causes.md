@@ -71,10 +71,14 @@ Without question, there are various additional factors that contribute to diseas
 <cite>
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">
 
-  -Center for Endometriosis Care
+\-Center for Endometriosis Care
 </a>
   </cite>
+
 </blockquote>
 
-
 In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialist speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
+
+**Table of Contents**
+
+****
