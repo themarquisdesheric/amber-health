@@ -41,14 +41,24 @@ This century-old theory of <a href="http://centerforendo.com/endometriosis-under
 
 It’s thought that a dysfunctional immune system may allow for implantation of menstrual debris but this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. Some <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">specialists</a> believe that it may be share an underlying pathology with several autoimmune disorders.
 
+**Stem Cells**
+
+The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stems cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed. 
+
+**Genetics**
+
+Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease.
+
+**Environmental Toxins**
+
+Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, immune system, endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research studies <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
+
+**Halban’s Theory of Lymphatic Spread**
+
+<a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">Halban’s Theory</a> hypothesizes that endometriosis travels throughout the lymphatic or vascular systems. This theory explains rare endometriotic lesions in the brain or lung, but does not explain the location of most endometriosis which most commonly occurs in the gravitationally dependent parts of the pelvis. 
 
 
 
+**Meyer’s Theory of Metaplasia**
 
-Stem Cells
-
-Even in the absence of menstruation, stems cells have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed. (cec)
-
-Genetics
-
-Genetics may play a role in developing endometriosis. There is a  7 to 10 fold risk in those whose mother or relative has disease (ERC)
+<a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Meyer’s Theory</a> believes metaplasia or  the abnormal change in the nature of a tissue may explain endometriosis. Metaplasia commonly occurs as a response to inflammation. The process allows for cells to alter themselves to adapt better to their environment. This may explain the appearance of endometriosis on the lungs and skin and in women with no womb. While this theory seems logical,  it has been difficult to support <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">scientifically</a>.
