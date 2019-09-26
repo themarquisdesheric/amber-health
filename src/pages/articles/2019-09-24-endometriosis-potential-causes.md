@@ -63,13 +63,7 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 **Homeobox Genes** 
 
-Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. HOX gene mutations  and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/
-
-Studies have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior  that causes the disease later on. https://www.ncbi.nlm.nih.gov/pubmed/10325287 
-
-Dr. David Redwine, a leading researcher and excision specialist, suggested an embryologic origin some 30 years ago due to the presence of endometriosis in fetuses. 
+Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior  that causes the disease later on. Dr. David Redwine, a leading researcher and excision specialist, suggested an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
 
 
