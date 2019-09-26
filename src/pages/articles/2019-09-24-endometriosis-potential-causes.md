@@ -31,8 +31,24 @@ A possible explanation is that individuals are born with <a href="http://centerf
 
 Since there are many theories in circulation, this article examines several of the current ones for a better understanding of the possible cause(s) of endometriosis.
 
-Etiology Theories
+<h3>Etiology Theories</h3>
 
-Retrograde menstruation
+**Retrograde Menstruation**
 
-This century-old theory of retrograde menstruation remains of the most popular theories despite its proven flaws. In 1927, Dr. Sampson proposed the disease resulted from a reversal in menstruation in which the endometrium is deposited and implanted outside of the uterus. The endometrium is not the same as endometriosis lesions so this does not offer an explanation. Also, retrograde menstruation is very common and does not cause endometriosis in a majority of menstruators. Multiple studies have demonstrated that retrograde menstruation does not account for pathogenesis, or disease development. Sadly this myth rules much of modern thinking and delays further disease management efforts.
+This century-old theory of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">retrograde menstruation </a> remains one of the most popular theories despite its proven flaws. In 1927, Dr. Sampson proposed the disease resulted from a reversal in menstruation in which the endometrium is deposited and implanted outside of the uterus. The endometrium is not the same as endometriosis lesions so this does not offer an explanation. Also, retrograde menstruation is very common and does not cause endometriosis in a majority of menstruators. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12372441" target="_blank" rel="noopener noreferrer">Multiple studies</a> have demonstrated that retrograde menstruation does not account for pathogenesis, or disease development. Sadly this myth rules much of modern thinking and delays further disease management efforts. 
+
+**Immunologic Dysfunction**
+
+It’s thought that a dysfunctional immune system may allow for implantation of menstrual debris but this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. Some <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">specialists</a> believe that it may be share an underlying pathology with several autoimmune disorders.
+
+
+
+
+
+Stem Cells
+
+Even in the absence of menstruation, stems cells have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed. (cec)
+
+Genetics
+
+Genetics may play a role in developing endometriosis. There is a  7 to 10 fold risk in those whose mother or relative has disease (ERC)
