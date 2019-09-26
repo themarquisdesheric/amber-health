@@ -79,6 +79,4 @@ Without question, there are various additional factors that contribute to diseas
 
 In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialist speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
 
-**Table of Contents**
-
-****
+Table of Contents
