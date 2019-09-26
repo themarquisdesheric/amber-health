@@ -57,8 +57,20 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">Halban’s Theory</a> hypothesizes that endometriosis travels throughout the lymphatic or vascular systems. This theory explains rare endometriotic lesions in the brain or lung, but does not explain the location of most endometriosis which most commonly occurs in the gravitationally dependent parts of the pelvis. 
 
-
-
 **Meyer’s Theory of Metaplasia**
 
 <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Meyer’s Theory</a> believes metaplasia or  the abnormal change in the nature of a tissue may explain endometriosis. Metaplasia commonly occurs as a response to inflammation. The process allows for cells to alter themselves to adapt better to their environment. This may explain the appearance of endometriosis on the lungs and skin and in women with no womb. While this theory seems logical,  it has been difficult to support <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">scientifically</a>.
+
+**Homeobox Genes** 
+
+Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. HOX gene mutations  and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/
+
+Studies have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior  that causes the disease later on. https://www.ncbi.nlm.nih.gov/pubmed/10325287 
+
+Dr. David Redwine, a leading researcher and excision specialist, suggested an embryologic origin some 30 years ago due to the presence of endometriosis in fetuses. 
+
+
+
+In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialist speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
