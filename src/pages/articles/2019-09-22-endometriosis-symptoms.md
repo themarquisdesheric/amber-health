@@ -2,16 +2,14 @@
 templateKey: article
 title: Endometriosis Symptoms
 date: 2019-09-22T17:33:31.873Z
-description: >-
-  What to learn when you’re first diagnosed with endometriosis and where to find
-  accurate information
+description: 'What to learn when you’re first diagnosed with endometriosis '
 featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
   - endo
   - women's health
 ---
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This article and site are dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
+Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
 For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
@@ -34,7 +32,7 @@ This part two of the series on Endometriosis. **(maybe add that tag to drop it d
 * Fatigue
 * Possible Comorbidities: <a href="https://www.ncbi.nlm.nih.gov/pubmed/22442736" target="_blank" rel="noopener noreferrer">Migraines</a>, Fibromyalgia, Allergies, Asthma, <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Hypothyroidism</a>, and <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">Chronic Diseases</a>
 
-<blockquote>A common myth is that endometriosis only affects a patient during their period– while this may be the case for some patients, for most patients the pain affects them both during and outside their period. <cite><a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">
+<blockquote>A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. <cite><a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">
 
 \-Vital Health Endometriosis Center </a>  </cite></blockquote>
 
@@ -44,19 +42,20 @@ To further complicate the presentation of symptoms, endometriosis is found to ha
 
 <blockquote>Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. <cite>
 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">-M. Kvaskoff </a>  </cite></blockquote>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">
+
+\-M. Kvaskoff </a>  </cite></blockquote>
 
 When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endo and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in my article, **Endometriosis Treatments (add link).**
 
 <h3>Key facts to keep in mind as you seek care</h3>
 
-* Be wary of providers who believe your pain and symptoms must relate to your menses since this not accurate. 
-* Endo and its related conditions manifest as a uniquely challenging presentation in each patient so no two endo patients have the same symptoms and comorbidities. 
-* Do not accept a dismissal of your specific, personal symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
+* Be wary of providers who believe your pain and symptoms must relate to your menses. This is not accurate for most patients. 
+* Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. 
+* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care.
 
-While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes
-](/articles/2019-09-24-endometriosis-potential-causes/)the current theories are examined. 
+While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/) the main theories are examined. 
 
 <h3>Endo Series Table of Contents</h3>
 
