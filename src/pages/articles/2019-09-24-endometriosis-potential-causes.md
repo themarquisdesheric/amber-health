@@ -1,6 +1,6 @@
 ---
 templateKey: article
-title: 'Endometriosis: Potential Causes'
+title: Endometriosis Potential Causes
 date: 2019-09-24T21:16:55.520Z
 description: 'Learn more about the current theories on the cause(s) of endometriosis '
 featuredimage: /img/sonjiawpom-1.jpg
