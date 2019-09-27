@@ -2,7 +2,7 @@
 templateKey: article
 title: Endometriosis Symptoms
 date: 2019-09-22T17:33:31.873Z
-description: 'What to learn when you’re first diagnosed with endometriosis '
+description: 'What are the symptoms of endometriosis '
 featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
