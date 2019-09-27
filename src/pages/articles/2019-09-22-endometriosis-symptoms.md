@@ -2,7 +2,7 @@
 templateKey: article
 title: Endometriosis Symptoms
 date: 2019-09-22T17:33:31.873Z
-description: 'What are the symptoms of endometriosis '
+description: 'What to learn when you’re first diagnosed with endometriosis '
 featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
@@ -13,7 +13,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
-This part two of the series on Endometriosis. **(maybe add that tag to drop it down to table of contents)**
+This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
