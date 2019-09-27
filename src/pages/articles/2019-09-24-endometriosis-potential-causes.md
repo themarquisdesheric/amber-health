@@ -1,6 +1,6 @@
 ---
 templateKey: article
-title: Endometriosis Potential Causes
+title: 'Endometriosis: Potential Causes'
 date: 2019-09-24T21:16:55.520Z
 description: 'Learn more about the current theories on the cause(s) of endometriosis '
 featuredimage: /img/sonjiawpom-1.jpg
@@ -77,6 +77,6 @@ Without question, there are various additional factors that contribute to diseas
 
 </blockquote>
 
-In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialist speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
+In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialists speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
 
 Table of Contents
