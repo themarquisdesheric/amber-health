@@ -24,18 +24,16 @@ Due to prevailing misinformation, healthcare providers are often not knowledgeab
 
 <h3>Laparoscopy + Biopsy Specimens</h3>
 
-This the only <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">definitive diagnostic tool</a> for confirming endometriosis! Laparoscopy is also considered the gold standard of treatment for the disease.
+This the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis! Laparoscopy is also considered the gold standard of treatment for the disease.
 
 <h3>Lab Testing</h3>
 
-Lab testing cannot be used to test for endometriosis. For example, a patient cannot have their blood, urine, or saliva tested to confirm the disease. 
+Lab testing <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">cannot be used</a>  to test for endometriosis. For example, a patient cannot have their blood, urine, or saliva tested to confirm the disease. There are currently <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">no known diagnostic biomarkers</a>that can be used to diagnose endometriosis. While there have been over 50 biomarkers studied, none have had universal success. There is continued interest in this field with recent research emerging on possible markers including <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">anti-mullerian hormone (AMH)</a>  and concurrent measurements of CA125, syntaxin-5 and laminin-1. Further studies are needed to know if these are useful markers in diagnosing endometriosis. 
 
-Endo found 
+<h3>Imaging Testing</h3>
 
-There are currently no known diagnostic biomarkers
+Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">cannot be used for diagnosis</a>. Imaging testing includes computed tomography (CT), magnetic resonance imaging (MRI), and ultrasounds. While diagnostic testing can be helpful for presurgical planning, they do not provide clear evidence of endometriosis and cannot be used to confirm the disease. Due to misinformed healthcare providers, it is common to have a pelvic ultrasound and MRI before undergoing laparoscopic surgery. 
 
- that can be used to diagnose endometriosis. While there have been over 50 biomarkers studied, none have had universal success. There is continued interest in this field with recent research emerging on possible markers including anti-mullerian hormone (AMH)
+<h3>Clinical Diagnosis</h3>
 
-(endofound) 
-
-and concurrent measurements of CA125, syntaxin-5 and laminin-1. Further studies are needed to know if these are useful markers in diagnosing endometriosis.
+There has been an increased interest in accepting and treating a clinical diagnosis of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">unproven endometriosis</a>. While avoiding surgery would be ideal for many patients, medical treatment without a definitive diagnosis has its own dangers and <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">limitations</a>. Unfortunately, big pharma has aligned itself with this movement to promote the use of hormonal suppression as “treatment”. There are clear limitations and risks to using hormonal suppression which will be discussed in my next article **Endometriosis Treatments.** Foregoing a diagnosis and using a flawed medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
