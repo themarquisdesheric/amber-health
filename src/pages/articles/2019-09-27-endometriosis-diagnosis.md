@@ -57,3 +57,15 @@ Despite the staggering prevalence of endometriosis and the early onset of sympto
  The lack of knowledge among patients and medical providers is largely to blame. The stigma surrounding menstruation, women’s health issues, and <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">marginalized communities</a> including trans and non-binary individuals keep the many afflicted silent, isolated, and medically neglected. Ableism promotes a <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">normalization of symptoms and pain</a> in society and leads to further dismissal from the medical community.
 
 Other contributing factors to the delay include symptoms suppression through hormones and nondiscriminatory investigation methods. While the use of hormonal suppression can provide symptom relief, the disease will continue to progress and require additional treatments. <a href="https://endometriosis.org/news/research/why-the-diagnostic-delay/" target="_blank" rel="noopener noreferrer">Inadequate diagnostic methods</a> that can not properly identify endometriosis are indiscriminately used. In turn, patients are given inaccurate results, are further dismissed by their doctors, and remain medically neglected.
+
+Importance of Diagnosis
+
+Endometriosis patients on average see 7 doctors, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
+
+https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/
+
+The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive validation in the form of an accurate diagnosis which leads to the appropriate treatment approach and better quality of care. 
+
+Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus
