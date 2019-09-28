@@ -42,7 +42,9 @@ Foregoing a diagnosis and relying on a flawed medical option is <a href="https:/
 
 <blockquote class="blockquote">
 
-Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   <cite>
+Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   
+
+<cite>
 
 <a href="https://www.researchcenter.com" target="_blank" rel="noopener noreferrer">
 
