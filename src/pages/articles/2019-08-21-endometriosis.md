@@ -19,7 +19,19 @@ Endometriosis is a condition in which endometrial-like tissue that is located ou
 
 The endometriosis tissue can be found most commonly on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas, but has been found on every internal structure but <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. Other locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
-The endometriosis tissue contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in  scar tissue and adhesions, which bind organs and tissue together.  
+The endometriosis tissue contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in  scar tissue and adhesions, which bind organs and tissue together.  Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
+
+Endometriosis is thought to be <a href="https://www.ncbi.nlm.nih.gov/pubmed/12650711" target="_blank" rel="noopener noreferrer">estrogen dependent</a>. Studies suggest that local estrogen production might stimulate its growth since lesions contain both estrogen receptors and aromatase, an enzyme responsible for a key step of converting androgens to estrogens.
+
+<blockquote class=”blockquote”>
+
+During the monthly cycle hormones stimulate the endometriosis, causing it to grow, then break down and bleed. This internal bleeding, unlike a period, has no way of leaving the body. This leads to inflammation, pain, and the formation of scar tissue, or adhesions. 
+
+<cite><a href=”https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf” target=”_blank” rel=”noopener noreferrer”>The National Endometriosis Society</a></cite>
+
+</blockquote>
+
+
 
 While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
 
