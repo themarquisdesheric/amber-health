@@ -66,7 +66,7 @@ Endometriosis patients on average see <a href="https://swhr.org/experts-identify
 
 The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive validation in the form of an accurate diagnosis which leads to the appropriate treatment approach and better quality of care. 
 
-<blockquote>
+<blockquote class="blockquote">
 
 Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.  <cite>
 
