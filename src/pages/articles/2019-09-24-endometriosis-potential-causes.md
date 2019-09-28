@@ -47,7 +47,7 @@ The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target
 
 **Genetics**
 
-Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease.
+Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. 
 
 **Environmental Toxins**
 
