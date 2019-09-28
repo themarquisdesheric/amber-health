@@ -30,6 +30,7 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 * Bloating
 * Nausea and Vomiting
 * Fatigue
+* Infertility
 * Possible Comorbidities: <a href="https://www.ncbi.nlm.nih.gov/pubmed/22442736" target="_blank" rel="noopener noreferrer">Migraines</a>, Fibromyalgia, Allergies, Asthma, <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Hypothyroidism</a>, and <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">Chronic Diseases</a>
 
 <blockquote class="blockquote">

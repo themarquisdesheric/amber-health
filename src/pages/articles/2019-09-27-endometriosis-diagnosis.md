@@ -47,7 +47,7 @@ Although recent guidelines for the management of chronic pelvic pain suggest tha
 <cite>
 <a href="https://www.researchcenter.com" target="_blank" rel="noopener noreferrer">
 
-\-Karen Ballard, Ph.D.</a>
+-Karen Ballard, Ph.D.</a>
 
 </cite>
 

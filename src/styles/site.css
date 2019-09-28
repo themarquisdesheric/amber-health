@@ -12,6 +12,7 @@ blockquote {
   margin: 3rem 1rem;
   padding: 6rem 1rem 1rem;
   color: #fff;
+  text-align: justify;
 }
 
 blockquote::before {
@@ -32,4 +33,10 @@ blockquote::before {
 
 .article-content cite a {
   color: #fff;
+}
+
+@media all and (min-width: 768px) {
+  blockquote {
+    padding: 6rem 2rem 1rem;
+  }
 }
