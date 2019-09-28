@@ -27,11 +27,9 @@ Endometriosis is thought to be <a href="https://www.ncbi.nlm.nih.gov/pubmed/1265
 
 During the monthly cycle hormones stimulate the endometriosis, causing it to grow, then break down and bleed. This internal bleeding, unlike a period, has no way of leaving the body. This leads to inflammation, pain, and the formation of scar tissue, or adhesions. 
 
-<cite><a href=”https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf” target=”_blank” rel=”noopener noreferrer”>The National Endometriosis Society</a></cite>
+<cite><a href=”https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf” target=”_blank” rel=”noopener noreferrer”>The Endometriosis Society</a></cite>
 
 </blockquote>
-
-
 
 While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
 
