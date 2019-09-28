@@ -38,7 +38,7 @@ Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/
 
 There has been an increased interest in accepting and treating a clinical diagnosis of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">unproven endometriosis</a>. While avoiding surgery would be ideal for many patients, medical treatment without a definitive diagnosis has its own dangers and <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">limitations</a>. Unfortunately, big pharma has aligned itself with this movement to promote the use of hormonal suppression as “treatment”. There are clear limitations and risks to using hormonal suppression which will be discussed in my next article **Endometriosis Treatments.** Foregoing a diagnosis and using a flawed medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 
-<blockquote>
+<blockquote class="blockquote">
 
 Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   <cite>
 
