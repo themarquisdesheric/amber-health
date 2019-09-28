@@ -10,7 +10,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
-For an introduction to endometriosis please read my article Endometriosis 101. **Tag**
+For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This Part of my series on Endometriosis. (**tag to TOC**)
 
@@ -36,7 +36,9 @@ Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/
 
 <h3>Clinical Diagnosis</h3>
 
-There has been an increased interest in accepting and treating a clinical diagnosis of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">unproven endometriosis</a>. While avoiding surgery would be ideal for many patients, medical treatment without a definitive diagnosis has its own dangers and <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">limitations</a>. Unfortunately, big pharma has aligned itself with this movement to promote the use of hormonal suppression as “treatment”. There are clear limitations and risks to using hormonal suppression which will be discussed in my next article **Endometriosis Treatments.** Foregoing a diagnosis and using a flawed medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
+There has been an increased interest in accepting and treating a clinical diagnosis of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">unproven endometriosis</a>. While avoiding surgery would be ideal for many patients, medical treatment without a definitive diagnosis has its own dangers and <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">limitations</a>. Unfortunately, big pharma has aligned itself with this movement to promote the use of hormonal suppression as “treatment”. There are clear limitations and risks to using hormonal suppression which will be discussed in my next article 
+[Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
+Foregoing a diagnosis and relying on a flawed medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 
 <blockquote class="blockquote">
 
@@ -44,7 +46,7 @@ Although recent guidelines for the management of chronic pelvic pain suggest tha
 
 <a href="https://www.researchcenter.com" target="_blank" rel="noopener noreferrer">
 
-\-K. Ballard</a>
+\-Karen Ballard, Ph.D.</a>
 
 </cite>
 
@@ -58,14 +60,22 @@ Despite the staggering prevalence of endometriosis and the early onset of sympto
 
 Other contributing factors to the delay include symptoms suppression through hormones and nondiscriminatory investigation methods. While the use of hormonal suppression can provide symptom relief, the disease will continue to progress and require additional treatments. <a href="https://endometriosis.org/news/research/why-the-diagnostic-delay/" target="_blank" rel="noopener noreferrer">Inadequate diagnostic methods</a> that can not properly identify endometriosis are indiscriminately used. In turn, patients are given inaccurate results, are further dismissed by their doctors, and remain medically neglected.
 
-Importance of Diagnosis
+<h3>Importance of Diagnosis</h3>
 
-Endometriosis patients on average see 7 doctors, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
-
-https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/
+Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer"> 7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
 
 The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive validation in the form of an accurate diagnosis which leads to the appropriate treatment approach and better quality of care. 
 
-Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.
+<blockquote>
 
-https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus
+Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.  <cite>
+
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">
+
+\- Karen Ballard, Ph.D.
+
+</a>  </cite>
+
+</blockquote>
+
+Table of Contents

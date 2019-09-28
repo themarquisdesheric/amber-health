@@ -51,7 +51,7 @@ Genetics may play a role in developing endometriosis. There is a <a href="https:
 
 **Environmental Toxins**
 
-Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, immune system, endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research studies <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
+Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, immune system, endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
 
 **Halban’s Theory of Lymphatic Spread**
 
@@ -79,4 +79,4 @@ Without question, there are various additional factors that contribute to diseas
 
 In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Researchers and specialists speculate that it likely takes a variety of factors described in each theory to cause endometriosis.
 
-Table of Contents
+**Table of Contents**
