@@ -27,7 +27,7 @@ Endometriosis is thought to be <a href="https://www.ncbi.nlm.nih.gov/pubmed/1265
 
 During the monthly cycle hormones stimulate the endometriosis, causing it to grow, then break down and bleed. This internal bleeding, unlike a period, has no way of leaving the body. This leads to inflammation, pain, and the formation of scar tissue, or adhesions. 
 
-<cite><a href=”https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf” target=”_blank” rel=”noopener noreferrer”>The Endometriosis Society</a></cite>
+<cite><a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">The Endometriosis Society</a></cite>
 
 </blockquote>
 
