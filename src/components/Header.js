@@ -26,7 +26,6 @@ Links.propTypes = {
   mobile: bool
 };
 
-// * fix element flashing on load issue
 const MobileMenu = ({ links, visible }) => (
   <div 
     className={`mobile-nav overflow-hidden h-auto averia-font text-center text-sm ${visible ? 'border-b' : ''} sm:hidden`} 
@@ -57,7 +56,7 @@ HamburgerMenu.propTypes = {
 
 
 const NavLinks = ({ links }) => (
-  <div className="hidden averia-font sm:block">
+  <div className="averia-font hidden tracking-widest sm:block">
     <Links links={links} />
   </div>
 );
@@ -75,26 +74,10 @@ const Header = () => {
     <header className="border-b">
       <MobileMenu links={links} visible={visible} />  
       <div className="navbar flex items-center justify-between h-16 px-6">
-        <h1 className="header text-md m-0">
-          <Link to="/" title="Logo" className="flex items-center">
-            <img src="/img/logo-80.png" alt="amberhealth pomegranate logo" className="mr-2 sm:w-10" width="32" />
-            <span className="l-1">a</span>
-            <span className="l-2">m</span>
-            <span className="l-3">b</span>
-            <span className="l-4">e</span>
-            <span className="l-5">r</span>
-            <img 
-              src="/img/logo-80.png" 
-              alt="amberhealth pomegranate logo" 
-              className="mx-1 l-6" 
-              style={{ width: '5px' }} 
-            />
-            <span className="l-7">h</span>
-            <span className="l-8">e</span>
-            <span className="l-9">a</span>
-            <span className="l-10">l</span>
-            <span className="l-11">t</span>
-            <span className="l-12">h</span>
+        <h1 className="header text-md m-0 relative">
+          <Link to="/" title="Logo" className="flex items-center text-lg">
+            <img  src="/img/logo-80.png" alt="amberhealth pomegranate logo" className="mr-2 sm:w-10" width="32" />
+            the chronic
           </Link>
         </h1>
         <nav className="text-sm">
