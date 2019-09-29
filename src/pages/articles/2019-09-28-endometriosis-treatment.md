@@ -1,6 +1,6 @@
 ---
 templateKey: article
-title: Endometriosis Treatment
+title: Endometriosis Treatments
 date: 2019-09-28T18:20:35.143Z
 description: >-
   Learn about the available treatments for endometriosis and the importance of a
