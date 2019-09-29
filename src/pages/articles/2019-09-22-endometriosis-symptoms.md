@@ -67,25 +67,16 @@ When approaching medical treatment and care, it’s important to understand that
 
 While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/) the main theories are examined. 
 
-<h3>Endo Series Table of Contents</h3>
+<h3 class="table-of-contents">Endo Series Table of Contents</h3>
 
-[Endometriosis 101](/articles/2019-08-21-endometriosis/)
-
-[Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
-
-[Endometriosis Potential Causes
-](/articles/2019-09-24-endometriosis-potential-causes/)
-
-How is it Diagnosed?
-
-What are the Treatment options?\
-Finding a Specialist\
-Holistic Natural Approaches
-
-Online Resources
-
-[Books](/articles/2019-09-17-books-for-endometriosis/)
-
-Support
-
-More Resources
+* [Endometriosis 101](/articles/2019-08-21-endometriosis/)
+* [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
+* [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/)
+* How is it Diagnosed?
+* What are the Treatment options?
+* Finding a Specialist
+* Holistic Natural Approaches
+* Online Resources
+* [Books](/articles/2019-09-17-books-for-endometriosis/)
+* Support
+* More Resources
