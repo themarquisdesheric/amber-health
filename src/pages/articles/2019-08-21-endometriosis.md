@@ -65,68 +65,7 @@ Incorrectly labeled as hysteria, women's health has been marginalized since the 
 
 While the disease mechanism remains largely a mystery, we must use the information that we know to spread awareness, fund research, and promote understanding in the medical community. Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
-## What are the Symptoms?
-
-* Pain with Menstruation
-* Pelvic Pain
-* Abdominal Pain
-* Lower Back Pain
-* Leg Pain
-* Cyclical Pain
-* Pain in Bowel and Bladder
-* Bladder and Bowel Dysfunction
-* Pain with Sex, Dyspareunia
-* Pain with Vaginal Penetration  
-* Bloating
-* Nausea and Vomiting
-* Fatigue
-* Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Diseases](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
-
-> Endometriosis is much more than simple, so-called 'killer cramps,' as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature. Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
->
-> \-Center for Endometriosis Care
->
-> Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
->
-> \-Gary, Ray (2005). [Laparoscopic excision of endometriosis: the treatment of choice?](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x) BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
->
-> While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
->
-> \-Vital Health Endometriosis Center 
-
-## What are the Potential Causes?
-
-> Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
->
-> * Retrograde menstruation– Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
-> * Immunologic dysfunction– a 'broken' immune system allows for implantation of menstrual debris
-> * Stem Cells– have been demonstrated to populate lesions, even in absence of menstruation
-> * Genetics– a 7-10 fold risk exists in those whose mother or relative has disease
-> * Environmental Toxins– can cause cell changes which allow for implantation and errant immune response
->
-> No single theory explains endometriosis in all patients, particularly in (cis) males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
->
-> \-Endometriosis Research Center
-
-Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), reviews over 200 articles on endometriosis. Dr. Martin found,
-
-> No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read.
-
-## How is it Diagnosed?
-
-Due to prevailing myths and misinformation, providers are often not knowledgable about which procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
-
-> Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
->
-> \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
->
-> **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
->
-> **Imaging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
->
-> **The big issue at hand:** It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
->
-> \-The Endometriosis Foundation of America (EndoFound)
+## 
 
 ## What are the Treatment options?
 
