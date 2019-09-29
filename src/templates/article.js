@@ -27,7 +27,7 @@ export const ArticleTemplate = ({
             {title}
           </h1>
           <p className="italic pb-8" style={{ marginBottom: '3rem' }}>{description}</p>
-          <PostContent content={content} className="article-content" />
+          <PostContent content={content} className="article-content flex flex-col items-center" />
           {tags && tags.length ? (
             <ul className="tags mt-16">
               {tags.map(tag => (

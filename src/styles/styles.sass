@@ -6,12 +6,12 @@ $theme-light: rgba($theme, .5)
 
 body  
   margin: 0
-  font-family: 'Lato', sans-serif
+  font-family: "Lato", sans-serif
 
 // HEADER
 .header,
 .averia-font a
-  font-family: 'Averia Serif Libre', sans-serif
+  font-family: "Averia Serif Libre", sans-serif
 
 .mobile-nav 
   transition: max-height 0.3s ease-out
@@ -46,32 +46,25 @@ body
     border-bottom: 1px dotted $theme-light
 
   h1 + p::after
-    background-image: url(/img/logo-80.png)
-    background-color: $white
-    background-size: contain
-    background-repeat: no-repeat
-    background-position: center
+    background: no-repeat center / contain $white url(/img/logo-80.png)
     display: inline-block
-    content: ''
+    content: ""
     vertical-align: baseline
     width: 3rem
     height: 2rem
     position: absolute
     bottom: -1rem
-    left: calc(50% - 1rem)
+    left: calc(50% - 1.5rem)
 
   ul:not(.tags),
   ol
     padding-left: 1rem
     margin: 1rem 0
 
-  li
+  li:not(.tag)
     padding-left: 1.5rem
     padding-bottom: 1rem
     position: relative
-    
-    &::before
-      right: .5rem
 
   p + ul,
   h2 + ul,
@@ -83,6 +76,7 @@ body
   h3
     font-weight: 600
     padding: 1rem 0
+    width: 100%
 
   h2
     font-size: 1.5rem
@@ -100,6 +94,9 @@ body
     color: $theme
     text-shadow: -1px -1px 0 $black, 1px -1px 0 $black, -1px 1px 0 $black, 1px 1px 0 $black
   
+  p
+    width: 100%
+
   a
     text-decoration: underline
     color: $theme
@@ -110,9 +107,7 @@ body
 
 .topics a::before,
 li:not(.tag)::before
-  background-image: url(/img/favicon-32.png)
-  background-size: contain
-  background-repeat: no-repeat
+  background: no-repeat center / contain url(/img/favicon-32.png)
   content: ""
   display: inline-block
   vertical-align: baseline
@@ -136,10 +131,10 @@ li:not(.tag)::before
   text-align: center
   white-space: nowrap
 
-.tag:hover,
+.tag:hover
   border-color: $theme
   color: $theme
-
+  
 // CONTACT
 .contact .breadcrumbs
   a:hover
@@ -158,7 +153,7 @@ form
     margin-bottom: .5rem
 
   input,
-  textarea,
+  textarea
     width: 100%
     padding: .5rem .75rem
     border-radius: 4px
@@ -201,7 +196,7 @@ form
 nav a:hover,
 .breadcrumbs a:hover,
 ul a:hover,
-.browse-all-tags a:hover,
+.browse-all-tags a:hover
   color: $theme
 
 .full-width-image 

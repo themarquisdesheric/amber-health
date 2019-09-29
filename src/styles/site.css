@@ -4,7 +4,7 @@
 
 @tailwind utilities;
 
-/* no clue why blockquote styling doesn't work in site.css */
+/* still trying to figure out why the below styles won't work in site.css */
 blockquote {
   position: relative;
   background: rgba(179, 86, 75, 0.5);
@@ -33,6 +33,10 @@ blockquote::before {
 
 .article-content cite a {
   color: #fff;
+}
+
+.table-of-contents {
+  text-align: center;
 }
 
 @media all and (min-width: 768px) {
