@@ -59,9 +59,7 @@ Incorrectly labeled as hysteria, women's health has been marginalized since the 
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endo care is even more stark. Anyone with a uterus regardless of identity, menstruators, non menstruators, and (rarely) cis men can have the disease. Incorrectly, trans and non binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
-<blockquote class=”blockquote”>
-
-Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
+<blockquote class=”blockquote”>Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
 </blockquote>
 
