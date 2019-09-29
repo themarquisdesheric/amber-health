@@ -40,7 +40,7 @@ There has been an increased interest in accepting and treating a clinical diagno
 [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
 Foregoing a diagnosis and relying on a flawed medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 
-<blockquote class="blockquote">
+<blockquote>
 
 Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   
 
@@ -67,7 +67,7 @@ Endometriosis patients on average see <a href="https://swhr.org/experts-identify
 
 The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive validation in the form of an accurate diagnosis which leads to the appropriate treatment approach and better quality of care. 
 
-<blockquote class="blockquote">
+<blockquote>
 
 Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.  
 

@@ -17,10 +17,11 @@ This Part of my series, Endometriosis (tag to bottom table of contents)
 
 <h2>What are the Potential Causes?</h2>
 
-<blockquote class="blockquote">
+<blockquote>
 
-Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though a demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. <cite>
+Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though a demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. 
 
+<cite>
 <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a>  </cite>
 
 </blockquote>
@@ -65,7 +66,7 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior  that causes the disease later on. Dr. David Redwine, a leading researcher and excision specialist, suggested an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
-<blockquote class="blockquote">
+<blockquote>
 Without question, there are various additional factors that contribute to disease pathophysiology and pathogenesis. Propagation of outdated myths and misinformation, and the continued research positioning of endometriosis as normal endometrium, keeps the disease mired in outdated concepts, hysterectomy, failed drug therapy, and incomplete treatment.  
 
 <cite>

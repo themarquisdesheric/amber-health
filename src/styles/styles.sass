@@ -2,6 +2,7 @@ $black: #000
 $white: #fff
 $lightgray: #e2e8f0
 $theme: #b3564b
+$theme-light: rgba($theme, .5)
 
 body  
   margin: 0
@@ -14,7 +15,7 @@ body
 
 .mobile-nav 
   transition: max-height 0.3s ease-out
-  background: rgba($theme, 0.5)
+  background: $theme-light
 
 .mobile-nav a
   display: block
@@ -42,7 +43,7 @@ body
 
   h1 + p
     position: relative
-    border-bottom: 1px dotted rgba($theme, .5)
+    border-bottom: 1px dotted $theme-light
 
   h1 + p::after
     background-image: url(/img/logo-80.png)
@@ -109,17 +110,17 @@ body
 
 .topics a::before,
 li:not(.tag)::before
-    background-image: url(/img/favicon-32.png)
-    background-size: contain
-    background-repeat: no-repeat
-    content: ""
-    display: inline-block
-    vertical-align: baseline
-    width: 1em
-    height: 1em
-    position: absolute
-    left: 0
-    top: 4px
+  background-image: url(/img/favicon-32.png)
+  background-size: contain
+  background-repeat: no-repeat
+  content: ""
+  display: inline-block
+  vertical-align: baseline
+  width: 1em
+  height: 1em
+  position: absolute
+  left: 0
+  top: 4px
 
 .tag
   display: inline-flex
@@ -188,7 +189,7 @@ form
   min-height: calc(100vh - 64px)
 
   &.contact
-    background-color: $theme
+    background-color: $theme-light
     color: $white
 
 .content  
