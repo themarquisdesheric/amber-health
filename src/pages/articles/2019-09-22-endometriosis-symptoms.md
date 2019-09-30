@@ -48,8 +48,7 @@ Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154
 
 <blockquote class="blockquote">The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">
--Nuffield Department of Obstetrics and Gynaecology</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Dr. Georgina Jones \[BA (Hons), MA, D.Phil]</a></cite>
 
 </blockquote>
 
