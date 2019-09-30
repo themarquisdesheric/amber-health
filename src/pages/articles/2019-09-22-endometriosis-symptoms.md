@@ -17,6 +17,8 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
+Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily</a> lives and are characterized by physical limitations that significantly disrupt health and work performance.
+
 * Pain with Menstruation
 * Pelvic Pain
 * Abdominal Pain
@@ -38,7 +40,8 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 
 <cite><a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">
-\-Vital Health Endometriosis Center </a></cite>
+-Vital Health Endometriosis Center </a></cite>
+
 </blockquote>
 
 Endometriosis is often improperly described as bad cramps and incorrectly associated with menses. This couldn’t be further from the truth for many patients. While some will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature. For example, some patients will only have pain and dysfunction surrounding their ovulation and menstruation. More commonly, a patient will experience <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer"> daily symptoms </a> that intensify and become further debilitating over time. On the other hand, there are patients who remain completely asymptomatic despite having the disease. There is a poor correlation between the stage of the disease and the severity of the symptoms. Due to the <a href="https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x" target="_blank" rel="noopener noreferrer">varying presentations</a> and symptoms, no two patients present with the same symptoms or comorbidities. 
