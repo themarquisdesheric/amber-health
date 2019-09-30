@@ -49,7 +49,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 <blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
-<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">Endometriosis Research Center</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Dr Georgina Jones \[BA (Hons), MA, D.Phil]</a></cite>
 
 </blockquote>
 
