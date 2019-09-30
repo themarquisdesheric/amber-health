@@ -15,23 +15,19 @@ This is Part One of my Endometriosis Series **(tag to table contents).**
 
 <h2>What is Endometriosis?</h2>
 
-Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The endometriosis tissue is different than the endometrium which lines the uterus and is shed during a period. This is an <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">important distinction</a> since the tissues behave differently and aren’t structurally the same. Many doctors and resources improperly define the tissue as being identical which is not only inaccurate but also problematic when trying to understand the disease mechanisms at play.
+Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">endometriosis tissue is different than the endometrium</a> which lines the uterus and is shed during a period. This is an important distinction since the tissues behave differently and aren’t structurally the same. Many doctors and resources improperly define the tissue as being identical which is not only inaccurate but also problematic when trying to understand the disease mechanisms at play.
 
-<blockquote class=”blockquote”>
+<blockquote class=”blockquote”>Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally and behave differently from the normal endometrium which is shed during a period.  
 
-Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally and behave differently from the normal endometrium which is shed during a period.  
-
-<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">Endometriosis Research Center</a></cite>
+<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">-Endometriosis Research Center</a></cite>
 
 </blockquote>
 
 Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas. Endometriosis has been found on every internal structure except for <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. When endometriosis is located outside of the reproductive organs it's classified as extra-pelvic. While endometriosis has been found in all 11 systems of the body, the majority of <a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">extra-pelvic endometriosis </a> is found in the digestive, urinary, respiratory and skin systems. Examples of these locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
-<blockquote class=”blockquote”>
+<blockquote class=”blockquote”>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
 
-Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
-
-<cite><a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">Extra Pelvic Not Rare</a></cite>
+<cite><a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">-Extra Pelvic Not Rare</a></cite>
 
 </blockquote>
 
@@ -41,23 +37,27 @@ Endometriosis is thought to be <a href="https://www.ncbi.nlm.nih.gov/pubmed/1265
 
 While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
 
-Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endo patients often experience chronic, severe, and debilitating  pain and symptoms that significantly deteriorated <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has negative social, mental, socioeconomic, legal, and political implications. 
+Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endometriosis patients often experience chronic, severe, and debilitating  pain and symptoms that significantly deteriorated <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has negative social, mental, socioeconomic, legal, and political implications. 
 
-<blockquote class=”blockquote”>
+<blockquote class=”blockquote”>Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected. Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.  
 
-Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected. Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.  
+<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">-Endometriosis Research Center</a></cite>
+
+</blockquote>
+
+<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found at [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
+
+<blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
 <cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">Endometriosis Research Center</a></cite>
 
 </blockquote>
 
-<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. Endometriosis symptoms commonly have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> that affects daily functioning, social relationships, and work performance. A more detailed look at symptoms can be found at [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
-
 Currently it's estimated that 176 million people worldwide are affected. While it largely affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
 Incorrectly labeled as hysteria, women's health has been marginalized since the beginning of medicine. Gender bias in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and female pain has damned it to be dismissed by society. 
 
-<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endo care is even more stark. Anyone with a uterus regardless of identity, menstruators, non menstruators, and (rarely) cis men can have the disease. Incorrectly, trans and non binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
+<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endo care is even more stark. Anyone with a uterus regardless of identity, menstruators, and non-menstruators can have the disease. Incorrectly, trans and non binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
 <blockquote class=”blockquote”>Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
