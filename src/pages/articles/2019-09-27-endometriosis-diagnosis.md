@@ -80,11 +80,21 @@ Only through early intervention can we reduce the associated morbidity, infertil
 
 </blockquote>
 
-Additional factors that contribute to the delay include symptom suppression through hormones and nondiscriminatory investigation methods. While the use of hormonal suppression can provide symptom relief, the **disease will continue to progress** and require additional treatments, especially once suppression has been stopped. <a href="https://endometriosis.org/news/research/why-the-diagnostic-delay/" target="_blank" rel="noopener noreferrer">Inadequate diagnostic methods</a> that can not properly identify endometriosis are indiscriminately used. In turn, patients are given inaccurate results, are further dismissed by their doctors, and remain medically neglected.
+Additional factors that contribute to the delay include symptom suppression through hormones and nondiscriminatory investigation methods. While the use of hormonal suppression can provide symptom relief, the <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">disease will continue to progress</a> and require additional treatments, especially once suppression has been stopped. <a href="https://endometriosis.org/news/research/why-the-diagnostic-delay/" target="_blank" rel="noopener noreferrer">Inadequate diagnostic methods</a> that can not properly identify endometriosis are indiscriminately used. In turn, patients are given inaccurate results, are further dismissed by their doctors, and remain medically neglected.
 
 <h3>Importance of Diagnosis</h3>
 
-Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer"> 7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. **ADD INFO on QOL lost**
+Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer"> 7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
+
+Studies have shown that **endometriosis symptoms (add)** have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily</a> lives and are characterized by physical limitations that significantly disrupt health and work performance.
+
+<blockquote class=”blockquote”>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">- Karen Ballard, Ph.D.</a></cite>
+
+</blockquote>
+
+
 
 The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive an early and accurate diagnosis which leads to the appropriate treatment approach and better quality of life. 
 
