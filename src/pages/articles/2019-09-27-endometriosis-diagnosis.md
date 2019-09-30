@@ -90,7 +90,7 @@ Studies have shown that **endometriosis symptoms (add)** have a <a href="https:/
 
 <blockquote class=”blockquote”>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">- School of Health and Policy Studies, University of Central England</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">-Elaine Denny BSc, MA, PhD, RN</a></cite>
 
 </blockquote>
 
