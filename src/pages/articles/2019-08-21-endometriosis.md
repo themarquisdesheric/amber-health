@@ -65,7 +65,7 @@ Incorrectly labeled as hysteria, women's health has been marginalized since the 
 
 While the disease mechanism remains largely a mystery, we must use the information that we know to spread awareness, fund research, and promote understanding in the medical community. Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
-## 
+Table of Contents 
 
 ## What are the Treatment options?
 
