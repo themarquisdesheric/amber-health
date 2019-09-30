@@ -35,7 +35,7 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 
 Endometriosis is often improperly described as bad cramps and is incorrectly associated with menses. This couldn’t be further from the truth for many patients. While some will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature.
 
-<blockquote>A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
+<blockquote class="blockquote">A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 
 <cite><a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">
 -Vital Health Endometriosis Center </a></cite>
@@ -46,18 +46,20 @@ For example, some patients will only have pain and dysfunction surrounding their
 
 Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
 
+<blockquote class="blockquote">The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">
+-Nuffield Department of Obstetrics and Gynaecology</a></cite>
+
+</blockquote>
+
 To further complicate the presentation of symptoms, endometriosis is found to have many comorbidities, or related conditions. Possible <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> include migraines, asthma, allergies, hypothyroidism, chronic pain, fibromyalgia, chronic fatigue syndrome, rheumatoid arthritis, lupus, and multiple sclerosis. Since endometriosis is commonly located in the pelvic cavity chronic pelvic pain is another significant comorbidity. Pelvic structures including the bowel and bladder are often affected. Tellingly called the “<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043443/" target="_blank" rel="noopener noreferrer">evil twins</a>”, endometriosis is commonly associated with interstitial cystitis or painful bladder syndrome. 
 
 Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">higher risk</a> of ovarian and breast cancers and some autoimmune, cardiovascular, and atopic diseases. There is no current explanation or understanding in how these conditions overlap but the prevalence is significant. Further research is needed to understand the connection between these conditions. 
 
-<blockquote>
+<blockquote class="blockquote">Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. 
 
-Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. 
-
-<cite>
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">
-
-\-M. Kvaskoff </a>  </cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">-Marina Kvaskoff M.P.H., Ph.D.</a></cite>
 
 </blockquote>
 
