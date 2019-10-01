@@ -50,4 +50,11 @@ Unfortunately, the bulk of the burden falls on the patient to pursue these servi
 
 Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 
-As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. The following sections will provide a detailed look at many of the available treatments for endometriosis.
+As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. The following sections will provide a detailed look at many of the available treatments for endometriosis. 
+
+* Surgery: Excision vs Ablation 
+* Hormonal Therapy
+* Alternative Therapies
+* Pain Management
+
+<h2>Surgery</h2>
