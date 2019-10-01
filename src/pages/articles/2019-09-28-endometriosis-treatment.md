@@ -44,8 +44,10 @@ Receiving long term care from a variety of specialists can become extremely cost
 
 Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care and/or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
 
-<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centres is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss, and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
+<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centres is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss, and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD</a></cite>
 
 </blockquote>
 
-Clearly the hurdles to care are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. Due to the pol
+Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
+
+As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. The following sections will provide a detailed look at many of the available treatments for endometriosis.
