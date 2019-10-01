@@ -44,6 +44,8 @@ Receiving long term care from a variety of specialists can become extremely cost
 
 Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care and/or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
 
-<blockquote class="blockquote"> The care women can get varies massively around the world and within countries, and is often dependent on what they can afford. In the US, insurance companies pay the same amount for any endometriosis surgery, regardless of the method or extent of the disease or the specialization of the doctor.<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
+<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centres is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss, and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
 
 </blockquote>
+
+Clearly the hurdles to care are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. Due to the pol
