@@ -22,7 +22,7 @@ Currently there is no cure or preventative treatment for endometriosis. There ar
 
 <blockquote class="blockquote">The current system’s inability to adequately address endometriosis pain symptoms often results in the emergence of broader functional sequela and psychological impact. The ability to address these broader impacts is crucial and certainly requires a more comprehensive, multidisciplinary approach to care. 
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal MD, FACOG</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal, MD, FACOG</a></cite>
 
 </blockquote>
 
@@ -34,4 +34,16 @@ Specialists agree that <a href="http://centerforendo.com/endometriosis-understan
 
 </blockquote>
 
-Unfortunately, receiving long term care from a variety of specialists can become extremely costly making it inaccessible for many patients. Due to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">an antiquated approach</a> to managing complex chronic diseases, insurance policies do not cover complementary treatments and often healthcare providers do not offer them. For US patients,  ACOG, The American College of Obstetricians and Gynecologists, defines the standard of care for endometriosis and ultimately influences what treatments insurance companies will cover. Despite recent data points, patient outcry, and a pushback from specialists, <a href="https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA" target="_blank" rel="noopener noreferrer">ACOG’s guidelines </a> remain ineffective and outdated and include palliative hormonal medications and ineffective surgeries such as hysterectomies. If ACOG were to recognize excision surgery and the multidisciplinary care approach, insurance companies would be compelled to provide coverage for treatments.
+Receiving long term care from a variety of specialists can become extremely costly making it inaccessible for many patients. Due to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">an antiquated approach</a> to managing complex chronic diseases, insurance policies do not cover complementary treatments and often healthcare providers do not offer them. For US patients,  ACOG, The American College of Obstetricians and Gynecologists, defines the standard of care for endometriosis and ultimately influences what treatments insurance companies will cover. Despite recent data points, patient outcry, and a pushback from specialists, <a href="https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA" target="_blank" rel="noopener noreferrer">ACOG’s guidelines </a> remain ineffective and outdated and include palliative hormonal medications and ineffective surgeries such as hysterectomies. If ACOG were to recognize excision surgery and the multidisciplinary care approach, insurance companies would be compelled to provide coverage for treatments. 
+
+<blockquote class="blockquote"> This (single-provider) model of care for a complex chronic disease without a cure can pose challenges for both patients and care providers. With limited complementary strategies, such as mental health, acupuncture, nutrition, and pelvic physical therapy expertise to comprehensively address the patient’s pain and its consequences, optimal care may not be achieved.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal,  MD, FACOG</a></cite>
+
+</blockquote>
+
+Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care and/or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
+
+<blockquote class="blockquote"> The care women can get varies massively around the world and within countries, and is often dependent on what they can afford. In the US, insurance companies pay the same amount for any endometriosis surgery, regardless of the method or extent of the disease or the specialization of the doctor.<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
+
+</blockquote>
