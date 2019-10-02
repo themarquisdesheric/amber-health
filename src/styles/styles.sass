@@ -134,7 +134,17 @@ li:not(.tag)::before
 .tag:hover
   border-color: $theme
   color: $theme
-  
+
+// INDEX
+.index-wrapper section
+  height: 100vh
+  display: flex
+  justify-content: center
+  align-items: center
+
+  &:first-of-type
+    height: calc(50vh - 65px)
+
 // CONTACT
 .contact .breadcrumbs
   a:hover
@@ -203,6 +213,10 @@ ul a:hover,
   height: 50vh
   background-size: cover
   background-position: center
+
+@media all and (min-width: 375px)
+  .index-wrapper section
+    line-height: 1.625
 
 @media all and (min-width: 550px)
   .tag-tile

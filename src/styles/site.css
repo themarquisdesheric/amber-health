@@ -9,10 +9,11 @@ blockquote {
   position: relative;
   background: rgba(179, 86, 75, 0.5);
   border-radius: .5rem;
-  margin: 3rem 1rem;
+  margin: 3rem 0;
   padding: 6rem 1rem 1rem;
   color: #fff;
   text-align: justify;
+  font-size: 1.125rem;
 }
 
 blockquote::before {
@@ -37,6 +38,12 @@ blockquote::before {
 
 .table-of-contents {
   text-align: center;
+}
+
+@media all and (min-width: 425px) {
+  blockquote {
+    margin: 3rem 1rem;   
+  }
 }
 
 @media all and (min-width: 768px) {
