@@ -15,98 +15,57 @@ This is Part One of my Endometriosis Series **(tag to table contents).**
 
 <h2>What is Endometriosis?</h2>
 
-Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The endometriosis tissue is different than the endometrium which lines the uterus and is shed during a period. This is an <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">important distinction</a> since the tissues behave differently and aren’t structurally the same. Many doctors and resources improperly define the tissue as being identical which is not only inaccurate but also problematic when trying to understand the disease mechanisms at play.
+Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">endometriosis tissue is different than the endometrium</a> which lines the uterus and is shed during a period. This is an important distinction since the tissues behave differently and aren’t structurally the same. Many doctors and resources improperly define the tissue as being identical which is not only inaccurate but also problematic when trying to understand the disease mechanisms at play.
+
+<blockquote class=”blockquote”>Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally and behave differently from the normal endometrium which is shed during a period.  
+
+<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">-Endometriosis Research Center</a></cite>
+
+</blockquote>
 
 Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas. Endometriosis has been found on every internal structure except for <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. When endometriosis is located outside of the reproductive organs it's classified as extra-pelvic. While endometriosis has been found in all 11 systems of the body, the majority of <a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">extra-pelvic endometriosis </a> is found in the digestive, urinary, respiratory and skin systems. Examples of these locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
+
+<blockquote class=”blockquote”>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
+
+<cite><a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">-Extra Pelvic Not Rare</a></cite>
+
+</blockquote>
 
 The endometriosis contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in  scar tissue and adhesions, which bind organs and tissue together.  Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
 
 Endometriosis is thought to be <a href="https://www.ncbi.nlm.nih.gov/pubmed/12650711" target="_blank" rel="noopener noreferrer">estrogen dependent</a>. Studies suggest that local estrogen production might stimulate its growth since lesions contain both estrogen receptors and aromatase, an enzyme responsible for a key step of converting androgens to estrogens.
 
-<blockquote class=”blockquote”>
+While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
 
-During the monthly cycle hormones stimulate the endometriosis, causing it to grow, then break down and bleed. This internal bleeding, unlike a period, has no way of leaving the body. This leads to inflammation, pain, and the formation of scar tissue, or adhesions. 
+Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endometriosis patients often experience chronic, severe, and debilitating  pain and symptoms that significantly deteriorated <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has negative social, mental, socioeconomic, legal, and political implications. 
 
-<cite><a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">The Endometriosis Society</a></cite>
+<blockquote class=”blockquote”>Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected. Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.  
+
+<cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">-Endometriosis Research Center</a></cite>
 
 </blockquote>
 
-While a complete understanding of the disease mechanism remains enigmatic, endometriosis has been observed to alter and affect a wide range of molecular functions. Alterations to immune and endocrine function as well as an increase in adhesion molecules have been found. Interestingly, research has also revealed a widespread metabolic phenotype known as the <a href="https://www.ncbi.nlm.nih.gov/pubmed/26654049" target="_blank" rel="noopener noreferrer"> Warburg effect</a> that has been described in many cancers. 
+<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found at [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
 
-Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endo patients often experience chronic, severe, and debilitating  pain and symptoms that significantly deteriorated <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has negative social, mental, socioeconomic, legal, and political implications. 
+<blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
-<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in my article [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Dr Georgina Jones \[BA (Hons), MA, D.Phil]</a></cite>
 
-Currently its estimated that 176 million people with uteruses are affected. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
+</blockquote>
 
-Incorrectly labeled as hysteria, diseases of the uterus have been marginalized since the beginning of medicine. Gender bias in medicine has historically hindered diagnoses, research, and funding and continues to do so. While endometriosis affects anyone with a uterues, including trans and non-binary individuals, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and female pain has damned it to be dismissed by society. 
+Currently it's estimated that 176 million people worldwide are affected. While it largely affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
-<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endo care is even more stark. Anyone with a uterus regardless of identity, menstruators, non menstruators, and (rarely) cis men can have the disease. Incorrectly, trans and non binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
+Incorrectly labeled as hysteria, women's health has been marginalized since the beginning of medicine. Gender bias in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and female pain has damned it to be dismissed by society. 
+
+<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endo care is even more stark. Anyone with a uterus regardless of identity, menstruators, and non-menstruators can have the disease. Incorrectly, trans and non binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
+
+<blockquote class=”blockquote”>Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
+
+</blockquote>
 
 While the disease mechanism remains largely a mystery, we must use the information that we know to spread awareness, fund research, and promote understanding in the medical community. Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
-## What are the Symptoms?
-
-* Pain with Menstruation
-* Pelvic Pain
-* Abdominal Pain
-* Lower Back Pain
-* Leg Pain
-* Cyclical Pain
-* Pain in Bowel and Bladder
-* Bladder and Bowel Dysfunction
-* Pain with Sex, Dyspareunia
-* Pain with Vaginal Penetration  
-* Bloating
-* Nausea and Vomiting
-* Fatigue
-* Possible Comorbidities: [Migraines](https://www.ncbi.nlm.nih.gov/pubmed/22442736), [Fibromyalgia, Allergies, Hypothyroidism](https://www.ncbi.nlm.nih.gov/pubmed/12351553), [Asthma](https://www.ncbi.nlm.nih.gov/pubmed/23507008), and [Chronic Diseases](https://www.ncbi.nlm.nih.gov/pubmed/25765863)
-
-> Endometriosis is much more than simple, so-called 'killer cramps,' as it is often mistakenly labeled, with symptoms routinely occurring apart from menses at any time of the cycle and, in many instances, becoming chronic in nature. Not all persons with endometriosis will have all symptoms or comorbidities, of course, and no two cases are identical.
->
-> \-Center for Endometriosis Care
->
-> Endometriosis presents with a number of different symptoms and different appearances, and there is a poor correlation between the extent of the disease and the severity of the symptoms. 
->
-> \-Gary, Ray (2005). [Laparoscopic excision of endometriosis: the treatment of choice?](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x) BJOG International Journal of Obstetrics and Gynecology. 104(5), 513-515
->
-> While some patients are relatively symptom-free except for certain times of their cycles (menstruation and ovulation), others are debilitated by pain each and every day of the month. Many patients experience a gradual worsening of symptoms over time, both in severity and in the duration of symptoms i.e., the number of days per month they are affected. A common myth is that endometriosis only affects a patient during their period – while this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
->
-> \-Vital Health Endometriosis Center 
-
-## What are the Potential Causes?
-
-> Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though demonstrated association with a number of hereditary, environmental, epigenetic and menstrual characteristics exist. _No single researcher has found 'the' answer._ The chronic, inflammatory reaction, infertility and pain associated with endometriosis may also correspond to a variety of co-morbid conditions ranging from autoimmune disease to food and environmental allergies and intolerances. Theories include:
->
-> * Retrograde menstruation– Sampson’s century-old theory of abnormal backflow; this does _not_ explain pathogenesis
-> * Immunologic dysfunction– a 'broken' immune system allows for implantation of menstrual debris
-> * Stem Cells– have been demonstrated to populate lesions, even in absence of menstruation
-> * Genetics– a 7-10 fold risk exists in those whose mother or relative has disease
-> * Environmental Toxins– can cause cell changes which allow for implantation and errant immune response
->
-> No single theory explains endometriosis in all patients, particularly in (cis) males with endometriosis and extrapelvic forms of the disease. Likely, we are born with mechanisms which, when later combined – 'the perfect storm' – trigger the disease.
->
-> \-Endometriosis Research Center
-
-Dr. Dan C Martin's paper, [Endometriosis Concepts and Theories](https://www.danmartinmd.com/files/endotheory.pdf), reviews over 200 articles on endometriosis. Dr. Martin found,
-
-> No concept or theory is entirely adequate. It takes eighteen to introduce what I have seen published and many more to discuss what I have read.
-
-## How is it Diagnosed?
-
-Due to prevailing myths and misinformation, providers are often not knowledgable about which procedure is necessary for diagnosis. According to clinical reports, recent studies, and endo specialists the only way to verify endometriosis is via diagnostic laparoscopy with confirmation of biopsy specimens.
-
-> Although the diagnosis can be strongly suspected by history and physical findings, correct diagnosis requires surgery. Laparoscopy is currently the most common method of surgical diagnosis. 
->
-> \-[Dr. David Redwine](http://endopaedia.info/diagnosis12.html)
->
-> **Lab testing does not test for endometriosis:** There is no test for endometriosis, meaning patients cannot have their blood, urine, or saliva tested to confirm the disease. Using anti-mullerian hormone (AMH) as a marker for ovarian reserve and fertility, and in turn, a suspicion for endometriosis, is a connection starting to be proposed amongst the scientific community, but more research is certainly needed to see if this could be employed in labs. It is a subject of study as AMH is the primary hormone released during folliculogenesis, which is the making and releasing of follicular cells that go on to be mature eggs in the ovaries. Thus, it is of great interest to reproductive specialists, with a possible connection to endometriosis.
->
-> **Imaging testing is helpful but not definitive:** Despite popular opinion, clear evidence of endometriosis is not visible through computed tomography (CT), magnetic resonance imaging (MRI), or even ultrasounds.  While imaging tests, pelvic exams, especially rectovaginal exams, can all indicate suspicion of endometriosis, they cannot confirm it. Nevertheless, it is common practice to obtain a pelvic ultrasound and MRI before undergoing laparoscopic surgery for endometriosis.
->
-> **The big issue at hand:** It takes on average 10 years from symptom onset to receive an accurate diagnosis of endometriosis in the United States. This is due to a lack of knowledge among the general public and medical community. Unfortunately, many endometriosis patients are misdiagnosed, often multiple times, leading to unnecessary and inappropriate treatment. This is why it is so crucial to spread further awareness of the disease and support research and funding.
->
-> \-The Endometriosis Foundation of America (EndoFound)
+Table of Contents 
 
 ## What are the Treatment options?
 

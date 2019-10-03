@@ -30,6 +30,15 @@ The etiology of endometriosis is complex and not completely understood. There ar
 
 A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms </a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
 
+<blockquote>
+
+No single theory explains endometriosis in all patients. Likely, we are born with mechanisms which, when later combined, 'the perfect storm' trigger the disease.
+
+<cite>
+<a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a>  </cite>
+
+</blockquote>
+
 Since there are many theories in circulation, this article examines several of the current ones for a better understanding of the possible cause(s) of endometriosis.
 
 <h3>Etiology Theories</h3>

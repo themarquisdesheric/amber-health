@@ -39,7 +39,7 @@ export const IndexPageTemplate = ({
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>guide for navigating a broken healthcare system</p>
+          <p>your guide for navigating a broken healthcare system</p>
         </div>
         <div style={{ background: '#f00', color: '#fff' }}>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
