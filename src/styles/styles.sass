@@ -1,18 +1,16 @@
 $black: #000
 $white: #fff
 $lightgray: #e2e8f0
-$theme: #b3564b
+$theme: rgb(179, 86, 75)
 $theme-light: rgba($theme, .5)
+$theme-brown: rgb(65, 25, 19)
+$averia-font: "Averia Serif Libre", sans-serif
 
 body  
   margin: 0
   font-family: "Lato", sans-serif
 
 // HEADER
-.header,
-.averia-font a
-  font-family: "Averia Serif Libre", sans-serif
-
 .mobile-nav 
   transition: max-height 0.3s ease-out
   background: $theme-light
@@ -85,7 +83,7 @@ body
     font-size: 1.25rem
 
   > p:first-child::first-letter
-    font-family: "Averia Serif Libre", sans-serif
+    font-family: $averia-font
     font-size: 3rem
     font-weight: 700
     float: left
@@ -142,8 +140,26 @@ li:not(.tag)::before
   justify-content: center
   align-items: center
 
-  &:first-of-type
-    height: calc(50vh - 65px)
+.snippets 
+  display: flex
+  flex-wrap: wrap
+
+  div
+    width: 100%
+    min-height: 250px;
+    padding: 1.5rem
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+
+  p
+    max-width: 400px
+    text-align: center
+    margin-top: 1.5rem
+
+  img
+    width: 5rem
 
 // CONTACT
 .contact .breadcrumbs
@@ -190,6 +206,11 @@ form
     height: 1em
 
 // GENERAL
+.averia-font a,
+.header,
+small
+  font-family: $averia-font
+
 .main-content
   min-height: calc(100vh - 64px)
 
@@ -214,10 +235,6 @@ ul a:hover,
   background-size: cover
   background-position: center
 
-@media all and (min-width: 375px)
-  .index-wrapper section
-    line-height: 1.625
-
 @media all and (min-width: 550px)
   .tag-tile
     width: 30%
@@ -225,6 +242,16 @@ ul a:hover,
 
     a:hover
       color: $black
+
+  .snippets
+    display: flex
+    flex-wrap: wrap
+
+    div
+      max-width: 50%
+
+    p
+      font-size: 1rem
 
 @media all and (min-width: 768px) 
   .navbar
@@ -236,3 +263,7 @@ ul a:hover,
 @media all and (min-width: 1024px)
   .full-width-image 
     height: 60vh
+
+  .snippets div
+    max-width: 25%
+    min-height: 300px

@@ -13,7 +13,8 @@ const Links = ({ links, mobile }) =>
           : `sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
       activeStyle={{ 
-        color: '#b3564b'
+        color: mobile ? '#fff' : '#b3564b',
+        textDecoration: mobile ? 'line-through' : ''
       }}
       key={link}
     >
