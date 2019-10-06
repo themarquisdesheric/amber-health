@@ -67,55 +67,6 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 Table of Contents 
 
-## What are the Treatment options?
-
-This section provides information on the available endometriosis treatments with special attention paid to the limitations and risks of each method, including surgery and medications. Some of the therapies listed target endometriosis while others work to address the symptoms. Specialist agree that a multidisciplinary approach to care is needed to address the many components and complexities of the disease. Combining treatments may allow patients to effectively manage their symptoms long term.
-
-https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA
-
-http://endopaedia.info/politics1.html
-
-* Surgery: Excision vs Ablation 
-* Hormonal Therapy
-* Alternative Therapies
-* Pain Management
-
-**Excision Surgery**
-
-> In the medical field, a “gold standard” treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. For decades, it was taught to residents in OB/GYN training that surgical thermal or laser ablation of endometriosis and surgical excision of endometriosis provided similar outcomes. Experts in surgical management of endometriosis have known for years that this is not the case. Finally, we now have data from very good clinical trials that excision surgery for endometriosis is far superior to ablation. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
->
-> \-[Women’s Surgery & Aesthetics Center](https://womenssurgerycentertn.com/122/endometriosis-surgery) 
->
-> Excision has been studied quite extensively, and many different studies from around the world have shown very consistent results. Redwine published his outcomes in 1991 after laparoscopic excision of endometriosis where he followed those patients for up to 7 years postop. About half had no further pain and no reasons for subsequent surgery, and the other half required another surgery for various indications- pain, bleeding, masses, etc. He showed a 57% cure rate in reoperated patients, and a 19% incidence of recurrence or persistence among all patients who underwent excision (this assumes no recurrences in the pain-free patients who didn’t have another surgery). Several other studies showed very similar results. 
->
-> [\-Pacific Endometriosis and Pelvic Surgery](https://womenssurgerycentertn.com/122/endometriosis-surgery)
->
-> Deep-excision is performed during laparoscopic excision surgery, where the surgeon carefully excises or removes, the entire lesion from wherever it is found. This includes the tissue beneath the surface. Endometriosis acts like an iceberg- despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
->
-> \-The Endometriosis Foundation of America (EndoFound)
->
-> Quality surgery - excision - is the cornerstone of successful treatment for endometriosis. However, it doesn't stop there. Multidisciplinary care is needed to fully address all components of the disease. Most of all, individuals with endometriosis need to be heard.
->
-> \-Center for Endometriosis Care
-
-**Other Surgeries**
-
-> Other types of surgery include ablation or cauterization. Both of these only remove the tissue on the surface but neglect the tissue growing beneath the surface. In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. Excess scar tissue can also form using these methods due to the high energy and heat applied to surrounding healthy tissue. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
->
-> \-The Endometriosis Foundation of America (EndoFound)
-
-**Why Hysterectomy is not a treatment option?**
-
-> It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain. 
->
-> \-The Endometriosis Foundation of America (EndoFound)
-
-The article [Endometriosis Persisting after Castration: clinical characteristics and results of surgical management](https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA) explains why hysterectomy is _not_ a suitable treatment option.
-
-> Endometriosis can remain symptomatic after castration, with or without estrogen therapy. In such patients, there is a 33% frequency of intestinal involvement. At castration, consideration should be given to removal of invasive peritoneal and intestinal disease. Symptom improvement occurs in most patients after excision of endometriosis.
-
-While surgery is an accepted approach, there are specialists who support non-surgical approaches and those resources have been provided below. 
-
 **Hormonal Contraceptives and Hormone Therapy**
 
 Knowing the true place of hormonal therapy in the treatment of endometriosis is imperative for a patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists. Most providers will offer or suggest using hormonal suppression as treatment but few are educated on the risks, side effects, and limitations of these options. Many providers will inaccurately present oral contraceptives as a targeted "treatment" to stop the disease growth. Too often they fail to inform us that hormone therapy may only provide symptomatic relief and that the disease will continue to progress.
