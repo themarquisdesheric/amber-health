@@ -5,15 +5,18 @@
 @tailwind utilities;
 
 /* still trying to figure out why the below styles won't work in site.css */
+blockquote,
+blockquote p {
+  color: #fff;
+}
+
 blockquote {
   position: relative;
   background: rgba(179, 86, 75, 0.5);
   border-radius: .5rem;
   margin: 3rem 0;
   padding: 6rem 1rem 1rem;
-  color: #fff;
   text-align: justify;
-  font-size: 1.125rem;
 }
 
 blockquote::before {

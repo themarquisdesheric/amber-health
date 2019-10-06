@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const Article = ({ post, className = '' }) => (
-  <article className={`${className} mb-12`}>
+  <article className={`${className} mb-8`}>
     <Link to={post.fields.slug}>
       <header>
         {post.frontmatter.featuredimage ? (
@@ -17,11 +17,11 @@ const Article = ({ post, className = '' }) => (
             />
           </div>
         ) : null}
-        <p className="text-lg font-semibold pt-3 pb-1">
+        <p className="text-lg font-bold pt-5 pb-2">
           {post.frontmatter.title}
         </p>
       </header>
-      <p className="text-sm">{post.frontmatter.description}</p> 
+      <p className="text-sm text-gray-800 pb-2">{post.frontmatter.description}</p> 
     </Link>
   </article>
 );

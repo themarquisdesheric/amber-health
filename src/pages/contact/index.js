@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import Layout from '../../components/Layout';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
+// * animate heading?? 
+
 const Index = () => {
   const [form, setForm] = useState({
     name: '',
@@ -50,7 +52,7 @@ const Index = () => {
             </div>
             
             <label htmlFor="name">
-              Your name
+              Name
             </label>
             <div>
               <input
@@ -65,7 +67,6 @@ const Index = () => {
               Email
             </label>
             
-            {/* ensure email input validation is working */}
             <div>
               <input
                 type="email"

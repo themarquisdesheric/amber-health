@@ -23,10 +23,10 @@ export const ArticleTemplate = ({
       <div className="article flex flex-col items-center">
         <div className="max-w-xl">
           {helmet || ''}
-          <h1 className="text-2xl font-semibold py-2 md:text-3xl">
+          <h1 className="text-2xl font-bold py-2 md:text-3xl">
             {title}
           </h1>
-          <p className="italic pb-8" style={{ marginBottom: '3rem' }}>{description}</p>
+          <p className="pb-8 text-gray-800" style={{ marginBottom: '3rem' }}>{description}</p>
           <PostContent content={content} className="article-content flex flex-col items-center" />
           {tags && tags.length ? (
             <ul className="tags mt-16">

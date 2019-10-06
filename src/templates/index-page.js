@@ -16,7 +16,7 @@ export const IndexPageTemplate = ({
         })`
       }}
     /> */}
-    <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-2xl">
+    <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
       <section className="m-auto px-6">
         <p className="max-w-xl">
           The Chronic is a comprehensive guide
@@ -26,14 +26,14 @@ export const IndexPageTemplate = ({
           and ultimately attain wellness and health.
         </p>
       </section>
-      <section className="text-white p-6" style={{ background: 'rgb(65, 25, 19)' }}>
-        <p className="max-w-xl">
+      <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>
+        <p className="max-w-xl" style={{ color: '#fff' }}>
           Valuable resources like time, access, and energy are often limited when experiencing illness. This thoughtful collection of trusted resources addresses a variety of diseases and conditions and aims to empower, challenge, and revolutionize the patient perspective.
         </p>
       </section>
       
-      <div className="snippets">
-        <div style={{ background: '#000', color: '#fff' }}>
+      <div className="snippets text-gray-800">
+        <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
           <p>curated resources for those with chronic illness</p>
         </div>
@@ -41,18 +41,18 @@ export const IndexPageTemplate = ({
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
           <p>your guide for navigating a broken healthcare system</p>
         </div>
-        <div style={{ background: '#f00', color: '#fff' }}>
+        <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
           <p>preserve your dignity and self worth</p>
         </div>
-        <div style={{ background: '#00f', color: '#fff' }}>
+        <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
           <p>attain wellness and health</p>
         </div>
       </div>
       
-      <section className="p-6 text-white" style={{ background: 'rgba(179, 86, 75, 0.5)' }}>
-        <p className="max-w-xl">
+      <section className="p-6" style={{ background: 'rgba(179, 86, 75, 0.5)' }}>
+        <p className="max-w-xl" style={{ color: '#fff' }}>
           When seeking medical care it is imperative to receive validation in the form of an accurate diagnosis which leads to an appropriate treatment approach and better quality of care. Being informed to the best of your ability will help you advocate for yourself and your health needs, especially if your doctor is not prepared to do so.
         </p>
       </section>

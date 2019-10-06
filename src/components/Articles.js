@@ -19,7 +19,7 @@ const Articles = ({ data }) => {
             <Article post={post} className="article-card max-w-xl" key={post.id} />
           ))}
         <div>
-          <p className="text-center text-md font-semibold mt-8 py-3">Topics</p>
+          <p className="text-center text-md font-bold mt-8 py-3">Topics</p>
           <ul className="topics">
             {topics.map(topic => 
               <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>

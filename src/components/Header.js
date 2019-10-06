@@ -9,12 +9,12 @@ const Links = ({ links, mobile }) =>
       to={`/${link}`}
       className={
         mobile 
-          ? '' 
-          : `sm:inline sm:text-black ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
+          ? 'opacity-75' 
+          : `sm:inline sm:text-gray-800 ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
       activeStyle={{ 
         color: mobile ? '#fff' : '#b3564b',
-        textDecoration: mobile ? 'line-through' : ''
+        opacity: '1'
       }}
       key={link}
     >
@@ -72,7 +72,7 @@ const Header = () => {
   const links = ['articles', 'about', 'contact'];
 
   return (
-    <header className="border-b">
+    <header className="site-header">
       <MobileMenu links={links} visible={visible} />  
       <div className="navbar flex items-center justify-between h-16 px-6">
         <h1 className="header text-md m-0 relative">
