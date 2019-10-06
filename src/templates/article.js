@@ -23,7 +23,7 @@ export const ArticleTemplate = ({
       <div className="article flex flex-col items-center">
         <div className="max-w-xl">
           {helmet || ''}
-          <h1 className="text-2xl font-bold py-2 md:text-3xl">
+          <h1 className="text-2xl font-bold pt-2 pb-3 md:text-3xl">
             {title}
           </h1>
           <p className="pb-8 text-gray-800" style={{ marginBottom: '3rem' }}>{description}</p>

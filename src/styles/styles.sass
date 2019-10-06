@@ -11,6 +11,11 @@ body
   margin: 0
   font-family: "Lato", sans-serif
 
+h1,
+h2,
+h3
+  line-height: 1
+
 p:not(.Contact-breadcrumbs)
   color: $gray-text
 
@@ -78,6 +83,10 @@ p:not(.Contact-breadcrumbs)
     margin-top: 0
 
 .article-content
+  max-width: 35em
+  text-align: justify
+  hyphens: auto
+
   h2,
   h3
     font-weight: 600
@@ -142,11 +151,14 @@ li:not(.tag)::before
   color: $theme
 
 // INDEX
-.index-wrapper section
-  height: 100vh
-  display: flex
-  justify-content: center
-  align-items: center
+.index-wrapper 
+  hyphens: auto;
+  
+  section
+    height: 100vh
+    display: flex
+    justify-content: center
+    align-items: center
 
 .snippets 
   display: flex

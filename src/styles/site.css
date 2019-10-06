@@ -16,7 +16,6 @@ blockquote {
   border-radius: .5rem;
   margin: 3rem 0;
   padding: 6rem 1rem 1rem;
-  text-align: justify;
 }
 
 blockquote::before {
