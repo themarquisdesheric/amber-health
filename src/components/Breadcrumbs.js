@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 
 const Breadcrumbs = ({ path }) => (
-  <p className="breadcrumbs" style={{ marginBottom: '3rem' }}>
+  <p className="breadcrumbs">
     <Link to="/">
       Home
     </Link>
