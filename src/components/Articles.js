@@ -6,6 +6,19 @@ import Breadcrumbs from './Breadcrumbs';
 import Article from './Article';
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
+// TODO: once topics are ready
+const Topics = () => (
+  <div>
+    <p className="text-center text-md font-bold mt-8 py-3">Topics</p>
+    <ul className="topics">
+      {topics.map(topic => 
+        <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>
+          {` ${topic}`}
+        </Link>
+      )}
+    </ul>
+  </div>
+);
 
 const Articles = ({ data }) => {
   const { edges: posts } = data.allMarkdownRemark;
@@ -18,16 +31,7 @@ const Articles = ({ data }) => {
           posts.map(({ node: post }) => (
             <Article post={post} className="article-card max-w-xl" key={post.id} />
           ))}
-        <div>
-          <p className="text-center text-md font-bold mt-8 py-3">Topics</p>
-          <ul className="topics">
-            {topics.map(topic => 
-              <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>
-                {` ${topic}`}
-              </Link>
-            )}
-          </ul>
-        </div>
+        {/* <Topics /> */}
       </div>
     </section>
   );

@@ -9,12 +9,13 @@ const Links = ({ links, mobile }) =>
       to={`/${link}`}
       className={
         mobile 
-          ? 'opacity-75' 
+          ? 'opacity-9' 
           : `sm:inline sm:text-gray-800 ${(idx + 1 === links.length) ? '' : 'sm:mr-4'}`
       }
       activeStyle={{ 
         color: mobile ? '#fff' : '#b3564b',
-        opacity: '1'
+        opacity: '1',
+        fontWeight: '600'
       }}
       key={link}
     >
@@ -45,7 +46,7 @@ MobileMenu.propTypes = {
 const HamburgerMenu = ({ handleSetVisible }) => (
   <div 
     onClick={() => handleSetVisible(visible => !visible)} 
-    className="relative h-6 sm:hidden"
+    className="hamburger-menu relative flex justify-end items-center h-6 sm:hidden"
   >
     <img src={menu} alt="hamburger menu" width="20" height="20" />
   </div>

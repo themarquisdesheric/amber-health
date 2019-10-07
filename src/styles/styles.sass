@@ -16,7 +16,7 @@ h2,
 h3
   line-height: 1
 
-p:not(.Contact-breadcrumbs)
+p
   color: $gray-text
 
 // HEADER
@@ -31,6 +31,13 @@ p:not(.Contact-breadcrumbs)
   display: block
   margin: 1rem 0
   color: $white
+
+.opacity-9
+  opacity: .9
+
+.hamburger-menu
+  width: 44px
+  height: 44px
 
 // ARTICLES
 .article-card
@@ -131,6 +138,10 @@ li:not(.tag)::before
   position: absolute
   left: 0
   top: 4px
+  opacity: .9
+
+.tag-tile
+  width: 100%
 
 .tag
   display: inline-flex
@@ -152,7 +163,7 @@ li:not(.tag)::before
 
 // INDEX
 .index-wrapper 
-  hyphens: auto;
+  hyphens: auto
   
   section
     height: 100vh
@@ -166,7 +177,7 @@ li:not(.tag)::before
 
   div
     width: 100%
-    min-height: 250px;
+    min-height: 250px
     padding: 1.5rem
     display: flex
     flex-direction: column
@@ -183,6 +194,8 @@ li:not(.tag)::before
 
 // CONTACT
 .contact .breadcrumbs
+  color: $white
+
   a:hover
     color: $white
 
@@ -254,6 +267,9 @@ ul a:hover,
   height: 50vh
   background-size: cover
   background-position: center
+
+.theme-color
+  color: $theme
 
 @media all and (min-width: 550px)
   .article-card

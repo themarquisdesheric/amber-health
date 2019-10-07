@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
         </p>
       </section>
       
-      <div className="snippets text-gray-800">
+      <div className="snippets">
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
           <p>curated resources for those with chronic illness</p>

@@ -1,6 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
+import { capitalize } from 'lodash';
 import Layout from '../components/Layout';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Article from '../components/Article';
@@ -11,9 +12,10 @@ const TagRoute = ({ data, pageContext }) => {
   const { title } = data.site.siteMetadata;
   const { totalCount } = data.allMarkdownRemark;
 
-  const tagHeader = `${totalCount} post${
+  const taggedWithText = `${totalCount} article${
     totalCount === 1 ? '' : 's'
-  } tagged with “${tag}”`;
+  } tagged with`;
+  const tagTitle = capitalize(tag);
 
   return (
     <Layout>
@@ -23,13 +25,18 @@ const TagRoute = ({ data, pageContext }) => {
           <div className="max-w-xl">
             <Helmet title={`${tag} | ${title}`} />
             <div className="mb-24">
-              <h3>{tagHeader}</h3>
+              <p className="text-gray-800 text-xs uppercase tracking-wide">
+                {taggedWithText}
+              </p>
+              <h1 className="theme-color text-3xl font-bold pb-3">
+                {tagTitle}
+              </h1>
               <ul className="py-4 flex flex-wrap">
                 {posts.map(({ node: post }) => (
                   <Article post={post} className="tag-tile max-w-sm" key={post.id} />
                 ))}
               </ul>
-              <p className="browse-all-tags">
+              <p className="browse-all-tags text-gray-800 text-sm">
                 <Link to="/tags/">Browse all tags</Link>
               </p>
             </div>
