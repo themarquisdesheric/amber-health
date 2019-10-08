@@ -65,6 +65,30 @@ As a patient, being informed on the available treatments can help you advocate f
 
 <h3>Surgery</h3>
 
-It's important to note surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered the <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">gold standard of treatment</a> for the disease. Laparoscopy, or LAPEX, is a minimally invasive procedure in which the endometriosis lesions are removed. 
+It's important to note surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered a <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">cornerstone of treatment</a> for the disease. Laparoscopy is a minimally invasive procedure in which the endometriosis lesions are removed. 
 
-During laparoscopy, the surgical options of removal include excision and superficial treatments such as fulguration, diathermy, vaporization, cautery, etc. Excision is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
+During laparoscopy, the surgical options of removal include excision and superficial treatments such as fulguration, diathermy, vaporization, cautery, etc. Laparoscopic Excision, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">LAPEX</a>, is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
+
+<blockquote class="blockquote">Endometriosis acts like an iceberg.  Despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
+
+<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer"></a>-The Endometriosis Foundation of America</cite>
+
+</blockquote>
+
+Since endometriosis lesions are often <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">deeply imbedded</a> in the surrounding tissue, a thorough approach, like excision, is needed for complete removal. During excision surgery, the lesions are excised or cut out and the tissue underneath is evaluated for abnormal tissue and removed if necessary.  
+
+<blockquote class="blockquote">Laparoscopic Excision (LAPEX) is the surgical cornerstone of any high quality, multidisciplinary approach to correctly treating endometriosis. LAPEX allows for the disease to be meticulously removed, cut out, from all areas, without damaging surrounding structures or removing otherwise healthy organs.
+
+<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer"></a>-The Center for Endometriosis Care</cite>
+
+</blockquote>
+
+Studies have found the complete removal of the entire lesion is necessary for symptom relief and successful disease management. LAPEX has been associated with a <a href="https://www.ncbi.nlm.nih.gov/pubmed/1833246" target="_blank" rel="noopener noreferrer"> low rate of minimal persistent/recurrent disease</a> and <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">symptomatic improvements</a> in general health, sexual function, fertility, and quality of life. When performed by an advanced surgeon, the outcomes of excision are far superior to superficial treatments and have a <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">re-operation rate of 20%</a>. In comparison, the re-operation rate for superficial treatments in 80%.
+
+<blockquote class="blockquote">The high rates of recurrence associated with endometriosis surgery in the literature strongly depend on the completeness of disease removal. LAPEX is a well-established yet under-practiced approach, with the goal at the time of surgery to completely respect all disease, restore normal anatomy, and apply measures for adhesion prevention. Data suggest that the surgical objective should be complete eradication; therefore, the surgeon must be prepared to excise all lesions suggestive of endometriosis as well as all atypical tissue, because in most anatomic sites, approximately 50% of atypical specimens prove to be endometriosis.
+
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer"></a>-Ken R. Sinervo, MD, MSC, FRCSC, ACGE</cite>
+
+</blockquote>
+
+For the same reasons that deep excision is successful in disease management, superficial treatments are not. Due to the deeply implanted lesions in the surrounding tissue, superficial treatments leave much of the disease untouched and left behind to further progress. Adhesions formation can also increase substantially due to the presence of residual endometriosis. The high heat and energy used can also damage surrounding healthy tissue leading to excess scar tissue.
