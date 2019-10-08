@@ -8,22 +8,24 @@ export const IndexPageTemplate = ({
   image
 }) => (
   <div>
-    {/* <div
-      className="full-width-image"
-      style={{
-        backgroundImage: `url(${
-          image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`
-      }}
-    /> */}
     <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
-      <section className="m-auto px-6">
-        <p className="max-w-xl">
-          The Chronic is a comprehensive guide
-          of curated resources for those with chronic illness
-          who are navigating a broken healthcare system
-          while trying to preserve their dignity and self worth
-          and ultimately attain wellness and health.
+      <section 
+        className="full-width-image m-auto px-6"
+        style={{
+          backgroundImage: `url(${
+            image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
+          height: 'calc(100vh - 65px)' 
+        }}
+      >
+        <p className="max-w-xl text-lg">
+          <span className="index-intro-text">
+            The Chronic is a comprehensive guide
+            of curated resources for those with chronic illness
+            who are navigating a broken healthcare system
+            while trying to preserve their dignity and self worth
+            and ultimately attain wellness and health.
+          </span>
         </p>
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>

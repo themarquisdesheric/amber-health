@@ -21,7 +21,7 @@ const Article = ({ post, className = '' }) => (
           {post.frontmatter.title}
         </p>
       </header>
-      <p className="text-sm pb-2">{post.frontmatter.description}</p> 
+      <p className="text-sm pb-2">{post.frontmatter.description}</p>
     </Link>
   </article>
 );

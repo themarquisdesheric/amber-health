@@ -73,7 +73,7 @@ const Header = () => {
   const links = ['articles', 'about', 'contact'];
 
   return (
-    <header className="site-header">
+    <header className="site-header relative z-10">
       <MobileMenu links={links} visible={visible} />  
       <div className="navbar flex items-center justify-between h-16 px-6 md:px-24">
         <h1 className="header text-md m-0 relative">
