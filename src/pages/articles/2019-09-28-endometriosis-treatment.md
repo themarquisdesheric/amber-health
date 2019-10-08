@@ -64,3 +64,7 @@ As a patient, being informed on the available treatments can help you advocate f
 * Pain Management
 
 <h3>Surgery</h3>
+
+It's important to note surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered the <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">gold standard of treatment</a> for the disease. Laparoscopy, or LAPEX, is a minimally invasive procedure in which the endometriosis lesions are removed. 
+
+During laparoscopy, the surgical options of removal include excision and superficial treatments such as fulguration, diathermy, vaporization, cautery, etc. Excision is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
