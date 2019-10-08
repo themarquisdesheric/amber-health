@@ -172,8 +172,10 @@ li:not(.tag)::before
     align-items: center
 
   .index-intro-text
-    background: rgba(255, 255, 255, .5)
+    background: rgba(255, 255, 255, .7)
     color: $black
+    border-radius: 5px
+    padding: 0 .5rem
     text-shadow: -1px 1px 2px $white, 1px 1px 2px $white, 1px -1px 0 $white, -1px -1px 0 $white
 
 .snippets 
@@ -278,6 +280,15 @@ ul a:hover,
 
 .theme-color
   color: $theme
+
+.four-oh-four
+  background: url(/img/pomwallpaper.png) center
+  background-size: contain
+  height: calc(100vh - 65px)
+
+  h1
+    font-size: 9rem
+    font-weight: 600
 
 @media all and (min-width: 550px)
   .article-card

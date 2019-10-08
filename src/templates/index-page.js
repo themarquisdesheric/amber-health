@@ -15,17 +15,15 @@ export const IndexPageTemplate = ({
           backgroundImage: `url(${
             image.childImageSharp ? image.childImageSharp.fluid.src : image
           })`,
-          height: 'calc(100vh - 65px)' 
+          height: 'calc(100vh - 65px)'
         }}
       >
-        <p className="max-w-xl text-lg">
-          <span className="index-intro-text">
-            The Chronic is a comprehensive guide
-            of curated resources for those with chronic illness
-            who are navigating a broken healthcare system
-            while trying to preserve their dignity and self worth
-            and ultimately attain wellness and health.
-          </span>
+        <p className="index-intro-text max-w-xl text-lg">
+          The Chronic is a comprehensive guide
+          of curated resources for those with chronic illness
+          who are navigating a broken healthcare system
+          while trying to preserve their dignity and self worth
+          and ultimately attain wellness and health.
         </p>
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>
