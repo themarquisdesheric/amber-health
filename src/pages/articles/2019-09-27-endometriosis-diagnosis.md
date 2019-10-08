@@ -7,6 +7,7 @@ featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
   - women's health
+  - chronic pain
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
@@ -18,7 +19,7 @@ This Part of my series on Endometriosis. (**tag to TOC**)
 
 Currently there is only <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">one method</a> that can confirm a diagnosis of endometriosis. This is via surgery with confirmation of biopsy specimens. 
 
-While symptoms, patient history, and physical findings can lead to a strong suspicion in identifying the disease, surgical diagnosis must be confirmed. <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">Laparoscopy</a> is currently the most common method of surgical diagnosis.
+While symptoms, patient history, and physical findings can lead to a strong suspicion in identifying the disease, a diagnosis must be confirmed surgically and pathologically. <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">Minimally invasive Laparoscopy</a>, or LAPEX, is currently the most common method of surgical diagnosis.
 
 <blockquote class=”blockquote”>The only way to confirm a definitive diagnosis of endometriosis is still surgically; usually via the minimally invasive procedure known as Laparoscopy.
 
@@ -26,11 +27,17 @@ While symptoms, patient history, and physical findings can lead to a strong susp
 
 </blockquote>
 
-Due to prevailing misinformation, healthcare providers are often not knowledgeable about which procedure is definitive in diagnosing endometriosis. In turn, many patients will undergo several types of testing in the process of diagnosing endometriosis.  It is important to understand the <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">limitations</a> of these methods as you seek care.
+Due to prevailing misinformation, healthcare providers  do not know which procedure is definitive in diagnosing endometriosis. In turn, many patients will undergo several types of testing in the process of diagnosing endometriosis.  It is important to understand the <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">limitations</a> of these methods as you seek care.
 
 <h3>Surgery + Biopsy Specimens</h3>
 
-Surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis! Laparoscopy surgery is the most common diagnostic surgery and is also considered the gold standard of treatment for the disease.
+Surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis! Laparoscopy surgery is the most common diagnostic surgery and is also considered the <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">gold standard of treatment</a> for the disease.
+
+<blockquote class="blockquote">First, it is important to note that endometriosis can only be diagnosed surgically and pathologically. This means that for endometriosis to be diagnosed a surgery is required to evaluate for endometriosis. A specimen suspicious for endometriosis will be sent to the pathologist for confirmation.
+
+<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer"></a>-The Center  for Restorative Reproductive Surgery</cite>
+
+</blockquote>
 
 <h3>Lab Testing</h3>
 
@@ -38,7 +45,7 @@ Lab testing <a href="https://www.endofound.org/endometriosis" target="_blank" re
 
 <h3>Imaging Testing</h3>
 
-Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">cannot be used for diagnosis</a>. Imaging testing includes computed tomography (CT), magnetic resonance imaging (MRI), and ultrasounds. While diagnostic testing can be helpful for presurgical planning, they do not provide clear evidence of endometriosis and cannot be used to confirm the disease. Due to misinformed healthcare providers, it is common to have a pelvic ultrasound and MRI before undergoing laparoscopic surgery. 
+Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">cannot be used for diagnosis</a>. Imaging testing includes computed tomography (CT), magnetic resonance imaging (MRI), and ultrasounds. While diagnostic testing can be helpful for presurgical planning, they do not provide clear evidence of endometriosis and cannot be used to confirm the disease. Regardless, it is common to have a pelvic ultrasound and MRI before undergoing laparoscopic surgery. 
 
 <blockquote class=”blockquote”>Though symptoms and/or diagnostic testing may give rise to 'informed suspicion' and are helpful for presurgical planning, only surgery permits the requisite visual and histological (biopsy proven) diagnosis. Most importantly, Laparoscopy also facilitates actual treatment of the disease.  
 
@@ -72,9 +79,7 @@ Despite the staggering prevalence of endometriosis and the early onset of sympto
 
 The lack of knowledge among patients and medical providers is largely to blame. The stigma surrounding menstruation, women’s health issues, and <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">marginalized communities</a> including trans and non-binary individuals keep the many afflicted silent, isolated, and medically neglected. Ableism promotes a <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">normalization of symptoms and pain</a> in society and leads to further dismissal from the medical community.
 
-<blockquote class=”blockquote”>
-
-Only through early intervention can we reduce the associated morbidity, infertility and progressive symptoms of endometriosis.  We must alleviate our culture of menstrual misinformation through timely and authoritative disease education – thus leading to reduced costs and most importantly, improved patient outcome.  Early diagnosis and proper treatment are critical keys to living well in spite of the disease. 
+<blockquote class=”blockquote”>Only through early intervention can we reduce the associated morbidity, infertility and progressive symptoms of endometriosis.  We must alleviate our culture of menstrual misinformation through timely and authoritative disease education – thus leading to reduced costs and most importantly, improved patient outcome.  Early diagnosis and proper treatment are critical keys to living well in spite of the disease. 
 
 <cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
 
@@ -86,7 +91,7 @@ Additional factors that contribute to the delay include symptom suppression thro
 
 Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer"> 7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
 
-Studies have shown that **endometriosis symptoms (add)** have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily</a> lives and are characterized by physical limitations that significantly disrupt health and work performance.
+Studies have shown that **Endometriosis Symptoms (add my article)** have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily</a> lives and are characterized by physical limitations that significantly disrupt health and work performance.
 
 <blockquote class=”blockquote”>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
 
