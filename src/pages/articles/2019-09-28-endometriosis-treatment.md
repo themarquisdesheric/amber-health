@@ -91,4 +91,26 @@ Studies have found the complete removal of the entire lesion is necessary for sy
 
 </blockquote>
 
-For the same reasons that deep excision is successful in disease management, superficial treatments are not. Due to the deeply implanted lesions in the surrounding tissue, superficial treatments leave much of the disease untouched and left behind to further progress. Adhesions formation can also increase substantially due to the presence of residual endometriosis. The high heat and energy used can also damage surrounding healthy tissue leading to excess scar tissue.
+Due to the deeply implanted lesions in the surrounding tissue, superficial treatments leave much of the disease untouched and left behind to further progress. This explains the high recurrence of re-operation for superficial methods. <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">Adhesion formations</a> can also increase substantially due to the presence of residual endometriosis, even in small amounts. The high heat and energy used during surgery can also damage surrounding healthy tissue leading to excess scar tissue.
+
+<blockquote class="blockquote">In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
+
+<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer"></a>-Endometriosis Foundation of America</cite>
+
+</blockquote>
+
+While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
+
+<blockquote class="blockquote">Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis...then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
+
+<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer"></a>-Center for Endometriosis Care</cite>
+
+</blockquote>
+
+When considering surgery, LAPEX is considered the <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">gold standard of care</a>, or the best available option, for endometriosis. The skill and clinical experience of the surgeon is equally important to a patient's outcome and should also be considered before surgery. 
+
+<blockquote class="blockquote">In the medical field, a 'gold standard' treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
+
+<cite><a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer"></a>-Women’s Surgery & Aesthetics Center</cite>
+
+</blockquote>
