@@ -17,6 +17,8 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
+All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain can be associated, endometriosis can cause many symptoms. Each patient is unique and may experience any range of the below symptoms.
+
 * Pain with Menstruation
 * Pelvic Pain
 * Abdominal Pain
@@ -33,7 +35,7 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 * Infertility
 * Possible Comorbidities: <a href="https://www.ncbi.nlm.nih.gov/pubmed/22442736" target="_blank" rel="noopener noreferrer">Migraines</a>, Fibromyalgia, Allergies, Asthma, <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Hypothyroidism</a>, and <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">Chronic Diseases</a>
 
-Endometriosis is often improperly described as bad cramps and is incorrectly associated with menses. This couldn’t be further from the truth for many patients. While some will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature.
+Endometriosis is often incorrectly associated with menses. This couldn’t be further from the truth for many patients. While some will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature.
 
 <blockquote class="blockquote">A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 
