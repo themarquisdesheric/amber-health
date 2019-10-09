@@ -46,9 +46,15 @@ Endometriosis is often incorrectly associated with menses. This couldn’t be fu
 
 For example, some patients will only have pain and dysfunction surrounding their ovulation and menstruation. More commonly, a patient will experience <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer"> daily symptoms </a> that intensify and become further debilitating over time. On the other hand, there are patients who remain completely asymptomatic despite having the disease. There is a poor correlation between the stage of the disease and the severity of the symptoms. Due to the <a href="https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x" target="_blank" rel="noopener noreferrer">varying presentations</a> and symptoms, no two patients present with the same symptoms or comorbidities. 
 
-Endometriosis has many different mechanisms that can create pain. This includes inflammatory pain from the inflamed internal environment, pain from compression or infiltration of nerves by lesions, and neuropathic pain due to surgery or lesions. 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">Pain</a> is a common and debilitating symptom of the disease. Patients experience both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6257623/" target="_blank" rel="noopener noreferrer">somatic and visceral</a> types of pain. Somatic pain arises from triggering sensory nerves that are located in skin and tissue like tendons, muscles, and joints. Visceral pain comes from within the inner organs, abdomen, and skeleton and can be referred to other locations. 
 
+Endometriosis has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer">various different mechanisms</a> that can create pain. This includes inflammatory pain from the inflamed internal environment, pain from compression or infiltration of nerves by lesions, and neuropathic pain due to surgery or lesions. 
 
+<blockquote class="blockquote">Endometriosis is an unusual condition because of the potential of a variety of different mechanisms to generate pain. These include direct compression/infiltration of nerves by the lesions, inflammatory pain due to the enhanced inflammatory environment of the pelvis and ‘neuropathic’ pain secondary to damage of pelvic nerves during surgery or of the new nerves directly infiltrating the lesions.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer"></a>-Jennifer Brawn</cite>
+
+</blockquote>
 
 Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
 
