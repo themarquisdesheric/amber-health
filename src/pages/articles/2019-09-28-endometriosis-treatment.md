@@ -114,3 +114,13 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 <cite><a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer"></a>-Women’s Surgery & Aesthetics Center</cite>
 
 </blockquote>
+
+**Why Hysterectomy is not a treatment option?**
+
+<blockquote class="blockquote">It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain.
+
+<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer"></a>-Endometriosis Foundation of America</cite>
+
+</blockquote>
+
+Hysterectomy is not a suitable treatment option for endometriosis. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove the disease.
