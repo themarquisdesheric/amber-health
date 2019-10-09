@@ -23,9 +23,9 @@ This Part of my series, **Endometriosis** (tag to bottom table of contents)
 
 </blockquote>
 
-The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the cause of disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endo’s manifestation and behaviors. No single theory can explain endometriosis in all patients, especially cis men and in extrapelvic manifestions. 
+The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the cause of disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endo’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No single theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestions. 
 
-A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms </a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
+A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms</a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
 
 <blockquote>No single theory explains endometriosis in all patients. Likely, we are born with mechanisms which, when later combined, 'the perfect storm' trigger the disease.
 
@@ -47,7 +47,7 @@ This century-old theory of <a href="http://centerforendo.com/endometriosis-under
 
 <h3>Immunologic Dysfunction</h3>
 
-It’s thought that a dysfunctional immune system may allow for implantation of menstrual debris. However, this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. There is also a belief that it may share an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer"> underlying pathology</a> with several autoimmune disorders.
+It’s thought that a dysfunctional immune system may allow for implantation of menstrual debris. However, this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. There is also a belief that it may share an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">underlying pathology</a> with several autoimmune disorders.
 
 <h3>Stem Cells</h3>
 
@@ -55,7 +55,7 @@ The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target
 
 <h3>Genetics</h3>
 
-Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. 
+Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. Likely, endometriosis is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">complex gene trait</a> that results from an interaction of multiple genes and the environment. 
 
 <h3>Environmental Toxins</h3>
 
@@ -79,7 +79,7 @@ According to the theory of Mulleriosis, the development of the uterus is thought
 
 <h3>Additional Theories</h3>
 
-In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
+In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a> and in this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">article</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
 
 <blockquote>Without question, there are various additional factors that contribute to disease pathophysiology and pathogenesis. Propagation of outdated myths and misinformation, and the continued research positioning of endometriosis as normal endometrium, keeps the disease mired in outdated concepts, hysterectomy, failed drug therapy, and incomplete treatment.  
 
