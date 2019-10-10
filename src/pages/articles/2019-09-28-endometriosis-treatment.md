@@ -170,10 +170,20 @@ In <a href="https://www.ncbi.nlm.nih.gov/pubmed/30664383" target="_blank" rel="n
 
 </blockquote>
 
-After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit" target="_blank" rel="noopener noreferrer">The Cochrane Library</a> found that there was insufficient evidence to determine if there was a benefit from pre-surgical medical therapy. They also found there was no evidence of benefit associated with post surgical medical therapy. 
+After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit" target="_blank" rel="noopener noreferrer">The Cochrane Library</a> found that there was insufficient evidence to determine if there was a benefit from pre-surgical medical therapy. They also found there <a href="https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit" target="_blank" rel="noopener noreferrer">was no evidence of benefit</a> associated with post surgical medical therapy.
 
 <blockquote class="blockquote">The available literature suggests that Combined Hormonal Contraceptive (CHC) treatment is effective for relief of endometriosis-related dysmenorrhea, pelvic pain, and dyspareunia; however, the supportive data are of low quality. Furthermore, insufficient data exist to reach conclusions about the overall superiority of any given CHC therapy, and the relative benefit in comparison to other approaches. Additional high-quality studies are needed to clarify the role of CHC agents and other treatments in patients with endometriosis-related pain.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/29937152" target="_blank" rel="noopener noreferrer">-Jeffrey T. Jensen M.D., M.P.H.</a></cite>
 
 </blockquote>
+
+On the other hand, we do know that hormonal contraceptives can cause intolerable, significantly negative side effects including <a href="https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084" target="_blank" rel="noopener noreferrer">stroke</a>, <a href="https://gut.bmj.com/content/45/2/165" target="_blank" rel="noopener noreferrer">Crohn's Disease</a>, and <a href="https://www.npr.org/sections/health-shots/2017/12/06/568836583/even-low-dose-contraceptives-slightly-increase-breast-cancer-risk-study-finds" target="_blank" rel="noopener noreferrer">certain cancers</a>. Side effects can last <a href="https://www.jpagonline.org/article/S1083-3188(18)30090-1/fulltext" target="_blank" rel="noopener noreferrer">permanently or long after cessation</a> of the medication. For a deeper dive into the impacts of hormonal contraceptives,  check out Dr. Jolene Brighten 
+
+and Dr. Lara Briden
+
+ who are trusted authorities on hormonal health. For more information, this article
+
+ and Endopedia.com
+
+ discusses specific drugs, effectiveness, and side effects.
