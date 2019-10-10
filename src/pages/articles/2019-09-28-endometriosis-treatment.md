@@ -138,7 +138,7 @@ While oral contraceptives and hormonal therapy are the most commonly prescribed 
 
 </blockquote>
 
-In theory, hormonal suppression is thought to decrease endometriosis tissue activity. However, there are <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">several problems</a> with this approach. Although suppressed, the endometriosis is still progressing and going deeper. Since the disease was never removed, the tissues will reactivate once suppression stops. High recurrence rates of disease are associated with all hormonal medical options.
+In theory, hormonal suppression is thought to decrease endometriosis tissue activity by halting menses. However, there are <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">several problems</a> with this approach. Although suppressed, the endometriosis is still <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">progressing and growing deeper</a>. Since the disease was never removed, the endometriosis tissue will reactivate once suppression stops and <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">symptoms will return</a>. <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">High recurrence rates</a> of disease are associated with all hormonal medical options.
 
 <blockquote class="blockquote">All medical therapy, whether administered as first-line treatment or postoperatively, is associated with high rates of disease recurrence.
 
@@ -146,4 +146,4 @@ In theory, hormonal suppression is thought to decrease endometriosis tissue acti
 
 </blockquote>
 
-Despite the known flaws, most providers still offer hormonal suppression as a “treatment” and few are educated on the  <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">risks, side effects, and limitations</a>.
+Despite the known flaws, most providers still offer hormonal suppression as a “treatment” and few are educated on the  <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">risks, side effects, and limitations</a>. Too often, they fail to inform patients that hormone therapy can only provide symptomatic relief (if anything), while the disease will continue to progress and grow deeper.
