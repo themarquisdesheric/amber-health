@@ -19,6 +19,14 @@ This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Treatment options?</h2>
 
+<blockquote class="blockquote">There is an urgent need to rethink endometriosis care in order to provide a more comprehensive, patient-focused approach with long-term goals.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"></a>-Sanjay Agarwal, MD, FACOG</cite>
+
+</blockquote>
+
+
+
 Currently there is no cure or preventative treatment for endometriosis. There are several treatment options available that can help in disease management. However, few options actually target the disease and most only address the symptoms. Each treatment has its own benefits, limitations, and risks to consider. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">Contemporary treatments</a> are based upon the surgical removal of lesions and medical strategies that suppress estrogen or menses. Due to the complexity of endometriosis and its symptoms, these strategies do not provide a suitable model of care for patients long term. While there have been efforts to define guidelines by <a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">various associations</a>, the best treatments for endometriosis still remain controversial and under debate. 
 
 <blockquote class="blockquote">The current system’s inability to adequately address endometriosis pain symptoms often results in the emergence of broader functional sequela and psychological impact. The ability to address these broader impacts is crucial and certainly requires a more comprehensive, multidisciplinary approach to care. 
@@ -128,7 +136,7 @@ Hysterectomy is not a suitable treatment option for endometriosis. Endometriosis
 
 <h3>Hormonal Contraceptives and Hormone Therapy</h3>
 
-Many doctors offer hormonal contraceptives and hormonal therapies as a first line treatment to an endometriosis patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists, like Lupron. 
+Many doctors offer hormonal contraceptives and hormonal therapies as a first line treatment option to an endometriosis patient. Hormone therapy can come in the form of birth control pills, progesterone only pills, progesterone medicines, and GnRH agonists, like Lupron. 
 
 While oral contraceptives and hormonal therapy are the most commonly prescribed medications for endometriosis, they are proven to not <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">eradicate</a>, <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">stop progression</a>, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">improve the disease</a>.
 
@@ -146,4 +154,26 @@ In theory, hormonal suppression is thought to decrease endometriosis tissue acti
 
 </blockquote>
 
-Despite the known flaws, most providers still offer hormonal suppression as a “treatment” and few are educated on the  <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">risks, side effects, and limitations</a>. Too often, they fail to inform patients that hormone therapy can only provide symptomatic relief (if anything), while the disease will continue to progress and grow deeper.
+Despite the proven ineffectiveness, most providers still offer hormonal suppression as a “treatment”.  Few are educated on the  <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">risks, side effects, and limitations</a> and in turn, cannot educate their patients. Too often, they fail to inform patients that hormone therapy can only provide <a href="https://www.ncbi.nlm.nih.gov/pubmed/29937152" target="_blank" rel="noopener noreferrer">symptomatic relief</a>, if even that, while the disease will continue to progress and grow deeper. It's important to remember that hormonal suppression cannot eradicate the disease,   <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">cannot improve fertility</a>, and has shown no effect on adhesions. 
+
+<blockquote class="blockquote">In the general healthcare community including at the OB/GYN level, it is taught (and hence practiced) that the most frequent mainstays of treatment are medical suppressives and incomplete surgery. Medication does not eradicate endometriosis, however, and the disease does not simply ‘go away’ as a result of drug suppression. At best, such a course of therapy provides only a temporary means of symptom improvement, not definitive treatment. Often, side effects are significantly negative and intolerable, and may last far beyond the cessation of treatment. Poor outcomes on suppression therapies are routine: drug therapy that can destroy endometriosis permanently has yet to be discovered. Hormonal suppression has 'no effect on adhesion of endometriotic cells and cannot improve fertility.
+
+<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">-Center of Endometriosis Care</a></cite>
+
+</blockquote>
+
+Again and again studies show hormonal therapies do not treat the disease. In eye opening review on hormonal therapies, it was found certain hormonal contraceptives work to relieve pain symptoms but have no impact on the disease progression. Some combined oral contraceptives may decrease the recurrence of disease after surgery, but this does not prove that they provide this effect alone. 
+
+ Data indicate that little difference exists in effectiveness of the various analogs, all of which last only while the patient is undergoing treatment and most of which have negative side effects.
+
+After reviewing 16 trails, The Cochrane Library 
+
+https://www.cochrane.org/CD003678/MENSTR_there-is-no-evidence-that-hormonal-suppression-either-before-or-after-surgery-for-endometriosis-is-associated-with-a-benefit
+
+found that there was insufficient evidence to determine if there was a benefit from pre-surgical medical therapy. They also found there was no evidence of benefit associated with post surgical medical therapy. 
+
+Another review to determine the effectiveness of combined hormonal contraceptive in relieving , found the supportive date to be of low quality  to prove combined hormonal contraceptive  t
+
+The available literature suggests that CHC treatment is effective for relief of endometriosis-related dysmenorrhea, pelvic pain, and dyspareunia; however, the supportive data are of low quality. Furthermore, insufficient data exist to reach conclusions about the overall superiority of any given CHC therapy, and the relative benefit in comparison to other approaches. Additional high-quality studies are needed to clarify the role of CHC agents and other treatments in women with endometriosis-related pain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29937152
