@@ -30,10 +30,10 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Image, name: image, widget: image}
+          - {label: "Hero Text", name: "heroText", widget: "string", hint: "Text overlay for hero image"}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Hero Text", name: "heroText", widget: "string", hint: "Text overlay for hero image"}
