@@ -5,7 +5,8 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 export const IndexPageTemplate = ({
-  image
+  image,
+  heroText
 }) => (
   <div>
     <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
@@ -19,11 +20,7 @@ export const IndexPageTemplate = ({
         }}
       >
         <p className="index-intro-text max-w-xl text-lg">
-          The Chronic is a comprehensive guide
-          of curated resources for those with chronic illness
-          who are navigating a broken healthcare system
-          while trying to preserve their dignity and self worth
-          and ultimately attain wellness and health.
+          {heroText}
         </p>
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>

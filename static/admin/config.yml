@@ -18,7 +18,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list", hint: "Only include tags when you're ready to publish. Otherwise the article will be discoverable."}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
 
   - name: "pages"
@@ -36,3 +36,4 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Hero Text", name: "heroText", widget: "string", hint: "Text overlay for hero image"}

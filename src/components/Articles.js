@@ -1,9 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import kebabCase from 'lodash/kebabCase';
+import _kebabCase from 'lodash/kebabCase';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import Breadcrumbs from './Breadcrumbs';
 import Article from './Article';
+
+const completedPost = ({ node }) => !node.frontmatter.draft;
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 // TODO: once topics are ready
@@ -12,7 +14,7 @@ const Topics = () => (
     <p className="text-center text-md font-bold mt-8 py-3">Topics</p>
     <ul className="topics">
       {topics.map(topic => 
-        <Link to={`/tags/${kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>
+        <Link to={`/tags/${_kebabCase(topic)}/`} className="text-sm relative pl-5" key={topic}>
           {` ${topic}`}
         </Link>
       )}
@@ -21,16 +23,15 @@ const Topics = () => (
 );
 
 const Articles = ({ data }) => {
-  const { edges: posts } = data.allMarkdownRemark;
+  const { edges: posts = [] } = data.allMarkdownRemark;
 
   return (
     <section className="content">
       <Breadcrumbs path="Articles" />
       <div className="flex flex-col items-center">
-        {posts &&
-          posts.map(({ node: post }) => (
-            <Article post={post} className="article-card max-w-xl" key={post.id} />
-          ))}
+        {posts.filter(completedPost).map(({ node: post }) => 
+          <Article post={post} className="article-card max-w-xl" key={post.id} />
+        )}
         {/* <Topics /> */}
       </div>
     </section>
@@ -62,6 +63,7 @@ export default () => (
               frontmatter {
                 title
                 description
+                draft
                 templateKey
                 featuredimage {
                   childImageSharp {
