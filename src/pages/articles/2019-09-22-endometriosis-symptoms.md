@@ -17,7 +17,7 @@ This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
-All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain can be associated, endometriosis can cause many symptoms. Each patient is unique and may experience any range of the below symptoms.
+All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
 
 * Pain with Menstruation
 * Pelvic Pain
@@ -46,6 +46,16 @@ Endometriosis is often incorrectly associated with menses. This couldn’t be fu
 
 For example, some patients will only have pain and dysfunction surrounding their ovulation and menstruation. More commonly, a patient will experience <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer"> daily symptoms </a> that intensify and become further debilitating over time. On the other hand, there are patients who remain completely asymptomatic despite having the disease. There is a poor correlation between the stage of the disease and the severity of the symptoms. Due to the <a href="https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/j.1471-0528.1997.tb11523.x" target="_blank" rel="noopener noreferrer">varying presentations</a> and symptoms, no two patients present with the same symptoms or comorbidities. 
 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">Pain</a> is a common and debilitating symptom of the disease. Patients experience both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6257623/" target="_blank" rel="noopener noreferrer">somatic and visceral</a> types of pain. Somatic pain arises from triggering sensory nerves that are located in skin and tissue like tendons, muscles, and joints. Visceral pain comes from within the inner organs, abdomen, and skeleton and can be referred to other locations. 
+
+Endometriosis has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer">various different mechanisms</a> that can create pain. This includes inflammatory pain from the inflamed internal environment, pain from compression or infiltration of nerves by lesions, and neuropathic pain due to surgery or lesions. 
+
+<blockquote class="blockquote">Endometriosis is an unusual condition because of the potential of a variety of different mechanisms to generate pain. These include direct compression/infiltration of nerves by the lesions, inflammatory pain due to the enhanced inflammatory environment of the pelvis and ‘neuropathic’ pain secondary to damage of pelvic nerves during surgery or of the new nerves directly infiltrating the lesions.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer"></a>-Jennifer Brawn</cite>
+
+</blockquote>
+
 Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
 
 <blockquote class="blockquote">The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
@@ -54,7 +64,7 @@ Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154
 
 </blockquote>
 
-To further complicate the presentation of symptoms, endometriosis is found to have many comorbidities, or related conditions. Possible <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> include migraines, asthma, allergies, hypothyroidism, chronic pain, fibromyalgia, chronic fatigue syndrome, rheumatoid arthritis, lupus, and multiple sclerosis. Since endometriosis is commonly located in the pelvic cavity chronic pelvic pain is another significant comorbidity. Pelvic structures including the bowel and bladder are often affected. Tellingly called the “<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043443/" target="_blank" rel="noopener noreferrer">evil twins</a>”, endometriosis is commonly associated with interstitial cystitis or painful bladder syndrome. 
+To further complicate the presentation of symptoms, endometriosis is found to have many comorbidities, or related conditions. Possible <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> include migraines, asthma, allergies, hypothyroidism, chronic pain, fibromyalgia, chronic fatigue syndrome, rheumatoid arthritis, lupus, and multiple sclerosis. Since endometriosis is commonly located in the pelvic cavity chronic pelvic pain is another significant comorbidity. Pelvic structures including the bowel and bladder are often affected. Tellingly called the “<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043443/" target="_blank" rel="noopener noreferrer">evil twins</a>”, endometriosis is commonly associated with interstitial cystitis or <a href="https://endometriosis.net/clinical/bladder/?fbclid=IwAR1z7jwRZWEb72OtuZCfRkJdqBdkdebA-r2MoBl9m4CxUay0TPtczISb25A" target="_blank" rel="noopener noreferrer">painful bladder syndrome</a>. 
 
 Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">higher risk</a> of ovarian and breast cancers and some autoimmune, cardiovascular, and atopic diseases. There is no current explanation or understanding in how these conditions overlap but the prevalence is significant. Further research is needed to understand the connection between these conditions. 
 
