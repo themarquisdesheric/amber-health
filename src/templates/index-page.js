@@ -31,32 +31,32 @@ export const IndexPageTemplate = ({
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>
         <p className="max-w-xl" style={{ color: '#fff' }}>
-          {secondBlockText}
+          {/* {secondBlockText} */}
         </p>
       </section>
       
       <div className="snippets">
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>{firstSnippet}</p>
+          {/* <p>{firstSnippet}</p> */}
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>{secondSnippet}</p>
+          {/* <p>{secondSnippet}</p> */}
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>{thirdSnippet}</p>
+          {/* <p>{thirdSnippet}</p> */}
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>{fourthSnippet}</p>
+          {/* <p>{fourthSnippet}</p> */}
         </div>
       </div>
       
       <section className="p-6" style={{ background: 'rgba(179, 86, 75, 0.5)' }}>
         <p className="max-w-xl" style={{ color: '#fff' }}>
-          {thirdBlockText}
+          {/* {thirdBlockText} */}
         </p>
       </section>
     </main>
