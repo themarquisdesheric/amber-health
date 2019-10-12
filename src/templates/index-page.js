@@ -102,12 +102,6 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         heroText
-        secondBlockText
-        thirdBlockText
-        firstSnippet
-        secondSnippet
-        thirdSnippet
-        fourthSnippet
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
