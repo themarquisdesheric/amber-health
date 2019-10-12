@@ -5,6 +5,9 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+publish_mode: editorial_workflow
+logo_url: /img/og-image.png
+
 collections:
   - name: "articles"
     label: "Articles"
