@@ -6,7 +6,13 @@ import Layout from '../components/Layout';
 
 export const IndexPageTemplate = ({
   image,
-  heroText
+  heroText,
+  secondBlockText,
+  thirdBlockText,
+  firstSnippet,
+  secondSnippet,
+  thirdSnippet,
+  fourthSnippet
 }) => (
   <div>
     <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
@@ -19,38 +25,38 @@ export const IndexPageTemplate = ({
           height: 'calc(100vh - 65px)'
         }}
       >
-        <p className="index-intro-text max-w-xl text-lg">
+        <p className="index-intro-text max-w-xl text-md">
           {heroText}
         </p>
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>
         <p className="max-w-xl" style={{ color: '#fff' }}>
-          Valuable resources like time, access, and energy are often limited when experiencing illness. This thoughtful collection of trusted resources addresses a variety of diseases and conditions and aims to empower, challenge, and revolutionize the patient perspective.
+          {secondBlockText}
         </p>
       </section>
       
       <div className="snippets">
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>curated resources for those with chronic illness</p>
+          <p>{firstSnippet}</p>
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>your guide for navigating a broken healthcare system</p>
+          <p>{secondSnippet}</p>
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>preserve your dignity and self worth</p>
+          <p>{thirdSnippet}</p>
         </div>
         <div>
           <img src="/img/apple-touch-icon.png" alt="pomegranate logo" />
-          <p>attain wellness and health</p>
+          <p>{fourthSnippet}</p>
         </div>
       </div>
       
       <section className="p-6" style={{ background: 'rgba(179, 86, 75, 0.5)' }}>
         <p className="max-w-xl" style={{ color: '#fff' }}>
-          When seeking medical care it is imperative to receive validation in the form of an accurate diagnosis which leads to an appropriate treatment approach and better quality of care. Being informed to the best of your ability will help you advocate for yourself and your health needs, especially if your doctor is not prepared to do so.
+          {thirdBlockText}
         </p>
       </section>
     </main>
@@ -59,15 +65,23 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  heroText: PropTypes.string.isRequired,
+  secondBlockText: PropTypes.string.isRequired,
+  thirdBlockText: PropTypes.string.isRequired,
+  firstSnippet: PropTypes.string.isRequired,
+  secondSnippet: PropTypes.string.isRequired,
+  thirdSnippet: PropTypes.string.isRequired,
+  fourthSnippet: PropTypes.string.isRequired
 };
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark;
+  const { frontmatter: { image, heroText } } = data.markdownRemark;
 
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
+        image={image}
+        heroText={heroText}
       />
     </Layout>
   );
@@ -87,6 +101,13 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
+        heroText
+        secondBlockText
+        thirdBlockText
+        firstSnippet
+        secondSnippet
+        thirdSnippet
+        fourthSnippet
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {

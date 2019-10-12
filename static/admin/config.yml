@@ -31,6 +31,12 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Image, name: image, widget: image}
           - {label: "Hero Text", name: "heroText", widget: "string", hint: "Text overlay for hero image"}
+          - {label: "Second Block Text", name: "secondBlockText", widget: "string", hint: "Text overlay for second block"}
+          - {label: "Third Block text", name: "thirdBlockText", widget: "string", hint: "Text overlay for third block"}
+          - {label: "First Snippet", name: "firstSnippet", widget: "string", hint: "First Snippet Text"}
+          - {label: "Second Snippet", name: "secondSnippet", widget: "string", hint: "Second Snippet Text"}
+          - {label: "Third Snippet", name: "thirdSnippet", widget: "string", hint: "Third Snippet Text"}
+          - {label: "Fourth Snippet", name: "fourthSnippet", widget: "string", hint: "Fourth Snippet Text"}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
