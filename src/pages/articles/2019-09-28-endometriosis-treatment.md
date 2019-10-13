@@ -9,6 +9,7 @@ featuredimage: /img/sonjiawpom-1.jpg
 tags:
   - endometriosis
   - women's health
+draft: true
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
@@ -193,10 +194,12 @@ Lupron has a <a href="https://www.wsbtv.com/news/local/georgia-woman-says-drug-u
 
 <h3>Complementary and Alternative Therapies</h3>
 
-A<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to each endometriosis patient’s needs will provide the most successful long term outcome in disease management. Often this will include seeking out a variety of doctors and specialties to address symptoms. This can include working with nutritionists, integrative doctors, urologists, and many other types of healthcare providers. Research
+A<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to each endometriosis patient’s needs will provide the most successful long term outcome in disease management. Often this will include seeking out a variety of doctors and specialties to address symptoms. This can include working with nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. 
 
- has shown that there are several benefits
+These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> can include various methods aimed at <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
 
- to complementary therapies for endometriosis patients.  Examples of therapies include physical therapy, acupuncture, yoga, and meditation. 
+<blockquote class="blockquote">The majority of patients with chronic pelvic pain and endometriosis have additional related comorbidities. This preliminary data suggests that a thorough approach that addresses these additional processes that contribute to chronic pelvic pain may be a key factor in maintaining such re-operation rates lower than previously reported for patients with endometriosis.
 
-These therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management.  Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
+<cite><a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">-Janette Davison, M.D.</a></cite>
+
+</blockquote>
