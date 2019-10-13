@@ -234,11 +234,15 @@ http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20
 
 Foods rich in omega 3 have shown anti-inflammatory effects that may be beneficial to chronic inflammation of endometriosis. 
 
-The origin and progression of disease may be linked to diets that are deficient in necessary nutrients. The resulting changes in metabolism and oxidative stress promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables may have an ability to protect against or regress the disease. 
+The origin and progression of disease may be linked to diets that are deficient in necessary nutrients. The resulting changes in metabolism and oxidative stress promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress the disease. 
 
 Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
 
 https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext
+
+
+
+
 
 Estrogen is another point of interest in both disease management and diet. Estrogen is a key contributor to endometriosis growth so specialists and researchers have suggested reducing the consumption of foods with an estrogenic effect, or an ability to raise internal estrogen levels.
 
