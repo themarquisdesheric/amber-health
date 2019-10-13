@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
   <div>
     <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
       <section 
-        className="full-width-image m-auto px-6"
+        className="full-width-image m-auto p-12"
         style={{
           backgroundImage: `url(${
             image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -25,9 +25,11 @@ export const IndexPageTemplate = ({
           height: 'calc(100vh - 65px)'
         }}
       >
-        <p className="index-intro-text max-w-xl text-md">
-          {heroText}
-        </p>
+        <div className="index-intro-text-wrapper max-w-xl py-4">
+          <p className="index-intro-text text-md">
+            {heroText}
+          </p>
+        </div>
       </section>
       <section className="p-6" style={{ background: 'rgb(65, 25, 19)' }}>
         <p className="max-w-xl" style={{ color: '#fff' }}>

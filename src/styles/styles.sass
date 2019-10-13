@@ -3,9 +3,11 @@ $white: #fff
 $gray-light: #e2e8f0
 $gray-text: #2d3748
 $theme: rgb(179, 86, 75)
-$theme-light: rgba($theme, .5)
+$theme-light: rgb(207, 158, 154);
+$theme-opaque: rgba($theme, .5)
 $theme-brown: rgb(65, 25, 19)
 $averia-font: "Averia Serif Libre", sans-serif
+$box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18)
 
 body  
   margin: 0
@@ -25,7 +27,7 @@ p
 
 .mobile-nav 
   transition: max-height 0.3s ease-out
-  background: $theme-light
+  background: $theme-opaque
 
 .mobile-nav a
   display: block
@@ -61,7 +63,7 @@ p
 
   h1 + p
     position: relative
-    border-bottom: 1px dotted $theme-light
+    border-bottom: 1px dotted $theme-opaque
 
   h1 + p::after
     background: no-repeat center / contain $white url(/img/logo-80.png)
@@ -171,12 +173,19 @@ li:not(.tag)::before
     justify-content: center
     align-items: center
 
-  .index-intro-text
-    background: rgba(255, 255, 255, .85)
-    color: $black
+  .index-intro-text-wrapper
+    background: $theme-light
     border-radius: 5px
-    border: 1px solid $theme-light
-    padding: .5rem 1rem
+    box-shadow: $box-shadow
+    display: flex
+    justify-content: center
+    align-items: center
+    
+    .index-intro-text
+      color: $white
+      width: 80%
+      height: fit-content
+
 
 .snippets 
   display: flex
@@ -229,7 +238,7 @@ form
     border-radius: 4px
     padding: .25rem 1rem
     background: $white
-    color: $theme-light
+    color: $theme-opaque
 
     &:disabled
       opacity: .8
@@ -258,7 +267,7 @@ small
   min-height: calc(100vh - 64px)
 
   &.contact
-    background-color: $theme-light
+    background-color: $theme-opaque
     color: $white
 
 .content  
@@ -292,7 +301,7 @@ ul a:hover,
 
 @media all and (min-width: 550px)
   .article-card
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18)
+    box-shadow: $box-shadow
     padding: 1rem
     border-radius: 5px
 
@@ -322,6 +331,10 @@ ul a:hover,
 
   .breadcrumbs
     padding-left: 4.5rem
+
+  .index-intro-text-wrapper
+    height: 275px
+    max-width: 650px
 
 @media all and (min-width: 1024px)
   .full-width-image 
