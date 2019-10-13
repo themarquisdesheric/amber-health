@@ -30,7 +30,7 @@ const Index = () => {
 
     const { name, email, subject, message } = form;
     const body = `
-      ${message.slice(0, 1900)}
+      ${message.slice(0, 1800)}
 
       ----------
 
@@ -38,8 +38,12 @@ const Index = () => {
       ${email}
     `;
 
-    window.open(`mailto:amber.robinson21@gmail.com?subject=${subject}&body=${body}`);
+    window.location.href = `mailto:amber.robinson21@gmail.com?subject=${subject}&body=${body}`;
   };
+
+  const messageLength = form.message.length;
+  const showEmailClientNotification = messageLength > 10;
+  const showMessageLengthLimit = messageLength > 1800;
 
   return ( 
     <Layout className="contact">
@@ -58,7 +62,7 @@ const Index = () => {
             </div>
             
             <label htmlFor="name">
-              Name
+              Name*
             </label>
             <div>
               <input
@@ -71,7 +75,7 @@ const Index = () => {
             </div>
 
             <label htmlFor="email">
-              Email
+              Email*
             </label>
             <div>
               <input
@@ -84,7 +88,7 @@ const Index = () => {
             </div>
             
             <label htmlFor="subject">
-              Subject
+              Subject*
             </label>
             <div>
               <input
@@ -97,7 +101,7 @@ const Index = () => {
             </div>
 
             <label htmlFor="message">
-              Message
+              Message*
             </label>
             <div>
               <textarea
@@ -107,7 +111,14 @@ const Index = () => {
                 rows="6"
                 required={true}
               ></textarea>
-              {form.message.length > 1900 && <span className="text-xs">You've reached the message length limit. Please click Send to complete the message in your email client.</span>}
+              
+              <span className="text-xs">
+                {/* there is a 2000 character cutoff for messages sent via mailto */}
+                {showMessageLengthLimit
+                  ? 'You\'ve reached the message length limit. Please click Send to complete the message in your email client.'
+                  : showEmailClientNotification && 'Your message will be sent using your default email client.'
+                }
+              </span>
             </div>
             
             <button onClick={handleSubmit} disabled={!isValid}>
