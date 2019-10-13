@@ -2,8 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Layout from '../../components/Layout';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
-// * animate heading?? 
-
 const Index = () => {
   const [form, setForm] = useState({
     name: '',
@@ -15,16 +13,32 @@ const Index = () => {
   useEffect(() => {
     const { name, email, message } = form;
     
-    if (name.length && email.length && message.length) {
+    if (!isValid && name.length && email.length && message.length) {
       setIsValid(true);
     }
   }, [form]);
 
-  const handleChange = e => {
+  const handleChange = ({ target: { name, value } }) => {
     setForm({
       ...form,
-      [e.target.name]: e.target.value 
+      [name]: value 
     });
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const { name, email, subject, message } = form;
+    const body = `
+      ${message.slice(0, 1900)}
+
+      ----------
+
+      ${name}
+      ${email}
+    `;
+
+    window.open(`mailto:amber.robinson21@gmail.com?subject=${subject}&body=${body}`);
   };
 
   return ( 
@@ -33,15 +47,7 @@ const Index = () => {
         <Breadcrumbs path="Contact" />
         <div className="flex flex-col items-center">
           <h1 className="text-2xl font-semibold text-center mb-12 md:text-3xl">Get in touch.</h1>
-          <form
-            name="contact"
-            action="mailto:someone@example.com" 
-            method="post" 
-            encType="text/plain"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
-            className="max-w-xl"
-          >
+          <form name="contact" className="max-w-xl">
             {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
             <input type="hidden" name="form-name" value="contact" />
             <div hidden>
@@ -63,10 +69,10 @@ const Index = () => {
                 required={true}
               />
             </div>
+
             <label htmlFor="email">
               Email
             </label>
-            
             <div>
               <input
                 type="email"
@@ -76,10 +82,23 @@ const Index = () => {
                 required={true}
               />
             </div>
+            
+            <label htmlFor="subject">
+              Subject
+            </label>
+            <div>
+              <input
+                type="text"
+                name="subject"
+                onChange={handleChange}
+                id="subject"
+                required={true}
+              />
+            </div>
+
             <label htmlFor="message">
               Message
             </label>
-            
             <div>
               <textarea
                 name="message"
@@ -88,8 +107,10 @@ const Index = () => {
                 rows="6"
                 required={true}
               ></textarea>
+              {form.message.length > 1900 && <span className="text-xs">You've reached the message length limit. Please click Send to complete the message in your email client.</span>}
             </div>
-            <button type="submit" disabled={!isValid}>
+            
+            <button onClick={handleSubmit} disabled={!isValid}>
               Send
             </button>
           </form>
