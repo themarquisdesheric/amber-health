@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Layout from '../../components/Layout';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import GetInTouchAnimation from './get-in-touch-animation';
 
 const Index = () => {
   const [form, setForm] = useState({
@@ -50,7 +51,9 @@ const Index = () => {
       <section className="content">
         <Breadcrumbs path="Contact" />
         <div className="flex flex-col items-center">
-          <h1 className="text-2xl font-semibold text-center mb-12 md:text-3xl">Get in touch.</h1>
+          <h1 className="text-2xl font-semibold text-center mb-12 md:text-3xl">
+            <GetInTouchAnimation />
+          </h1>
           <form name="contact" className="max-w-xl">
             {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
             <input type="hidden" name="form-name" value="contact" />

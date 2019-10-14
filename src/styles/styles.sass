@@ -215,6 +215,21 @@ li:not(.tag)::before
   a:hover
     color: $white
 
+.contact
+  h1
+    display: flex
+    perspective: 500px
+
+  span
+    transform-origin: 50% 75%
+
+@keyframes flipUp
+  0% 
+    transform: rotateX(90deg)
+
+  100% 
+    transform: rotateX(0deg)
+
 form
   min-width: 272px
   width: 100%
@@ -343,3 +358,8 @@ ul a:hover,
   .snippets div
     max-width: 25%
     min-height: 300px
+
+@media all and (min-width: 1250px) 
+  .index-wrapper .full-width-image
+    background-size: 40%
+    background-position: center
