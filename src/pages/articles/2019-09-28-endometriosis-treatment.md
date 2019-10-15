@@ -206,44 +206,20 @@ These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank
 
 **Diet and Nutrition** 
 
-Several studies have shown a potential link 
+Diet and nutrition have become areas of increased interest for disease management and prevention. Several studies have shown <a href="https://academic.oup.com/humrep/article/19/8/1755/2356458" target="_blank" rel="noopener noreferrer">a potential link</a> between endometriosis and diet. <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">More research</a> is needed to understand the role that diet may play in endometriosis and its symptoms. 
 
-https://academic.oup.com/humrep/article/19/8/1755/2356458
+Diet has been shown to have a <a href="https://onlinelibrary.wiley.com/doi/abs/10.1177/0884533610385703" target="_blank" rel="noopener noreferrer">modest effect on inflammatory markers</a> that contribute to many modern diseases. Since inflammation contributes in large part to endometriosis and pain symptoms, an <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">anti-inflammatory diet</a> has been recommended by specialists. Foods rich in omega 3 have shown **anti-inflammatory effects** that may be beneficial to chronic inflammation of endometriosis. **Fish oi**l, are examples of omega 3 rich foods.
 
-between endometriosis and diet. 
+The origin and progression of endometriosis may be linked to diets that are deficient in necessary nutrients. The resulting changes promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress endometriosis. 
 
+<blockquote class="blockquote">Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
 
+<cite><a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">-Gabriela Halpern</a></cite>
 
-More research
-
-https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext
-
- is needed to understand the role that diet may play in endometriosis and its symptoms. Diet has been shown to have a modest effect on inflammatory markers that contribute to many modern diseases. 
-
-https://onlinelibrary.wiley.com/doi/abs/10.1177/0884533610385703
+</blockquote>
 
 
 
 
 
-Since inflammation contributes in large part to the disease and pain symptoms, an anti-inflammatory diet has been recommended by specialists. 
-
-http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf
-
-
-
-Foods rich in omega 3 have shown anti-inflammatory effects that may be beneficial to chronic inflammation of endometriosis. 
-
-The origin and progression of disease may be linked to diets that are deficient in necessary nutrients. The resulting changes in metabolism and oxidative stress promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress the disease. 
-
-Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
-
-https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext
-
-
-
-
-
-Estrogen is another point of interest in both disease management and diet. Estrogen is a key contributor to endometriosis growth so specialists and researchers have suggested reducing the consumption of foods with an estrogenic effect, or an ability to raise internal estrogen levels.
-
-https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext#s0120
+Estrogen is another point of interest in both disease management and diet. Estrogen stimulates endometriosis growth so specialists and researchers have suggested reducing the consumption of foods with an <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext#s0120" target="_blank" rel="noopener noreferrer">estrogenic effect</a>, or an ability to raise internal estrogen levels.
