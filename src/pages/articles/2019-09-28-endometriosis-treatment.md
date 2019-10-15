@@ -214,6 +214,16 @@ Diet and nutrition have become areas of increased interest for disease managemen
 
 In general studies, diet has been shown to have a <a href="https://onlinelibrary.wiley.com/doi/abs/10.1177/0884533610385703" target="_blank" rel="noopener noreferrer">modest effect on inflammatory markers</a> that contribute to many modern diseases. Since inflammation contributes to endometriosis and pain symptoms, an <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">anti-inflammatory diet</a> has been recommended by specialists. An anti-inflammatory diet includes a variety of fruits, vegetables, whole grains, plant-based foods (beans, nuts), and spices.  Foods rich in omega 3 have shown <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">anti-inflammatory effects</a> that may be beneficial in reducing the chronic inflammation caused by endometriosis. Fish oil, fatty fish, flaxseeds, and walnuts are examples of omega 3 rich foods.
 
+**On the other hands, diets rich in unhealthy, trans fats may increase the risk of endometriosis. Trans fats are found in** 
+
+https://academic.oup.com/humrep/article/25/6/1528/2915756
+
+The results of this study suggest that increasing long-chain omega-3 fatty acid intake and decreasing trans-unsaturated fatty acid intake may be the first identified modifiable risk factors for endometriosis. In addition, this evidence provides another disease association that supports efforts to remove trans-unsaturated fats from the food supply.
+
+ we observed a significantly lower rate of diagnosis of laparoscopically confirmed endometriosis among women with greater long-term intake of long-chain omega-3 fatty acid consumption. Conversely, trans-unsaturated fat consumption and, potentially, a diet with greater animal fat consumption were associated with an increased risk. These associations suggest that diet, a potentially modifiable lifestyle factor, may be important in the pathogenesis of endometriosis. 
+
+
+
 Some researchers believe the origin and progression of endometriosis may be linked to <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">diets that are deficient</a> in necessary nutrients. The resulting changes are thought to promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress endometriosis. 
 
 <blockquote class="blockquote">Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
@@ -222,18 +232,12 @@ Some researchers believe the origin and progression of endometriosis may be link
 
 </blockquote>
 
-Estrogen is another point of interest in both disease progression and diet. Estrogen stimulates endometriosis growth so researchers have suggested reducing the consumption of foods with an <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext#s0120" target="_blank" rel="noopener noreferrer">estrogenic effect</a>, or an ability to raise internal estrogen levels. However, <a href="https://journals.lww.com/epidem/fulltext/2007/05000/Effect_of_Soy_Isoflavones_on_Endometriosis_.19.aspx" target="_blank" rel="noopener noreferrer">another study</a> suggested that an increased consumption of estrogen rich soybeans was associated with a reduced risk of advanced endometriosis. Due to conflicting data, more research is needed to clarify which approach is beneficial to endometriosis treatment. 
+Research has also focused on the relationship that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">red meat</a> has on endometriosis risk and development. A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen</a> which contributes to endometriosis growth. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Many specialists recommend a mainly plant based diet that can include a small amount of organic, grass fed beef.  
 
- Research
+http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/
+Estrogen is another point of interest in both disease progression and diet. Estrogen stimulates endometriosis growth so researchers have suggested reducing the consumption of foods with an <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext#s0120" target="_blank" rel="noopener noreferrer">estrogenic effect</a>, or the ability to raise internal estrogen levels. These foods contain phytoestrogens which is a plant derived compound that has an estrogenic effect on the endocrine system. 
 
+However, <a href="https://journals.lww.com/epidem/fulltext/2007/05000/Effect_of_Soy_Isoflavones_on_Endometriosis_.19.aspx" target="_blank" rel="noopener noreferrer">another study</a> suggested that an increased consumption of estrogen rich soybeans was associated with a reduced risk of advanced endometriosis. Due to conflicting data, more research is needed to clarify which approach is beneficial to endometriosis treatment. 
 
-
- has also focused on the relationship that red meat has on endometriosis risk and development. A commonly referenced study by Yamamoto et al
-
-https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext#s0120
-
-
-
- concluded there was an increased risk of endometriosis associated with a high intake of  red meat, such as ham and beef. Red meat is also thought to raise estrogen https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/
+Gluten
