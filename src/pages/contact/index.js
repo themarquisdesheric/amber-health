@@ -7,14 +7,15 @@ const Index = () => {
   const [form, setForm] = useState({
     name: '',
     email: '',
+    subject: '',
     message: ''
   });
   const [isValid, setIsValid] = useState(false);
 
   useEffect(() => {
-    const { name, email, message } = form;
+    const { subject, message } = form;
     
-    if (!isValid && name.length && email.length && message.length) {
+    if (!isValid && subject.length && message.length) {
       setIsValid(true);
     }
   }, [form]);
@@ -30,14 +31,7 @@ const Index = () => {
     e.preventDefault();
 
     const { name, email, subject, message } = form;
-    const body = `
-      ${message.slice(0, 1800)}
-
-      ----------
-
-      ${name}
-      ${email}
-    `;
+    const body = `${message.slice(0, 1800)} ${(name || email) ? `[FROM: ${name} ${email}]` : ''}`;
 
     window.location.href = `mailto:amber.robinson21@gmail.com?subject=${subject}&body=${body}`;
   };
@@ -65,7 +59,7 @@ const Index = () => {
             </div>
             
             <label htmlFor="name">
-              Name*
+              Name
             </label>
             <div>
               <input
@@ -73,12 +67,11 @@ const Index = () => {
                 name="name"
                 onChange={handleChange}
                 id="name"
-                required={true}
               />
             </div>
 
             <label htmlFor="email">
-              Email*
+              Email
             </label>
             <div>
               <input
@@ -86,7 +79,6 @@ const Index = () => {
                 name="email"
                 onChange={handleChange}
                 id="email"
-                required={true}
               />
             </div>
             
