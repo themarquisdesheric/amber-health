@@ -255,3 +255,41 @@ Each person with endometriosis has individual needs and food triggers. The Elimi
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374872/" target="_blank" rel="noopener noreferrer">-Britton Trabert, Ph.D., M.S.</a></cite>
 
 </blockquote>
+
+For more resources on diet and endometriosis check out these helpful resources.
+
+Dian Shepperson Mills offers nutritional advice and diet guidance 
+
+http://www.endometriosis.co.uk/reducing.html
+
+Her book provides an in depth look at nutrition. I personally recommend it. https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103
+
+Anti-Inflammatory and Elimination Diet Guide
+
+http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf
+
+https://www.healthline.com/nutrition/endometriosis-diet-tips
+
+Diet and endometriosis risk: A literature review
+
+https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext
+
+Diet and endometriosis-revisiting the linkages to inflammation
+
+https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation
+
+The Best Foods for Endometriosis
+
+https://endometriosis.net/living/best-foods/
+
+Foods that may negatively affect endometriosis
+
+https://www.healthline.com/health/endometriosis/endometriosis-diet#foods-to-avoid
+
+Diet Management for Endometriosis
+
+https://endometriosis.net/complementary-alternative-treatment/diet/
+
+Endometriosis Diet
+
+https://www.healthline.com/health/herbs-for-endometriosis#diet
