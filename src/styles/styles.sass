@@ -297,22 +297,25 @@ ul a:hover,
 .browse-all-tags a:hover
   color: $theme
 
-.full-width-image 
-  height: 50vh
+.full-width-image,
+.four-oh-four
   background-size: cover
   background-position: center
 
-.theme-color
-  color: $theme
+.full-width-image 
+  height: 50vh
 
 .four-oh-four
-  background: url(/img/pomwallpaper.png) center
-  background-size: contain
+  background-image: url(/img/pomwallpaper.png)
   height: calc(100vh - 65px)
 
   h1
     font-size: 9rem
     font-weight: 600
+    color: $black
+
+.theme-color
+  color: $theme
 
 @media all and (min-width: 550px)
   .article-card
@@ -360,6 +363,7 @@ ul a:hover,
     min-height: 300px
 
 @media all and (min-width: 1250px) 
-  .index-wrapper .full-width-image
+  .index-wrapper .full-width-image,
+  .four-oh-four
     background-size: 40%
     background-position: center
