@@ -258,25 +258,12 @@ Each person with endometriosis has individual needs and food triggers. The Elimi
 
 For more resources on diet and endometriosis check out these helpful resources.
 
-Dian Shepperson Mills offers nutritional advice and diet guidance 
+* Dian Shepperson Mills's <a href="http://www.endometriosis.co.uk/reducing.html" target="_blank" rel="noopener noreferrer">site</a> offers nutritional advice and diet guidance for endometriosis. Her book <a href="https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">book</a> provides an in depth look at nutrition. I personally recommend it. 
+* <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">Anti-Inflammatory and Elimination Diet Guide</a>
+* <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">Diet and endometriosis risk: A literature review</a>
+* <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and endometriosis-revisiting the linkages to inflammation</a>
 
-http://www.endometriosis.co.uk/reducing.html
 
-Her book provides an in depth look at nutrition. I personally recommend it. https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103
-
-Anti-Inflammatory and Elimination Diet Guide
-
-http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf
-
-https://www.healthline.com/nutrition/endometriosis-diet-tips
-
-Diet and endometriosis risk: A literature review
-
-https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext
-
-Diet and endometriosis-revisiting the linkages to inflammation
-
-https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation
 
 The Best Foods for Endometriosis
 
@@ -290,6 +277,8 @@ Diet Management for Endometriosis
 
 https://endometriosis.net/complementary-alternative-treatment/diet/
 
-Endometriosis Diet
+Endometriosis Diet and Tips
 
 https://www.healthline.com/health/herbs-for-endometriosis#diet
+
+https://www.healthline.com/nutrition/endometriosis-diet-tips
