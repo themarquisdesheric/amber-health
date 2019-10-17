@@ -263,28 +263,16 @@ For more information on diet and endometriosis check out these helpful resources
 
 **Acupuncture**
 
-There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. Current literature
+There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18794019/" target="_blank" rel="noopener noreferrer">Current literature</a> suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
 
-https://www.ncbi.nlm.nih.gov/pubmed/18794019/
+A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">acupuncture</a> can alleviate the pain of dysmenorrhoea and reduce peripheral blood CA-125. As a result, the therapy could be applied as a complementary treatment for endometriosis-related pain. However due to the limitations of the original studies, additional studies are needed to confirms these findings. 
 
- suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
+<blockquote class="blockquote">Acupuncture may serve as a complement or alternative to these treatments. The pain-alleviating effects of acupuncture have been attributed to various physiological and psychological processes, such as activation of endogenous descending pain inhibitory systems, deactivation of brain areas that transmit pain-related signals, interaction between nociceptive impulses and somato-visceral reflexes, and the expectation of symptom relief.
 
-A systemic review found that acupuncture can alleviate the pain of dysmenorrhoea
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/
-
- and reduce peripheral blood CA-125. As a result, the therapy could be applied as a complementary treatment for endometriosis-related pain. 
-
-However due to the limitations of the original studies, additional studies are needed to confirms these findings. 
-
-<blockquote class="blockquote">
-
-
-
-<cite>Acupuncture may serve as a complement or alternative to these treatments. The pain-alleviating effects of acupuncture have been attributed to various physiological and psychological processes, such as activation of endogenous descending pain inhibitory systems, deactivation of brain areas that transmit pain-related signals, interaction between nociceptive impulses and somato-visceral reflexes, and the expectation of symptom relief
-
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Yang Xu</a>
-
-</cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Yang Xu</a></cite>
 
 </blockquote>
+
+**Yoga**
+
+There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to
