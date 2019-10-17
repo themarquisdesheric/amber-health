@@ -260,3 +260,31 @@ For more information on diet and endometriosis check out these helpful resources
 * <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and Endometriosis- revisiting the linkages to inflammation</a>
 * <a href="https://endometriosis.net/complementary-alternative-treatment/diet/" target="_blank" rel="noopener noreferrer">Diet Management for Endometriosis</a>
 * <a href="https://www.healthline.com/nutrition/endometriosis-diet-tips" target="_blank" rel="noopener noreferrer">Endometriosis Diet and Tips</a>
+
+**Acupuncture**
+
+There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. Current literature
+
+https://www.ncbi.nlm.nih.gov/pubmed/18794019/
+
+ suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
+
+A systemic review found that acupuncture can alleviate the pain of dysmenorrhoea
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/
+
+ and reduce peripheral blood CA-125. As a result, the therapy could be applied as a complementary treatment for endometriosis-related pain. 
+
+However due to the limitations of the original studies, additional studies are needed to confirms these findings. 
+
+<blockquote class="blockquote">
+
+
+
+<cite>Acupuncture may serve as a complement or alternative to these treatments. The pain-alleviating effects of acupuncture have been attributed to various physiological and psychological processes, such as activation of endogenous descending pain inhibitory systems, deactivation of brain areas that transmit pain-related signals, interaction between nociceptive impulses and somato-visceral reflexes, and the expectation of symptom relief
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Yang Xu</a>
+
+</cite>
+
+</blockquote>
