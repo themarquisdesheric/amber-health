@@ -231,7 +231,7 @@ Some researchers believe the origin and progression of endometriosis may be link
 
 The relationship that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">red meat</a> has on endometriosis risk and development has also been a focus of research.
 
-Red meat consumption and the 
+Red meat consumption and its relationship to endometriosis risk and progression has also been a topic of interest. 
 
  A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen</a> which contributes to endometriosis growth. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Many specialists recommend a mainly plant based diet. If consuming red meat, <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">organic, grass fed</a> beef is recommended in small amounts.
 
