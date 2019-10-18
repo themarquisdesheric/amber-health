@@ -293,7 +293,8 @@ For more resources on physical therapy for endometriosis, explore the following 
 * <a href="http://www.healpelvicpain.com/" target="_blank" rel="noopener noreferrer">Beyond Basics Physical Therapy</a>
 * <a href="https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561" target="_blank" rel="noopener noreferrer">Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery</a>
 * <a href="https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636" target="_blank" rel="noopener noreferrer">Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain</a>
-
+* <a href="https://soundcloud.com/womenspelvichealthpodcast" target="_blank" rel="noopener noreferrer">The Women's Pelvic Health Podcast</a>
+ 
 **Acupuncture**
 
 There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18794019/" target="_blank" rel="noopener noreferrer">Current literature</a> suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
@@ -326,5 +327,3 @@ For more information on Yoga for endometriosis and pain, please explore the reso
 * <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
-
-****
