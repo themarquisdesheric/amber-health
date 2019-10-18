@@ -317,3 +317,12 @@ Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are co
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">-T. Y. Rosenbaum</a></cite>
 
 </blockquote>
+
+For more resources on physical therapy for endometriosis, explore the following links.  
+
+* <a href="https://pelvicrehab.com/" target="_blank" rel="noopener noreferrer">Find a Pelvic Rehab Practitioner</a>
+* <a href="https://www.pelvicsanity.com/" target="_blank" rel="noopener noreferrer">Pelvic Sanity</a>
+* <a href="https://salliesarrel.com/" target="_blank" rel="noopener noreferrer">Dr. Sallie Sarrel's Pelvic Physical Therapy</a> 
+* <a href="http://www.healpelvicpain.com/" target="_blank" rel="noopener noreferrer">Beyond Basics Physical Therapy</a>
+* <a href="https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561" target="_blank" rel="noopener noreferrer">Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery</a>
+* <a href="https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636" target="_blank" rel="noopener noreferrer">Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain</a>
