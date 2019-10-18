@@ -296,38 +296,28 @@ For more information on Yoga for endometriosis and pain, please explore the reso
 
 **Physical Therapy**
 
-Specialists and researchers agree that complementary strategies, like physical therapy, may help to comprehensively address the patient's pain
+Specialists and researchers agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary strategies, like physical therapy, </a> may help to comprehensively address the patient's pain from endometriosis 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU
+<blockquote class="blockquote">Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
 
- from endometriosis 
+<cite><a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer"></a>-Belinda F. Wurn, PT</cite>
 
-Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction. The specific manual therapy used is thought to deform or cause failure of adhesive crosslink bonds. As a result, pain decreases and visceral and osseous mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
+</blockquote>
 
+Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of <a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction</a>. The specific manual therapy used is thought to deform or cause failure of adhesive crosslink bonds. As a result, pain decreases and visceral and osseous mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
 
+The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel. When the muscles are too relaxed or too tight, it is called <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">Pelvic Floor Dysfunction, or PFD</a>. PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
 
-Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
-
-https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088
-
-
-
-The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel. When the muscles are too relaxed or too tight, it is called Pelvic Floor Dysfunction, or PFD. 
-
- http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction
-
-PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
-
-Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015716/
-
- are common comorbidities of endometriosis. Studies on pelvic floor physical therapy for these conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. 
-
-https://www.ncbi.nlm.nih.gov/pubmed/18304280
+Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. 
 
 Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
 
-Kegels exercises are commonly suggested for strengthening the pelvic floor. During a kegel, the pelvic floor muscles are cotracted. In PFD, the pelvic floor muscles may be hypertonic or too tense so this would not be appropraite. The appropriate exercises for your particular case are best evaluated by the physical therapist. 
+ While kegel exercises are commonly suggested for strengthening the pelvic floor, they may not be suitable for patients with PFD. During a kegel, the pelvic floor muscles are contracted. In PFD, the pelvic floor muscles may be hypertonic or too tense so this would not be appropriate. The appropriate exercises for your particular case are best evaluated by the physical therapist. 
 
 http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction
+
+Physical therapy treatment of pelvic pain is an integral component of the multidisciplinary approach to CPP and associated sexual dysfunction
+
+https://www.ncbi.nlm.nih.gov/pubmed/18304280
+
+T. Y. Rosenbaum
