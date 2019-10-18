@@ -281,9 +281,33 @@ Participants of the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies, like yoga</a> to successfully manage the patient's pain long term.
 
+<blockquote class="blockquote">Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in quality of life in patients with endometriosis.
+
+<cite><a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">-Andrea Vasconcelos Gonçalves</a></cite>
+
+</blockquote>
+
 For more information on Yoga for endometriosis and pain, please explore the resources below.
 
 * <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
 * <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
+
+**Physical Therapy**
+
+Specialists and researchers agree that complementary strategies, like physical therapy, may help to comprehensively address the patient's pain
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU
+
+ from endometriosis 
+
+Studies reported significant improvements in all domains of sexual function
+
+Since few studies have been conducted, more research is needed to confirm these findings. 
+
+
+
+Site-specific manual physiotherapy might offer a non-pharmacologic and non-surgical alternative in the treatment of dyspareunia and dysmenorrhea in endometriosis patients. Further randomized, blinded, and multi-center assessment of the technique is warranted to validate the results and gauge any potential pitfalls.
+
+https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088
