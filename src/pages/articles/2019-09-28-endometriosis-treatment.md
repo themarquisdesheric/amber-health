@@ -283,10 +283,7 @@ Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/arti
 
 For more information on Yoga for endometriosis and pain, please explore the resources below.
 
-<a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
-
-<a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
-
-<a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
-
-<a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
+* <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
+* <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
+* <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
+* <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
