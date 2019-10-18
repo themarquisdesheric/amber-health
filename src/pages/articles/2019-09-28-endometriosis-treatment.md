@@ -275,4 +275,8 @@ A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 **Yoga**
 
-There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to
+There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life
+
+https://www.liebertpub.com/doi/10.1089/acm.2015.0343
+
+ for those with endometriosis.
