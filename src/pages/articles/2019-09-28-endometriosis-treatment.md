@@ -308,16 +308,12 @@ Physical therapy to address endometriosis related pain has shown promise in init
 
 The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel. When the muscles are too relaxed or too tight, it is called <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">Pelvic Floor Dysfunction, or PFD</a>. PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
 
-Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. 
+Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
 
-Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
+ While <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">kegel exercises</a> are commonly suggested for strengthening the pelvic floor, they may not be suitable for patients with PFD. During a kegel, the pelvic floor muscles are contracted. In PFD, the pelvic floor muscles may be hypertonic, or too tense, so this would not be appropriate. The most suitable exercises for your particular case are decided after you have been evaluated by the physical therapist.
 
- While kegel exercises are commonly suggested for strengthening the pelvic floor, they may not be suitable for patients with PFD. During a kegel, the pelvic floor muscles are contracted. In PFD, the pelvic floor muscles may be hypertonic or too tense so this would not be appropriate. The appropriate exercises for your particular case are best evaluated by the physical therapist. 
+<blockquote class="blockquote">Physical therapy treatment of pelvic pain is an integral component of the multidisciplinary approach to Chronic Pelvic Pain and associated sexual dysfunction.
 
-http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">-T. Y. Rosenbaum</a></cite>
 
-Physical therapy treatment of pelvic pain is an integral component of the multidisciplinary approach to CPP and associated sexual dysfunction
-
-https://www.ncbi.nlm.nih.gov/pubmed/18304280
-
-T. Y. Rosenbaum
+</blockquote>
