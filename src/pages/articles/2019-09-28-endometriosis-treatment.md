@@ -253,8 +253,8 @@ Each person with endometriosis has individual needs and food triggers. The Elimi
 
 For more information on diet and endometriosis check out these helpful resources.
 
-* <a href="http://www.endometriosis.co.uk/reducing.html" target="_blank" rel="noopener noreferrer">Dian Shepperson Mills's website</a> offers nutritional advice and diet guidance for endometriosis.
-* <a href="https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">Endometriosis: A Key to Healing And Fertility Through Nutrition</a> is a book that provides an in depth look at nutrition.
+* <a href="http://www.endometriosis.co.uk/reducing.html" target="_blank" rel="noopener noreferrer">Dian Shepperson Mills's website</a> 
+* <a href="https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">Endometriosis: A Key to Healing And Fertility Through Nutrition</a> 
 * <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">Anti-Inflammatory and Elimination Diet Guide</a>
 * <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">Diet and Endometriosis Risk: A literature review</a>
 * <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and Endometriosis- revisiting the linkages to inflammation</a>
@@ -275,26 +275,18 @@ A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 **Yoga**
 
-There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life
+There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to <a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life</a> for those with endometriosis.
 
-https://www.liebertpub.com/doi/10.1089/acm.2015.0343
+Participants of the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">greater knowledge of self, autonomy, and self care</a>. They also reported it was beneficial to control pelvic pain and, in turn they reduced the use of pain and psychiatric medications. Researchers identified bodily and psychosocial mechanisms  that could control pain in patients with endometriosis. For successful pain control,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">mind and body integrative techniques</a> are very important.
 
- for those with endometriosis.
+Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies, like yoga</a> to successfully manage the patient's pain long term.
 
-Participants of the study reported a greater knowledge of self, autonomy, and self care. They also reported it was beneficial to control pelvic pain and, in turn they reduced the use of pain and psychiatric medications.
+For more information on Yoga for endometriosis and pain, please explore the resources below.
 
-https://www.ncbi.nlm.nih.gov/pubmed/27552065
+<a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
 
+<a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
 
+<a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
 
-Researchers identified bodily and psychosocial mechanisms to control pain in patients with endometriosis. For pain control, mind and body integrative techniques
-
-https://www.ncbi.nlm.nih.gov/pubmed/27552065
-
- are very important.
-
-Specialists have recommended complementary therapies, like yoga 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU
-
-to successfully manage the patient's pain long term.
+<a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
