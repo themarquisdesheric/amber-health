@@ -280,3 +280,21 @@ There has been limited research on the efficacy of yoga as a treatment for endom
 https://www.liebertpub.com/doi/10.1089/acm.2015.0343
 
  for those with endometriosis.
+
+Participants of the study reported a greater knowledge of self, autonomy, and self care. They also reported it was beneficial to control pelvic pain and, in turn they reduced the use of pain and psychiatric medications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27552065
+
+
+
+Researchers identified bodily and psychosocial mechanisms to control pain in patients with endometriosis. For pain control, mind and body integrative techniques
+
+https://www.ncbi.nlm.nih.gov/pubmed/27552065
+
+ are very important.
+
+Specialists have recommended complementary therapies, like yoga 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU
+
+to successfully manage the patient's pain long term.
