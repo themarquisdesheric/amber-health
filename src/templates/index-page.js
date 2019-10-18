@@ -15,7 +15,7 @@ export const IndexPageTemplate = ({
   fourthSnippet
 }) => (
   <div>
-    <main className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
+    <div className="index-wrapper text-justify mb-12 leading-loose md:text-lg lg:text-xl">
       <section 
         className="full-width-image m-auto p-12"
         style={{
@@ -61,7 +61,7 @@ export const IndexPageTemplate = ({
           {thirdBlockText}
         </p>
       </section>
-    </main>
+    </div>
   </div>
 );
 

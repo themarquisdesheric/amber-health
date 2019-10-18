@@ -259,6 +259,21 @@ form
       opacity: .8
       cursor: no-drop
 
+.contact-footer
+  position: relative
+  transform: translateY(-50px)
+  transition: transform .5s
+
+  &.reveal
+    transform: translateY(0px)
+    
+    span
+      opacity: 1
+
+  span
+    margin-bottom: 1rem
+    opacity: 0
+
 // FOOTER
 .social 
   a 
@@ -339,6 +354,10 @@ ul a:hover,
 
     p
       font-size: 1rem
+
+@media all and (min-width: 343px)
+  .contact-footer
+    transform: translateY(-32px)
 
 @media all and (min-width: 768px) 
   .navbar

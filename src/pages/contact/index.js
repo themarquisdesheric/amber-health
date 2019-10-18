@@ -107,18 +107,21 @@ const Index = () => {
                 required={true}
               ></textarea>
               
-              <span className="text-xs">
+            </div>
+            
+            <div className={`contact-footer ${(showMessageLengthLimit || showEmailClientNotification) ? 'reveal' : ''}`}>
+              <span className="block mb-3 text-xs">
                 {/* there is a 2000 character cutoff for messages sent via mailto */}
                 {showMessageLengthLimit
                   ? 'You\'ve reached the message length limit. Please click Send to complete the message in your email client.'
-                  : showEmailClientNotification && 'Your message will be sent using your default email client.'
+                  : 'Your message will be sent using your default email client.'
                 }
               </span>
+
+              <button onClick={handleSubmit} disabled={!isValid}>
+                Send
+              </button>
             </div>
-            
-            <button onClick={handleSubmit} disabled={!isValid}>
-              Send
-            </button>
           </form>
         </div>
       </section>
