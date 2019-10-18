@@ -302,12 +302,22 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknN
 
  from endometriosis 
 
-Studies reported significant improvements in all domains of sexual function
-
-Since few studies have been conducted, more research is needed to confirm these findings. 
+Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction. The specific manual therapy used is thought to deform or cause failure of adhesive crosslink bonds. As a result, pain decreases and visceral and osseous mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
 
 
 
-Site-specific manual physiotherapy might offer a non-pharmacologic and non-surgical alternative in the treatment of dyspareunia and dysmenorrhea in endometriosis patients. Further randomized, blinded, and multi-center assessment of the technique is warranted to validate the results and gauge any potential pitfalls.
+Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
 
 https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088
+
+
+
+Chronic pelvic pain and Interstitial Cystitis or painful bladder syndrome
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015716/
+
+ are common comorbidities of endometriosis. Studies on pelvic floor physical therapy for these conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/18304280
+
+The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel.
