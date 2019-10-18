@@ -312,7 +312,13 @@ https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088
 
 
 
-Chronic pelvic pain and Interstitial Cystitis or painful bladder syndrome
+The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel. When the muscles are too relaxed or too tight, it is called Pelvic Floor Dysfunction, or PFD. 
+
+ http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction
+
+PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
+
+Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015716/
 
@@ -320,4 +326,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3015716/
 
 https://www.ncbi.nlm.nih.gov/pubmed/18304280
 
-The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder, bowel.
+Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
+
+Kegels exercises are commonly suggested for strengthening the pelvic floor. During a kegel, the pelvic floor muscles are cotracted. In PFD, the pelvic floor muscles may be hypertonic or too tense so this would not be appropraite. The appropriate exercises for your particular case are best evaluated by the physical therapist. 
+
+http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction
