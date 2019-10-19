@@ -78,7 +78,7 @@ const Header = () => {
       <div className="navbar flex items-center justify-between h-16 px-6 md:px-24">
         <h1 className="header text-md m-0 relative">
           <Link to="/" title="Logo" className="flex items-center text-lg">
-            <img  src="/img/logo-80.png" alt="amberhealth pomegranate logo" className="mr-2 sm:w-10" width="32" />
+            <img  src="/img/logo-80.png" alt="The Chronic pomegranate logo" className="mr-2 sm:w-10" width="32" />
             the chronic
           </Link>
         </h1>
