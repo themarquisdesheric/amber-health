@@ -173,20 +173,6 @@ li:not(.tag)::before
     justify-content: center
     align-items: center
 
-  .index-intro-text-wrapper
-    background: $theme-light
-    border-radius: 5px
-    box-shadow: $box-shadow
-    display: flex
-    justify-content: center
-    align-items: center
-    
-    .index-intro-text
-      color: $white
-      width: 80%
-      height: fit-content
-
-
 .snippets 
   display: flex
   flex-wrap: wrap
@@ -330,13 +316,29 @@ ul a:hover,
   background-image: url(/img/pomwallpaper.png)
   height: calc(100vh - 65px)
 
-  h1
-    font-size: 9rem
-    font-weight: 600
-    color: $black
+  .pink-modal-wrapper .pink-modal-text
+    width: 100%
+    color: $white
+
+    h1
+      font-size: 8rem
+      font-weight: 600
 
 .theme-color
   color: $theme
+
+.pink-modal-wrapper
+  background: $theme-light
+  border-radius: 5px
+  box-shadow: $box-shadow
+  display: flex
+  justify-content: center
+  align-items: center
+  
+  .pink-modal-text
+    color: $white
+    width: 80%
+    height: fit-content
 
 /* this is to account for the text wrapping on smaller screens */
 @media all and (min-width: 343px)
@@ -379,7 +381,7 @@ ul a:hover,
   .breadcrumbs
     padding-left: 4.5rem
 
-  .index-intro-text-wrapper
+  .pink-modal-wrapper
     height: 275px
     max-width: 650px
 

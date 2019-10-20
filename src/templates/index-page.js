@@ -25,8 +25,8 @@ export const IndexPageTemplate = ({
           height: 'calc(100vh - 65px)'
         }}
       >
-        <div className="index-intro-text-wrapper max-w-xl py-4">
-          <p className="index-intro-text text-md">
+        <div className="pink-modal-wrapper max-w-xl py-4">
+          <p className="pink-modal-text text-md">
             {heroText}
           </p>
         </div>
