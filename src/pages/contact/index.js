@@ -109,7 +109,7 @@ const Index = () => {
               
             </div>
             
-            <div className={`contact-footer ${(showMessageLengthLimit || showEmailClientNotification) ? 'reveal' : ''}`}>
+            <div className={`contact-send-button-container ${(showMessageLengthLimit || showEmailClientNotification) ? 'reveal' : ''}`}>
               <span className="block mb-3 text-xs">
                 {/* there is a 2000 character cutoff for messages sent via mailto */}
                 {showMessageLengthLimit

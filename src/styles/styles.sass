@@ -259,7 +259,7 @@ form
       opacity: .8
       cursor: no-drop
 
-.contact-footer
+.contact-send-button-container
   position: relative
   transform: translateY(-50px)
   transition: transform .5s
@@ -276,14 +276,18 @@ form
 
 // FOOTER
 .social 
+  top: 1rem
+  
   a 
-    vertical-align: text-bottom
-    padding: 14px
+    padding: 10.5px
+    background: $theme-light
+    border-radius: 50%
+
+    &:first-child
+      margin-right: 1rem
 
   img
-    display: inline
-    width: 1em
-    height: 1em
+    bottom: 1px
 
 // GENERAL
 .averia-font a,
@@ -303,6 +307,7 @@ small
 
 .content  
   padding: 1.5rem
+  margin-bottom: 3rem
 
 .breadcrumbs
   margin-bottom: 3rem
@@ -333,6 +338,14 @@ ul a:hover,
 .theme-color
   color: $theme
 
+/* this is to account for the text wrapping on smaller screens */
+@media all and (min-width: 343px)
+  .contact
+    margin-bottom: 3rem
+
+  .contact-send-button-container
+    transform: translateY(-32px)
+
 @media all and (min-width: 550px)
   .article-card
     box-shadow: $box-shadow
@@ -355,10 +368,6 @@ ul a:hover,
 
     p
       font-size: 1rem
-
-@media all and (min-width: 343px)
-  .contact-footer
-    transform: translateY(-32px)
 
 @media all and (min-width: 768px) 
   .navbar

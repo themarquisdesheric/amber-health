@@ -8,12 +8,13 @@ const MakeSocialLink = ({ title, href, src }) => (
     <img
       src={src}
       alt={title}
+      className="relative inline w-4 h-4"
     />
   </a>
 );
 
 const SocialLinks = () => (
-  <span className="social">
+  <span className="social absolute block w-full text-center">
     <MakeSocialLink title="instagram" href="https://instagram.com" src={instagram} />
     <MakeSocialLink title="twitter" href="https://twitter.com" src={twitter} />
   </span>
