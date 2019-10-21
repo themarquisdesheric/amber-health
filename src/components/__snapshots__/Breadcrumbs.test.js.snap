@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumbs 1`] = `
+<p
+  className="breadcrumbs"
+>
+  <mockConstructor
+    to="/"
+  >
+    Home
+  </mockConstructor>
+   → 
+  <mockConstructor
+    to="/articles"
+  >
+    Articles
+  </mockConstructor>
+</p>
+`;

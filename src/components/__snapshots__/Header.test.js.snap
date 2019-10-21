@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header 1`] = `
+<header
+  className="site-header relative z-10"
+>
+  <MobileMenu
+    links={
+      Array [
+        "articles",
+        "about",
+        "contact",
+      ]
+    }
+    visible={false}
+  />
+  <div
+    className="navbar flex items-center justify-between h-16 px-6 md:px-24"
+  >
+    <h1
+      className="header text-md m-0 relative"
+    >
+      <mockConstructor
+        className="flex items-center text-lg"
+        title="Logo"
+        to="/"
+      >
+        <img
+          alt="The Chronic pomegranate logo"
+          className="mr-2 sm:w-10"
+          src="/img/logo-80.png"
+          width="32"
+        />
+        the chronic
+      </mockConstructor>
+    </h1>
+    <nav
+      className="text-sm"
+    >
+      <HamburgerMenu
+        handleSetVisible={[Function]}
+      />
+      <NavLinks
+        links={
+          Array [
+            "articles",
+            "about",
+            "contact",
+          ]
+        }
+      />
+    </nav>
+  </div>
+</header>
+`;

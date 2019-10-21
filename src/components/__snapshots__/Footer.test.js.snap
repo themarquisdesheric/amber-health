@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer 1`] = `
+<footer
+  className="footer relative pt-12"
+>
+  <SocialLinks />
+  <small
+    className="flex justify-center py-4"
+  >
+    <span>
+      © 
+      2019
+       Amber Robinson
+    </span>
+  </small>
+</footer>
+`;

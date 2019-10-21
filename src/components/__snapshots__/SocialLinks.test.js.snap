@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialLinks 1`] = `
+<span
+  className="social absolute block w-full text-center"
+>
+  <MakeSocialLink
+    href="https://instagram.com"
+    src="test-file-stub"
+    title="instagram"
+  />
+  <MakeSocialLink
+    href="https://twitter.com"
+    src="test-file-stub"
+    title="twitter"
+  />
+</span>
+`;
