@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactForm 1`] = `
+<TemplateWrapper
+  className="contact"
+>
+  <section
+    className="content"
+  >
+    <Breadcrumbs
+      path="Contact"
+    />
+    <div
+      className="flex flex-col items-center"
+    >
+      <h1
+        className="text-2xl font-semibold text-center mb-12 md:text-3xl"
+      >
+        <GetInTouchAnimation />
+      </h1>
+      <form
+        className="max-w-xl"
+        name="contact"
+      >
+        <input
+          name="form-name"
+          type="hidden"
+          value="contact"
+        />
+        <div
+          hidden={true}
+        >
+          <label>
+            Don’t fill this out:
+             
+            <input
+              name="bot-field"
+              onChange={[Function]}
+            />
+          </label>
+        </div>
+        <label
+          htmlFor="name"
+        >
+          Name
+        </label>
+        <div>
+          <input
+            id="name"
+            name="name"
+            onChange={[Function]}
+            type="text"
+          />
+        </div>
+        <label
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <div>
+          <input
+            id="email"
+            name="email"
+            onChange={[Function]}
+            type="email"
+          />
+        </div>
+        <label
+          htmlFor="subject"
+        >
+          Subject*
+        </label>
+        <div>
+          <input
+            id="subject"
+            name="subject"
+            onChange={[Function]}
+            required={true}
+            type="text"
+          />
+        </div>
+        <label
+          htmlFor="message"
+        >
+          Message*
+        </label>
+        <div>
+          <textarea
+            id="message"
+            name="message"
+            onChange={[Function]}
+            required={true}
+            rows="6"
+          />
+        </div>
+        <div
+          className="contact-send-button-container "
+        >
+          <span
+            className="block mb-3 text-xs"
+          >
+            Your message will be sent using your default email client.
+          </span>
+          <button
+            disabled={true}
+            onClick={[Function]}
+          >
+            Send
+          </button>
+        </div>
+      </form>
+    </div>
+  </section>
+</TemplateWrapper>
+`;

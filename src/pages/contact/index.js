@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Layout from '../../components/Layout';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import GetInTouchAnimation from './get-in-touch-animation';
+import GetInTouchAnimation from './GetInTouchAnimation';
 
 const Index = () => {
   const [form, setForm] = useState({
