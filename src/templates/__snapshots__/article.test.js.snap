@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article 1`] = `
+<TemplateWrapper>
+  <ArticleTemplate
+    content="<p>some markup</p>"
+    contentComponent={[Function]}
+    description="Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management "
+    helmet={
+      <HelmetWrapper
+        defer={true}
+        encodeSpecialCharacters={true}
+        titleTemplate="%s | The Chronic"
+      >
+        <title>
+          Endometriosis Treatments
+        </title>
+        <meta
+          content="Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management "
+          name="description"
+        />
+      </HelmetWrapper>
+    }
+    tags={
+      Array [
+        "endometriosis",
+        "women's health",
+      ]
+    }
+    title="Endometriosis Treatments"
+  />
+</TemplateWrapper>
+`;

@@ -1,0 +1,212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags 1`] = `
+<TemplateWrapper>
+  <section
+    className="content"
+  >
+    <Breadcrumbs
+      path="Tags"
+    />
+    <div
+      className="flex flex-col items-center"
+    >
+      <div
+        className="max-w-xl"
+      >
+        <HelmetWrapper
+          defer={true}
+          encodeSpecialCharacters={true}
+          title="endometriosis | The Chronic"
+        />
+        <div
+          className="mb-24"
+        >
+          <p
+            className="text-gray-800 text-xs uppercase tracking-wide"
+          >
+            6 articles tagged with
+          </p>
+          <h1
+            className="theme-color text-3xl font-bold pb-3"
+          >
+            Endometriosis
+          </h1>
+          <ul
+            className="py-4 flex flex-wrap"
+          >
+            <Article
+              className="tag-tile max-w-sm"
+              key="73358e5e-d586-563b-8e98-34c40eaf71f2"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-09-28-endometriosis-treatment/",
+                  },
+                  "frontmatter": Object {
+                    "description": "Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management ",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5003750937734435,
+                          "base64": "base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "/static/34cb4d35089946388840c83667b4e067/6806c/sonjiawpom-1.jpg",
+                          "srcSet": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis Treatments",
+                  },
+                  "id": "73358e5e-d586-563b-8e98-34c40eaf71f2",
+                }
+              }
+            />
+            <Article
+              className="tag-tile max-w-sm"
+              key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-09-27-endometriosis-diagnosis/",
+                  },
+                  "frontmatter": Object {
+                    "description": "Learn how endometriosis is diagnosed ",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5,
+                          "base64": "some base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis Diagnosis",
+                  },
+                  "id": "a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10",
+                }
+              }
+            />
+            <Article
+              className="tag-tile max-w-sm"
+              key="7d461f40-0eaf-509d-bb8b-40092e3189a1"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-09-24-endometriosis-potential-causes/",
+                  },
+                  "frontmatter": Object {
+                    "description": "Learn more about the current theories on the cause(s) of endometriosis ",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5003750937734435,
+                          "base64": "some base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "/static/34cb4d35089946388840c83667b4e067/6806c/sonjiawpom-1.jpg",
+                          "srcSet": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis Potential Causes",
+                  },
+                  "id": "7d461f40-0eaf-509d-bb8b-40092e3189a1",
+                }
+              }
+            />
+            <Article
+              className="tag-tile max-w-sm"
+              key="5a6af559-152a-5ade-ae88-d9ac123ca14e"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-09-22-endometriosis-symptoms/",
+                  },
+                  "frontmatter": Object {
+                    "description": "Learn about the symptoms of endometriosis ",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5,
+                          "base64": "some base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis Symptoms",
+                  },
+                  "id": "5a6af559-152a-5ade-ae88-d9ac123ca14e",
+                }
+              }
+            />
+            <Article
+              className="tag-tile max-w-sm"
+              key="0c59930c-86ec-5f9a-a260-5c10da03d8a4"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-09-17-books-for-endometriosis/",
+                  },
+                  "frontmatter": Object {
+                    "description": "A Guide to Endometriosis Books with Reviews ",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5003750937734435,
+                          "base64": "some base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "/static/3d754bc79fed595a40f1357fc1ff8ce3/6806c/sonjiawpom-2.jpg",
+                          "srcSet": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis Books",
+                  },
+                  "id": "0c59930c-86ec-5f9a-a260-5c10da03d8a4",
+                }
+              }
+            />
+            <Article
+              className="tag-tile max-w-sm"
+              key="59baf936-30e6-5971-b1ba-88d8539d7f57"
+              post={
+                Object {
+                  "fields": Object {
+                    "slug": "/articles/2019-08-21-endometriosis/",
+                  },
+                  "frontmatter": Object {
+                    "description": "What to learn when you’re first diagnosed with endometriosis",
+                    "featuredimage": Object {
+                      "childImageSharp": Object {
+                        "fluid": Object {
+                          "aspectRatio": 1.5,
+                          "base64": "some base64",
+                          "sizes": "(max-width: 576px) 100vw, 576px",
+                          "src": "some srcSet",
+                        },
+                      },
+                    },
+                    "title": "Endometriosis 101",
+                  },
+                  "id": "59baf936-30e6-5971-b1ba-88d8539d7f57",
+                }
+              }
+            />
+          </ul>
+          <p
+            className="browse-all-tags text-gray-800 text-sm"
+          >
+            <mockConstructor
+              to="/tags/"
+            >
+              Browse all tags
+            </mockConstructor>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</TemplateWrapper>
+`;

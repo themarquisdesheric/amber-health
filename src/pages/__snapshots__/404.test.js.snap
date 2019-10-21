@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFoundPage/404 1`] = `
+<TemplateWrapper>
+  <div
+    className="four-oh-four flex justify-center items-center text-center px-12"
+  >
+    <div
+      className="pink-modal-wrapper"
+    >
+      <div
+        className="pink-modal-text p-4"
+      >
+        <h1>
+          404
+        </h1>
+        <p
+          className="text-white mt-4"
+        >
+          This page has not been found... let's 
+          <mockConstructor
+            className="underline text-black"
+            to="/"
+          >
+            go home
+          </mockConstructor>
+           instead?
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="h-12"
+  />
+</TemplateWrapper>
+`;
