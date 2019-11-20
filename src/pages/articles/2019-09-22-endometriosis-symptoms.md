@@ -78,12 +78,12 @@ When approaching medical treatment and care, it’s important to understand that
 
 <h3>Key facts to keep in mind as you seek care</h3>
 
-* Be wary of providers who believe your pain and symptoms must relate to your menses. This is not accurate for most patients. 
-* Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. 
-* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
-* The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care.
+* Be wary of providers who believe that your pain and symptoms must relate to your menses. This is not accurate since many patients will experience chronic symptoms.
+* Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. You care must be individualized to your specific needs.
+* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. Endometriosis has many comorbid conditions.
+* The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care. Your care team may include several providers from various specialties. 
 
-While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/) theories on etiology are examined. 
+While endometriosis remains largely unknown, theories abound. In the next article of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
 
 <h3 class="table-of-contents">Endo Series Table of Contents</h3>
 
