@@ -85,7 +85,7 @@ When approaching medical treatment and care, it’s important to understand that
 
 While endometriosis remains largely unknown, theories abound. In the next article of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
 
-<h3 class="table-of-contents">Endo Series Table of Contents</h3>
+<h3 class="table-of-contents">Endometriosis Series Table of Contents</h3>
 
 * [Endometriosis 101](/articles/2019-08-21-endometriosis/)
 * [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
