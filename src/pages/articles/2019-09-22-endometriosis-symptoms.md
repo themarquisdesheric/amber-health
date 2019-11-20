@@ -11,13 +11,13 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
-All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
+All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
 
 * Pain with Menstruation
 * Pelvic Pain
