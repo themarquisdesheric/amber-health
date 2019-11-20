@@ -11,7 +11,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
-For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This Part of my series on Endometriosis. (**tag to TOC**)
 
@@ -89,9 +89,9 @@ Additional factors that contribute to the delay include symptom suppression thro
 
 <h3>Importance of Diagnosis</h3>
 
-Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer"> 7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
+Endometriosis patients on average see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer">7 doctors</a>, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. 
 
-Studies have shown that [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/) have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily</a> lives and are characterized by physical limitations that significantly disrupt health and work performance.
+Studies have shown that [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/) have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
 
 <blockquote class=”blockquote”>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
 
