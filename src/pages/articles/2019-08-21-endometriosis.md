@@ -59,7 +59,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
-<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found at [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
+<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in the article [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
 
 <blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
