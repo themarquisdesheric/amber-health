@@ -99,7 +99,7 @@ Studies have shown that [Endometriosis Symptoms](/articles/2019-09-22-endometrio
 
 </blockquote>
 
-The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive an early and accurate diagnosis which leads to the appropriate treatment approach and better quality of life. 
+The medical neglect and abuse of endometriosis patients must stop. As with any disease, it is imperative to receive an early and accurate diagnosis which leads to an appropriate treatment approach and a better quality of life.  Having a proper diagnosis also allows for outlets of support and reassurance. Knowing one's medical condition and requirements results in access to work or social modifications. 
 
 <blockquote class=”blockquote”>Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.  
 
