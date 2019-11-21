@@ -175,19 +175,9 @@ After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_the
 
 On the other hand, we do know that hormonal medications can cause intolerable and significant side effects including <a href="https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084" target="_blank" rel="noopener noreferrer">stroke</a>, <a href="https://gut.bmj.com/content/45/2/165" target="_blank" rel="noopener noreferrer">Crohn's Disease</a>, and <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1700732" target="_blank" rel="noopener noreferrer">certain cancers</a>. Other side effects include <a href="https://www.ncbi.nlm.nih.gov/pubmed/27680324" target="_blank" rel="noopener noreferrer">depression</a>,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/2960241" target="_blank" rel="noopener noreferrer">an increased risk of cardiovascular disease</a>, and <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.01041/full" target="_blank" rel="noopener noreferrer">an impairment in the ability to recognize others’ emotional expressions</a>.
 
-Headache, Pelvic inflammatory disease (PID), life-threatening infection, blood clots 
+Headache, persistent pain, Pelvic inflammatory disease (PID), life-threatening infection, blood clots, liver tumors, mood changes, and less sexual desire are listed as potential side effects in the medical brochures for <a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021098s019lbl.pdf" target="_blank" rel="noopener noreferrer">Yasmin</a>, <a href="https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf" target="_blank" rel="noopener noreferrer">Mirena</a>,  <a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020246s036lbl.pdf" target="_blank" rel="noopener noreferrer">Depo-Provera</a>,
 
-are listed as potential side effects in the medical brochures for Yasmin,
 
-https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021098s019lbl.pdf
-
-Mirena
-
-https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf
-
-Depo-Provera
-
-https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020246s036lbl.pdf
 
 
 
@@ -199,7 +189,7 @@ https://www.nuvaring.com/risks-side-effects/
 
 Side effects can last permanently or long after cessation of the medication. 
 
-The newest hormonal drug, **Elagolix** (Orilissa), has received <a href="https://www.ncbi.nlm.nih.gov/pubmed/30551159" target="_blank" rel="noopener noreferrer">largely negative reviews</a> from studies, experts, and <a href="http://www.fdable.com/basic_query/aers/7fa29a3fe647402fb0fdd36d2f64c00d" target="_blank" rel="noopener noreferrer">patients</a>. For example, the <a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">Institute for Clinical and Economic Review</a> found that there are limitations in the evidence on the long-term safety and effectiveness of Elagolix for endometriosis. Further studies are needed to confirm if there is any benefit to using Elagolix instead of the currently practiced hormonal therapies. Additional studies are also needed to rule out any long-term safety risks for patients. 
+The newest hormonal drug, **Elagolix** (Orilissa), has received <a href="https://www.ncbi.nlm.nih.gov/pubmed/30551159" target="_blank" rel="noopener noreferrer">largely negative reviews</a> from studies, experts, and <a href="http://www.fdable.com/basic_query/aers/7fa29a3fe647402fb0fdd36d2f64c00d" target="_blank" rel="noopener noreferrer">patients</a>. For example, the Institute for Clinical and Economic Review found that there are limitations in the evidence <a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer"> on the long-term safety and effectiveness</a> of Elagolix for use in endometriosis patients. Further studies are needed to confirm if there is any benefit to using Elagolix instead of the currently used hormonal medications. Additional studies are also needed to rule out any long-term safety risks for patients. 
 
 <blockquote class="blockquote">The New England CEPAC voted that evidence was not adequate to determine whether elagolix offers a net health benefit compared to no treatment, or compared to treatment with either a GnRH agonist (leuprorelin acetate) or a hormonal contraceptive (depot medroxyprogesterone), due to limited and mixed evidence on clinical effectiveness and potential risks. Since endometriosis-related symptoms recur after stopping treatment, it remains to be determined whether elagolix is safe or effective for long term use.
 
@@ -207,9 +197,9 @@ The newest hormonal drug, **Elagolix** (Orilissa), has received <a href="https:/
 
 </blockquote>
 
-<a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">Known risks</a> include bone mineral density loss that is significantly greater than with no treatment, changes in blood lipid profiles that may put users at higher risk for cardiovascular events, suicidal ideation, and elevated liver function tests. Here is a <a href="http://www.fdable.com/basic_query/aers/7fa29a3fe647402fb0fdd36d2f64c00d" target="_blank" rel="noopener noreferrer">searchable database</a> of FDA Adverse Event Cases for Elagolix.
+<a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">Known risks</a> of Elagolix include bone mineral density loss that is significantly greater than with no treatment, changes in blood lipid profiles that may put users at higher risk for cardiovascular events, suicidal ideation, and elevated liver function tests. Here is a <a href="http://www.fdable.com/basic_query/aers/7fa29a3fe647402fb0fdd36d2f64c00d" target="_blank" rel="noopener noreferrer">searchable database</a> of FDA Adverse Event Cases for Elagolix.
 
-Another medical therapy commonly used in endometriosis care, is **Lupron**. Lupron is a GnRH antagonist that was originally approved for treatment of advanced male prostate cancer. It's creator, Takeda-Abbott Pharmaceuticals (now known as AbbVie), has been reprimanded for not investigating <a href="https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/" target="_blank" rel="noopener noreferrer">deaths</a> in association with several of its drugs, including Lupron.
+Another medication commonly used in endometriosis care, is **Lupron**. Lupron is a GnRH antagonist that was originally approved for treatment of advanced male prostate cancer. It's creator, Takeda-Abbott Pharmaceuticals (now known as AbbVie), has been reprimanded for not investigating <a href="https://www.biospace.com/article/abbvie-responds-to-fda-criticism-over-manufacturing-complaints/" target="_blank" rel="noopener noreferrer">deaths</a> in association with several of its drugs, including Lupron.
 
 Lupron has a <a href="https://www.wsbtv.com/news/local/georgia-woman-says-drug-used-to-treat-endometriosis-led-to-series-of-health-problems/859263892" target="_blank" rel="noopener noreferrer">controversial history</a> of significant and long lasting <a href="https://www.rxlist.com/lupron-side-effects-drug-center.htm" target="_blank" rel="noopener noreferrer">side effects</a>. There have been <a href="https://www.lupronvictimshub.com/lawsuits.html" target="_blank" rel="noopener noreferrer">numerous lawsuits</a> launched by patients who claim the drug is responsible for a wide range of <a href="https://www.jpagonline.org/article/S1083-3188(18)30090-1/fulltext" target="_blank" rel="noopener noreferrer">chronic symptoms</a>, including bone loss, memory loss, vision loss, and chronic pain. Patients have filed <a href="http://www.fdable.com/basic_query/aers/81dd978d5a329b02fb95fcb4bafd485b" target="_blank" rel="noopener noreferrer">nearly 24,000 reports for adverse reactions</a> from Lupron to the FDA. The FDA deemed more than half of them serious cases and is <a href="https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/january-march-2017-potential-signals-serious-risksnew-safety-information-identified-fda-adverse" target="_blank" rel="noopener noreferrer">evaluating</a> it for regulatory actions.
 
