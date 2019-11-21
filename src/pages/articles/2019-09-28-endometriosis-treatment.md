@@ -97,7 +97,7 @@ Studies have found the complete removal of the entire lesion is necessary for sy
 
 </blockquote>
 
-Due to the deeply implanted lesions in the surrounding tissue, superficial treatments leave much of the disease untouched and left behind to further progress. This explains the high recurrence of re-operation for superficial methods. <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">Adhesion formations</a> can also increase substantially due to the presence of residual endometriosis, even in small amounts. The high heat and energy used during surgery can also damage surrounding healthy tissue leading to excess scar tissue.
+Since lesions are deeply implanted in the surrounding tissue, superficial treatments leave much of the disease untouched and remaining to further progress. This explains the high recurrence of re-operation for superficial methods. <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">Adhesion formations</a> can also increase substantially due to the presence of residual endometriosis, even in small amounts. The high heat and energy used during surgery can also damage surrounding healthy tissue leading to excess scar tissue.
 
 <blockquote class="blockquote">In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
 
@@ -129,7 +129,7 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 </blockquote>
 
-Hysterectomy is not a suitable treatment option for endometriosis. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove the disease. 
+Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove the disease. 
 
 <h3>Hormonal Contraceptives and Hormone Therapy</h3>
 
