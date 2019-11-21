@@ -12,7 +12,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
-For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
@@ -32,7 +32,7 @@ Currently there is no cure or preventative treatment for endometriosis. There ar
 
 </blockquote>
 
-Specialists do agree that <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">a comprehensive, multidisciplinary approach</a> to care is necessary to address the many comorbidities and complexities of the disease. A multidisciplinary approach often means seeking out a variety of doctors and specialties to widen the scope of your care. A gynecologist will perform the diagnostic surgery, surgical treatment, and provide referrals to other healthcare providers.  Combining treatments, such as excision surgery, diet and nutrition, alternative therapies, and physical therapy, can lead to patients effectively managing the disease and their symptoms long term. Patients will also need a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">highly individualized patient-focused approach</a> to care since no two patients have the same presentation of symptoms. It’s also important that the specialists communicate effectively with one another to bridge the gaps in their knowledge.
+Specialists do agree that <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">a comprehensive, multidisciplinary approach</a> to care is necessary to address the many comorbidities and complexities of the disease. A multidisciplinary approach often means seeking out a variety of doctors and specialties to widen the scope of your care. A gynecologist will perform the diagnostic surgery and surgical treatment and provide referrals to other healthcare providers.  Combining treatments, such as excision surgery, diet and nutrition, alternative therapies, and physical therapy, can lead to patients effectively managing the disease and their symptoms long term. Patients will also need a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">highly individualized patient-focused approach</a> to care since no two patients have the same presentation of symptoms. It’s also important that the specialists communicate effectively with one another to bridge the gaps in their knowledge.
 
 <blockquote class=”blockquote”>Patients with endometriosis often require individualized care over a long-term period, where priorities may change depending upon the type and severity of symptoms, the impact of these symptoms, current or future fertility goals and lifestyle factors. Individualized care benefits from a multi-disciplinary network of experts sufficiently skilled in providing advice on and treatment of endometriosis and its associated symptoms, based on the best available knowledge, their extensive experience, and their transparent record of success rates.
 
@@ -56,11 +56,11 @@ Receiving long term care from a variety of specialists can become extremely cost
 
 All over the world, patients quality of care is often defined by what they can afford. Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care and/or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
 
-<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centres is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss, and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD</a></cite>
+<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centers is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD</a></cite>
 
 </blockquote>
 
-Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
+Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system, and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 
 As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community. The following sections will provide a detailed look at many of the available treatments for endometriosis. 
 
@@ -294,7 +294,7 @@ For more resources on physical therapy for endometriosis, explore the following 
 * <a href="https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561" target="_blank" rel="noopener noreferrer">Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery</a>
 * <a href="https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636" target="_blank" rel="noopener noreferrer">Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain</a>
 * <a href="https://soundcloud.com/womenspelvichealthpodcast" target="_blank" rel="noopener noreferrer">The Women's Pelvic Health Podcast</a>
- 
+
 **Acupuncture**
 
 There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18794019/" target="_blank" rel="noopener noreferrer">Current literature</a> suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
