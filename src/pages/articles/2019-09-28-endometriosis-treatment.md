@@ -173,9 +173,9 @@ After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_the
 
 </blockquote>
 
-On the other hand, we do know that hormonal medications can cause intolerable, significant side effects including <a href="https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084" target="_blank" rel="noopener noreferrer">stroke</a>, <a href="https://gut.bmj.com/content/45/2/165" target="_blank" rel="noopener noreferrer">Crohn's Disease</a>, and <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1700732" target="_blank" rel="noopener noreferrer">certain cancers</a>. Other side effects include <a href="https://www.ncbi.nlm.nih.gov/pubmed/27680324" target="_blank" rel="noopener noreferrer">depression</a>,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/2960241" target="_blank" rel="noopener noreferrer">an increased risk of cardiovascular disease</a>, and <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.01041/full" target="_blank" rel="noopener noreferrer">an impairment in the ability to recognize others’ emotional expressions</a>.
+On the other hand, we do know that hormonal medications can cause intolerable and significant side effects including <a href="https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084" target="_blank" rel="noopener noreferrer">stroke</a>, <a href="https://gut.bmj.com/content/45/2/165" target="_blank" rel="noopener noreferrer">Crohn's Disease</a>, and <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1700732" target="_blank" rel="noopener noreferrer">certain cancers</a>. Other side effects include <a href="https://www.ncbi.nlm.nih.gov/pubmed/27680324" target="_blank" rel="noopener noreferrer">depression</a>,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/2960241" target="_blank" rel="noopener noreferrer">an increased risk of cardiovascular disease</a>, and <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.01041/full" target="_blank" rel="noopener noreferrer">an impairment in the ability to recognize others’ emotional expressions</a>.
 
-Headache, Pelvic inflammatory disease (PID), life-threatening infection, 
+Headache, Pelvic inflammatory disease (PID), life-threatening infection, blood clots 
 
 are listed as potential side effects in the medical brochures for Yasmin,
 
@@ -188,6 +188,12 @@ https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf
 Depo-Provera
 
 https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020246s036lbl.pdf
+
+
+
+NuvaRing
+
+https://www.nuvaring.com/risks-side-effects/
 
  
 
