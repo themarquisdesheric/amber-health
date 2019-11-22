@@ -10,8 +10,6 @@ tags:
   - endometriosis
   - women's health
 ---
-
-
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
 For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
@@ -212,6 +210,17 @@ A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZ
 <cite><a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">-Janette Davison, M.D.</a></cite>
 
 </blockquote>
+
+* Physical Therapy
+* Diet and Nutrition
+* Acupuncture
+* Yoga
+* Chinese Medicine
+* Pelvic Floor Physical Therapy
+* Holistic, Integrative Medicine
+* Exercise
+* Herbal Therapy
+* Meditation
 
 **Diet and Nutrition** 
 
