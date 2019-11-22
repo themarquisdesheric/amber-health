@@ -131,8 +131,6 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
 
-https://endoinvisible.org/funds-for-excision/
-
 **Add in Finding a Specialist** 
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
@@ -147,6 +145,8 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
 * [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
 * [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
+* https://endoinvisible.org/funds-for-excision/
+  ****
 
 <h3>Hormonal Medications and Oral Contraceptives</h3>
 
@@ -362,3 +362,11 @@ For more information on Yoga and its ability to address endometriosis pain, plea
 * <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
+
+**Holistic and Integrative Medicine**
+
+These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
+
+* [Dr. Jolene Brighten](https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/) is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her [IG](https://www.instagram.com/drjolenebrighten/?hl=en) for daily information and advice. 
+* [Dr. Lara Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
+* [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner
