@@ -265,8 +265,6 @@ Specialists and researchers agree that <a href="https://www.ncbi.nlm.nih.gov/pmc
 
 </blockquote>
 
-
-
 The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder and bowel. When the muscles are too relaxed or too tight, it is called <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">Pelvic Floor Dysfunction, or PFD</a>. PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
 
 Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
@@ -300,6 +298,10 @@ A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Yang Xu</a></cite>
 
 </blockquote>
+
+* <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> 
+* <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of acupuncture for the treatment of endometriosis-related pain: A systematic review and meta-analysis</a> 
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is acupuncture in addition to conventional medicine effective as pain treatment for endometriosis? A randomised controlled cross-over trial.</a> 
 
 **Yoga**
 
