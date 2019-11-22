@@ -313,7 +313,7 @@ Participants of the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 </blockquote>
 
-For more information on Yoga for endometriosis and pain, please explore the resources below.
+For more information on Yoga and its ability to address endometriosis pain, please explore the resources below.
 
 * <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
 * <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
