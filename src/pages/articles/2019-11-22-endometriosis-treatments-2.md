@@ -135,6 +135,19 @@ https://endoinvisible.org/funds-for-excision/
 
 **Add in Finding a Specialist** 
 
+Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
+
+* [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists that have undergone specific vetting by nurse Nancy Peterson
+* [The American End of Endo Project's](https://endofendoproject.org/physician-directory/) physician's directory is a locator tool for specialists
+* [Endometriosis.org](http://endometriosis.org/resources/articles/finding-a-specialist/) provides some key points on finding a specialist
+* [Endo West: Endo and Pelvic Surgery Center](http://endowest.net/questions-to-ask-your-doctor/) has a list of questions to ask your doctor.
+* [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
+* [Must Ask Questions For Your Surgeon](https://endogirlblog.com/surgeonquestions/) from Endo Girls Blog can help you screen doctors. 
+* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
+* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
+* [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
+* [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
+
 <h3>Hormonal Medications and Oral Contraceptives</h3>
 
 Many doctors use hormonal medications, like oral contraceptives, as a first line option for endometriosis patients. Hormone medication can come in the form of oral contraceptives or birth control pills, progestin only pills, progestin medicines, and GnRH agonists, like Lupron. While hormonal medications are the most commonly prescribed drugs for endometriosis, they have been shown to <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">not eradicate</a>, <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">stop progression</a>, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">improve the disease</a>.
