@@ -131,6 +131,10 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
 
+https://endoinvisible.org/funds-for-excision/
+
+**Add in Finding a Specialist** 
+
 <h3>Hormonal Medications and Oral Contraceptives</h3>
 
 Many doctors use hormonal medications, like oral contraceptives, as a first line option for endometriosis patients. Hormone medication can come in the form of oral contraceptives or birth control pills, progestin only pills, progestin medicines, and GnRH agonists, like Lupron. While hormonal medications are the most commonly prescribed drugs for endometriosis, they have been shown to <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">not eradicate</a>, <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">stop progression</a>, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">improve the disease</a>.
