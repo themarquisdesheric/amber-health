@@ -95,35 +95,6 @@ Here are trusted informational resources that explain the definition, theorized 
 * http://www.endometriosis.co.uk/essent.html
 * http://centerforendo.com/collaboratives
 
-
-## Books
-
-These books cover an array of information on endometriosis including diet, nutrition, surgery, and holistic wellness. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access these books for free. Libraries often have these titles as physical books or ebooks.
-
-* [Endometriosis: A Key to Healing Through Nutrition](https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103) by Dian Shepperson Mills and Michael Vernon
-* [Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain](https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810) by Abby Norman
-* [Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know](https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574) by Andrew S. Cook MD and Robert Franklin MD
-* [Beating Endo: How to Reclaim Your Life from Endometriosis](https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T) by Amy Stein DPT and Dr Iris Kerin Orbuch
-* [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten
-* [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Lara Briden 
-* [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein DPT
-* [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
-* sweetening the pill
-* your brain on birth control
-
-## Support
-
-Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
-
-* [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
-* [Dr. Jolene Brighten Hormone Community](https://www.facebook.com/groups/330316127499514/) offers community, advice, and support from fellow endo patients and is moderated by Dr. Jolene Brighten.
-* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
-* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
-* [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
-* https://www.facebook.com/groups/endometropolis/
-  Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
-* \- link to studies to show effectiveness/importance of crowdsourcing health info for marginalized conditions
-
 ## More Resources
 
 * [Phendo](http://citizenendo.org/phendo/) is a multipurpose app that allows patients to track their symptoms, meds, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to [begin phenotyping the disease](https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY). It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endo patient.
@@ -153,7 +124,18 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * https://www.healthline.com/health/endometriosis/endo-race-matters?fbclid=IwAR2Gf3Db6D_t2O7oBsF4wy1uWZQrhoE6-UIHt5QOcRKUjio_tRMwbS1EBEo#1
 * https://www.nature.com/articles/d41586-019-03228-6?fbclid=IwAR0vjdoiNTTu5_GtqCWhCi9fqn3OeyguLUi3Yn2vn20nqTSEBXaZVxvluUY
 
+## Support
 
+Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
+
+* [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
+* [Dr. Jolene Brighten Hormone Community](https://www.facebook.com/groups/330316127499514/) offers community, advice, and support from fellow endo patients and is moderated by Dr. Jolene Brighten.
+* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
+* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
+* [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
+* https://www.facebook.com/groups/endometropolis/
+  Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
+* \- link to studies to show effectiveness/importance of crowdsourcing health info for marginalized conditions
 
 ## Related Conditions
 
