@@ -81,57 +81,6 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 **Table of Contents** 
 
-**Alternative Therapies**
-
-Endo specialists agree a multidisciplinary approach is needed for disease management and patient success. Often this can include seeking out a variety of doctors and specialties to widen your approach. Alternative therapies can include various methods aimed at mitigating symptoms, stress reduction, and/or disease management. Since all patients are different, these methods may not be suitable or successful for everyone. 
-
-* Physical Therapy
-* Diet and Nutrition
-* Acupuncture
-* Yoga
-* Chinese Medicine
-* Pelvic Floor Physical Therapy
-* Holistic, Integrative Medicine
-* Exercise
-* Herbal Therapy
-* Meditation
-
-**Pain Management**
-
-Since severe and chronic pain can be a debilitating symptom of endometriosis, it's important to find treatment methods that work and ways to cope. Pain management can include a wide range of therapies that the patient can cater to their individual needs. Since no two patient cases are identical, they may have varying success with these methods.
-
-* Yoga
-* Acupuncture
-* Exercise 
-* Massage
-* Pain Medication, over the counter and pharmaceuticals
-* Herbal Treatments
-* Therapy 
-* Meditation
-
-## Finding a Specialist
-
-Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
-
-* [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists that have undergone specific vetting by nurse Nancy Peterson
-* [The American End of Endo Project's](https://endofendoproject.org/physician-directory/) physician's directory is a locator tool for specialists
-* [Endometriosis.org](http://endometriosis.org/resources/articles/finding-a-specialist/) provides some key points on finding a specialist
-* [Endo West: Endo and Pelvic Surgery Center](http://endowest.net/questions-to-ask-your-doctor/) has a list of questions to ask your doctor.
-* [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
-* [Must Ask Questions For Your Surgeon](https://endogirlblog.com/surgeonquestions/) from Endo Girls Blog can help you screen doctors. 
-* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
-* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
-* [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
-* [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
-
-## Holistic Natural Approaches
-
-These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
-
-* [Dr. Jolene Brighten](https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/) is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her [IG](https://www.instagram.com/drjolenebrighten/?hl=en) for daily information and advice. 
-* [Dr. Lara Briden](https://www.larabriden.com/endometriosis-treat-the-immune-system/) is a Naturopathic Doctor and women's health activist. I've recommended her book in the above section. 
-* [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner. 
-
 ## **Online Resources**
 
 Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
@@ -144,6 +93,8 @@ Here are trusted informational resources that explain the definition, theorized 
 * [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
 * http://endopaedia.info/resources.html#key
 * http://www.endometriosis.co.uk/essent.html
+* http://centerforendo.com/collaboratives
+
 
 ## Books
 
@@ -157,6 +108,8 @@ These books cover an array of information on endometriosis including diet, nutri
 * [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Lara Briden 
 * [Heal Pelvic Pain: The Proven Stretching, Strengthening, and Nutrition Program for Relieving Pain, Incontinence, & I.B.S, and Other Symptoms Without Surgery](https://www.amazon.com/Heal-Pelvic-Pain-Strengthening-Incontinence/dp/0071546561) by Amy Stein DPT
 * [Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain](https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636) by Isa Herrara MSPT
+* sweetening the pill
+* your brain on birth control
 
 ## Support
 
@@ -169,6 +122,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
 * https://www.facebook.com/groups/endometropolis/
   Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
+* \- link to studies to show effectiveness/importance of crowdsourcing health info for marginalized conditions
 
 ## More Resources
 
@@ -196,6 +150,10 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 
 * [Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
 * [Behind The Times: Revisiting Endometriosis and Race](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
+* https://www.healthline.com/health/endometriosis/endo-race-matters?fbclid=IwAR2Gf3Db6D_t2O7oBsF4wy1uWZQrhoE6-UIHt5QOcRKUjio_tRMwbS1EBEo#1
+* https://www.nature.com/articles/d41586-019-03228-6?fbclid=IwAR0vjdoiNTTu5_GtqCWhCi9fqn3OeyguLUi3Yn2vn20nqTSEBXaZVxvluUY
+
+
 
 ## Related Conditions
 
