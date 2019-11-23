@@ -339,7 +339,7 @@ For more information on acupuncture for endometriosis and pelvic floor pain or d
 
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> 
 * <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of acupuncture for the treatment of endometriosis-related pain: A systematic review and meta-analysis</a> 
-* <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is acupuncture in addition to conventional medicine effective as pain treatment for endometriosis? A randomised controlled cross-over trial.</a> 
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is acupuncture in addition to conventional medicine effective as pain treatment for endometriosis? A randomized controlled cross-over trial.</a> 
 
 **Yoga**
 
