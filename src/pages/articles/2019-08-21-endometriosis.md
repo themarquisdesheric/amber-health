@@ -142,6 +142,8 @@ Here are trusted informational resources that explain the definition, theorized 
 * [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
 * [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
 * [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
+* http://endopaedia.info/resources.html#key
+* http://www.endometriosis.co.uk/essent.html
 
 ## Books
 
@@ -165,6 +167,9 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
 * [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
+* https://www.facebook.com/groups/endometropolis/
+  Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
+
 
 ## More Resources
 
