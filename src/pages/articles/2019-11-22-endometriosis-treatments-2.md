@@ -67,7 +67,6 @@ As a patient, being informed on the available treatments can help you advocate f
 * Surgery: Excision vs Ablation 
 * Hormonal Therapy
 * Alternative Therapies
-* Pain Management
 
 <h3>Surgery</h3>
 
