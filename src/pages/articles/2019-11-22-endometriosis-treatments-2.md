@@ -12,7 +12,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
-For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
@@ -64,9 +64,11 @@ Clearly the hurdles to care for endometriosis are multidimensional and require a
 
 As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community. The following sections will provide a detailed look at many of the available treatments for endometriosis. 
 
-* Surgery: Excision vs Ablation 
-* Hormonal Therapy
-* Alternative Therapies
+**Table of Contents for 3 Part Post for Treatments**
+
+* **Surgery: Excision vs Ablation** 
+* **Hormonal Therapy**
+* **Alternative Therapies**
 
 <h3>Surgery</h3>
 
@@ -147,7 +149,6 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis and excision specialist located in New York.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> Endo InVisible's mission is threefold: raise the profile of, educate the world about, and help fund surgery for, endometriosis. 
 
-
 <h3>Hormonal Medications and Oral Contraceptives</h3>
 
 Many doctors use hormonal medications, like oral contraceptives, as a first line option for endometriosis patients. Hormone medication can come in the form of oral contraceptives or birth control pills, progestin only pills, progestin medicines, and GnRH agonists, like Lupron. While hormonal medications are the most commonly prescribed drugs for endometriosis, they have been shown to <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">not eradicate</a>, <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">stop progression</a>, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">improve the disease</a>.
@@ -204,12 +205,12 @@ Another medication commonly used in endometriosis care, is **Lupron**. Lupron is
 
 For more information on hormonal medications and hormonal health, please explore these resources.
 
-*  <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
-*  <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
-*  <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a>
+* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
+* <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a>
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a>
-*  <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
-*  <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a>
+* <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
+* <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a>
 * <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a> 
 
 <h3>Complementary and Alternative Therapies</h3>
@@ -366,5 +367,5 @@ For more information on Yoga and its ability to address endometriosis pain, plea
 These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
 
 * <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
-*  <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
 * [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner
