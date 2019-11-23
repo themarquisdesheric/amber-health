@@ -59,7 +59,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
-<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in the article [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
+<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in the **article** [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
 
 <blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
@@ -69,7 +69,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 Currently it's estimated that 176 million people worldwide are affected. While it largely affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
-Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and female pain has damned it to be dismissed by society. 
+Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and female pain <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. 
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endometriosis care is even more stark. Anyone with a uterus regardless of identity and those who menstruate and those who do not menstruate can have the disease. Incorrectly, trans men and non-binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis and/or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
@@ -79,7 +79,7 @@ Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-inv
 
 While the disease mechanism remains largely a mystery, we must use the information that we know to spread awareness, fund research, and promote understanding in the medical community. Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible is equally unnerving. 
 
-Table of Contents 
+**Table of Contents** 
 
 **Alternative Therapies**
 
@@ -169,7 +169,6 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
 * https://www.facebook.com/groups/endometropolis/
   Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
-
 
 ## More Resources
 
