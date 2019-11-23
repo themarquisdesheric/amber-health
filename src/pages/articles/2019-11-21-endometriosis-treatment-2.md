@@ -64,6 +64,8 @@ Clearly the hurdles to care for endometriosis are multidimensional and require a
 
 As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community. The following sections will provide a detailed look at many of the available treatments for endometriosis. 
 
+Table
+
 * Surgery: Excision vs Ablation 
 * Hormonal Therapy
 * Alternative Therapies
