@@ -228,15 +228,14 @@ A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZ
 
 </blockquote>
 
+These therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and symptoms.
+
 * Physical Therapy
 * Diet and Nutrition
 * Acupuncture
 * Yoga
+* Holistic and Integrative Medicine
 * Chinese Medicine
-* Pelvic Floor Physical Therapy
-* Holistic, Integrative Medicine
-* Exercise
-* Herbal Therapy
 * Meditation
 
 **Diet and Nutrition** 
