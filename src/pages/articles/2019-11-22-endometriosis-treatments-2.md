@@ -131,21 +131,24 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
 
-**Add in Finding a Specialist** 
+**Finding a Specialist** 
 
-Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
+Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">less than 200 excision surgeons</a> in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
 
-* [Nancy's Nook](https://www.facebook.com/groups/418136991574617/) is a self guided research tool that provides an updated list of excision specialists that have undergone specific vetting by nurse Nancy Peterson
-* [The American End of Endo Project's](https://endofendoproject.org/physician-directory/) physician's directory is a locator tool for specialists
-* [Endometriosis.org](http://endometriosis.org/resources/articles/finding-a-specialist/) provides some key points on finding a specialist
-* [Endo West: Endo and Pelvic Surgery Center](http://endowest.net/questions-to-ask-your-doctor/) has a list of questions to ask your doctor.
-* [Endometriosis Foundation of America's](https://www.endofound.org/preparing-to-see-a-doctor) advice on seeking a doctor
-* [Must Ask Questions For Your Surgeon](https://endogirlblog.com/surgeonquestions/) from Endo Girls Blog can help you screen doctors. 
-* [Do You Need That Surgery? How To Decide, And How To Pick A Surgeon If You Do](https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI) is a helpful NPR article about navigating surgery. 
-* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
-* [Dr. Andrew Cook, MD](https://www.vitalhealth.com/) is trusted endometriosis and excision specialist located in California and Colorado.
-* [Dr. Andrea Vidali, MD](https://www.facebook.com/EndometriosisSurgeon/) is trusted endometriosis and excision specialist located in New York.
-* https://endoinvisible.org/funds-for-excision/
+* <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse Nancy Peterson
+* <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project's</a> physician's directory is a locator tool for excision specialists
+* <a href="http://endometriosis.org/resources/articles/finding-a-specialist/" target="_blank" rel="noopener noreferrer">Endometriosis.org</a> provides some key points on finding a specialist
+* <a href="http://endowest.net/questions-to-ask-your-doctor/" target="_blank" rel="noopener noreferrer">Endo West: Endo and Pelvic Surgery Center</a> has a list of questions to ask your doctor.
+* <a href="https://www.endofound.org/preparing-to-see-a-doctor" target="_blank" rel="noopener noreferrer">Endometriosis Foundation of America</a> gives advice on seeking a doctor 
+* <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you screen doctors.
+* <a href="https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI" target="_blank" rel="noopener noreferrer">Do You Need That Surgery? How to Decide, and How to Pick a Surgeon if You Do</a> is a helpful NPR article about navigating surgery. 
+* <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
+* <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis and excision specialist located in California and Colorado.
+* <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis and excision specialist located in New York.
+
+
+
+* <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a>
   ****
 
 <h3>Hormonal Medications and Oral Contraceptives</h3>
