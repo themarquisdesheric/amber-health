@@ -210,13 +210,13 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book below and in the article **Endometriosis Book (link to my article)**. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
 * <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book below and in **Endometriosis Book (link to my article)**. 
 * <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a>
+* <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a>
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous/dp/0062847090/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
   " target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a> by Dr. Jolene Brighten
 * <a href="https://www.amazon.com/Period-Repair-Manual-Treatment-Hormones/dp/0648352404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank" rel="noopener noreferrer">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods</a> by Dr. Lara Briden
-* <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
-* <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a>
-* <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a> 
+* <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a> by Sarah E. Hill, PhD
+* <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a>  by Holly Grigg-Spall
 
 <h3>Complementary and Alternative Therapies</h3>
 
