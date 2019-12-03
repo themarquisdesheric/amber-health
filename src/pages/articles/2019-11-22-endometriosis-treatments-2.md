@@ -9,6 +9,8 @@ featuredimage: /img/sonjiawpom-1.jpg
 tags:
   - endometriosis
   - women's health
+  - chronic illness 
+
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
@@ -20,11 +22,11 @@ This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
 <blockquote class="blockquote">There is an urgent need to rethink endometriosis care in order to provide a more comprehensive, patient-focused approach with long-term goals.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"></a>-Sanjay Agarwal, MD, FACOG</cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal, MD, FACOG</a></cite>
 
 </blockquote>
 
-Currently there is no cure or preventative treatment for endometriosis. There are several treatment options available that can help in disease management. However, few options actually target the disease and most only address the symptoms. Each treatment has its own benefits, limitations, and risks to consider. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">Contemporary treatments</a> are based upon the surgical removal of lesions and medical strategies that suppress estrogen or menses. Due to the complexity of endometriosis and its symptoms, these strategies do not provide a suitable model of care for patients long term. While there have been efforts to define guidelines by <a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">various associations</a>, the best treatments for endometriosis still remain controversial and under debate. 
+Currently there is no cure or preventative treatments for endometriosis. There are several treatment options available that can help in disease management. Unfortunately, few options actually target the disease and most only address the symptoms. Each treatment has its own benefits, limitations, and risks to consider. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">Contemporary treatments</a> are based upon the surgical removal of lesions and medical strategies that suppress estrogen or menses. Due to the complexity of endometriosis and its symptoms, these strategies do not provide a suitable model of care for patients long term. While there have been efforts to define guidelines by <a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">various associations</a>, the best treatments for endometriosis still remain controversial and under debate. 
 
 <blockquote class="blockquote">The current system’s inability to adequately address endometriosis pain symptoms often results in the emergence of broader functional sequela and psychological impact. The ability to address these broader impacts is crucial and certainly requires a more comprehensive, multidisciplinary approach to care. 
 
@@ -32,7 +34,7 @@ Currently there is no cure or preventative treatment for endometriosis. There ar
 
 </blockquote>
 
-Specialists do agree that <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">a comprehensive, multidisciplinary approach</a> to care is necessary to address the many comorbidities and complexities of the disease. A multidisciplinary approach often means seeking out a variety of doctors and specialties to widen the scope of your care. A gynecologist will perform the diagnostic surgery and surgical treatment and provide referrals to other healthcare providers.  Combining treatments, such as excision surgery, diet and nutrition, alternative therapies, and physical therapy, can lead to patients effectively managing the disease and their symptoms long term. Patients will also need a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">highly individualized patient-focused approach</a> to care since no two patients have the same presentation of symptoms. It’s also important that the specialists communicate effectively with one another to bridge the gaps in their knowledge.
+Specialists do agree that <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">a comprehensive, multidisciplinary approach</a> to care is necessary to address the many comorbidities and complexities of the disease. A multidisciplinary approach often means seeking out a variety of doctors and specialties to widen the scope of your care. A gynecologist will perform the diagnostic surgery and surgical treatment and provide referrals to other healthcare providers. Combining treatments, such as excision surgery, diet and nutrition, complementary therapies, and physical therapy, can lead to patients effectively managing the disease and their symptoms long term. Patients will also need a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">highly individualized patient-focused approach</a> to care since no two patients have the same presentation of symptoms. It’s also important that the specialists communicate effectively with one another to bridge the gaps in their knowledge.
 
 <blockquote class=”blockquote”>Patients with endometriosis often require individualized care over a long-term period, where priorities may change depending upon the type and severity of symptoms, the impact of these symptoms, current or future fertility goals and lifestyle factors. Individualized care benefits from a multi-disciplinary network of experts sufficiently skilled in providing advice on and treatment of endometriosis and its associated symptoms, based on the best available knowledge, their extensive experience, and their transparent record of success rates.
 
@@ -40,7 +42,7 @@ Specialists do agree that <a href="http://centerforendo.com/endometriosis-unders
 
 </blockquote>
 
-Receiving long term care from a variety of specialists can become extremely costly making it inaccessible for many patients. Due to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">an antiquated approach</a> to managing complex chronic diseases, insurance policies do not cover complementary treatments and often healthcare providers do not offer them.
+Receiving long term care from a variety of specialists can become extremely costly making it inaccessible for many patients. Due to an <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">antiquated approach</a> to managing complex chronic diseases, insurance policies do not cover complementary treatments and often healthcare providers do not offer them.
 
 <blockquote class="blockquote"> This (single-provider) model of care for a complex chronic disease without a cure can pose challenges for both patients and care providers. With limited complementary strategies, such as mental health, acupuncture, nutrition, and pelvic physical therapy expertise to comprehensively address the patient’s pain and its consequences, optimal care may not be achieved.
 
@@ -50,19 +52,29 @@ Receiving long term care from a variety of specialists can become extremely cost
 
  For US patients,  ACOG, The American College of Obstetricians and Gynecologists, defines the standard of care for endometriosis and ultimately influences what treatments insurance companies will cover. Despite recent data points, patient outcry, and a pushback from specialists, <a href="https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA" target="_blank" rel="noopener noreferrer">ACOG’s guidelines </a> remain ineffective and outdated and include palliative hormonal medications and ineffective surgeries such as hysterectomies. If ACOG were to recognize excision surgery and the multidisciplinary care approach, insurance companies would be compelled to provide coverage for treatments. 
 
-<blockquote class="blockquote"> The care patients can get varies massively around the world and within countries, and is often dependent on what they can afford. In the US, insurance companies pay the same amount for any endometriosis surgery, regardless of the method or extent of the disease or the specialization of the doctor.<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
+<blockquote class="blockquote"> The care patients can get varies massively around the world and within countries, and is often dependent on what they can afford. In the US, insurance companies pay the same amount for any endometriosis surgery, regardless of the method or extent of the disease or the specialization of the doctor.
+
+<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Sarah Boseley, The Guardian </a></cite>
 
 </blockquote>
 
-All over the world, patients quality of care is often defined by what they can afford. Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care and/or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
+All over the world, the quality of care is often defined by what patients can afford. Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. **Add stat here**
 
-<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centers is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss and is predicted by decreased quality of life.<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD</a></cite>
+https://www.ncbi.nlm.nih.gov/pubmed/21718982
+https://www.ncbi.nlm.nih.gov/pubmed/30444220
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859693/
+
+<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centers is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss and is predicted by decreased quality of life.
+
+<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD</a></cite>
 
 </blockquote>
 
-Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system, and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
+Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 
-As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community. The following sections will provide a detailed look at many of the available treatments for endometriosis. 
+As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community about endometriosis. As described throughout this series on Endometriosis, misinfomration and myth has long dictated the approach to treating endometriosis.
+
+The following sections provide a detailed look at the treatments available for endometriosis. 
 
 **Table of Contents for 3 Part Post for Treatments**
 
@@ -74,29 +86,29 @@ As a patient, being informed on the available treatments can help you advocate f
 
 <h3>Surgery</h3>
 
-It's important to note that surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered a <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">cornerstone of treatment</a> for the disease. Laparoscopy is a minimally invasive procedure in which the endometriosis lesions are removed. 
+It's important to note that surgery with a confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered a <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">cornerstone of treatment</a> for the disease. Laparoscopy is a minimally invasive procedure in which the endometriosis lesions are removed. 
 
-During laparoscopy, the surgical options of removal include excision and superficial treatments such as fulguration, diathermy, vaporization, cautery, etc. Laparoscopic Excision, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">LAPEX</a>, is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
+During laparoscopy, the surgical options of removal include excision and superficial treatments such as fulguration, diathermy, vaporization, cautery, etc. Laparoscopic excision, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">LAPEX</a>, is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
 
 <blockquote class="blockquote">Endometriosis acts like an iceberg.  Despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 
-<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer"></a>-The Endometriosis Foundation of America</cite>
+<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">-The Endometriosis Foundation of America</a></cite>
 
 </blockquote>
 
-Since endometriosis lesions are often <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">deeply imbedded</a> in the surrounding tissue, a thorough approach, like excision, is needed for complete removal. During excision surgery, the lesions are excised or cut out and the tissue underneath is evaluated for abnormal tissue and removed if necessary.  
+Since endometriosis lesions are often <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">deeply imbedded</a> in the surrounding tissue, a thorough approach like excision is needed for complete removal. During excision surgery, the lesions are excised or cut out and the tissue underneath is evaluated for abnormal tissue and removed if necessary.  
 
 <blockquote class="blockquote">Laparoscopic Excision (LAPEX) is the surgical cornerstone of any high quality, multidisciplinary approach to correctly treating endometriosis. LAPEX allows for the disease to be meticulously removed, cut out, from all areas, without damaging surrounding structures or removing otherwise healthy organs.
 
-<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer"></a>-The Center for Endometriosis Care</cite>
+<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">-The Center for Endometriosis Care</a></cite>
 
 </blockquote>
 
-Studies have found the complete removal of the entire lesion is necessary for symptom relief and successful disease management. LAPEX has been associated with a <a href="https://www.ncbi.nlm.nih.gov/pubmed/1833246" target="_blank" rel="noopener noreferrer"> low rate of minimal persistent/recurrent disease</a> and <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">symptomatic improvements</a> in general health, sexual function, fertility, and quality of life. When performed by an advanced surgeon, the outcomes of excision are far superior to superficial treatments and have a <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">re-operation rate of 20%</a>. In comparison, the re-operation rate for superficial treatments in 80%.
+Studies have found the complete removal of the entire lesion is necessary for symptom relief and successful disease management. LAPEX has been associated with a <a href="https://www.ncbi.nlm.nih.gov/pubmed/1833246" target="_blank" rel="noopener noreferrer"> low rate of minimal persistent/recurrent disease</a> and <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">symptomatic improvements</a> in general health, sexual function, fertility, and quality of life. When performed by an advanced surgeon, the outcomes of excision are far superior to superficial treatments and have a <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">re-operation rate of 20%</a>. In comparison, the re-operation rate for superficial treatments is 80%.
 
 <blockquote class="blockquote">The high rates of recurrence associated with endometriosis surgery in the literature strongly depend on the completeness of disease removal. LAPEX is a well-established yet under-practiced approach, with the goal at the time of surgery to completely respect all disease, restore normal anatomy, and apply measures for adhesion prevention. Data suggest that the surgical objective should be complete eradication; therefore, the surgeon must be prepared to excise all lesions suggestive of endometriosis as well as all atypical tissue, because in most anatomic sites, approximately 50% of atypical specimens prove to be endometriosis.
 
-<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer"></a>-Ken R. Sinervo, MD, MSC, FRCSC, ACGE</cite>
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-Ken R. Sinervo, MD, MSC, FRCSC, ACGE</a></cite>
 
 </blockquote>
 
@@ -104,53 +116,51 @@ Since lesions are deeply implanted in the surrounding tissue, superficial treatm
 
 <blockquote class="blockquote">In most cases, ablation/cauterization surgery will not be effective for long-term management of endometriosis because the tissue remains below the surface. In many cases, the inflammation following ablation and cauterization can be another source of pain. This is why excision surgery is the gold standard for treatment. If a patient is considering surgery, it is important that they ask their surgeon the method for removal.
 
-<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer"></a>-Endometriosis Foundation of America</cite>
+<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">-Endometriosis Foundation of America</a></cite>
 
 </blockquote>
 
-While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only [100-200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
+While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only [less than 200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision surgery is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
 
 <blockquote class="blockquote">Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis...then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
 
-<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer"></a>-Center for Endometriosis Care</cite>
+<cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
 
 </blockquote>
 
-When considering surgery, LAPEX is considered the <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">gold standard of care</a>, or the best available option, for endometriosis. The skill and clinical experience of the surgeon is equally important to a patient's outcome and should also be considered before surgery. 
+When considering surgery, LAPEX is considered the <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">gold standard of care</a>, or the best available option, for endometriosis. This is based on clinical trails that look at the long term outcomes of LAPEX compared to other treatments. As discussed above, the skill and clinical experience of the surgeon is equally important to a patient's outcome and should also be considered before surgery. 
 
 <blockquote class="blockquote">In the medical field, a 'gold standard' treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 
-<cite><a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer"></a>-Women’s Surgery & Aesthetics Center</cite>
+<cite><a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">-Women’s Surgery & Aesthetics Center</a></cite>
 
 </blockquote>
 
 **Why Hysterectomy is not a treatment option?**
 
+Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Since there is no cure for endometriosis, hysterectomy is not a cure. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
 <blockquote class="blockquote">It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain.
 
-<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer"></a>-Endometriosis Foundation of America</cite>
+<cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">-Endometriosis Foundation of America</a></cite>
 
 </blockquote>
-
-Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
 
 **Finding a Specialist** 
 
 Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">less than 200 excision surgeons</a> in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a knowledgable provider near you:
 
-* <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse Nancy Peterson
-* <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project's</a> physician's directory is a locator tool for excision specialists
+* <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse and endo activist Nancy Peterson
+* <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project</a> has a physician's directory, which is a locator tool for excision specialists
 * <a href="http://endometriosis.org/resources/articles/finding-a-specialist/" target="_blank" rel="noopener noreferrer">Endometriosis.org</a> provides some key points on finding a specialist
-* <a href="http://endowest.net/questions-to-ask-your-doctor/" target="_blank" rel="noopener noreferrer">Endo West: Endo and Pelvic Surgery Center</a> has a list of questions to ask your doctor.
+* <a href="http://endowest.net/questions-to-ask-your-doctor/" target="_blank" rel="noopener noreferrer">Endo West: Endo and Pelvic Surgery Center</a> has a list of questions to ask your doctor
 * <a href="https://www.endofound.org/preparing-to-see-a-doctor" target="_blank" rel="noopener noreferrer">Endometriosis Foundation of America</a> gives advice on seeking a doctor 
-* <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you screen doctors.
+* <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you screen doctors
 * <a href="https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI" target="_blank" rel="noopener noreferrer">Do You Need That Surgery? How to Decide, and How to Pick a Surgeon if You Do</a> is a helpful NPR article about navigating surgery. 
-* <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and leading excision surgeon, Dr. Robert Albee and is located in Atlanta, GA.
-* <a href="http://centerforendo.com/collaboratives" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care's Collaboratives List</a> 
+* <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and excision surgeon, Dr. Robert Albee
 * <a href="http://centerforendo.com/drqanda?fbclid=IwAR0Jt5mela3dHpBHkkXn9t6v_MTtZvFOPE9Wel_uA4D7ELZO0fwrHOBq9Jc" target="_blank" rel="noopener noreferrer">What to Ask When Choosing A Doctor for Your Endo Care</a> 
-* <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis and excision specialist located in California and Colorado.
-* <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis and excision specialist located in New York.
-* <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> Endo InVisible's mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. 
+* <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis excision specialist located in California and Colorado
+* <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis excision specialist located in New York
+* <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> Endo InVisible's mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis
 
 <h3>Hormonal Medications and Oral Contraceptives</h3>
 
@@ -158,7 +168,7 @@ Many doctors use hormonal medications, like oral contraceptives, as a first line
 
 <blockquote class="blockquote">Medical therapy represents only a symptomatic treatment and not the definitive solution to endometriosis lesions that may persist despite different medications, dosages, and duration of the therapy
 
-<cite><a href="https://journals.sagepub.com/doi/full/10.1177/2284026519841520" target="_blank" rel="noopener noreferrer"></a>-Dr. Federica Di Guardo</cite>
+<cite><a href="https://journals.sagepub.com/doi/full/10.1177/2284026519841520" target="_blank" rel="noopener noreferrer">-Dr. Federica Di Guardo</a></cite>
 
 </blockquote>
 
@@ -166,7 +176,7 @@ In theory, hormonal medication is thought to decrease endometriosis tissue activ
 
 <blockquote class="blockquote">All medical therapy, whether administered as first-line treatment or postoperatively, is associated with high rates of disease recurrence.
 
-<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer"></a>-Ken R. Sinervo, MD, MSC, FRCSC, ACGE</cite>
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-Ken R. Sinervo, MD, MSC, FRCSC, ACGE</a></cite>
 
 </blockquote>
 
@@ -200,7 +210,7 @@ The newest hormonal drug, **Elagolix** (Orilissa), has received <a href="https:/
 
 <blockquote class="blockquote">Evidence was not adequate to determine whether elagolix offers a net health benefit compared to no treatment, or compared to treatment with either a GnRH agonist (leuprorelin acetate) or a hormonal contraceptive (depot medroxyprogesterone), due to limited and mixed evidence on clinical effectiveness and potential risks. Since endometriosis-related symptoms recur after stopping treatment, it remains to be determined whether elagolix is safe or effective for long term use.
 
-<cite><a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer"></a>-Institute for Clinical and Economic Review</cite>
+<cite><a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">-Institute for Clinical and Economic Review</a></cite>
 
 </blockquote>
 
@@ -213,11 +223,13 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a>
 * <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a>
+* <a href="https://www.vox.com/the-goods/2019/6/25/18715504/birth-control-side-effects-pill-iud" target="_blank" rel="noopener noreferrer">The Bitter Pill: Why Isn’t Birth Control Better?</a>
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous/dp/0062847090/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
   " target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a> by Dr. Jolene Brighten
 * <a href="https://www.amazon.com/Period-Repair-Manual-Treatment-Hormones/dp/0648352404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank" rel="noopener noreferrer">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods</a> by Dr. Lara Briden
 * <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a> by Sarah E. Hill, PhD
 * <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a>  by Holly Grigg-Spall
+* <a href="https://www.amazon.com/dp/0062937324?tag=harpercollinsus-20" target="_blank" rel="noopener noreferrer">Fix Your Period: Six Weeks to Banish Bloating, Conquer Cramps, Manage Moodiness, and Ignite Lasting Hormone Balance</a>  by Nicole Jardim
 
 <h3>Complementary and Alternative Therapies</h3>
 
@@ -243,7 +255,9 @@ These therapies have been recommended by specialists due to the potential benefi
 
 Diet and nutrition have become areas of increased interest for potential disease management and prevention. Dietary modification and nutrition  therapy may provide various benefits as a complementary therapy for treating endometriosis. Several studies have shown <a href="https://academic.oup.com/humrep/article/19/8/1755/2356458" target="_blank" rel="noopener noreferrer">a potential link</a> between endometriosis and diet. It's important to note that more research is needed to understand <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">the role that diet</a> may play in endometriosis and its symptoms. Based on the available information, several diet recommendations for endometriosis have been developed. 
 
-<blockquote class="blockquote">Dietary modification as a complementary approach and a short-term recourse to reduce the effects of inflammation associated with endometriosis is feasible, practical, and can be monitored under physician supervision. Nevertheless, due in part to the complex nature of the condition and the lack of reliable markers to detect disease initiation, scientific-based data are currently deficient to support the ability of anti-inflammatory foods and food components to prevent endometriosis.<cite><a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">-Sofia Jade U Saguyod</a></cite>
+<blockquote class="blockquote">Dietary modification as a complementary approach and a short-term recourse to reduce the effects of inflammation associated with endometriosis is feasible, practical, and can be monitored under physician supervision. Nevertheless, due in part to the complex nature of the condition and the lack of reliable markers to detect disease initiation, scientific-based data are currently deficient to support the ability of anti-inflammatory foods and food components to prevent endometriosis.
+
+<cite><a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">-Sofia Jade U Saguyod</a></cite>
 
 </blockquote>
 
@@ -259,7 +273,7 @@ On the other hand, diets rich in <a href="https://www.ncbi.nlm.nih.gov/pmc/artic
 
 Some researchers believe the origin and progression of endometriosis may be linked to <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">diets that are deficient</a> in necessary nutrients. The resulting changes are thought to promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress endometriosis. <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">Organic produce</a> is recommended to reduce your exposure to pesticides which can negatively alter hormonal pathways or decrease the antioxidant capacity of the plants. 
 
-Another topic of research  is <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">red meat consumption</a> and its impact on endometriosis risk and progression. A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen</a> which contributes to endometriosis growth. Many specialists recommend a mainly plant based diet. If consuming red meat, <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">organic, grass fed</a> beef is recommended in small amounts.
+Another topic of research  is <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">red meat consumption</a> and its impact on endometriosis risk and progression. A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen</a> and inflammation which contributes to endometriosis growth. Many specialists recommend a mainly plant based diet. If consuming red meat, <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">organic, grass fed</a> beef is recommended in small amounts.
 
 <blockquote class="blockquote">Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
 
@@ -303,7 +317,7 @@ Specialists and researchers agree that <a href="https://www.ncbi.nlm.nih.gov/pmc
 
 <blockquote class="blockquote">Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
 
-<cite><a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer"></a>-Belinda F. Wurn, PT</cite>
+<cite><a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">-Belinda F. Wurn, PT</a></cite>
 
 </blockquote>
 
@@ -373,4 +387,4 @@ These resources provide insight on a whole body approach to wellness with dietar
 
 * <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
 * <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
-* [Endo Empowered](https://www.endoempowered.com/) offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner
+* <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner
