@@ -67,13 +67,6 @@ This collection of books covers an array of topics on endometriosis, including d
 
 <h3>Hormonal Health and Hormonal Contraceptives</h3>
 
-<<<<<<< Updated upstream
-* [Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill](https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF) by Dr. Jolene Brighten- This book brings together up to date research, relevant science, and clinical expertise to create one of the most informative reads on hormones and hormonal contraceptives. While the birth control pill is widely prescribed as a quick-fix solution to a variety of women’s health conditions, taking it can also result in other more serious and dangerous health consequences. Personally, this book was a savior for my hormonal literacy and health. Many readers, including myself, have called it the hormone bible because it's one of the most informative books on the subject. Before you begin any hormonal treatments read this book! I highly, highly recommend! This is one of my top recommendations.
-* [Period Repair Manual: Natural Treatment for Better Hormones and Better Periods](https://www.amazon.com/Period-Repair-Manual-Second-Treatment-ebook/dp/B075NDJC2J) by Dr. Lara Briden- Written by a naturopathic doctor with more than twenty years experience, this book is a compilation of everything that works for hormonal health. How to come off hormonal birth control, what your period should be like, how to talk to your doctor, and treatment protocols for all common period problems, including endometriosis. Personally, this book was a savior for my hormonal literacy and health. This has a wealth of information that most doctors don't. Before you begin any hormonal treatments read this book! I highly, highly recommend! This is one of my top recommendations.
-* [The Happy Hormone Guide: A Plant-based Program to Balance Hormones, Increase Energy, & Reduce PMS Symptoms](https://www.amazon.com/Hormone-Harmony-Plant-Based-Increase-Symptoms/dp/1944515836/ref=sr_1_11_sspa?keywords=endometriosis+book&qid=1568750801&sr=8-11-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFZJSkpROEhaUlkzJmVuY3J5cHRlZElkPUEwODAxMTcxMTNCV1haSFZHOFIwSCZlbmNyeXB0ZWRBZElkPUEwNDcwMzAxMjk3WlBQT1hWMVlPUCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=#customerReviews) by Shannon Leparski- A comprehensive plant-based plan for better periods, improved energy, and balanced hormones. This will provide you with tools and guidance to work with your natural rhythm and create incredible hormones.
-* sweetening the pill
-* your brain on birth control
-=======
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF" target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a> by Dr. Jolene Brighten- This book brings together up to date research, relevant science, and clinical expertise to create one of the most informative reads on hormones and hormonal contraceptives. While the birth control pill is widely prescribed as a quick-fix solution to a variety of women’s health conditions, taking it can also result in other more serious and dangerous health consequences. 
 
   Personally, this book was a savior for my hormonal literacy and health. Many readers, including myself, have called it the hormone bible because it's one of the most informative books on the subject. Before you begin any hormonal treatments read this book! I highly, highly recommend! This is one of my top recommendations.
@@ -94,7 +87,6 @@ This collection of books covers an array of topics on endometriosis, including d
 
 * <a href="https://www.amazon.com/Pain-Peace-Endo-Lessons-Endometriosis/dp/0692297820" target="_blank" rel="noopener noreferrer">From Pain to Peace With Endo: Lessons Learned on the Road to Healing Endometriosis</a> by Aubree Deimler- As a certified holistic health coach and founder of Peace With Endo, Aubree is deeply passionate about wellness. She believes in using an alternative, whole body healing approach on a physical, emotional and spiritual level.
 
->>>>>>> Stashed changes
 
 <h3>Pelvic Pain and Pelvic Floor Dysfunction</h3>
 
