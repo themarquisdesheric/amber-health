@@ -11,13 +11,13 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-For an introduction to endometriosis please read my article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This part two of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Symptoms?</h2>
 
-All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
+All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
 
 * Pain with Menstruation
 * Pelvic Pain
@@ -74,18 +74,18 @@ Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 </blockquote>
 
-When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endo and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in my article, [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
+When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in the article [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
 
 <h3>Key facts to keep in mind as you seek care</h3>
 
-* Be wary of providers who believe your pain and symptoms must relate to your menses. This is not accurate for most patients. 
-* Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. 
-* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. 
-* The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care.
+* Be wary of providers who believe that your pain and symptoms must relate to your menses. This is not accurate since many patients will experience chronic symptoms.
+* Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. You care must be individualized to your specific needs.
+* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. Endometriosis has many comorbid conditions.
+* The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care. Your care team may include several providers from various specialties. 
 
-While endometriosis remains largely unknown, theories abound. In my next article, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/) theories on etiology are examined. 
+While endometriosis remains largely unknown, theories abound. In the next article of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
 
-<h3 class="table-of-contents">Endo Series Table of Contents</h3>
+<h3 class="table-of-contents">Endometriosis Series Table of Contents</h3>
 
 * [Endometriosis 101](/articles/2019-08-21-endometriosis/)
 * [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
