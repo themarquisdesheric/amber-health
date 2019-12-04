@@ -11,9 +11,9 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-If you'd like to learn more about endometriosis, please visit my article, [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+If you'd like to learn more about endometriosis, please visit the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
-This Part of my series, **Endometriosis** (tag to bottom table of contents)
+This Part of the series **Endometriosis** (tag to bottom table of contents)
 
 <h2>What are the Potential Causes?</h2>
 
@@ -23,7 +23,7 @@ This Part of my series, **Endometriosis** (tag to bottom table of contents)
 
 </blockquote>
 
-The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the cause of disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endo’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No single theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestions. 
+The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the cause(s) of the disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endometriosis’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestations. 
 
 A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms</a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
 
@@ -37,7 +37,7 @@ Since there are many theories in circulation, this article examines several of t
 
 <h3>Retrograde Menstruation</h3>
 
-This century-old theory of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">retrograde menstruation </a> remains one of the most popular theories despite its proven flaws. In the 1920's, Dr. Sampson proposed the disease resulted from a reversal in menstruation in which the endometrium is deposited and implanted outside of the uterus. The endometrium is not the same as endometriosis lesions so this does not offer an explanation. Also, retrograde menstruation is very common and does not cause endometriosis in a majority of those who menstruate. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12372441" target="_blank" rel="noopener noreferrer">Multiple studies</a> have demonstrated that retrograde menstruation does not account for pathogenesis, or disease development. Sadly this myth rules much of modern thinking and delays further disease management efforts. 
+The century-old theory of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">retrograde menstruation </a> remains one of the most popular theories despite its proven flaws. In the 1920's, Dr. Sampson proposed the disease resulted from a reversal in menstruation in which the endometrium is deposited and implanted outside of the uterus. The endometrium is not the same as endometriosis lesions so this does not offer an explanation. Also, retrograde menstruation is very common and does not cause endometriosis in a majority of those who menstruate. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12372441" target="_blank" rel="noopener noreferrer">Multiple studies</a> have demonstrated that retrograde menstruation does not account for pathogenesis, or disease development. Sadly this myth rules much of modern thinking and delays further disease management efforts. 
 
 <blockquote class="blockquote">Sampson’s theory has guided thought on endometriosis for too long and patients are being physically harmed by its continued acceptance, since repeated surgeries and rounds of medical therapy are the unfortunate hallmarks of modern therapy.
 
@@ -47,7 +47,7 @@ This century-old theory of <a href="http://centerforendo.com/endometriosis-under
 
 <h3>Immunologic Dysfunction</h3>
 
-It’s thought that a dysfunctional immune system may allow for implantation of menstrual debris. However, this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. There is also a belief that it may share an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">underlying pathology</a> with several autoimmune disorders.
+It’s thought that a dysfunctional immune system may allow for implantation of endometriosis lesions. However, this does not sufficiently explain the initial disease process. Endometriosis shares <a href="https://www.ncbi.nlm.nih.gov/pubmed/22330229" target="_blank" rel="noopener noreferrer">similarities</a> with several autoimmune diseases including elevated levels of cytokines, decreased apoptosis, and cell-mediated abnormalities. Research is still needed to determine whether it is an autoimmune disease. There is also a belief that it may share an <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">underlying pathology</a> with several autoimmune disorders.
 
 <h3>Stem Cells</h3>
 
@@ -71,11 +71,11 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 <h3>Theory of Mulleriosis & Embryonic Origin</h3>
 
+According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
+
 <blockquote class="blockquote">The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.<cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">-The Endometriosis Foundation of America</a></cite>
 
 </blockquote>
-
-According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
 <h3>Additional Theories</h3>
 
