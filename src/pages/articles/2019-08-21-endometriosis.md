@@ -8,6 +8,7 @@ tags:
   - endometriosis
   - women's health
   - disease
+  - chronic illness
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information, and resources to patients and their caregivers. 
 
@@ -59,7 +60,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
-<a href=" http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in the **article** [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
+<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, and bowel. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found at **article** [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/).
 
 <blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
@@ -89,63 +90,52 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 **Table of Contents**
 
-## **Online Resources**
+## Online Resources
 
-Here are trusted informational resources that explain the definition, theorized causes, diagnostic and treatment options available for the disease. _Unfortunately, some of these sources do not use inclusive language and rely on gendered language. I will always use inclusive language on my site._:
+These are trusted informational resources that explain the definition, theorized causes, diagnostic process, and treatment options available for the disease. Most of these sites are dedicated to disease awareness, further research, and patient and advocacy. Unfortunately, some of these sources do not use inclusive language and rely on gendered language when discussing the disease.
 
-* [Center for Endometriosis Care](http://centerforendo.com/endometriosis-understanding-a-complex-disease) is an endo specialist lead resource for disease definition, symptoms, treatments, and additional resources in their content library
-* [The Endometriosis Association](https://endometriosisassn.org/about-endometriosis) is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
-* [Endometriosis Foundation of America](https://www.endofound.org/endometriosis-a-to-z) is a non profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
-* [Endometriosis News](https://endometriosisnews.com/what-is-endometriosis/) is a science and health publishing website for endometriosis.
-* [Endometriosis Research Center](https://www.endocenter.org/do-you-have-endo/) is a non profit and was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
-* [Endopaedia](http://endopaedia.info/index.html) is a self-funded project that was founded by Dr. David B. Redwine, M.D., an endo excision specialist. 
+* <a href="http://endopaedia.info/index.html" target="_blank" rel="noopener noreferrer">Endopaedia</a> is a highly accurate and informative resource that was founded by Dr. David B. Redwine, M.D., a leading endometriosis excision specialist and researcher 
+* <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is a clinic opened by endo specialists that's dedicated to awareness and research. Their site is an accurate and informative resource for disease definition, symptoms, treatments, and additional information in their content library
+* <a href="https://endometriosisassn.org/about-endometriosis" target="_blank" rel="noopener noreferrer">The Endometriosis Association</a> is a self-help organization of women and families with endo, doctors, scientists, and others interested in exchanging information about the endometriosis disease.
+* <a href="https://www.endofound.org/endometriosis-a-to-z" target="_blank" rel="noopener noreferrer">Endometriosis Foundation of America</a> is a non-profit that strives to increase disease recognition, provide advocacy, facilitate expert surgical training, and fund landmark endometriosis research.
+* <a href="https://endometriosisnews.com/what-is-endometriosis/" target="_blank" rel="noopener noreferrer">Endometriosis News</a> is a science and health publishing website for endometriosis.
+* <a href="https://www.endocenter.org/" target="_blank" rel="noopener noreferrer">Endometriosis Research Center</a> was among the first endometriosis organizations to be formed in the United States. They're addressing the ongoing need for international endometriosis awareness, advocacy, support, education, legislative efforts and research facilitation.
+* <a href="http://www.endometriosis.co.uk/essent.html" target="_blank" rel="noopener noreferrer">The Endometriosis and Fertility Clinic</a> is led by Dian Shepperson Mills who is a nutritionist, researcher, and pioneer in promoting nutritional therapy as a safe and effective treatment for endometriosis. 
 
 ## Support
 
-Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
+Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. **link to studies to show effectiveness/importance of crowd sourcing health info for marginalized conditions**
 
-* [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
-* [Dr. Jolene Brighten Hormone Community](https://www.facebook.com/groups/330316127499514/) offers community, advice, and support from fellow endo patients and is moderated by Dr. Jolene Brighten.
-* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
-* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
-* [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
-
-* http://endopaedia.info/resources.html#key
-* http://www.endometriosis.co.uk/essent.html
-* http://centerforendo.com/collaboratives
+* <a href="https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q" target="_blank" rel="noopener noreferrer">Endo Warriors</a> is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a <a href="https://www.facebook.com/endowarriorssupport" target="_blank" rel="noopener noreferrer">Facebook support group</a>.
+* <a href="https://www.facebook.com/groups/endometropolis/" target="_blank" rel="noopener noreferrer">EndoMetropolis</a> is hugely helpful resource and space to connect and share information with fellow endometriosis patients and those involved in the endo community. They have great files for members including surgery guides and questions for surgeons.
+* <a href="https://www.facebook.com/groups/330316127499514/" target="_blank" rel="noopener noreferrer"> Dr. Jolene Brighten Hormone Community</a> offers community, advice, and support from fellow endometriosis patients and is moderated by Dr. Jolene Brighten, women's health expert.
+* <a href="https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/" target="_blank" rel="noopener noreferrer">Endometriosis Nutrition and Holistic Support</a> provides nutritional advice, holistic support, and a community of fellow endo patients.
+* <a href="https://www.facebook.com/groups/endoempowered/" target="_blank" rel="noopener noreferrer">Rebellious Endometriosis Sisters</a> is the support group for Melissa Turner's Endo Empowered members that provides natural and holistic advice. 
+* <a href="https://medium.com/ask-me-about-my-uterus" target="_blank" rel="noopener noreferrer">Ask Me About My Uterus</a> is Abby Norman's site which has informative articles and personal stories written by herself and fellow endometriosis patients.
+* <a href="https://www.facebook.com/groups/unsweeteningthepill/?ref=pages_profile_groups_tab&source_id=162535677236310" target="_blank" rel="noopener noreferrer">Unsweetening the Pill: support for going off hormonal birth control</a> This is a group to provide support, resources, and care to those making the transition off hormonal birth control.
 
 ## More Resources
 
-* [Phendo](http://citizenendo.org/phendo/) is a multipurpose app that allows patients to track their symptoms, meds, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to [begin phenotyping the disease](https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY). It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endo patient.
-* [EndoWhat?](https://www.endowhat.com/) is a film created by endo patient Shannon Cohn to educate and bring more widespread awareness to the disease. It've available for public screening.
-* [Your Pace Yoga](https://yourpaceyoga.com/) offers yoga programs for endometriosis and pelvic pain by Dustienne Miller CYT, PT, MS, WCS. 
+* <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to 
+<a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
+* <a href="https://www.endowhat.com/" target="_blank" rel="noopener noreferrer">EndoWhat?</a> is a film created by endometriosis patient Shannon Cohn to educate and bring more widespread awareness to the disease. It's available for public screening.
+* <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> exists to create access to easily shareable educational infographics designed to spread awareness about endometriosis.
+* <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is a guide of information on endometriosis that was written by several doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on
+endometriosis and the treatment modalities to make informed decisions in their care. 
 
 **Gender Bias in Medicine** 
 
-* [Pain Bias: The Health Inequality Rarely Discussed](http://www.bbc.com/future/story/20180518-the-inequality-in-how-women-are-treated-for-pain)
-* [The Invisible Woman? The Challenge at the Doctor's Office Every Woman Needs to Know About](https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ)
-* [Why Don't Doctors Trust Women? Because They Don't Know Much About Us](https://www.theguardian.com/books/2019/sep/02/why-dont-doctors-trust-women-because-they-dont-know-much-about-us?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR3p5w0mFRxXnpkeJP7WGxRYnxB3VZmlTxYNcf5cqOChmFiRVvRSKPQe5Ww#Echobox=1567383798)
-* [Doing Harm](https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809) by Maya Dusenbery
+* <a href="http://www.bbc.com/future/story/20180518-the-inequality-in-how-women-are-treated-for-pain" target="_blank" rel="noopener noreferrer">Pain Bias: The Health Inequality Rarely Discussed</a>
+* <a href="https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ" target="_blank" rel="noopener noreferrer">The Invisible Woman? The Challenge at the Doctor's Office Every Woman Needs to Know About</a>
+* <a href="https://www.theguardian.com/books/2019/sep/02/why-dont-doctors-trust-women-because-they-dont-know-much-about-us?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR3p5w0mFRxXnpkeJP7WGxRYnxB3VZmlTxYNcf5cqOChmFiRVvRSKPQe5Ww#Echobox=1567383798" target="_blank" rel="noopener noreferrer">Why Don't Doctors Trust Women? Because They Don't Know Much About Us</a>
+* <a href="https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809" target="_blank" rel="noopener noreferrer">Doing Harm</a>
+* <a href="https://www.newstatesman.com/culture/books/2019/11/womens-chronic-illness-pain-conditions-endometriosis-vaginismus-vulvodynia-literature?fbclid=IwAR08U8oU4-dYAbd056AFgIt30Kw8tnofwmoumB34_yoJIDZ6rKxhUfRP4pA" target="_blank" rel="noopener noreferrer"> A Cure of One’s Own: After years of dismissal, a new wave of literature sees women confronting an epidemic of underdiagnosed chronic pain conditions.</a>
 
 **Racial Bias in Medicine**
-
-* [Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA)
-* [Behind The Times: Revisiting Endometriosis and Race](https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w)
-* https://www.healthline.com/health/endometriosis/endo-race-matters?fbclid=IwAR2Gf3Db6D_t2O7oBsF4wy1uWZQrhoE6-UIHt5QOcRKUjio_tRMwbS1EBEo#1
-* https://www.nature.com/articles/d41586-019-03228-6?fbclid=IwAR0vjdoiNTTu5_GtqCWhCi9fqn3OeyguLUi3Yn2vn20nqTSEBXaZVxvluUY
-
-## Support
-
-Finding adequate support, receiving validation, and maintaining one's self worth and dignity are all important components of disease management and basic human rights. Below are some online communities to join for support and advice. 
-
-* [Endo Warriors](https://endowarriorssupport.com/?fbclid=IwAR1nFdWZH5vaHeyUgLpbqAnUPFLmuMnvetnvcpa5VOnC3zwbFvWmGkyzV6Q) is an organization created by endometriosis patients to provide personalized support patient to patient as well as up to date information on treatment options and care. They also have a [Facebook support group](https://www.facebook.com/endowarriorssupport/).
-* [Dr. Jolene Brighten Hormone Community](https://www.facebook.com/groups/330316127499514/) offers community, advice, and support from fellow endo patients and is moderated by Dr. Jolene Brighten.
-* [Endometriosis Nutrition and Holistic Support](https://www.facebook.com/groups/EndometriosisNutritionandHolisticsupportGroup/) provides nutritional advice, holistic support, and a community of fellow endo patients.
-* [Rebellious Endometriosis Sisters](https://www.facebook.com/groups/endoempowered/) is the support group for Melissa Turner's Endo Empowered members .
-* [Ask Me About My Uterus](https://medium.com/ask-me-about-my-uterus) is Abby Norman's site which has informative articles and personal stories written by herself and fellow endo patients.
-* https://www.facebook.com/groups/endometropolis/
-  Hugely helpful!!- great files on hand--surgery guides--questions for surgeons
-* \- link to studies to show effectiveness/importance of crowdsourcing health info for marginalized conditions
+* <a href="https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA" target="_blank" rel="noopener noreferrer">Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today</a>
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w" target="_blank" rel="noopener noreferrer">Behind The Times: Revisiting Endometriosis and Race</a>
+* <a href="https://www.healthline.com/health/endometriosis/endo-race-matters?fbclid=IwAR2Gf3Db6D_t2O7oBsF4wy1uWZQrhoE6-UIHt5QOcRKUjio_tRMwbS1EBEo#1" target="_blank" rel="noopener noreferrer">I’m Black. I Have Endometriosis — and Here’s Why My Race Matters</a>
+* <a href="https://www.nature.com/articles/d41586-019-03228-6?fbclid=IwAR0vjdoiNTTu5_GtqCWhCi9fqn3OeyguLUi3Yn2vn20nqTSEBXaZVxvluUY" target="_blank" rel="noopener noreferrer">Millions of black people affected by racial bias in health-care algorithms</a>
 
 ## Related Conditions
 
