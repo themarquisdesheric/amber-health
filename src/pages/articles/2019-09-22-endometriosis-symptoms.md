@@ -7,11 +7,12 @@ featuredimage: /img/pom-2.jpg
 tags:
   - endometriosis
   - endo
-  - women's health
+  - women's health  
+  - chronic illness
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This part two of the series on Endometriosis. **(tag to TOC)**
 
@@ -52,7 +53,8 @@ Endometriosis has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/
 
 <blockquote class="blockquote">Endometriosis is an unusual condition because of the potential of a variety of different mechanisms to generate pain. These include direct compression/infiltration of nerves by the lesions, inflammatory pain due to the enhanced inflammatory environment of the pelvis and ‘neuropathic’ pain secondary to damage of pelvic nerves during surgery or of the new nerves directly infiltrating the lesions.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer"></a>-Jennifer Brawn</cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer">-Central Changes Associated with Chronic Pelvic Pain and Endometriosis
+</a></cite>
 
 </blockquote>
 
@@ -60,7 +62,8 @@ Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154
 
 <blockquote class="blockquote">The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Dr. Georgina Jones \[BA (Hons), MA, D.Phil]</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-The Impact of Endometriosis Upon Quality of Life: A Qualitative Analysis
+</a></cite>
 
 </blockquote>
 
@@ -70,20 +73,21 @@ Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 <blockquote class="blockquote">Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. 
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">-Marina Kvaskoff M.P.H., Ph.D.</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">-Endometriosis: A High-Risk Population for Major Chronic Diseases?
+</a></cite>
 
 </blockquote>
 
-When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in the article [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
+When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in the **article** [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
 
 <h3>Key facts to keep in mind as you seek care</h3>
 
 * Be wary of providers who believe that your pain and symptoms must relate to your menses. This is not accurate since many patients will experience chronic symptoms.
 * Endometriosis and its related conditions manifest as a unique presentation in each patient so no two patients have the same symptoms and comorbidities. You care must be individualized to your specific needs.
-* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. Endometriosis has many comorbid conditions.
+* Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. Endometriosis has many comorbid conditions, including several autoimmune diseases.
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care. Your care team may include several providers from various specialties. 
 
-While endometriosis remains largely unknown, theories abound. In the next article of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
+While endometriosis remains largely unknown, theories abound. In the next **article** of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
 
 <h3 class="table-of-contents">Endometriosis Series Table of Contents</h3>
 

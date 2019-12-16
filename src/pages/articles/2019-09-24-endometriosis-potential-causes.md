@@ -11,7 +11,7 @@ tags:
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
-If you'd like to learn more about endometriosis, please visit the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+If you'd like to learn more about endometriosis, please visit the **article**  [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This Part of the series **Endometriosis** (tag to bottom table of contents)
 
@@ -41,7 +41,7 @@ The century-old theory of <a href="http://centerforendo.com/endometriosis-unders
 
 <blockquote class="blockquote">Sampson’s theory has guided thought on endometriosis for too long and patients are being physically harmed by its continued acceptance, since repeated surgeries and rounds of medical therapy are the unfortunate hallmarks of modern therapy.
 
-<cite><a href="http://endopaedia.info/origin20.html" target="_blank" rel="noopener noreferrer">-Dr. David Redwine</a></cite>
+<cite><a href="http://endopaedia.info/origin20.html" target="_blank" rel="noopener noreferrer">-A Critical Review of the Development of Sampson's Theory of Origin of Endometriosis</a></cite>
 
 </blockquote>
 
@@ -73,13 +73,15 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
-<blockquote class="blockquote">The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.<cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">-The Endometriosis Foundation of America</a></cite>
+<blockquote class="blockquote">The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.
+
+<cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">-The Endometriosis Foundation of America</a></cite>
 
 </blockquote>
 
 <h3>Additional Theories</h3>
 
-In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a> and in this <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">article</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
+In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a> and in<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer"> Molecular and Cellular Pathogenesis of Endometriosis</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
 
 <blockquote>Without question, there are various additional factors that contribute to disease pathophysiology and pathogenesis. Propagation of outdated myths and misinformation, and the continued research positioning of endometriosis as normal endometrium, keeps the disease mired in outdated concepts, hysterectomy, failed drug therapy, and incomplete treatment.  
 

@@ -28,7 +28,7 @@ Many doctors and resources improperly define the two types of tissue as being id
 
 <blockquote class=”blockquote”>It was once thought that endometriosis was exactly identical to the endometrium, but now we know that there are hundreds of basic and profound differences between endometriosis and endometrium. These differences include genetic differences between the two types of tissue as well as differences in enzymatic activity, hormone receptors, hormone responsiveness, microscopic appearance, and visual appearance. 
 
-<cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">-Dr. David Redwine</a></cite>
+<cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">-100 Questions and Answers about Endometriosis</a></cite>
 
 </blockquote>
 
@@ -44,7 +44,8 @@ The endometriosis contains endometrial glands and stroma that irritate the surro
 
 <blockquote class=”blockquote”>Endometriosis is composed of glandular tissue surrounded by tissue called stroma. All glandular tissues secrete substances. This substance leaks out into surrounding tissue and can be very irritating. These secretions can destabilize adjacent capillaries, causing them to bleed, which may be part of the pain patients with endometriosis experience. Of course, many endo lesions are not associated with any bleeding at all, so the secretions themselves must have the ability to irritate tiny nerve in the peritoneal lining and the surrounding tissues.
 
-<cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">-Dr. David Redwine</a></cite>
+<cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">-100 Questions and Answers about Endometriosis
+</a></cite>
 
 </blockquote>
 
@@ -64,7 +65,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 <blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Dr Georgina Jones \[BA (Hons), MA, D.Phil]</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-The Impact of Endometriosis Upon Quality of Life: A Qualitative Analysis</a></cite>
 
 </blockquote>
 
@@ -76,7 +77,7 @@ Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-inv
 
 <blockquote class=”blockquote”>It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected – across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
+<cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
 
 </blockquote>
 
@@ -117,13 +118,13 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 ## More Resources
 
 * <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to 
-<a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
+* <a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
 * <a href="https://www.endowhat.com/" target="_blank" rel="noopener noreferrer">EndoWhat?</a> is a film created by endometriosis patient Shannon Cohn to educate and bring more widespread awareness to the disease. It's available for public screening.
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> exists to create access to easily shareable educational infographics designed to spread awareness about endometriosis.
 * <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is a guide of information on endometriosis that was written by several doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on
 endometriosis and the treatment modalities to make informed decisions in their care. 
 
-**Gender Bias in Medicine** 
+## Gender Bias in Medicine
 
 * <a href="http://www.bbc.com/future/story/20180518-the-inequality-in-how-women-are-treated-for-pain" target="_blank" rel="noopener noreferrer">Pain Bias: The Health Inequality Rarely Discussed</a>
 * <a href="https://www.today.com/health/gender-bias-doctor-how-women-s-heart-disease-chronic-pain-t147692?fbclid=IwAR0quy_wnRDEn-rerq6ogup6ZXuTLN-nM-FgvtzD3DVXe7yzyJNyBrkHAWQ" target="_blank" rel="noopener noreferrer">The Invisible Woman? The Challenge at the Doctor's Office Every Woman Needs to Know About</a>
@@ -131,7 +132,7 @@ endometriosis and the treatment modalities to make informed decisions in their c
 * <a href="https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809" target="_blank" rel="noopener noreferrer">Doing Harm</a>
 * <a href="https://www.newstatesman.com/culture/books/2019/11/womens-chronic-illness-pain-conditions-endometriosis-vaginismus-vulvodynia-literature?fbclid=IwAR08U8oU4-dYAbd056AFgIt30Kw8tnofwmoumB34_yoJIDZ6rKxhUfRP4pA" target="_blank" rel="noopener noreferrer"> A Cure of One’s Own: After years of dismissal, a new wave of literature sees women confronting an epidemic of underdiagnosed chronic pain conditions.</a>
 
-**Racial Bias in Medicine**
+## Racial Bias in Medicine
 * <a href="https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html?mc=aud_dev&ad-keywords=AudDevGate&fbclid=IwAR3uMyDx93XMT4tFwZu5JuPmZ9gNpEjCcd_nB8maZH_irGBHQPPSPqN0aEI&dclid=CN7QyL--s-QCFX4B-QAd4TIDaA" target="_blank" rel="noopener noreferrer">Myths About Physical Racial Differences Were Used to Justify Slavery and are Still Believed by Doctors Today</a>
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/30738028?fbclid=IwAR3vKb8p0LDW1XUAMnxmkipInSLpyNnaEJDscsDF5pbzrzMxNVrYq3zFQ4w" target="_blank" rel="noopener noreferrer">Behind The Times: Revisiting Endometriosis and Race</a>
 * <a href="https://www.healthline.com/health/endometriosis/endo-race-matters?fbclid=IwAR2Gf3Db6D_t2O7oBsF4wy1uWZQrhoE6-UIHt5QOcRKUjio_tRMwbS1EBEo#1" target="_blank" rel="noopener noreferrer">I’m Black. I Have Endometriosis — and Here’s Why My Race Matters</a>

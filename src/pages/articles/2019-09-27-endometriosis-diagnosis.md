@@ -8,10 +8,11 @@ tags:
   - endometriosis
   - women's health
   - chronic pain
+  - chronic illness
 ---
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
 
-For an introduction to endometriosis please read the article [Endometriosis 101](/articles/2019-08-21-endometriosis/).
+For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
 
 This Part of my series on Endometriosis. (**tag to TOC**)
 
@@ -35,7 +36,7 @@ Surgery with confirmation of biopsy specimens is the <a href="http://centerforen
 
 <blockquote class="blockquote">First, it is important to note that endometriosis can only be diagnosed surgically and pathologically. This means that for endometriosis to be diagnosed a surgery is required to evaluate for endometriosis. A specimen suspicious for endometriosis will be sent to the pathologist for confirmation.
 
-<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer"></a>-The Center  for Restorative Reproductive Surgery</cite>
+<cite><a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">-The Center  for Restorative Reproductive Surgery</a></cite>
 
 </blockquote>
 
@@ -63,13 +64,13 @@ There has been an increased interest in accepting and treating a clinical diagno
 
 </blockquote>
 
-Unfortunately, big pharma has aligned itself with this movement to promote the use of ineffective hormonal therapy as "treatment". There are proven limitations and risks to using hormonal suppression which will be discussed in 
+Unfortunately, big pharma has aligned itself with this movement to promote the use of ineffective hormonal therapy as "treatment". There are proven limitations and risks to using hormonal suppression which will be discussed in **article**
 [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
 Foregoing a diagnosis and relying on an ineffective medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 
 <blockquote class=”blockquote”>Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">- Karen Ballard, Ph.D.</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">-What's the Delay? A Qualitative Study of Women's Experiences of Reaching a Diagnosis of Endometriosis</a></cite>
 
 </blockquote>
 
@@ -95,7 +96,7 @@ Studies have shown that [Endometriosis Symptoms](/articles/2019-09-22-endometrio
 
 <blockquote class=”blockquote”>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">-Elaine Denny BSc, MA, PhD, RN</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">-Women's Experience of Endometriosis</a></cite>
 
 </blockquote>
 
@@ -103,8 +104,8 @@ The medical neglect and abuse of endometriosis patients must stop. As with any d
 
 <blockquote class=”blockquote”>Patients benefited from a diagnosis, because it provided a language in which to discuss their condition, offered possible management strategies to control symptoms, and provided reassurance that symptoms were not due to cancer. Diagnosis also sanctioned patient’s access to social support and legitimized absences from social and work obligations.  
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">- Karen Ballard, Ph.D.</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">-What's the Delay? A Qualitative Study of Women's Experiences of Reaching a Diagnosis of Endometriosis</a></cite>
 
 </blockquote>
 
-Table of Contents
+**Table of Contents**

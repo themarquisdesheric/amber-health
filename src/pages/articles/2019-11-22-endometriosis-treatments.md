@@ -20,7 +20,7 @@ This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
 <blockquote class="blockquote">There is an urgent need to rethink endometriosis care in order to provide a more comprehensive, patient-focused approach with long-term goals.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal, MD, FACOG, Rethinking endometriosis care: applying the chronic care model via a multidisciplinary program for the care of women with endometriosis</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Rethinking Endometriosis Care: Applying the Chronic Care Model via A Multidisciplinary Program for the Care of Women with Endometriosis</a></cite>
 
 </blockquote>
 
@@ -28,7 +28,7 @@ Currently there is no cure or preventative treatments for endometriosis. There a
 
 <blockquote class="blockquote">The current system’s inability to adequately address endometriosis pain symptoms often results in the emergence of broader functional sequela and psychological impact. The ability to address these broader impacts is crucial and certainly requires a more comprehensive, multidisciplinary approach to care. 
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal, MD, FACOG, Rethinking endometriosis care: applying the chronic care model via a multidisciplinary program for the care of women with endometriosis</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Rethinking Endometriosis Care: Applying the Chronic Care Model via A Multidisciplinary Program for the Care of Women with Endometriosis</a></cite>
 
 </blockquote>
 
@@ -36,7 +36,7 @@ Specialists do agree that <a href="http://centerforendo.com/endometriosis-unders
 
 <blockquote class=”blockquote”>Patients with endometriosis often require individualized care over a long-term period, where priorities may change depending upon the type and severity of symptoms, the impact of these symptoms, current or future fertility goals and lifestyle factors. Individualized care benefits from a multi-disciplinary network of experts sufficiently skilled in providing advice on and treatment of endometriosis and its associated symptoms, based on the best available knowledge, their extensive experience, and their transparent record of success rates.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">-World Endometriosis Society, Consensus on current management of endometriosis.
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">-Consensus on Current Management of Endometriosis
 </a></cite>
 
 </blockquote>
@@ -45,35 +45,40 @@ Receiving long term care from a variety of specialists can become extremely cost
 
 <blockquote class="blockquote"> This (single-provider) model of care for a complex chronic disease without a cure can pose challenges for both patients and care providers. With limited complementary strategies, such as mental health, acupuncture, nutrition, and pelvic physical therapy expertise to comprehensively address the patient’s pain and its consequences, optimal care may not be achieved.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Sanjay Agarwal,  MD, FACOG, Rethinking endometriosis care: applying the chronic care model via a multidisciplinary program for the care of women with endometriosis</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Rethinking Endometriosis Care: Applying the Chronic Care Model via A Multidisciplinary Program for the Care of Women with Endometriosis</a></cite>
 
 </blockquote>
 
- For US patients,  ACOG, The American College of Obstetricians and Gynecologists, defines the standard of care for endometriosis and ultimately influences what treatments insurance companies will cover. Despite recent data points, patient outcry, and a pushback from specialists, <a href="https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA" target="_blank" rel="noopener noreferrer">ACOG’s guidelines </a> remain ineffective and outdated and include palliative hormonal medications and ineffective surgeries such as hysterectomies. If ACOG were to recognize excision surgery and the multidisciplinary care approach, insurance companies would be compelled to provide coverage for treatments. 
+ For US patients, ACOG, The American College of Obstetricians and Gynecologists, defines the standard of care for endometriosis and ultimately influences what treatments insurance companies will cover. Despite recent data points, patient outcry, and a pushback from specialists, <a href="https://rewire.news/article/2018/11/08/too-often-quality-of-life-for-endometriosis-patients-is-dictated-by-their-financial-resources/?fbclid=IwAR3QhTFx0Gt56Q2ZqS_PJTGm7KuHUpVOyLjojMJXhecodYFhanHB5RFmjaA" target="_blank" rel="noopener noreferrer">ACOG’s guidelines </a> remain ineffective and outdated and include palliative hormonal medications and ineffective surgeries such as hysterectomies. If ACOG were to recognize excision surgery and the multidisciplinary care approach, insurance companies would be compelled to provide coverage for treatments. 
 
 <blockquote class="blockquote"> The care patients can get varies massively around the world and within countries, and is often dependent on what they can afford. In the US, insurance companies pay the same amount for any endometriosis surgery, regardless of the method or extent of the disease or the specialization of the doctor.
 
-<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Sarah Boseley, Endometriosis: the hidden suffering of millions of women revealed </a></cite>
+<cite><a href="https://www.theguardian.com/society/2015/sep/28/endometriosis-hidden-suffering-millions-women" target="_blank" rel="noopener noreferrer">-Endometriosis: The Hidden Suffering of Millions of Women Revealed </a></cite>
 
 </blockquote>
 
-All over the world, the quality of care is often defined by what patients can afford. Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. **Add stat here**
+All over the world, the quality of care is often defined by what patients can afford. Unfortunately, the bulk of the burden falls on the patient to pursue these services and to pay for them out of pocket. This can delay care or make it completely impossible to receive treatment. Without adequate treatment the disease will progress and likely become more debilitating over time. 
 
-https://www.ncbi.nlm.nih.gov/pubmed/21718982
-https://www.ncbi.nlm.nih.gov/pubmed/30444220
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859693/
+The burden of cost is two fold for an endometriosis patient: the cost of medical treatments and <a href="https://www.ncbi.nlm.nih.gov/pubmed/30380545" target="_blank" rel="noopener noreferrer">the cost of lost productivity</a>. 
+The available literature and data suggest that endometriosis impairs <a href="https://www.ncbi.nlm.nih.gov/pubmed/21718982" target="_blank" rel="noopener noreferrer">health related quality of life and work productivity</a> and is a <a href="https://www.ncbi.nlm.nih.gov/pubmed/17056043" target="_blank" rel="noopener noreferrer">considerable burden</a> on patients.  
 
-<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centers is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss and is predicted by decreased quality of life.
+<blockquote class="blockquote"> Each affected patient lost on average 10.8 hours of work weekly, mainly owing to reduced effectiveness while working. Loss of work productivity translated into significant costs per patient/week, from US$4 in Nigeria to US$456 in Italy.
 
-<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-Steven Simoens, MSc, PhD, The burden of endometriosis: costs and quality of life of women with endometriosis and treated in referral centres</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/21718982" target="_blank" rel="noopener noreferrer">-Impact of Endometriosis on Quality of Life and Work Productivity: A Multicenter Study Across Ten Countries</a></cite>
 
 </blockquote>
 
 Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 
+<blockquote class="blockquote">The economic burden associated with endometriosis treated in referral centers is high and is similar to other chronic diseases (diabetes, Crohn's disease, rheumatoid arthritis). It arises predominantly from productivity loss and is predicted by decreased quality of life.
+
+<cite><a href="https://academic.oup.com/humrep/article/27/5/1292/700268" target="_blank" rel="noopener noreferrer">-The Burden of Endometriosis: Costs and Quality of Life of Women with Endometriosis and Treated In Referral Centres</a></cite>
+
+</blockquote>
+
 As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the medical community about endometriosis. As described throughout this series on Endometriosis, misinformation and myth has long dictated the approach to treating endometriosis.
 
-The following sections provide a detailed look at the treatments available for endometriosis. 
+The following sections provide a detailed look at each treatment available for endometriosis. 
 
 **Table of Contents for 3 Part Post for Treatments**
 
@@ -107,7 +112,7 @@ Studies have found the complete removal of the entire lesion is necessary for sy
 
 <blockquote class="blockquote">The high rates of recurrence associated with endometriosis surgery in the literature strongly depend on the completeness of disease removal. LAPEX is a well-established yet under-practiced approach, with the goal at the time of surgery to completely respect all disease, restore normal anatomy, and apply measures for adhesion prevention. Data suggest that the surgical objective should be complete eradication; therefore, the surgeon must be prepared to excise all lesions suggestive of endometriosis as well as all atypical tissue, because in most anatomic sites, approximately 50% of atypical specimens prove to be endometriosis.
 
-<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-Ken R. Sinervo, MD, MSC, FRCSC, ACGE, The case for surgery for endometriosis</a></cite>
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-The Case for Surgery for Endometriosis</a></cite>
 
 </blockquote>
 
@@ -152,13 +157,14 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project</a> has a physician's directory, which is a locator tool for excision specialists
 * <a href="http://endometriosis.org/resources/articles/finding-a-specialist/" target="_blank" rel="noopener noreferrer">Endometriosis.org</a> provides some key points on finding a specialist
 * <a href="http://endowest.net/questions-to-ask-your-doctor/" target="_blank" rel="noopener noreferrer">Endo West: Endo and Pelvic Surgery Center</a> has a list of questions to ask your doctor
-* <a href="https://www.endofound.org/preparing-to-see-a-doctor" target="_blank" rel="noopener noreferrer">Endometriosis Foundation of America</a> gives advice on seeking a doctor 
-* <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you screen doctors
-* <a href="https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI" target="_blank" rel="noopener noreferrer">Do You Need That Surgery? How to Decide, and How to Pick a Surgeon if You Do</a> is a helpful NPR article about navigating surgery. 
+* <a href="https://www.endofound.org/preparing-to-see-a-doctor" target="_blank" rel="noopener noreferrer">Endometriosis Foundation of America</a> provides advice on seeking a doctor 
+* <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you select a doctor
+* <a href="https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI" target="_blank" rel="noopener noreferrer">Do You Need That Surgery? How to Decide, and How to Pick a Surgeon if You Do</a> is a helpful NPR article about navigating surgery
 * <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and excision surgeon, Dr. Robert Albee
 * <a href="http://centerforendo.com/drqanda?fbclid=IwAR0Jt5mela3dHpBHkkXn9t6v_MTtZvFOPE9Wel_uA4D7ELZO0fwrHOBq9Jc" target="_blank" rel="noopener noreferrer">What to Ask When Choosing A Doctor for Your Endo Care</a> Center for Endometriosis Care developed this list of questions to ask a your potential doctor before trusting them with your care.
 * <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis excision specialist located in California and Colorado
-* <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis excision specialist located in New York
+* <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis excision specialist located in New York, New York
+* <a href="https://www.lagyndr.com/" target="_blank" rel="noopener noreferrer">Dr. Iris Orbuch, MD</a> is an endometriosis expert and surgeon in Los Angeles California
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> Endo InVisible's mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis
 
 <h3>Hormonal Medications and Oral Contraceptives</h3>
@@ -167,8 +173,7 @@ Many doctors use hormonal medications, like oral contraceptives, as a first line
 
 <blockquote class="blockquote">Medical therapy represents only a symptomatic treatment and not the definitive solution to endometriosis lesions that may persist despite different medications, dosages, and duration of the therapy
 
-<cite><a href="https://journals.sagepub.com/doi/full/10.1177/2284026519841520" target="_blank" rel="noopener noreferrer">-Dr. Federica Di Guardo, Management of women affected by endometriosis: Are we stepping forward?
-</a></cite>
+<cite><a href="https://journals.sagepub.com/doi/full/10.1177/2284026519841520" target="_blank" rel="noopener noreferrer">-Management of Women Affected by Endometriosis: Are We Stepping Forward?</a></cite>
 
 </blockquote>
 
@@ -176,8 +181,7 @@ In theory, hormonal medication is thought to decrease endometriosis tissue activ
 
 <blockquote class="blockquote">All medical therapy, whether administered as first-line treatment or postoperatively, is associated with high rates of disease recurrence.
 
-<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-Ken R. Sinervo, MD, MSC, FRCSC, ACGE, The case for surgery for endometriosis
-</a></cite>
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-The Case for Surgery for Endometriosis</a></cite>
 
 </blockquote>
 
@@ -193,8 +197,7 @@ In <a href="https://www.ncbi.nlm.nih.gov/pubmed/30664383" target="_blank" rel="n
 
 <blockquote class="blockquote">Data indicate that little difference exists in effectiveness of the various analogs, all of which last only while the patient is undergoing treatment, and most of which have negative side effects.
 
-<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-Ken R. Sinervo, MD, MSC, FRCSC, ACGE, The case for surgery for endometriosis
-</a></cite>
+<cite><a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">-The Case for Surgery for Endometriosis</a></cite>
 
 </blockquote>
 
@@ -202,7 +205,7 @@ After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_the
 
 <blockquote class="blockquote">The available literature suggests that Combined Hormonal Contraceptive (CHC) treatment is effective for relief of endometriosis-related dysmenorrhea, pelvic pain, and dyspareunia; however, the supportive data are of low quality. Furthermore, insufficient data exist to reach conclusions about the overall superiority of any given CHC therapy, and the relative benefit in comparison to other approaches. Additional high-quality studies are needed to clarify the role of CHC agents and other treatments in patients with endometriosis-related pain.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/29937152" target="_blank" rel="noopener noreferrer">-Jeffrey T. Jensen M.D., M.P.H., Use of combined hormonal contraceptives for the treatment of endometriosis-related pain: a systematic review of the evidence</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/29937152" target="_blank" rel="noopener noreferrer">-Use of Combined Hormonal Contraceptives for the Treatment of Endometriosis-related Pain: A Systematic Review of the Evidence</a></cite>
 
 </blockquote>
 
@@ -212,7 +215,7 @@ The newest hormonal drug, **Elagolix** (Orilissa), has received <a href="https:/
 
 <blockquote class="blockquote">Evidence was not adequate to determine whether elagolix offers a net health benefit compared to no treatment, or compared to treatment with either a GnRH agonist (leuprorelin acetate) or a hormonal contraceptive (depot medroxyprogesterone), due to limited and mixed evidence on clinical effectiveness and potential risks. Since endometriosis-related symptoms recur after stopping treatment, it remains to be determined whether elagolix is safe or effective for long term use.
 
-<cite><a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">-Institute for Clinical and Economic Review, A Look at Elagolix for Endometriosis</a></cite>
+<cite><a href="https://icer-review.org/wp-content/uploads/2018/08/ICER_Endometriosis_RAAG_080318.pdf" target="_blank" rel="noopener noreferrer">-A Look at Elagolix for Endometriosis</a></cite>
 
 </blockquote>
 
@@ -227,29 +230,31 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a>
 * <a href="https://www.vox.com/the-goods/2019/6/25/18715504/birth-control-side-effects-pill-iud" target="_blank" rel="noopener noreferrer">The Bitter Pill: Why Isn’t Birth Control Better?</a>
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous/dp/0062847090/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
-  " target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a> by Dr. Jolene Brighten
-* <a href="https://www.amazon.com/Period-Repair-Manual-Treatment-Hormones/dp/0648352404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank" rel="noopener noreferrer">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods</a> by Dr. Lara Briden
-* <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a> by Sarah E. Hill, PhD
-* <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a>  by Holly Grigg-Spall
-* <a href="https://www.amazon.com/dp/0062937324?tag=harpercollinsus-20" target="_blank" rel="noopener noreferrer">Fix Your Period: Six Weeks to Banish Bloating, Conquer Cramps, Manage Moodiness, and Ignite Lasting Hormone Balance</a>  by Nicole Jardim
+  " target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a>
+* <a href="https://www.amazon.com/Period-Repair-Manual-Treatment-Hormones/dp/0648352404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank" rel="noopener noreferrer">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods</a>
+* <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a>
+* <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a>
+* <a href="https://www.amazon.com/dp/0062937324?tag=harpercollinsus-20" target="_blank" rel="noopener noreferrer">Fix Your Period: Six Weeks to Banish Bloating, Conquer Cramps, Manage Moodiness, and Ignite Lasting Hormone Balance</a> 
 
 <h3>Complementary and Alternative Therapies</h3>
 
-A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long term outcome in endometriosis management. Often this will include seeking out a variety of doctors and specialists to address wide reaching symptoms. This can include working with gynecologists, nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> include various methods that work on <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
+A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long term outcome in endometriosis management. Often this will include seeking out a variety of doctors and specialists to address wide reaching symptoms. This can include working with gynecologists, nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> include various methods that work on <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. 
 
 <blockquote class="blockquote">The majority of patients with chronic pelvic pain and endometriosis have additional related comorbidities. This preliminary data suggests that a thorough approach that addresses these additional processes that contribute to chronic pelvic pain may be a key factor in maintaining such re-operation rates lower than previously reported for patients with endometriosis.
 
-<cite><a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">-Janette Davison, M.D., Surgical Management of Endometriosis: Reoperation Rates Using Multimodal and Multidisciplinary Management Techniques, An Interim Analysis</a></cite>
+<cite><a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">-Surgical Management of Endometriosis: Reoperation Rates Using Multimodal and Multidisciplinary Management Techniques, An Interim Analysis</a></cite>
 
 </blockquote>
 
-These therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and symptoms.
+Based on the referrals from the core patient-gynecologist team to the various components of Center for Endometriosis Research and Treatment of UC San Diego Health, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">integrative medicine</a> accounted for 43% of the referrals and physical therapy accounted for 11%. Specialists at this center recognize the importance of a multidisciplinary program that reflects the needs and wishes of the patients.  
+
+These therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
 
 * Diet and Nutrition
 * Physical Therapy
 * Acupuncture
 * Yoga
-* Holistic and Integrative Medicine
+* Integrative and Holistic Medicine
 * Chinese Medicine
 * Meditation
 
@@ -259,7 +264,7 @@ Diet and nutrition have become areas of increased interest for potential disease
 
 <blockquote class="blockquote">Dietary modification as a complementary approach and a short-term recourse to reduce the effects of inflammation associated with endometriosis is feasible, practical, and can be monitored under physician supervision. Nevertheless, due in part to the complex nature of the condition and the lack of reliable markers to detect disease initiation, scientific-based data are currently deficient to support the ability of anti-inflammatory foods and food components to prevent endometriosis.
 
-<cite><a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">-Sofia Jade U Saguyod, Diet and endometriosis- revisiting the linkages to inflammation</a></cite>
+<cite><a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">-Diet and Endometriosis: Revisiting the Linkages to Inflammation</a></cite>
 
 </blockquote>
 
@@ -269,17 +274,17 @@ On the other hand, diets rich in <a href="https://www.ncbi.nlm.nih.gov/pmc/artic
 
 <blockquote class="blockquote">The results of this study suggest that increasing long-chain omega-3 fatty acid intake and decreasing trans-unsaturated fatty acid intake may be the first identified modifiable risk factors for endometriosis. In addition, this evidence provides another disease association that supports efforts to remove trans-unsaturated fats from the food supply.
 
-<cite><a href="https://academic.oup.com/humrep/article/25/6/1528/2915756" target="_blank" rel="noopener noreferrer">-Stacey Missmer, ScD, A prospective study of dietary fat consumption and endometriosis risk</a></cite>
+<cite><a href="https://academic.oup.com/humrep/article/25/6/1528/2915756" target="_blank" rel="noopener noreferrer">-A Prospective Study of Dietary Fat Consumption and Endometriosis Risk</a></cite>
 
 </blockquote>
 
 Some researchers believe the origin and progression of endometriosis may be linked to <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">diets that are deficient</a> in necessary nutrients. The resulting changes are thought to promote epigenetic abnormalities that could trigger disease. In turn, diets rich in fruits, vegetables, and whole grains may have an ability to protect against or regress endometriosis. <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">Organic produce</a> is recommended to reduce your exposure to pesticides which can negatively alter hormonal pathways or decrease the antioxidant capacity of the plants. 
 
-Another topic of research  is <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">red meat consumption</a> and its impact on endometriosis risk and progression. A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen and inflammation</a> which contributes to endometriosis growth. Many specialists recommend a mainly plant based diet. If consuming red meat, <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">organic, grass fed</a> beef is recommended in small amounts.
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">Red meat consumption</a> and its impact on endometriosis risk and progression is a topic of research. A commonly referenced <a href="https://www.ajog.org/article/S0002-9378(18)30444-7/abstract" target="_blank" rel="noopener noreferrer">study</a> concluded there was an increased risk of endometriosis associated with a high intake of red meat, such as ham and beef. <a href="https://www.ncbi.nlm.nih.gov/pubmed/15254009?dopt=Abstract" target="_blank" rel="noopener noreferrer">Other studies</a> have also resulted in the same association of risk and increased red meat consumption. However, there exists conflicting data from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/20875189?dopt=Abstract" target="_blank" rel="noopener noreferrer">study</a> that showed no association. Red meat is also thought to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330594/" target="_blank" rel="noopener noreferrer">raise estrogen and inflammation</a> which contributes to endometriosis growth. Many specialists recommend a mainly plant based diet. If consuming red meat, <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">organic, grass fed beef</a> is recommended in small amounts.
 
 <blockquote class="blockquote">Diets deficient in nutrients result in changes in lipid metabolism, oxidative stress and promote epigenetic abnormalities, that may be involved in the genesis and progression of the disease. Foods rich in omega 3 with anti-inflammatory effects, supplementation with N-acetylcysteine, vitamin D and resveratrol, in addition to the increased consumption of fruits, vegetables (preferably organic) and whole grains exert a protective effect, reducing the risk of development and possible regression of disease. Dietary re-education seems to be a promising tool in the prevention and treatment of endometriosis.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/26841161" target="_blank" rel="noopener noreferrer">-Gabriela Halpern, Nutritional aspects related to endometriosis.</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/26841161" target="_blank" rel="noopener noreferrer">-Nutritional Aspects Related to Endometriosis</a></cite>
 
 </blockquote>
 
@@ -289,7 +294,7 @@ Gluten may play a role in endometriosis symptoms and pain. Several studies have 
 
 <blockquote class="blockquote">Nutritional counseling and therapy alongside orthodox medical treatments provides a cost effective method in the reduction of pain and improvements in the quality of life of patients with endometriosis. 
 
-<cite><a href="https://www.fertstert.org/article/S0015-0282(05)01944-8/fulltext" target="_blank" rel="noopener noreferrer">-Dian Shepperson Mills, Nutritional Counseling and Therapy Provides a Cost Effective Method of Improvement in the Pain Scores and the Sense of Well Being in Women With Endometriosis</a></cite>
+<cite><a href="https://www.fertstert.org/article/S0015-0282(05)01944-8/fulltext" target="_blank" rel="noopener noreferrer">-Nutritional Counseling and Therapy Provides a Cost Effective Method of Improvement in the Pain Scores and the Sense of Well Being in Women With Endometriosis</a></cite>
 
 </blockquote>
 
@@ -299,40 +304,39 @@ Each person with endometriosis has individual needs and food triggers. The Elimi
 
 <blockquote class="blockquote">A more detailed understanding on the impact of dietary components and patterns on endometriosis risk is urgently needed to inform the development of population-based strategies to prevent this serious and prevalent gynecological disease.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374872/" target="_blank" rel="noopener noreferrer">-Britton Trabert, Ph.D., M.S., Diet and risk of endometriosis in a population-based case–control study
-</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374872/" target="_blank" rel="noopener noreferrer">-Diet and Risk of Endometriosis in a Population-based Case Control Study</a></cite>
 
 </blockquote>
 
 For more information on diet and endometriosis check out these helpful resources.
 
-* <a href="http://www.endometriosis.co.uk/reducing.html" target="_blank" rel="noopener noreferrer">Dian Shepperson Mills's website</a> 
+* <a href="http://www.endometriosis.co.uk/reducing.html" target="_blank" rel="noopener noreferrer">Dian Shepperson Mills's Website</a> 
 * <a href="https://www.amazon.co.uk/Endometriosis-Healing-Fertility-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">Endometriosis: A Key to Healing And Fertility Through Nutrition</a> 
 * <a href="http://obgyn.slu.edu/uploads/centerforendo/Combined%20Anti-Inflammatory%20and%20Elimination%20Diet%20for%20Adults%20Living%20with%20Endometriosis%20booklet.pdf" target="_blank" rel="noopener noreferrer">Anti-Inflammatory and Elimination Diet Guide</a>
-* <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">Diet and Endometriosis Risk: A literature review</a>
-* <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and Endometriosis- revisiting the linkages to inflammation</a>
+* <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">Diet and Endometriosis Risk: A Literature Review</a>
+* <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and Endometriosis: Revisiting the Linkages to Inflammation</a>
 * <a href="https://endometriosis.net/complementary-alternative-treatment/diet/" target="_blank" rel="noopener noreferrer">Diet Management for Endometriosis</a>
 * <a href="https://www.healthline.com/nutrition/endometriosis-diet-tips" target="_blank" rel="noopener noreferrer">Endometriosis Diet and Tips</a>
 
 **Physical Therapy**
 
-Specialists and researchers agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary treatments, like physical therapy, </a> may help to reduce the patient's pain from endometriosis and provide additional health benefits. Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of <a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction</a>. The specific manual therapy used is thought to deform or cause failure of adhesive crosslink bonds. As a result, pain decreases and visceral and osseous mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
+Specialists and researchers agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary treatments, like physical therapy,</a> may help to reduce the patient's pain from endometriosis and provide additional health benefits. Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of <a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction</a>. The specific manual therapy used is thought to deform or cause failure of adhesive crosslink bonds. As a result, pain decreases and visceral and osseous mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
 
 <blockquote class="blockquote">Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
 
-<cite><a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">-Belinda F. Wurn, PT, Decreasing dyspareunia and dysmenorrhea in women with endometriosis via a manual physical therapy: Results from two independent studies</a></cite>
+<cite><a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">-Decreasing Dyspareunia and Dysmenorrhea in Women with Endometriosis Via a Manual Physical Therapy: Results from Two Independent Studies</a></cite>
 
 </blockquote>
 
 The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder and bowel. When the muscles are too relaxed or too tight, it is called <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">Pelvic Floor Dysfunction, or PFD</a>. PFD is associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
 
-Chronic Pelvic Pain and Interstitial Cystitis or painful bladder syndrome are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
+Chronic Pelvic Pain and Interstitial Cystitis, or painful bladder syndrome, are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. Physical therapy treatments include manual therapy, electrical stimulation modalities, self care education, stress management, and biofeedback. 
 
  While <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">kegel exercises</a> are commonly suggested for strengthening the pelvic floor, they may not be suitable for patients with PFD. During a kegel, the pelvic floor muscles are contracted. In PFD, the pelvic floor muscles may be hypertonic, or too tense, so this would not be appropriate. The most suitable exercises for your particular case are decided after you have been thoroughly evaluated by a physical therapist.
 
 <blockquote class="blockquote">Physical therapy treatment of pelvic pain is an integral component of the multidisciplinary approach to Chronic Pelvic Pain and associated sexual dysfunction.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">-T. Y. Rosenbaum</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">-The Role of Pelvic Floor Physical Therapy in the Treatment of Pelvic and Genital Pain-related Sexual Dysfunction</a></cite>
 
 </blockquote>
 
@@ -355,39 +359,101 @@ A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 <blockquote class="blockquote">Acupuncture may serve as a complement or alternative to these treatments. The pain-alleviating effects of acupuncture have been attributed to various physiological and psychological processes, such as activation of endogenous descending pain inhibitory systems, deactivation of brain areas that transmit pain-related signals, interaction between nociceptive impulses and somato-visceral reflexes, and the expectation of symptom relief.
 
-<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Yang Xu</a></cite>
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">-Effects of Acupuncture for the Treatment of Endometriosis-related Pain: A Systematic Review and Meta-analysis</a></cite>
 
 </blockquote>
 
-For more information on acupuncture for endometriosis and pelvic floor pain or dysfunction.
+Patients have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6332532/" target="_blank" rel="noopener noreferrer">self reported</a> using complementary and alternative therapies, like acupuncture, as an important part of their self management techniques. 
+
+The following resources provide more information on acupuncture for endometriosis and pelvic pain.
 
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> 
-* <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of acupuncture for the treatment of endometriosis-related pain: A systematic review and meta-analysis</a> 
-* <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is acupuncture in addition to conventional medicine effective as pain treatment for endometriosis? A randomized controlled cross-over trial.</a> 
+* <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of Acupuncture for the Treatment of Endometriosis-related Pain: A Systematic Review and Meta-analysis</a> 
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is Acupuncture in Addition to Conventional Medicine Effective as Pain Treatment for Endometriosis? A Randomized Controlled Cross-over Trial</a> 
 
 **Yoga**
 
-Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies, like yoga</a> to successfully manage the pain long term and improve quality of life. There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to <a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life</a> for those with endometriosis.
+Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies, like yoga,</a> to successfully manage the pain long term and improve quality of life. There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to <a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life</a> for those with endometriosis.
 
 Participants of the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">greater knowledge of self, autonomy, and self care</a>. They also reported it was beneficial to control pelvic pain and, in turn they reduced the use of pain and psychiatric medications. Researchers identified bodily and psychosocial mechanisms  that could control pain in patients with endometriosis. For successful pain control,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">mind and body integrative techniques</a> are very important.
 
 <blockquote class="blockquote">Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in quality of life in patients with endometriosis.
 
-<cite><a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">-Andrea Vasconcelos Gonçalves</a></cite>
+<cite><a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">-The Practice of Hatha Yoga for the Treatment of Pain Associated with Endometriosis</a></cite>
 
 </blockquote>
 
-For more information on Yoga and its ability to address endometriosis pain, please explore the resources below.
+For more information on Yoga and its potential ability to address endometriosis pain, please explore the resources below.
 
-* <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: yoga for incontinence and pelvic pain</a>
+* <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: Yoga for Incontinence and Pelvic Pain</a>
 * <a href="https://www.youtube.com/channel/UC-0CzRZeML8zw4pFTVDq65Q" target="_blank" rel="noopener noreferrer">Sarah Beth Yoga</a>
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a>
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a>
 
-**Holistic and Integrative Medicine**
+**Integrative and Holistic Medicine**
 
-These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. This section also offers alternatives to surgery. 
+<a href="https://nccih.nih.gov/health/integrative-health" target="_blank" rel="noopener noreferrer">Integrative medicine</a> is another form of a complementary therapy that may help treat endometriosis and benefit patients. Integrative medicine is defined as a practice of medicine that is holistic in its approach. Holistic means the doctor considers the whole person, including their physical, mental, emotional, and social health when evaluating and treating the patient. Integrative medicine uses both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">conventional and complementary approaches</a> together to provide a patient focused plan. This application of medicine uses a comprehensive approach to disease management, which can benefit an endometriosis patient. 
 
-* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the above section. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
-* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health activist. I've recommended her book in **Endometriosis Book Review**. 
-* <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non surgical holistic approach with support created by an endo patient and Naturopathic Medicine student, Melissa Turner
+Another holistic approach to medicine is <a href="https://nccih.nih.gov/health/naturopathy" target="_blank" rel="noopener noreferrer">naturopathic medicine</a>. Naturopathy uses conventional and alternative treatments, such as herbs, homeopathy and lifestyle changes. There are many recorded naturopathic treatments for endometriosis including <a href="https://www.liebertpub.com/doi/full/10.1089/acm.2018.0305" target="_blank" rel="noopener noreferrer">herbal medicine, mineral medicine, and clinical nutrition</a>. These therapies need to be studied further to determine their efficacy. Herbs and spices that have been shown promise in treating endometriosis symptoms include <a href="https://www.healthline.com/health/herbs-for-endometriosis#herbal-remedies" target="_blank" rel="noopener noreferrer">curcumin, chamomile, peppermint, lavender, and ginger</a>. These plants work in various ways to reduce inflammation, pain, menstrual cramps, and estradiol. 
+
+<blockquote class="blockquote">Many patients choose to try complementary therapies for health benefits. Often, patients may be skeptical of conventional medical or surgical therapies and would rather try, as sole interventions or in combination with more conventional treatments, options such as acupuncture, nutrition and mind-body programs. These interventions, which are included in our program, and are targeted at decreasing inflammation, may reduce pain or make conventional therapies more tolerable. Many patients find that these options improve their pain and quality of life. In our program, integrative medicine has received the largest proportion of our referrals at 43%.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">-Rethinking Endometriosis Care: Applying the Chronic Care Model Via a Multidisciplinary Program for the Care of Women with Endometriosis</a></cite>
+
+</blockquote>
+
+These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. While surgery is an accepted approach, information on non-surgical approaches have also been provided below. 
+
+* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the **Book Review**. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. I've recommended her book in **Endometriosis Book Review** 
+* <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach with support created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner
+* https://peacewithendo.com/
+
+**Chinese Medicine**
+
+Chinese medicine and herbs are also forms of complementary therapies that might be beneficial as treatments for endometriosis related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
+
+One of the primary mechanisms involved in endometriosis is angiogenesis, or the process by which new blood vessels are formed. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Angiogenesis inhibitors</a> have been shown to stop the regression of endometriosis lesions. Chinese herbs show anti-angiogenic effects. Research suggests there may be a therapeutic potential to agents derived from natural compounds and Chinese medicines. Due to the limited amount of research, more studies are needed.
+
+In studies, certain Chinese therapies were not entirely curative of endometriosis and could not eradicate endometriosis lesions. It’s thought that these therapies may be beneficial in modulating the progress of endometriosis by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">suppressing symptoms, shrinking the lesions, and decreasing the recurrence rate</a>. 
+
+<blockquote class="blockquote">Additionally, various studies verified that constituents isolated from plants, for instance, epigallocatechin gallate, curcumin, puerarin, ginsenoside, and resveratrol, can be used to treat endometriosis. Hence, the use of medicinal plants and phytoconstituents of medicinal plants has been regarded as a novel approach for treating endometriosis and maintaining a healthy life. Additional long-term studies are required to support the safety of the constituents of medicinal plants, chiefly concerning the plant-drug interactions and the appropriate dosage. 
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">-Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a></cite>
+
+</blockquote>
+
+**Meditation and Mindfulness**
+
+Practicing <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">meditation and mindfulness</a> may have health benefits that can be useful in managing endometriosis related symptoms. 
+Those with endometriosis often suffer from chronic pain and stress due to living with a chronic illness. This intense burden can lead to depression and anxiety which can be hard to manage. Learning to manage stress and symptoms of depression can result in less distress and physical pain. In research, a positive association between coping, depression levels, type, and levels of stress and pain intensity in patients with endometriosis has been shown.
+ Finding positive coping mechanisms results in a better <a href="https://www.ncbi.nlm.nih.gov/pubmed/28444092" target="_blank" rel="noopener noreferrer">adaptation to stress and less depression</a>. 
+ 
+ Endometriosis patients who used maladaptive coping strategies to cope were found to have an increase in depression and stress. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1093/clipsy.bpg015" target="_blank" rel="noopener noreferrer">Meditation and mindfulness</a> may be a positive coping mechanism option for patients. Mindfulness is a technique used during meditation. It is defined as focusing one's awareness on the present moment, while acknowledging and accepting one's feelings, thoughts, and bodily sensations. Meditation is a practice in which attention and awareness is trained to achieve mental clarity, emotional calm, and a stable state.
+
+ Mindfulness meditation has been shown to <a href="https://www.ncbi.nlm.nih.gov/pubmed/27658913" target="_blank" rel="noopener noreferrer">improve pain and quality of life</a>, as well as, <a href="https://www.ncbi.nlm.nih.gov/pubmed/19045976" target="_blank" rel="noopener noreferrer">reduce depression and anxiety</a>. Meditation may positively affect the immune system in various ways including
+ <a href="https://www.ncbi.nlm.nih.gov/pubmed/26799456" target="_blank" rel="noopener noreferrer">meditation on specific markers of inflammation, cell-mediated immunity, and biological aging</a> but these are only tentative findings. 
+
+Meditation techniques have been shown to increase gray matter density in several areas of the brain which can help <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/" target="_blank" rel="noopener noreferrer">regulate emotions and aid in learning and problem solving</a>. The hippocampus is one of these areas positively affected which may improve function in regulating emotional responses. Other areas of the brain include the posterior cingulate cortex, the left temporo-parietal junction, and the cerebellum. The cerebellum is known to play a role in the regulation of emotion and cognition. It’s thought that the morphological changes to these brain regions may contribute to the benefits of mindfulness meditation. Being equipped with a better ability to emotionally and cognitively process your experience can help in disease management, stress reduction, and less physical pain. 
+
+<blockquote class="blockquote">It has been suggested that in the same way that the cerebellum regulates the rate, force, rhythm, and accuracy of movements, it also regulates the speed, capacity, consistency, and appropriateness of cognitive and emotional processes, i.e., it modulates behavior automatically around a homeostatic baseline. Given the importance that the regulation of emotions and cognition play in healthy psychological functioning, the morphological changes in these regions might contribute to the positive effects of mindfulness meditation on the salutary changes in well-being.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/" target="_blank" rel="noopener noreferrer">-Mindfulness Practice Leads to Increases in Regional Brain Gray Matter Density</a></cite>
+
+</blockquote>
+
+Due to prevalent misinformation, social stigma, and gender bias, endometriosis related symptoms have been incorrectly labeled as hysteria or  as having a psychosomatic origin. Again and again, these antiquated notions are disproven by studies that show the various and complex molecular mechanisms involved in endometriosis. Social, psychological, and emotional changes are seen in those with endometriosis but these are a result of, not the cause of the disease. Such claims are dangerous for patients and can further delay diagnosis and result in ineffective treatment. Combining meditation and mindfulness with medical treatment may address these cognitive and emotional aspects of the disease. 
+
+<blockquote class="blockquote">Nevertheless,  endometriosis is certainly ‘not in your head’ – though a number of sources have indicated over the years that endometriosis is caused by “negative emotions” and various deep-seated psychological components. While there are various social, psychological and emotional aspects to any painful, chronic illness such as endometriosis, these are consequences of the disease – not the cause.The highly offensive contention that endometriosis is a psychological ailment due to one’s internal failings or otherwise rooted in emotions leads only to further delayed diagnosis and ineffective treatment of the disease, and should be denounced wherever such claims appear.
+
+<cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
+
+</blockquote>
+
+For additional information on meditation and mindfulness, explore the following resources.
+
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/27658913" target="_blank" rel="noopener noreferrer">Mindfulness Meditation for Chronic Pain: Systematic Review and Meta-analysis</a>
+* <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a>
+* <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a>
+
+**Cannabis**

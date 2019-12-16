@@ -38,3 +38,8 @@ ctrl + c
 update
 ```
 `update` pulls new code/articles/media from GitHub and the Netlify CMS
+
+```
+amber-health
+```
+`amber-health` takes you to the folder The Chronic lives in on your laptop
