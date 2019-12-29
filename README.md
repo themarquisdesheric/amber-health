@@ -31,6 +31,11 @@ preview
 `preview` runs the website locally so you can inspect changes
 
 ```
+previewDrafts
+```
+`previewDrafts` is the same as preview, but shows drafts as well as completed posts
+
+```
 ctrl + c
 ```
 `ctrl + c` stops anything running in the terminal 🙅‍♀️

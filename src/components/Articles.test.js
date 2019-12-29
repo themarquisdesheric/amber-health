@@ -69,4 +69,14 @@ describe('Articles', () => {
 
     expect(wrapper.find('Article').length).toBe(1);
   });
+
+  test('should render draft posts if GATSBY_SHOW_DRAFTS is truthy', () => {
+    process.env.GATSBY_SHOW_DRAFTS = true;
+
+    mockData.allMarkdownRemark.edges[1].node.frontmatter.draft = true;
+
+    const wrapper = shallow(<Articles data={mockData} />);
+
+    expect(wrapper.find('Article').length).toBe(2);
+  });
 });

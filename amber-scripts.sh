@@ -15,6 +15,7 @@ alias amberHealth="cd ~/Desktop/Code/amber-health"
 alias images="open $IMAGE_DIRECTORY"
 alias articles="code $ARTICLE_DIRECTORY"
 alias preview="npm i && npm run develop"
+alias previewDrafts="GATSBY_SHOW_DRAFTS=true npm run develop"
 alias update="git pull && npm i"
 alias updateScripts="git pull && cp $REPO_DIRECTORY/amber-scripts.sh ~ && source ~/.bash_profile"
 

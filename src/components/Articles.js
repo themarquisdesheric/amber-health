@@ -7,6 +7,11 @@ import Article from './Article';
 
 const completedPost = ({ node }) => !node.frontmatter.draft;
 
+const handleDrafts = posts => 
+  process.env.GATSBY_SHOW_DRAFTS 
+    ? posts 
+    : posts.filter(completedPost);
+
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 // TODO: once topics are ready
 const Topics = () => (
@@ -29,7 +34,7 @@ export const Articles = ({ data }) => {
     <section className="content">
       <Breadcrumbs path="Articles" />
       <div className="flex flex-col items-center">
-        {posts.filter(completedPost).map(({ node: post }) => 
+        {handleDrafts(posts).map(({ node: post }) => 
           <Article post={post} className="article-card max-w-xl" key={post.id} />
         )}
         {/* <Topics /> */}
