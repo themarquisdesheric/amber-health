@@ -5,6 +5,8 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 import Breadcrumbs from './Breadcrumbs';
 import Article from './Article';
 
+const completedPost = ({ node }) => !node.frontmatter.draft;
+
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 // TODO: once topics are ready
 const Topics = () => (
@@ -27,7 +29,7 @@ const Articles = ({ data }) => {
     <section className="content">
       <Breadcrumbs path="Articles" />
       <div className="flex flex-col items-center">
-        {posts.map(({ node: post }) => 
+        {posts.filter(completedPost).map(({ node: post }) => 
           <Article post={post} className="article-card max-w-xl" key={post.id} />
         )}
         {/* <Topics /> */}
@@ -61,6 +63,7 @@ export default () => (
               frontmatter {
                 title
                 description
+                draft
                 templateKey
                 featuredimage {
                   childImageSharp {

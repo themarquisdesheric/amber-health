@@ -10,8 +10,10 @@ tags:
   - book
   - uterus
   - women's health
-  -chronic illness
+  - chronic illness
+draft: false
 ---
+
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
 
 If you'd like to learn more about endometriosis, please visit my **article**, [Endometriosis 101](/articles/2019-08-21-endometriosis/).
