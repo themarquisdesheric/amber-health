@@ -19,15 +19,10 @@ exports[`Article 1`] = `
                 "childImageSharp": Object {
                   "fluid": Object {
                     "aspectRatio": 1.5,
-                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAZmr3F8E4p//xAAbEAACAwADAAAAAAAAAAAAAAABAgADERIhIv/aAAgBAQABBQLVW08RGwF1LwV9Ovr/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/AZpj/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEhMQISIlH/2gAIAQEABj8C1Velki6LJybP/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERMWFBUf/aAAgBAQABPyF6Bl/BN0qJ5BCuFmCXbq8G1QP/2gAMAwEAAgADAAAAEA/f/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBMWH/2gAIAQMBAT8QbLoWz//EABYRAQEBAAAAAAAAAAAAAAAAAAEAUf/aAAgBAgEBPxCB2//EABsQAQADAQADAAAAAAAAAAAAAAEAESExUXGR/9oACAEBAAE/EDPfUFcd+xgUaCi7DIKCtLBOnmCPg8aSl1vZu8F04PRD3I22f//Z",
+                    "base64": "base64",
                     "sizes": "(max-width: 576px) 100vw, 576px",
                     "src": "/static/a162fe840d8c214c93ae37d3e6fc212a/6806c/pom-2.jpg",
-                    "srcSet": "/static/a162fe840d8c214c93ae37d3e6fc212a/d6bcb/pom-2.jpg 144w,
-/static/a162fe840d8c214c93ae37d3e6fc212a/6d0bd/pom-2.jpg 288w,
-/static/a162fe840d8c214c93ae37d3e6fc212a/6806c/pom-2.jpg 576w,
-/static/a162fe840d8c214c93ae37d3e6fc212a/7cd67/pom-2.jpg 864w,
-/static/a162fe840d8c214c93ae37d3e6fc212a/f18b1/pom-2.jpg 1152w,
-/static/a162fe840d8c214c93ae37d3e6fc212a/8c6c5/pom-2.jpg 3000w",
+                    "srcSet": "srcSet",
                   },
                 },
               },

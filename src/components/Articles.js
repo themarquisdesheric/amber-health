@@ -22,9 +22,9 @@ const Topics = () => (
   </div>
 );
 
-const Articles = ({ data }) => {
+export const Articles = ({ data }) => {
   const { edges: posts = [] } = data.allMarkdownRemark;
-
+  
   return (
     <section className="content">
       <Breadcrumbs path="Articles" />

@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Articles should match snapshot 1`] = `
+<section
+  className="content"
+>
+  <Breadcrumbs
+    path="Articles"
+  />
+  <div
+    className="flex flex-col items-center"
+  >
+    <Article
+      className="article-card max-w-xl"
+      key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
+      post={
+        Object {
+          "fields": Object {
+            "slug": "/articles/2019-09-27-endometriosis-diagnosis/",
+          },
+          "frontmatter": Object {
+            "description": "Learn how endometriosis is diagnosed",
+            "draft": false,
+            "featuredimage": Object {
+              "childImageSharp": Object {
+                "fluid": Object {
+                  "aspectRatio": 1.5,
+                  "base64": "base64",
+                  "sizes": "(max-width: 576px) 100vw, 576px",
+                  "src": "/static/a162fe840d8c214c93ae37d3e6fc212a/6806c/pom-2.jpg",
+                  "srcSet": "srcSet",
+                },
+              },
+            },
+            "templateKey": "article",
+            "title": "Endometriosis Diagnosis",
+          },
+          "id": "a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10",
+        }
+      }
+    />
+    <Article
+      className="article-card max-w-xl"
+      key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
+      post={
+        Object {
+          "fields": Object {
+            "slug": "/articles/2019-09-27-endometriosis-diagnosis/",
+          },
+          "frontmatter": Object {
+            "description": "Learn how endometriosis is diagnosed",
+            "draft": false,
+            "featuredimage": Object {
+              "childImageSharp": Object {
+                "fluid": Object {
+                  "aspectRatio": 1.5,
+                  "base64": "base64",
+                  "sizes": "(max-width: 576px) 100vw, 576px",
+                  "src": "/static/a162fe840d8c214c93ae37d3e6fc212a/6806c/pom-2.jpg",
+                  "srcSet": "srcSet",
+                },
+              },
+            },
+            "templateKey": "article",
+            "title": "Endometriosis Diagnosis",
+          },
+          "id": "a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10",
+        }
+      }
+    />
+  </div>
+</section>
+`;
