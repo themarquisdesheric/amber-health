@@ -87,7 +87,7 @@ function createArticle() {
     images
   fi
 
-  echo -e "featuredimage: /img/$FEATURED_IMAGE\ntags:\n  - MAKE\n  - THESE\n  - TAGS\n--- \ndraft: true \n" >> $FILE_PATH
+  echo -e "featuredimage: /img/$FEATURED_IMAGE\ntags:\n  - MAKE\n  - THESE\n  - TAGS\ndraft: true \n--- \n" >> $FILE_PATH
 
   code $FILE_PATH
 }
