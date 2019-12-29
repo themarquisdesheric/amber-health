@@ -161,10 +161,11 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * <a href="https://endogirlblog.com/surgeonquestions/" target="_blank" rel="noopener noreferrer">Must Ask Questions for Your Surgeon</a> from Endo Girls Blog can help you select a doctor
 * <a href="https://www.npr.org/sections/health-shots/2019/07/19/743248074/do-you-need-that-surgery-how-to-decide-and-how-to-pick-a-surgeon-if-you-do?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR0i6SWlxW_fZLKU8UKYcJJkO99k1ULfYxI-2tQzXQiKa-xYL_3WcT6jqkI" target="_blank" rel="noopener noreferrer">Do You Need That Surgery? How to Decide, and How to Pick a Surgeon if You Do</a> is a helpful NPR article about navigating surgery
 * <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is among the very first endometriosis specialty centers of expertise, founded by a surgical pioneer and excision surgeon, Dr. Robert Albee
-* <a href="http://centerforendo.com/drqanda?fbclid=IwAR0Jt5mela3dHpBHkkXn9t6v_MTtZvFOPE9Wel_uA4D7ELZO0fwrHOBq9Jc" target="_blank" rel="noopener noreferrer">What to Ask When Choosing A Doctor for Your Endo Care</a> Center for Endometriosis Care developed this list of questions to ask a your potential doctor before trusting them with your care.
+* <a href="http://centerforendo.com/drqanda?fbclid=IwAR0Jt5mela3dHpBHkkXn9t6v_MTtZvFOPE9Wel_uA4D7ELZO0fwrHOBq9Jc" target="_blank" rel="noopener noreferrer">What to Ask When Choosing A Doctor for Your Endo Care</a> is list of questions to ask a your potential doctor before trusting them with your care developed by Center for Endometriosis Care.
 * <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis excision specialist located in California and Colorado
 * <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis excision specialist located in New York, New York
 * <a href="https://www.lagyndr.com/" target="_blank" rel="noopener noreferrer">Dr. Iris Orbuch, MD</a> is an endometriosis expert and surgeon in Los Angeles California
+* <a href="https://www.mdedge.com/podcasts/SGS-unscrubbed" target="_blank" rel="noopener noreferrer">Gynecologic Surgeons Unscrubbed</a> is a series-based podcast developed in collaboration with the Society of Gynecologic Surgeons focusing on surgical and medical education, hosted by Cara King, DO, MS.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> Endo InVisible's mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis
 
 <h3>Hormonal Medications and Oral Contraceptives</h3>
@@ -229,6 +230,7 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a>
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a>
 * <a href="https://www.vox.com/the-goods/2019/6/25/18715504/birth-control-side-effects-pill-iud" target="_blank" rel="noopener noreferrer">The Bitter Pill: Why Isn’t Birth Control Better?</a>
+* <a href="https://www.thelily.com/hormonal-birth-control-is-a-guessing-game-youre-not-making-up-the-side-effects/?fbclid=IwAR1NixvptPNndIbSwSFpNtKAbM_QpKhTWKVLvkbPfOuY3L6yMH2YmqveTR0&wpisrc=nl_lily&wpmm=1" target="_blank" rel="noopener noreferrer">Hormonal Birth Control Is A ‘Guessing Game.’ You’re Not Making Up The Side Effects.</a>
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous/dp/0062847090/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
   " target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a>
 * <a href="https://www.amazon.com/Period-Repair-Manual-Treatment-Hormones/dp/0648352404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank" rel="noopener noreferrer">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods</a>
@@ -238,7 +240,7 @@ For more information on hormonal medications and hormonal health, please explore
 
 <h3>Complementary and Alternative Therapies</h3>
 
-A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long term outcome in endometriosis management. Often this will include seeking out a variety of doctors and specialists to address wide reaching symptoms. This can include working with gynecologists, nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> include various methods that work on <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. 
+A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long term outcome in endometriosis management. Often this will include seeking out a variety of doctors and specialists to address wide reaching symptoms. This can include working with gynecologists, nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary and alternative therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> include various methods that work on <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. 
 
 <blockquote class="blockquote">The majority of patients with chronic pelvic pain and endometriosis have additional related comorbidities. This preliminary data suggests that a thorough approach that addresses these additional processes that contribute to chronic pelvic pain may be a key factor in maintaining such re-operation rates lower than previously reported for patients with endometriosis.
 
@@ -248,7 +250,15 @@ A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZ
 
 Based on the referrals from the core patient-gynecologist team to the various components of Center for Endometriosis Research and Treatment of UC San Diego Health, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">integrative medicine</a> accounted for 43% of the referrals and physical therapy accounted for 11%. Specialists at this center recognize the importance of a multidisciplinary program that reflects the needs and wishes of the patients.  
 
-These therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
+Using complementary and alternative medicine allows patients to make informed decisions about their health and to manage their chronic illness. Research has found chronically ill patients practice complementary and alternative medicines as a personal responsibility for their health and as <a href="https://www.ncbi.nlm.nih.gov/pubmed/12231024?dopt=Abstract" target="_blank" rel="noopener noreferrer">a critical aspect of self care management</a>. Patients with endometriosis have turned to self management due to frustration at the lack of effective medical treatments. Self management may help patients with endometriosis <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">feel empowered and have a sense of agency</a>.
+
+<blockquote class="blockquote">The findings confirm that complementary and alternative medicine use can be understood as a critical component of self-care management in general, and not as a rejection of conventional medicine or an unrealistic search for cure. In contrast, it represents personal responsibility for health, reframing the measures by which therapeutics are evaluated, and adopting a pragmatic approach to living as well as possible in the context of a chronic condition.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/12231024?dopt=Abstract" target="_blank" rel="noopener noreferrer">-Complementary/Alternative Medicine in Chronic Illness as Informed Self-care Decision Making</a></cite>
+
+</blockquote>
+
+These complementary and alternative therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. This is not an exhaustive list of therapies. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone.
 
 * Diet and Nutrition
 * Physical Therapy
@@ -370,6 +380,7 @@ The following resources provide more information on acupuncture for endometriosi
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> 
 * <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of Acupuncture for the Treatment of Endometriosis-related Pain: A Systematic Review and Meta-analysis</a> 
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is Acupuncture in Addition to Conventional Medicine Effective as Pain Treatment for Endometriosis? A Randomized Controlled Cross-over Trial</a> 
+* <a href="https://www.ncbi.nlm.nih.gov/pubmed/27242909?dopt=Abstract" target="_blank" rel="noopener noreferrer">More Than Needles: The Importance of Explanations and Self-Care Advice in Treating Primary Dysmenorrhea with Acupuncture</a>
 
 **Yoga**
 
@@ -404,10 +415,11 @@ Another holistic approach to medicine is <a href="https://nccih.nih.gov/health/n
 
 These resources provide insight on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. While surgery is an accepted approach, information on non-surgical approaches have also been provided below. 
 
-* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and a women's health expert. I've recommended her book in the **Book Review**. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily information and advice. 
-* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. I've recommended her book in **Endometriosis Book Review** 
-* <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach with support created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner
-* https://peacewithendo.com/
+* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> 
+* <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten's IG</a>
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a>
+* <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a>
+* <a href="https://peacewithendo.com/" target="_blank" rel="noopener noreferrer">Peace with Endo</a>
 
 **Chinese Medicine**
 
@@ -422,6 +434,8 @@ In studies, certain Chinese therapies were not entirely curative of endometriosi
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">-Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a></cite>
 
 </blockquote>
+
+**add links??**
 
 **Meditation and Mindfulness**
 
@@ -457,3 +471,53 @@ For additional information on meditation and mindfulness, explore the following 
 * <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a>
 
 **Cannabis**
+
+<blockquote class="blockquote">The use of self-management strategies, especially non-pharmacological practices, in chronic illnesses is common. Patients with endometriosis often feel frustrated at the lack of effective medical treatments and therefore turn to self-management as one of the coping strategies to manage their condition. Patients with endometriosis often feel disempowered, and self-management strategies may help them feel a sense of agency and empowerment.
+
+<cite><a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">-Self-management Strategies Amongst Australian Women with Endometriosis: A National Online Survey</a></cite>
+
+</blockquote>
+ 
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25769875?dopt=Abstract" target="_blank" rel="noopener noreferrer">Self management techniques</a> are commonly used by endometriosis patients and they can play a key role in endometriosis care. Self management can be self-care and lifestyle choices that mitigate symptoms, reduce stress and pain, manage side effects from medications, or treat endometriosis. A popular self management strategy is <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">cannabis</a>.
+
+Cannabis is a flowering plant that is harvested for various uses including potential medicinal applications. Parts of the cannabis plant have psychoactive, or mind altering properties. This includes the flowers which are also known as marijiuna. Derivatives of the cannabis plant are hemp and CBD oil which do not have psychoactive properties. 
+
+ Patients with endometriosis self report that cannabis use is an important and beneficial treatment. Cannabis was the <a href="https://www.jogc.com/article/S1701-2163(19)30808-4/fulltext" target="_blank" rel="noopener noreferrer"> most highly rated in terms of effectiveness in pain reduction</a> of all the strategies assessed. Cannabis was also reported to result in the greatest reduction in medication usage. Due to the pain reduction, 56% of patients reported that they were able to reduce their pharmaceutical medication by at least half. An additional 27% of patients were able to reduce medications usage by 25-50%. 
+
+ <blockquote class="blockquote">When patients were asked about the effect self-management had on their need for medications needed to manage their endometriosis symptoms, the most effective was cannabis. Fifty six percent of cannabis users reported being able to reduce their endometriosis related medication by more than 50% and another 27% percent of users reported being able to reduce medication by 25–50%.
+
+<cite><a href="https://www.jogc.com/article/S1701-2163(19)30808-4/fulltext" target="_blank" rel="noopener noreferrer">-Cannabis Use, A Self-Management Strategy Among Australian Women With Endometriosis: Results From A National Online Survey</a></cite>
+
+</blockquote>
+
+The greatest improvements from cannabis were reported in sleep and nausea and vomiting. Few adverse effects were reported and the ones reported were minor. Side effects were reported by one in ten cannabis users, which included anxiety, drowsiness, and fast heart rate.
+
+Hemp and CBD Oil were also rated highly in terms of effectiveness in pain reduction. A third of CBD or hemp oil users reported being able to reduce their endometriosis related medication by 50% or more. This survey highlights the potential efficacy but further clinical research is needed to determine the effectiveness of cannabis in managing endometriosis symptoms.
+
+<a href="https://theconversation.com/1-in-10-women-with-endometriosis-report-using-cannabis-to-ease-their-pain-126516" target="_blank" rel="noopener noreferrer">The endocannabinoid system</a> is responsible for mediating the psychoactive effects of cannabis as well as many physiological processes including pain sensation. The endocannabinoid system is a regulatory system that includes cannabinoid receptors, ligands, and enzymes which are located throughout the body. They are the most prevalent in the immune system, central nervous system, and the female reproductive system. 
+
+The endocannabinoid system interacts with mechanisms that play <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436335/" target="_blank" rel="noopener noreferrer">an important role in endometriosis-associated pain</a> and in the establishment of the disease, its maintenance, and recurrence. It also contributes to mechanisms underlying the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2972363/" target="_blank" rel="noopener noreferrer">peripheral innervation of the abnormal growths</a>. Studies suggest that approaches targeted at the endocannabinoid system may serve as a promising new method for treating endometriosis related pain. 
+
+<blockquote class="blockquote">The endocannabinoid system has emerged recently as an important factor in endometriosis development, maintenance, and pain mechanisms. These new revelations suggest that the endocannabinoid system may potentially serve as a pharmacological target for endometriosis treatments, including pain management, and have a role in immune intervention and antiproliferative and antifibrotic effects.
+
+<cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436335/" target="_blank" rel="noopener noreferrer">-The Clinical Significance of Endocannabinoids in Endometriosis Pain Management</a></cite>
+
+</blockquote>
+
+Several studies have described endometriosis as an
+ <a href="https://www.ncbi.nlm.nih.gov/pubmed/15159679/" target="_blank" rel="noopener noreferrer">endocannabinoid deficiency condition</a>. The growth of endometriosis tissue and more severe pain are potentially related to reduced endocannabinoid function. Patients with endometriosis have been found to have lower levels of certain endocannabinoid receptors in their endometrial tissue.
+
+Various interactions between the endocannabinoid system and pain associated mechanisms in endometriosis patients occur. These include involvement of neuropathic and inflammatory pain, changes in central and peripheral neural system, and the expression of cannabinoid receptors. Modulating the endocannabinoid system appears to be a beneficial therapy for addressing these various components and reducing pain. Cannabis may relieve endometriosis related pain by interacting with the endocannabinoid system with its chemicals, including <a href="http://theconversation.com/1-in-10-women-with-endometriosis-report-using-cannabis-to-ease-their-pain-126516" target="_blank" rel="noopener noreferrer">tetrahydrocannabinol (THC) and cannabidiol (CBD)</a>. More studies are needed to further our knowledge on the endocannabiniod system and to learn more about the potential side effects of cannabis for endometriosis treatment. 
+
+The following resources provide more information on cannabis use for endometriosis.
+
+* <a href="https://www.forbes.com/sites/javierhasse/2019/12/04/lara-parker/#16937b1561e2" target="_blank" rel="noopener noreferrer">Weed And Vagina Problems: The Story Of Lara Parker, Cannabis And Endometriosis Activist</a>
+* <a href="https://www.instagram.com/laraeparker/?hl=en" target="_blank" rel="noopener noreferrer">Lara Parker's IG</a>
+* <a href="https://drjess.com/new-breakthrough-endometriosis-cannabis/" target="_blank" rel="noopener noreferrer">The New Breakthrough for Endometriosis: Cannabis?</a>
+* <a href="http://theconversation.com/1-in-10-women-with-endometriosis-report-using-cannabis-to-ease-their-pain-126516" target="_blank" rel="noopener noreferrer">1 in 10 Women with Endometriosis Report Using Cannabis to Ease Their Pain</a>
+* <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">Self-management Strategies Amongst Australian Women with Endometriosis: A National Online Survey</a>
+
+**Table of Contents** 
+
+
+
