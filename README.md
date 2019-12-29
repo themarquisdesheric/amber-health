@@ -5,55 +5,27 @@ A platform to spread knowledge and awareness of chronic conditions like endometr
 ---
 
 ## Scripts
-```
-createArticle
-``` 
-`createArticle` generates a new markdown Article. It will ask you for some metadata like the article title, description, and a featured image. 
 
-```
-publish
-```
-`publish` commits your changes to GitHub, makes sure you're up-to-date with GitHub, and then publishes your changes. It will ask you for a short commit message and tell you if something went wrong ✨
+- `createArticle` generates a new markdown Article. It will ask you for some metadata like the article title, description, and a featured image ✨
 
-```
-images
-```
-`images` opens the images directory in Finder
+- `preview` runs the site locally so you can inspect changes before publishing 👁️
 
-```
-articles
-```
-`articles` opens the articles directory in VScode
+- `previewDrafts` is the same as preview, but shows drafts as well as completed posts 👀
 
-```
-preview
-```
-`preview` runs the website locally so you can inspect changes
+- `publish` commits your changes, makes sure you're up-to-date with GitHub, and then publishes your changes to GitHub and the world. It will ask you for a short commit message and tell you if something went wrong 🌎
 
-```
-previewDrafts
-```
-`previewDrafts` is the same as preview, but shows drafts as well as completed posts
+- `update` refreshes your laptop with new code/articles/media from GitHub and the Netlify CMS 🧙
 
-```
-ctrl + c
-```
-`ctrl + c` stops anything running in the terminal 🙅‍♀️
+- `updateScripts` does just that 🧙‍♂️
 
-```
-update
-```
-`update` pulls new code/articles/media from GitHub and the Netlify CMS
+- `ctrl + c` stops anything running in the terminal 🙅‍♀️
 
-```
-amberHealth
-```
-`amberHealth` takes you to the folder The Chronic lives in on your laptop
-```
-updateScripts
-```
-`updateScripts` does just that 🧙
+### Other Scripts
 
----
+- `images` opens the images directory in Finder
+
+- `articles` opens the articles directory in VScode
+
+- `amberHealth` takes you to the folder The Chronic lives in on your laptop
 
 Code for the aforementioned bash scripts can be found in `amber-scripts.sh`
