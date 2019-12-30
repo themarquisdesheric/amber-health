@@ -11,13 +11,13 @@ WHITE_COLOR="\n\033[00m"
 
 # aliases
 
-alias amberHealth="cd ~/Desktop/Code/amber-health"
+alias amberHealth="cd $REPO_DIRECTORY"
 alias images="open $IMAGE_DIRECTORY"
 alias articles="code $ARTICLE_DIRECTORY"
-alias preview="npm i && npm run develop"
+alias preview="amberHealth && npm run develop"
 alias previewDrafts="GATSBY_SHOW_DRAFTS=true npm run develop"
-alias update="git pull && npm i"
-alias updateScripts="git pull && cp $REPO_DIRECTORY/amber-scripts.sh ~ && source ~/.bash_profile"
+alias update="amberHealth && git pull && npm i"
+alias updateScripts="amberHealth && git pull && cp amber-scripts.sh ~ && source ~/.bash_profile"
 
 # functions
 
@@ -87,7 +87,7 @@ function createArticle() {
     images
   fi
 
-  echo -e "featuredimage: /img/$FEATURED_IMAGE\ntags:\n  - MAKE\n  - THESE\n  - TAGS\n--- \ndraft: true \n" >> $FILE_PATH
+  echo -e "featuredimage: /img/$FEATURED_IMAGE\ntags:\n  - MAKE\n  - THESE\n  - TAGS\ndraft: true \n--- \n" >> $FILE_PATH
 
   code $FILE_PATH
 }
