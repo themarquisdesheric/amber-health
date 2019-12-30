@@ -7,8 +7,8 @@ import Article from './Article';
 
 const completedPost = ({ node }) => !node.frontmatter.draft;
 
-const handleDrafts = posts => 
-  process.env.GATSBY_SHOW_DRAFTS 
+const handleDrafts = posts =>
+  (process.env.GATSBY_SHOW_DRAFTS === 'true') 
     ? posts 
     : posts.filter(completedPost);
 

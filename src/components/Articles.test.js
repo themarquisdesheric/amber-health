@@ -71,7 +71,7 @@ describe('Articles', () => {
   });
 
   test('should render draft posts if GATSBY_SHOW_DRAFTS is truthy', () => {
-    process.env.GATSBY_SHOW_DRAFTS = true;
+    process.env.GATSBY_SHOW_DRAFTS = 'true';
 
     mockData.allMarkdownRemark.edges[1].node.frontmatter.draft = true;
 
