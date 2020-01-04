@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPO_DIRECTORY="$HOME/Desktop/Code/amber-health"
-IMAGE_DIRECTORY="$REPO_DIRECTORY/public/img"
+IMAGE_DIRECTORY="$REPO_DIRECTORY/static/img"
 ARTICLE_DIRECTORY="$REPO_DIRECTORY/src/pages/articles"
 
 GREEN_COLOR="\n\033[32m"
