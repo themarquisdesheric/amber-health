@@ -4,7 +4,7 @@
 
 @tailwind utilities;
 
-/* still trying to figure out why the below styles won't work in styles.sass */
+/* still trying to figure out why the below styles won't work in styles.scss */
 blockquote,
 blockquote p {
   color: #fff;
