@@ -17,7 +17,7 @@ draft: false
 
 <h2>What are the Symptoms?</h2>
 
-All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
+All too commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
 
 * Pain with Menstruation
 * Pelvic Pain

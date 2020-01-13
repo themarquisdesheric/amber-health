@@ -15,11 +15,9 @@ tags:
 draft: false
 --- 
 
-<h2>Resources for Endometriosis</h2>
-
 These are trusted informational resources that explain the disease, possible causes, diagnostic methods, and treatment options available for endometriosis. Most of these sites are dedicated to disease awareness, furthering research, empowering patients, and promoting advocacy. Many of these resources are cited or listed throughout the series. Unfortunately, some of these sources do not use inclusive language and rely on gendered language when discussing the disease. This is not an exhaustive list of websites, specialists, or articles on endometriosis. 
 
-<h3>Learn More</h3>
+<h2>Learn More</h2>
 
 * <a href="http://endopaedia.info/index.html" target="_blank" rel="noopener noreferrer">Endopaedia</a> is a highly accurate and informative resource that was founded by Dr. David B. Redwine, M.D., a leading endometriosis excision specialist and researcher.
 * <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is a clinic opened by endo specialists that's dedicated to awareness and research. Their site is an accurate and informative resource for disease definition, symptoms, treatments, and additional information in their content library.
@@ -185,5 +183,3 @@ For more information on possible comorbidities and how these conditions overlap 
 
 * IC
 * PFD
-
-**Table of Contents**

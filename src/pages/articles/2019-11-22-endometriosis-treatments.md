@@ -476,7 +476,7 @@ For additional information on meditation and mindfulness, explore the following 
 
 </blockquote>
  
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25769875?dopt=Abstract" target="_blank" rel="noopener noreferrer">Self management techniques</a> are commonly used by endometriosis patients and they can play a key role in endometriosis care. Self management can be self-care and lifestyle choices that mitigate symptoms, reduce stress and pain, manage side effects from medications, or treat endometriosis. A popular self management strategy is <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">cannabis</a>.
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/25769875?dopt=Abstract" target="_blank" rel="noopener noreferrer">Self management techniques</a> are commonly used by endometriosis patients and they can play a key role in endometriosis care. Self management can be self-care and lifestyle choices that mitigate symptoms, reduce stress and pain, manage side effects from medications, or treat endometriosis. A popular self management strategy is <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">cannabis</a>.</p>
 
 Cannabis is a flowering plant that is harvested for various uses including potential medicinal applications. Parts of the cannabis plant have psychoactive, or mind altering properties. This includes the flowers which are also known as marijiuna. Derivatives of the cannabis plant are hemp and CBD oil which do not have psychoactive properties. 
 

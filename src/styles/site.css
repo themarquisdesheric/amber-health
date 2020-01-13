@@ -1,10 +1,55 @@
 @tailwind base;
 
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  @apply text-2xl;
+}
+
+h3 {
+  @apply text-xl;
+}
+
 @tailwind components;
 
 @tailwind utilities;
 
-/* still trying to figure out why the below styles won't work in styles.scss */
+h1,
+h2,
+h3 { 
+  line-height: 1;
+  text-align: center;
+  font-weight: 600;
+}
+
+h2, 
+h3 {
+  margin: 1rem 0;
+}
+
+h2 + p,
+h3 + p {
+  margin-top: 1rem;
+}
+
+p + h2,
+p + h3 {
+  margin-top: 2rem;
+}
+
+h2 + blockquote,
+h3 + blockquote,
+p + blockquote {
+  margin-top: 1rem;
+}
+
+/* 
+  still trying to figure out why the below styles won't work in styles.scss
+  normalize is loaded via the @tailwind base above, so styles afterwards override it
+  however, if styles.scss is loaded after this site.css file, normalize still wins
+*/
 blockquote,
 blockquote p {
   color: #fff;
@@ -14,7 +59,7 @@ blockquote {
   position: relative;
   background: rgba(179, 86, 75, 0.5);
   border-radius: .5rem;
-  margin: 3rem 0;
+  margin: 2rem 0;
   padding: 6rem 1rem 1rem;
 }
 
@@ -44,7 +89,7 @@ blockquote::before {
 
 @media all and (min-width: 425px) {
   blockquote {
-    margin: 3rem 1rem;   
+    margin: 2rem 1rem;   
   }
 }
 

@@ -14,10 +14,6 @@ body  {
   font-family: "Lato", sans-serif;
 }
 
-h1,
-h2,
-h3 { line-height: 1; }
-
 p { color: $gray-text; }
 
 // HEADER
@@ -58,9 +54,7 @@ p { color: $gray-text; }
     color: $white;
   }
 
-  h1 { font-size: 2rem; }
-    
-  p { margin-bottom: 1rem; }
+  p:not(.mb-12) { margin-bottom: 1rem; }
 
   h1 + p {
     position: relative;
@@ -81,13 +75,12 @@ p { color: $gray-text; }
 
   ul:not(.tags),
   ol {
-    padding-left: 1rem;
     margin: 1rem 0;
   }
 
   li:not(.tag) {
     padding-left: 1.5rem;
-    padding-bottom: 1rem;
+    margin-bottom: 1rem;
     position: relative;
   }
 
@@ -96,23 +89,16 @@ p { color: $gray-text; }
   h3 + ul { margin-top: 0; }
 }
 
+.series + .article-content > p:first-child {
+  margin-top: 1rem;
+}
+
 .article-content {
   max-width: 35em;
   text-align: justify;
   hyphens: auto;
 
-  h2,
-  h3 {
-    font-weight: 600;
-    padding: 1rem 0;
-    width: 100%;
-  }
-
-  h2 { font-size: 1.5rem; }
-  
-  h3 { font-size: 1.25rem; }
-
-  > p:first-child::first-letter {
+  > p:first-of-type::first-letter {
     font-family: $averia-font;
     font-size: 3rem;
     font-weight: 700;
