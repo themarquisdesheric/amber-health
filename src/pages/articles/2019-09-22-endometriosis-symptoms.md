@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis Symptoms
 date: 2019-09-22T17:33:31.873Z
 description: 'Learn about the symptoms of endometriosis '
-featuredimage: /img/pom-2.jpg
+featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '2'
 seriesLink: '/articles/2019-08-21-endometriosis/'

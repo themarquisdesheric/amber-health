@@ -71,7 +71,7 @@ export default () => (
                 description
                 draft
                 templateKey
-                featuredimage {
+                featuredImage {
                   childImageSharp {
                     fluid(maxWidth: 576, quality: 100) {
                       ...GatsbyImageSharpFluid

@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis Books
 date: 2019-09-17T17:16:56.763Z
 description: 'A Guide to Endometriosis Books with Reviews'
-featuredimage: /img/sonjiawpom-2.jpg
+featuredImage: /img/sonjiawpom-2.jpg
 series: 'Endometriosis'
 seriesNumber: 'NUMBER'
 seriesLink: '/articles/2019-08-21-endometriosis/'

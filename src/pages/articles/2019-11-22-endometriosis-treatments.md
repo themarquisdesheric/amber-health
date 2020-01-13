@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis Treatments
 date: 2019-11-22T22:50:24.432Z
 description: 'Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management'
-featuredimage: /img/sonjiawpom-1.jpg
+featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
 seriesNumber: '4'
 seriesLink: '/articles/2019-08-21-endometriosis/'

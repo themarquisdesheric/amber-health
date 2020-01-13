@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis 101
 date: 2016-12-17T15:04:10.000Z
 description: What to learn when you’re first diagnosed with endometriosis
-featuredimage: /img/pom-2.jpg
+featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '1'
 seriesLink: '/articles/2019-08-21-endometriosis/'

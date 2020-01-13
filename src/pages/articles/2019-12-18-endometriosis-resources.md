@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis Resources
 date: 2019-12-18
 description: This article provides a variety of endometriosis resources, including support groups, excision specialists, articles in the media, and information on inclusive care.
-featuredimage: /img/sonjiawpom-1.jpg
+featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
 seriesNumber: 'NUMBER'
 seriesLink: '/articles/2019-08-21-endometriosis/'
