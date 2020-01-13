@@ -2,8 +2,11 @@
 templateKey: article
 title: Endometriosis Books
 date: 2019-09-17T17:16:56.763Z
-description: 'A Guide to Endometriosis Books with Reviews '
+description: 'A Guide to Endometriosis Books with Reviews'
 featuredimage: /img/sonjiawpom-2.jpg
+series: 'Endometriosis'
+seriesNumber: 'NUMBER'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - book review
@@ -14,17 +17,7 @@ tags:
 draft: false
 ---
 
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
-
-If you'd like to learn more about endometriosis, please visit my **article**, [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This Part of my series, **Endometriosis** (tag to bottom table of contents)
-
-<h2>Books for Endometriosis</h2>
-
 This collection of books covers an array of topics on endometriosis, including diet and nutrition, surgery, disease management, holistic wellness, treatment options, and much more. I've organized the titles according to their main focus but often there is an overlap in topics. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. Unfortunately, many of these titles do not use inclusive language. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access many of these books for free. 
-
-<h2>Books by Topic</h2>
 
 <h3>Disease Overview</h3>
 

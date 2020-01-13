@@ -4,6 +4,9 @@ title: Endometriosis 101
 date: 2016-12-17T15:04:10.000Z
 description: What to learn when you’re first diagnosed with endometriosis
 featuredimage: /img/pom-2.jpg
+series: 'Endometriosis'
+seriesNumber: '1'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - women's health
@@ -11,10 +14,6 @@ tags:
   - chronic illness
 draft: false
 ---
-
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information, and resources to patients and their caregivers. 
-
-This is Part One of my Endometriosis Series **(tag to table of contents).**
 
 <h2>What is Endometriosis?</h2>
 

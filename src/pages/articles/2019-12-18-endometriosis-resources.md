@@ -4,6 +4,9 @@ title: Endometriosis Resources
 date: 2019-12-18
 description: This article provides a variety of endometriosis resources, including support groups, excision specialists, articles in the media, and information on inclusive care.
 featuredimage: /img/sonjiawpom-1.jpg
+series: 'Endometriosis'
+seriesNumber: 'NUMBER'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - women's health
@@ -12,17 +15,11 @@ tags:
 draft: false
 --- 
 
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
-
-For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This Part of my series on Endometriosis. (**tag to TOC**)
-
 <h2>Resources for Endometriosis</h2>
 
 These are trusted informational resources that explain the disease, possible causes, diagnostic methods, and treatment options available for endometriosis. Most of these sites are dedicated to disease awareness, furthering research, empowering patients, and promoting advocacy. Many of these resources are cited or listed throughout the series. Unfortunately, some of these sources do not use inclusive language and rely on gendered language when discussing the disease. This is not an exhaustive list of websites, specialists, or articles on endometriosis. 
 
-<h3>To Learn More</h3>
+<h3>Learn More</h3>
 
 * <a href="http://endopaedia.info/index.html" target="_blank" rel="noopener noreferrer">Endopaedia</a> is a highly accurate and informative resource that was founded by Dr. David B. Redwine, M.D., a leading endometriosis excision specialist and researcher.
 * <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is a clinic opened by endo specialists that's dedicated to awareness and research. Their site is an accurate and informative resource for disease definition, symptoms, treatments, and additional information in their content library.

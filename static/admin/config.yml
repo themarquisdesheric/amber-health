@@ -22,6 +22,9 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Series", name: "series", widget: "text"}
+      - {label: "Series Number", name: "seriesNumber", widget: "text"}
+      - {label: "Series Link", name: "seriesLink", widget: "text"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
 
   - name: "pages"

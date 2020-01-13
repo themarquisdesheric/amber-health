@@ -4,18 +4,15 @@ title: Endometriosis Treatments
 date: 2019-11-22T22:50:24.432Z
 description: 'Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management'
 featuredimage: /img/sonjiawpom-1.jpg
+series: 'Endometriosis'
+seriesNumber: '4'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - women's health
   - chronic illness
 draft: false
 ---
-
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
-
-For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Treatment options?</h2>
 
