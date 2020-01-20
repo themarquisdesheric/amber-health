@@ -11,8 +11,11 @@ export const ArticleTemplate = ({
   content,
   contentComponent,
   description,
-  tags,
   title,
+  series,
+  seriesNumber,
+  seriesLink,
+  tags,
   helmet
 }) => {
   const PostContent = contentComponent || Content;
@@ -20,21 +23,25 @@ export const ArticleTemplate = ({
   return (
     <section className="content">
       <Breadcrumbs path="Articles" />
-      <div className="article flex flex-col items-center">
+      <div className="article flex flex-col items-center text-center">
         <div className="max-w-xl">
           {helmet || ''}
           <h1 className="font-bold pt-2 pb-3">
             {title}
           </h1>
-          <p className="pb-8" style={{ marginBottom: '3rem' }}>{description}</p>
+          <p className="pb-8 mb-12">{description}</p>
+          {series && (
+            <p className="series italic">
+              This is part {seriesNumber} of the
+              <Link to={seriesLink} className="underline" style={{ color: '#b3564b' }}> {series} Series</Link>
+            </p>
+          )}
           <PostContent content={content} className="article-content flex flex-col items-center" />
           {tags && tags.length ? (
             <ul className="tags mt-16">
               {tags.map(tag => (
                 <Link to={`/tags/${kebabCase(tag)}/`} key={tag + 'tag'}>
-                  <li className="tag">
-                    {tag}
-                  </li>
+                  <li className="tag">{tag}</li>
                 </Link>
               ))}
             </ul>
@@ -51,6 +58,10 @@ ArticleTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  series: PropTypes.string,
+  seriesNumber: PropTypes.string,
+  seriesLink: PropTypes.string,
+  tags: PropTypes.arrayOf(PropTypes.string),
   helmet: PropTypes.object
 };
 
@@ -63,6 +74,9 @@ const Article = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        series={post.frontmatter.series}
+        seriesNumber={post.frontmatter.seriesNumber}
+        seriesLink={post.frontmatter.seriesLink}
         helmet={
           <Helmet titleTemplate="%s | The Chronic">
             <title>{`${post.frontmatter.title}`}</title>
@@ -96,6 +110,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        series
+        seriesNumber
+        seriesLink
         tags
       }
     }

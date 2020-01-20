@@ -3,7 +3,10 @@ templateKey: article
 title: Endometriosis Symptoms
 date: 2019-09-22T17:33:31.873Z
 description: 'Learn about the symptoms of endometriosis'
-featuredimage: /img/pom-2.jpg
+featuredImage: /img/pom-2.jpg
+series: 'Endometriosis'
+seriesNumber: '2'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - endo
@@ -12,15 +15,9 @@ tags:
 draft: false
 ---
 
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers. 
-
-For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This part two of the series on Endometriosis. **(tag to TOC)**
-
 <h2>What are the Symptoms?</h2>
 
-All to commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
+All too commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses can be associated, endometriosis can cause many symptoms and is a far reaching disease. Each patient is unique and may experience any range of the below symptoms or ones not listed.
 
 * Pain with Menstruation
 * Pelvic Pain
@@ -93,7 +90,7 @@ While endometriosis remains largely unknown, theories abound. In the next **arti
 
 <h3 class="table-of-contents">Endometriosis Series Table of Contents</h3>
 
-* [Endometriosis 101](/articles/2019-08-21-endometriosis/)
+* [Endometriosis 101](/articles/2019-08-21-endometriosis/')
 * [Endometriosis Symptoms](/articles/2019-09-22-endometriosis-symptoms/)
 * [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/)
 * [Endometriosis Diagnosis](/articles/2019-09-27-endometriosis-diagnosis)

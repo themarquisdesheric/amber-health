@@ -14,6 +14,7 @@ const handleDrafts = posts =>
 
 const topics = ['Ehlers-Danlos Syndrome', 'Interstitial Cystitis', 'Lichen Sclerosus', 'Endometriosis'];
 // TODO: once topics are ready
+// eslint-disable-next-line
 const Topics = () => (
   <div>
     <p className="text-center text-md font-bold mt-8 py-3">Topics</p>
@@ -70,7 +71,7 @@ export default () => (
                 description
                 draft
                 templateKey
-                featuredimage {
+                featuredImage {
                   childImageSharp {
                     fluid(maxWidth: 576, quality: 100) {
                       ...GatsbyImageSharpFluid

@@ -3,19 +3,16 @@ templateKey: article
 title: Endometriosis Treatments
 date: 2019-11-22T22:50:24.432Z
 description: 'Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management'
-featuredimage: /img/sonjiawpom-1.jpg
+featuredImage: /img/sonjiawpom-1.jpg
+series: 'Endometriosis'
+seriesNumber: '4'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - women's health
   - chronic illness
 draft: false
 ---
-
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
-
-For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This **Part Four** of the series on Endometriosis. **(tag to TOC)**
 
 <h2>What are the Treatment options?</h2>
 
@@ -479,7 +476,7 @@ For additional information on meditation and mindfulness, explore the following 
 
 </blockquote>
  
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25769875?dopt=Abstract" target="_blank" rel="noopener noreferrer">Self management techniques</a> are commonly used by endometriosis patients and they can play a key role in endometriosis care. Self management can be self-care and lifestyle choices that mitigate symptoms, reduce stress and pain, manage side effects from medications, or treat endometriosis. A popular self management strategy is <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">cannabis</a>.
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/25769875?dopt=Abstract" target="_blank" rel="noopener noreferrer">Self management techniques</a> are commonly used by endometriosis patients and they can play a key role in endometriosis care. Self management can be self-care and lifestyle choices that mitigate symptoms, reduce stress and pain, manage side effects from medications, or treat endometriosis. A popular self management strategy is <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">cannabis</a>.</p>
 
 Cannabis is a flowering plant that is harvested for various uses including potential medicinal applications. Parts of the cannabis plant have psychoactive, or mind altering properties. This includes the flowers which are also known as marijiuna. Derivatives of the cannabis plant are hemp and CBD oil which do not have psychoactive properties. 
 

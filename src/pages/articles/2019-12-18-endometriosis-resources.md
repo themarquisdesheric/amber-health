@@ -2,8 +2,11 @@
 templateKey: article
 title: Endometriosis Resources
 date: 2019-12-18
-description: This article provides a variety of endometriosis resources, including support groups, how to find an excision specialists, articles in the media, and information on inclusive care.
-featuredimage: /img/sonjiawpom-1.jpg
+description: This article provides a variety of endometriosis resources, including support groups, how to find excision specialists, articles in the media, and information on inclusive care.
+featuredImage: /img/sonjiawpom-1.jpg
+series: 'Endometriosis'
+seriesNumber: 'NUMBER'
+seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
   - endometriosis
   - women's health
@@ -12,19 +15,11 @@ tags:
 draft: false
 --- 
 
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, and misinformation. This site is dedicated to bringing up to date, accurate information and resources to patients and their caregivers.
-
-For an introduction to endometriosis please read the **article** [Endometriosis 101](/articles/2019-08-21-endometriosis/).
-
-This Part of my series on Endometriosis. (**tag to TOC**)
-
-<h2>Resources for Endometriosis</h2>
-
 The following are trusted informational resources that explain endometriosis, provide possible causes, discuss diagnostic methods, and critically exam treatment options that are available for endometriosis. These organizations, studies, and websites are dedicated to raising disease awareness, furthering research, empowering patients, and promoting self advocacy. Exploring multiple platforms for information will help expand your understanding of this complex condition.
 
- While each source may offer a variety of tools, we have categorized them according to their main focus. Many of these same resources have been cited as references throughout the site. Unfortunately, some of the sources do not use inclusive language. This is not meant to be an exhaustive list of resources, only a helpful starting point. It's likely that there are excellent sites, studies, and doctors not listed. 
+While each source may offer a variety of tools, we have categorized them according to their main focus. Many of these same resources have been cited as references throughout the site. Unfortunately, some of the sources do not use inclusive language. This is not meant to be an exhaustive list of resources, only a helpful starting point. It's likely that there are excellent sites, studies, and doctors not listed. 
 
-<h3>To Learn More</h3>
+<h2>Learn More</h2>
 
 * <a href="http://endopaedia.info/index.html" target="_blank" rel="noopener noreferrer">Endopaedia</a> is a highly accurate, important, and informative resource that was founded by Dr. David B. Redwine, M.D., a leading endometriosis excision specialist and researcher. This is an excellent starting point for your endometriosis research.
 * <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Center for Endometriosis Care</a> is an excision clinic that's dedicated to raising awareness and furthering research. They are a trustworthy and respected source for learning everything about endometriosis. Their content library provides additional resources and links.
@@ -193,5 +188,3 @@ For more information on possible comorbidities and how these conditions overlap 
 
 * IC
 * PFD
-
-**Table of Contents**

@@ -19,9 +19,12 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Featured Image", name: "featuredImage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Series", name: "series", widget: "text"}
+      - {label: "Series Number", name: "seriesNumber", widget: "text"}
+      - {label: "Series Link", name: "seriesLink", widget: "text"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
 
   - name: "pages"

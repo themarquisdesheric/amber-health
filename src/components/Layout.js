@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import Header from './Header';
 import useSiteMetadata from './SiteMetadata';
 
-import '../styles/styles.sass';
+import '../styles/styles.scss';
 
 const TemplateWrapper = ({ children, className = '' }) => {
   const { title, description } = useSiteMetadata();

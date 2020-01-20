@@ -7,11 +7,11 @@ const Article = ({ post, className = '' }) => (
   <article className={`${className} mb-8`}>
     <Link to={post.fields.slug}>
       <header>
-        {post.frontmatter.featuredimage ? (
+        {post.frontmatter.featuredImage ? (
           <div className="w-full">
             <PreviewCompatibleImage
               imageInfo={{
-                image: post.frontmatter.featuredimage,
+                image: post.frontmatter.featuredImage,
                 alt: `featured image thumbnail for post ${post.frontmatter.title}`
               }}
             />
