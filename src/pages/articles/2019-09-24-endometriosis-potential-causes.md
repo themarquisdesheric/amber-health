@@ -74,7 +74,7 @@ According to the theory of Mulleriosis, the development of the uterus is thought
 
 <blockquote class="blockquote">The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.
 
-<cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">-The Endometriosis Foundation of America</a></cite>
+<cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">- The Endometriosis Foundation of America</a></cite>
 
 </blockquote>
 
@@ -84,7 +84,7 @@ In conclusion, there is no single theory that is entirely adequate in describing
 
 <blockquote>Without question, there are various additional factors that contribute to disease pathophysiology and pathogenesis. Propagation of outdated myths and misinformation, and the continued research positioning of endometriosis as normal endometrium, keeps the disease mired in outdated concepts, hysterectomy, failed drug therapy, and incomplete treatment.  
 
-<cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">-Center for Endometriosis Care</a></cite>
+<cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">- Center for Endometriosis Care</a></cite>
 
 </blockquote>
 
