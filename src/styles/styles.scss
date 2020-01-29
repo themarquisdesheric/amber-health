@@ -167,9 +167,9 @@ li:not(.tag)::before {
   hyphens: auto;
   
   section {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
   }
 }
@@ -179,19 +179,24 @@ li:not(.tag)::before {
   flex-wrap: wrap;
 
   div {
-    width: 100%;
     min-height: 250px;
+    margin: 2rem 0;
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    &:nth-child(2) {
+      margin: 0;
+    }
   }
 
   p {
     max-width: 400px;
     text-align: center;
     margin-top: 1.5rem;
+    color: $white;
   }
 
   img { width: 5rem; }
@@ -379,7 +384,7 @@ ul a:hover,
 
     div { max-width: 50%; }
 
-    p { font-size: 1rem; }
+    p:not(.text-xl) { font-size: 1rem; }
   }
 }
 

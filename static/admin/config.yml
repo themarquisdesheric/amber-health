@@ -37,12 +37,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Image, name: image, widget: image}
           - {label: "Hero Text", name: "heroText", widget: "string", hint: "Text overlay for hero image"}
-          - {label: "Second Block Text", name: "secondBlockText", widget: "string", hint: "Text overlay for second block"}
-          - {label: "Third Block text", name: "thirdBlockText", widget: "string", hint: "Text overlay for third block"}
-          - {label: "First Snippet", name: "firstSnippet", widget: "string", hint: "First Snippet Text"}
-          - {label: "Second Snippet", name: "secondSnippet", widget: "string", hint: "Second Snippet Text"}
-          - {label: "Third Snippet", name: "thirdSnippet", widget: "string", hint: "Third Snippet Text"}
-          - {label: "Fourth Snippet", name: "fourthSnippet", widget: "string", hint: "Fourth Snippet Text"}
+          - {label: "Post Snippets Text", name: "postSnippetsText", widget: "string", hint: "Text for post-snippets section"}
+          - {label: "First Snippet Header", name: "firstSnippetHeader", widget: "string", hint: "First Snippet Header"}
+          - {label: "First Snippet Text", name: "firstSnippetText", widget: "string", hint: "First Snippet Text"}
+          - {label: "Second Snippet Header", name: "secondSnippetHeader", widget: "string", hint: "Second Snippet Header"}
+          - {label: "Second Snippet Text", name: "secondSnippetText", widget: "string", hint: "Second Snippet Text"}
+          - {label: "Third SnippetHeader", name: "thirdSnippetHeader", widget: "string", hint: "Third Snippet Header"}
+          - {label: "Third Snippet Text", name: "thirdSnippetText", widget: "string", hint: "Third Snippet Text"}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
