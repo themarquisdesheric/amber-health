@@ -75,6 +75,8 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 ![alt text](PomSketch1.png)
 
+![alt text](PomSketch1Small.png)
+
 Currently it's estimated that 176 million people worldwide are affected. While it largely affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
 Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. 
@@ -113,5 +115,9 @@ The following are trusted informational resources that explain endometriosis, pr
 * <a href="https://www.endowhat.com/" target="_blank" rel="noopener noreferrer">EndoWhat?</a> is a film created by endometriosis patient Shannon Cohn to educate and bring more widespread awareness to the disease. It's available for public screening.
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> creates access to easily shareable educational infographics designed to spread awareness about endometriosis. They are easy to share, eye catching, and provide accurate information. 
 * <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is an informational guide on endometriosis that was written by a variety of doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on endometriosis and the treatment modalities to make informed decisions in their care. This is a must read. 
+
+![alt text](EndoGraph101.jpg)
+
+![alt text](EndoGraph101Small.jpg)
 
 **Table of Contents**
