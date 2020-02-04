@@ -8,28 +8,6 @@ exports[`Article 1`] = `
     to="/articles/2019-09-27-endometriosis-diagnosis/"
   >
     <header>
-      <div
-        className="w-full"
-      >
-        <PreviewCompatibleImage
-          imageInfo={
-            Object {
-              "alt": "featured image thumbnail for post Endometriosis Diagnosis",
-              "image": Object {
-                "childImageSharp": Object {
-                  "fluid": Object {
-                    "aspectRatio": 1.5,
-                    "base64": "base64",
-                    "sizes": "(max-width: 576px) 100vw, 576px",
-                    "src": "/static/a162fe840d8c214c93ae37d3e6fc212a/6806c/pom-2.jpg",
-                    "srcSet": "srcSet",
-                  },
-                },
-              },
-            }
-          }
-        />
-      </div>
       <p
         className="text-lg font-bold pt-5 pb-2"
       >
