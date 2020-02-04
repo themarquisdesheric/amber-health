@@ -53,8 +53,12 @@ export const IndexPageTemplate = ({
         <section className="snippets" style={{ background: 'rgb(65, 25, 19)' }}>
           {snippets.map(({ image, header, text }) => (
             <div key={header}>
-              <img src={image} alt="pomegranate" />
-              <p className="text-xl text-bold">{header}</p>
+              <figure>
+                <img src={image} alt="pomegranate" />
+                <figcaption className="text-xl text-bold">
+                  {header}
+                </figcaption>
+              </figure>
               <p>{text}</p>
             </div>
           ))}

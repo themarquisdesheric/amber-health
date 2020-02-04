@@ -179,27 +179,26 @@ li:not(.tag)::before {
   flex-wrap: wrap;
 
   div {
-    min-height: 250px;
     margin: 2rem 0;
     padding: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 
     &:nth-child(2) {
       margin: 0;
     }
   }
 
-  p {
+  img { 
+    width: 5rem;
+    margin: 0 auto;
+  }
+
+  p,
+  figcaption {
     max-width: 400px;
     text-align: center;
     margin-top: 1.5rem;
     color: $white;
   }
-
-  img { width: 5rem; }
 }
 
 // CONTACT
@@ -382,7 +381,10 @@ ul a:hover,
     display: flex;
     flex-wrap: wrap;
 
-    div { max-width: 50%; }
+    div { 
+      max-width: 50%;
+      height: 344px;
+    }
 
     p:not(.text-xl) { font-size: 1rem; }
   }
@@ -406,7 +408,6 @@ ul a:hover,
 
   .snippets div {
     max-width: 25%;
-    min-height: 300px;
   }
 }
 
