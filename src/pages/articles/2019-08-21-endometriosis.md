@@ -71,7 +71,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
-![alt text](PomSketch1.png)
+![pomegranate sketch](PomSketch1.png)
 
 Currently it's estimated that 176 million people worldwide are affected. While it largely affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of those people will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
@@ -110,6 +110,6 @@ The following are trusted informational resources that explain endometriosis, pr
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> creates access to easily shareable educational infographics designed to spread awareness about endometriosis. They are easy to share, eye catching, and provide accurate information. 
 * <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is an informational guide on endometriosis that was written by a variety of doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on endometriosis and the treatment modalities to make informed decisions in their care. This is a must read. 
 
-![alt text](EndoGraph101.jpg)
+![endographic](EndoGraph101.jpg)
 
 **Table of Contents**
