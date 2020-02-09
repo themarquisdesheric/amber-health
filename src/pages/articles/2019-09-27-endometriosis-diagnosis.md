@@ -59,6 +59,9 @@ Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/
 
 </blockquote>
 
+![graph of endo imaging facts](EndoImagingGraph.jpg)
+
+
 <h3>Clinical Diagnosis</h3>
 
 There has been an increased interest in accepting and treating a clinical diagnosis of endometriosis that relies on patient history and symptoms. This diagnosis would <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">not be proven with surgery</a>. While patients would benefit from an easier and earlier diagnostic method, undergoing medical treatment without a definitive diagnosis has its own clear dangers and <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">limitations</a>. 
@@ -69,7 +72,7 @@ There has been an increased interest in accepting and treating a clinical diagno
 
 </blockquote>
 
-Unfortunately, big pharma has aligned itself with this movement to promote the use of ineffective hormonal therapy as "treatment". There are proven limitations and risks to using hormonal suppression which will be discussed in **article**
+Unfortunately, pharmaceutical companies have aligned themselves with this approach to promote the use of their ineffective hormonal medications as a standard in treatment. There are proven limitations and risks to using hormonal suppression which will be discussed in **article**
 [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
 Foregoing a diagnosis and relying on an ineffective medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 

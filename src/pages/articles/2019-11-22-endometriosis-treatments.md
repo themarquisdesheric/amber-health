@@ -142,6 +142,8 @@ implants so there are <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1UL
 
 As with any surgery there are risks and surgical complications to consider. <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Complications</a> during endometriosis surgery can include damage to organs, thermal and direct traumas, and excessive bleeding. After surgery complications can include infections, urinary and bowel difficulties, and prolonged vaginal bleeding. Due to the intensity of deep infiltrating endometriosis surgery there are other complications to consider including, urinary tract injuries, vascular lesions, and liver injury. 
 
+![graph of endo surgery facts](EndoSurgeryGraph.jpg)
+
 <h3>Excision Specialists</h3> 
 
 While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only [less than 200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision surgery is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
@@ -300,7 +302,6 @@ These complementary and alternative therapies have been recommended by specialis
 * Integrative and Holistic Medicine
 * Chinese Medicine
 * Meditation
-* Cannabis
 
 <h3>Diet and Nutrition</h3> 
 
