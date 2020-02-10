@@ -1,17 +1,20 @@
 --- 
 templateKey: article
-title: Endometriosis Resources Old
-date: 2019-12-18
-description: This article provides a variety of endometriosis resources, including support groups, how to find excision specialists, articles in the media, and information on inclusive care.
+title: Endometriosis Resources
+date: 2020-02-10
+description: A guide to endometriosis resources, including support groups, locating specialists, mentions in media, and information on inclusive care.
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
-seriesNumber: 'NUMBER'
+seriesNumber: '9'
 seriesLink: '/articles/2019-08-21-endometriosis/'
 tags:
-  - endometriosis
-  - women's health
-  - chronic illness
-  - chronic pain
+ - endometriosis
+ - endo
+ - chronic pain
+ - chronic illness
+ - invisible illness
+ - health
+ - women’s health
 draft: false
 --- 
 
@@ -229,3 +232,5 @@ The following are opportunities to get involved in endometriosis research and co
 
 * <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to <a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
 * <a href="https://feinstein.northwell.edu/institutes-researchers/institute-molecular-medicine/robert-s-boas-center-for-genomics-and-human-genetics/rose-research-outsmarts-endometriosis" target="_blank" rel="noopener noreferrer">The ROSE Study (Research OutSmarts Endometriosis)</a> are studying how to diagnose endometriosis by analyzing menstrual blood. Learn More and Sign Up for the Clinical Study.
+
+**Table of contents**

@@ -17,9 +17,11 @@ tags:
 draft: false
 ---
 
+<h2>Learn More</h2>
+
 This collection of books covers an array of topics on endometriosis, including diet and nutrition, surgery, disease management, holistic wellness, treatment options, and much more. I've organized the titles according to their main focus but often there is an overlap in topics. I've provided reviews for the ones that I have read. I've included titles that I have not read but have received good reviews. Unfortunately, many of these titles do not use inclusive language. When possible, read as many as you can to expand your understanding of this complex condition. You can use your local library to access many of these books for free. 
 
-<h3>Disease Overview</h3>
+<h3>Endometriosis 101</h3>
 
 * <a href="https://www.amazon.com/Endo-Patients-Survival-Guide-Endometriosis/dp/0984953515/ref=sr_1_18?keywords=endometriosis+book&qid=1568750801&sr=8-18" target="_blank" rel="noopener noreferrer">The Endo Patient’s Survival Guide: A Patient’s Guide to Endometriosis and Chronic Pelvic Pain</a> by Andrew S. Cook MD, FACOG - A patient’s companion to living with and overcoming endometriosis and pelvic pain. It covers topics from seeking help and getting an initial diagnosis, to navigating treatment options, and achieving optimal relief and wellness.
 * <a href="https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T" target="_blank" rel="noopener noreferrer">Beating Endo: How to Reclaim Your Life from Endometriosis</a> by Amy Stein DPT and Dr. Iris Kerin Orbuch - This informational, multidisciplinary approached book was written by leading endometriosis specialists, Amy Stein PT and Dr. Iris Orbuch. These healthcare professionals provide their clinical expertise through a whole mind/body approach, including diet, physical therapy, excision surgery, and mindfulness. 
@@ -61,7 +63,7 @@ This collection of books covers an array of topics on endometriosis, including d
 * <a href="https://www.amazon.com/Heal-Endometriosis-Naturally-Cookbook-Recipes/dp/1530979218" target="_blank" rel="noopener noreferrer">Heal Endometriosis Naturally Cookbook: 101 Wheat, Gluten & Soy Free Recipes</a> by Wendy K Laidlaw - This offers simple foods that will help replenish your energy and nutrients, boost metabolism, and help you to start to heal your endometriosis naturally. It also addresses many myths and clears confusions surrounding what foods to eat or avoid.
 * <a href="https://www.amazon.com/4-Week-Endometriosis-Diet-Plan-Symptoms/dp/1641527366" target="_blank" rel="noopener noreferrer">The 4-Week Endometriosis Diet Plan: 75 Healing Recipes to Relieve Symptoms and Regain Control of Your Life</a> by Edmonds NTC, Katie - This up to date, month long plan is designed to reverse malnutrition, balance blood sugar, and reduce your discomfort while letting you customize meals for your body. Keep tabs on your progress with a symptom tracker, and discover lifestyle adjustments that could further reduce your endometriosis symptoms.
 
-<h3>Hormonal Health and Hormonal Contraceptives</h3>
+<h3>Hormonal Health and Hormonal Medications</h3>
 
 * <a href="https://www.amazon.com/Beyond-Pill-Program-Hormones-Dangerous-ebook/dp/B07BDFLWDF" target="_blank" rel="noopener noreferrer">Beyond the Pill: A 30-Day Program to Balance Your Hormones, Reclaim Your Body, and Reverse the Dangerous Side Effects of the Birth Control Pill</a> by Dr. Jolene Brighten - This book brings together up to date research, relevant science, and clinical expertise to create one of the most informative reads on hormones and hormonal contraceptives. While the birth control pill is widely prescribed as a quick-fix solution to a variety of women’s health conditions, taking it can also result in other more serious and dangerous health consequences. 
 
