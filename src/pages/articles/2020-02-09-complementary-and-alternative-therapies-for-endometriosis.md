@@ -15,6 +15,10 @@ tags:
  - invisible illness
  - health
  - women’s health
+ - endometriosis treatment
+ - acupuncture
+ - yoga
+ - diet and nutrition 
 draft: false
 --- 
 
@@ -180,7 +184,7 @@ The following resources provide more information on acupuncture for endometriosi
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> presents an overview of the biomedical model of myofascial pelvic pain and its treatment using a Western acupuncture approach.
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/27242909?dopt=Abstract" target="_blank" rel="noopener noreferrer">More Than Needles: The Importance of Explanations and Self-Care Advice in Treating Primary Dysmenorrhea with Acupuncture</a> found patients had improved symptom control and reduced pain. 
 
-<h3>Yoga</h3>
+<h2>Yoga</h2>
 
 Specialists also have recommended <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies, like yoga,</a> to successfully manage the pain long term and improve quality of life. There has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to <a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life</a> for those with endometriosis.
 
@@ -201,7 +205,7 @@ For more information on Yoga and its potential ability to address endometriosis 
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a> is a program that adapts yoga and exercise to patients' specific needs. 
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a> has free videos that focus on yoga, pelvic health, the pelvic floor, and women's health.
 
-<h3>Integrative and Holistic Medicine</h3>
+<h2>Integrative and Holistic Medicine</h2>
 
 <a href="https://nccih.nih.gov/health/integrative-health" target="_blank" rel="noopener noreferrer">Integrative medicine</a> is another form of a complementary therapy that may help treat endometriosis and benefit patients. Integrative medicine is defined as a practice of medicine that is holistic in its approach. Holistic means the doctor considers the whole person, including their physical, mental, emotional, and social health when evaluating and treating the patient. Integrative medicine uses both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">conventional and complementary approaches</a> together to provide a patient focused plan. This application of medicine uses a comprehensive approach to disease management, which can benefit an endometriosis patient. 
 
@@ -222,7 +226,7 @@ These resources provide insight on a whole body approach to wellness with dietar
 * <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach and support platform that was created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner.
 * <a href="https://peacewithendo.com/" target="_blank" rel="noopener noreferrer">Peace with Endo</a> by Aubree Deimler who is an author, coach, and energy healer who helps people with endometriosis naturally manage pain, increase energy, and find peace with endo.
 
-<h3>Chinese Medicine</h3>
+<h2>Chinese Medicine</h2>
 
 Chinese medicine and herbs are also forms of complementary therapies that might be beneficial as treatments for endometriosis related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
 
@@ -245,7 +249,7 @@ The following studies and articles further explore Chinese Medicine as a treatme
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a>looks at the mechanisms in which Chinese herbs may work.
 * <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview on the practice. 
 
-<h3>Meditation and Mindfulness</h3>
+<h2>Meditation and Mindfulness</h2>
 
 Practicing <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">meditation and mindfulness</a> may have health benefits that can be useful in managing endometriosis related symptoms. 
 Those with endometriosis often suffer from chronic pain and stress due to living with a chronic illness. This intense burden can lead to depression and anxiety which can be hard to manage. Learning to manage stress and symptoms of depression can result in less distress and physical pain. In research, a positive association between coping, depression levels, type, and levels of stress and pain intensity in patients with endometriosis has been shown.
@@ -280,7 +284,7 @@ For additional information on meditation and mindfulness, explore the following 
 * <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a> provides several examples of practices and how they may help symptoms. 
 * <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a> looks at the benefits of meditation for pain and endometriosis related symptoms. 
 
-<h3>Cannabis</h3>
+<h2>Cannabis</h2>
 
 <blockquote class="blockquote">The use of self-management strategies, especially non-pharmacological practices, in chronic illnesses is common. Patients with endometriosis often feel frustrated at the lack of effective medical treatments and therefore turn to self-management as one of the coping strategies to manage their condition. Patients with endometriosis often feel disempowered, and self-management strategies may help them feel a sense of agency and empowerment.
 
