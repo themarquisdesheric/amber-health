@@ -6,7 +6,7 @@ description: A guide to books on endometriosis with book reviews.
 featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '10'
-seriesLink: '/articles/2019-08-21-endometriosis/'
+seriesLink: '/articles/2020-02-10-endometriosis-series'
 tags:
   - endometriosis
   - endo
@@ -85,4 +85,15 @@ This collection of books covers an array of topics on endometriosis, including d
 * <a href="https://www.amazon.com/Invisible-Serious-Navigate-Relationships-Pressure/dp/0807023957" target="_blank" rel="noopener noreferrer">Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine</a> by Michele Lent Hirsch - Though young women with serious illness tend to be seen as outliers, young female patients are in fact the primary demographic for many illnesses. They are also one of the most ignored groups in our medical system, a system where young women, especially women of color and trans women, are invisible. I would highly recommend. This is one of my top recommendations. This balances the autobiography of a chronically ill person with a historical look at medical abuse and neglect. While this doesn't focus on endometriosis specifically, this is a favorite of mine and it's extremely relevant.
 * <a href="https://www.amazon.com/Sick-Memoir-Porochista-Khakpour/dp/006242873X" target="_blank" rel="noopener noreferrer">Sick: A Memoir</a> by Porochista Khakpour - This is a grueling, emotional journey as a woman, an Iranian-American, a writer, and a lifelong sufferer of undiagnosed health problems, in which she examines her subsequent struggles with late stage Lyme disease, mental illness, and her addiction to doctor prescribed medications.
 
-**Endo Series Table of Contents**
+<h3 class="table-of-contents">Endometriosis Series</h3>
+
+* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
+* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
+* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
+* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
+* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
+* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
+* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
+* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
+* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
+* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)

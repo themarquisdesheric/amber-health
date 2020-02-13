@@ -1,12 +1,12 @@
 --- 
 templateKey: article
 title: Surgical Treatment for Endometriosis
-date: 2020-02-16
+date: 2020-02-13
 description: Learn about the surgical treatments for endometriosis, including excision and ablation.
 featuredImage: /img/pom-3.jpg
 series: 'Endometriosis'
 seriesNumber: '6'
-seriesLink: '/articles/2019-08-21-endometriosis/'
+seriesLink: '/articles/2020-02-10-endometriosis-series'
 tags:
  - endometriosis
  - endo
@@ -18,11 +18,11 @@ tags:
  - endometriosis treatment
  - excision surgery
  - ablation surgery
- - endometriosis surgery
+ - laparoscopy
 draft: false 
 --- 
 
-<h2>Surgical Options</h2>
+<h2>What are the Surgical Options?</h2>
 
 The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method and your doctor's approach to endometriosis surgery to make the best informed decision for your care. 
 
@@ -71,7 +71,7 @@ As with any surgery there are risks and surgical complications to consider. <a h
 
 <h3>Excision Specialists</h3> 
 
-While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only [less than 200 excision surgeons](https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist) worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision surgery is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
+While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">less than 200 excision surgeons</a> worldwide for a patient population of 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision surgery is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
 
 <blockquote class="blockquote">Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis...then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
 
@@ -89,18 +89,17 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 <h3>Why is Hysterectomy not a treatment option?</h3>
 
-Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Since there is no cure for endometriosis, hysterectomy is not a cure. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. 
-<blockquote class="blockquote">It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain.
+Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Since there is no cure for endometriosis, hysterectomy is not a cure. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. Hysterectomy can be used to treat other conditions that can be gynaecological comorbidities of endometriosis, including <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">adenomyosis and fibroids</a>. 
+
+<blockquote class="blockquote">It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain. 
 
 <cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">- Endometriosis Foundation of America</a></cite>
 
 </blockquote>
 
-Hysterectomy is used to treat other conditions that can be gynaecological comorbidities of endometriosis, including <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">adenomyosis and fibroids</a>. 
-
 <h3>Finding a Specialist</h3>
 
-Though endometriosis is a common condition affecting 176 billion people worldwide, there are very few specialists in the medical community. It's estimated that there are <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">less than 200 excision surgeons</a> in practice worldwide. What a stark lack of medical support for an epidemic scaled disease. Finding a knowledgeable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a specialist provider near you.
+Finding a knowledgeable and compassionate provider can be one of the hardest aspects of managing this disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Here are some tools for finding a specialist near you.
 
 * <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse and endo activist Nancy Peterson.
 * <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project</a> has a physician's directory, which is a locator tool for excision specialists.
@@ -119,4 +118,15 @@ Though endometriosis is a common condition affecting 176 billion people worldwid
 * <a href="https://www.mdedge.com/podcasts/SGS-unscrubbed" target="_blank" rel="noopener noreferrer">Gynecologic Surgeons Unscrubbed</a> is a series-based podcast developed in collaboration with the Society of Gynecologic Surgeons focusing on surgical and medical education, hosted by Cara King, DO, MS.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> is created by Endo InVisible whose mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. If you need funds for excision surgery, they may be able to help. 
 
-**Table of contents**
+<h3 class="table-of-contents">Endometriosis Series</h3>
+
+* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
+* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
+* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
+* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
+* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
+* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
+* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
+* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
+* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
+* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)

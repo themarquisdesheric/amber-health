@@ -6,7 +6,7 @@ description: A guide to endometriosis resources, including support groups, locat
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
 seriesNumber: '9'
-seriesLink: '/articles/2019-08-21-endometriosis/'
+seriesLink: '/articles/2020-02-10-endometriosis-series'
 tags:
  - endometriosis
  - endo
@@ -15,6 +15,14 @@ tags:
  - invisible illness
  - health
  - women’s health
+ - birth control
+ - lupron
+ - orlissa
+ - excision surgery
+ - laparoscopy
+ - support
+ - gender bias
+ - racial bias
 draft: false
 --- 
 
@@ -233,4 +241,15 @@ The following are opportunities to get involved in endometriosis research and co
 * <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. and at the same time contributes to the largest collection of clinical data about endometriosis which will be used to <a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
 * <a href="https://feinstein.northwell.edu/institutes-researchers/institute-molecular-medicine/robert-s-boas-center-for-genomics-and-human-genetics/rose-research-outsmarts-endometriosis" target="_blank" rel="noopener noreferrer">The ROSE Study (Research OutSmarts Endometriosis)</a> are studying how to diagnose endometriosis by analyzing menstrual blood. Learn More and Sign Up for the Clinical Study.
 
-**Table of contents**
+<h3 class="table-of-contents">Endometriosis Series</h3>
+
+* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
+* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
+* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
+* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
+* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
+* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
+* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
+* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
+* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
+* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)

@@ -1,12 +1,12 @@
 --- 
 templateKey: article
 title: Complementary and Alternative Therapies for Endometriosis
-date: 2020-02-14
+date: 2020-02-11
 description: Learn about the hormonal medication treatments for endometriosis, including birth control and Lupron.
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
 seriesNumber: '8'
-seriesLink: '/articles/2019-08-21-endometriosis/'
+seriesLink: '/articles/2020-02-10-endometriosis-series'
 tags:
  - endometriosis
  - endo
@@ -21,6 +21,8 @@ tags:
  - diet and nutrition 
 draft: false
 --- 
+
+<h2>What are Alternative and Complementary Therapies?</h2>
 
 A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long term outcome in endometriosis management. Often this will include seeking out a variety of doctors and specialists to address wide reaching symptoms. This can include working with gynecologists, nutritionists, integrative doctors, urologists, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary and alternative therapies</a> for endometriosis patients.  Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">therapies</a> include various methods that work on <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigating symptoms, stress reduction, and/or disease management</a>. 
 
@@ -49,6 +51,7 @@ These complementary and alternative therapies have been recommended by specialis
 * Integrative and Holistic Medicine
 * Chinese Medicine
 * Meditation
+* Cannabis
 
 <h2>Diet and Nutrition</h2> 
 
@@ -246,7 +249,7 @@ The following studies and articles further explore Chinese Medicine as a treatme
 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a> examines if Chinese herbs can offer a safer, less reactive treatment option.
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">The Complementary and Alternative Medicine for Endometriosis: A Review of Utilization and Mechanism</a> try to identify therapeutic efficacy and mechanisms based on some clinical and experimental studies. 
-* <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a>looks at the mechanisms in which Chinese herbs may work.
+* <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a> looks at the mechanisms in which Chinese herbs may work.
 * <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview on the practice. 
 
 <h2>Meditation and Mindfulness</h2>
@@ -260,21 +263,21 @@ Those with endometriosis often suffer from chronic pain and stress due to living
  Mindfulness meditation has been shown to <a href="https://www.ncbi.nlm.nih.gov/pubmed/27658913" target="_blank" rel="noopener noreferrer">improve pain and quality of life</a>, as well as, <a href="https://www.ncbi.nlm.nih.gov/pubmed/19045976" target="_blank" rel="noopener noreferrer">reduce depression and anxiety</a>. Meditation may positively affect the immune system in various ways including
  <a href="https://www.ncbi.nlm.nih.gov/pubmed/26799456" target="_blank" rel="noopener noreferrer">meditation on specific markers of inflammation, cell-mediated immunity, and biological aging</a> but these are only tentative findings. 
 
-Meditation techniques have been shown to increase gray matter density in several areas of the brain which can help <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/" target="_blank" rel="noopener noreferrer">regulate emotions and aid in learning and problem solving</a>. The hippocampus is one of these areas positively affected which may improve function in regulating emotional responses. Other areas of the brain include the posterior cingulate cortex, the left temporo-parietal junction, and the cerebellum. The cerebellum is known to play a role in the regulation of emotion and cognition. It’s thought that the morphological changes to these brain regions may contribute to the benefits of mindfulness meditation. Being equipped with a better ability to emotionally and cognitively process your experience can help in disease management, stress reduction, and less physical pain. 
-
 <blockquote class="blockquote">It has been suggested that in the same way that the cerebellum regulates the rate, force, rhythm, and accuracy of movements, it also regulates the speed, capacity, consistency, and appropriateness of cognitive and emotional processes, i.e., it modulates behavior automatically around a homeostatic baseline. Given the importance that the regulation of emotions and cognition play in healthy psychological functioning, the morphological changes in these regions might contribute to the positive effects of mindfulness meditation on the salutary changes in well-being.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/" target="_blank" rel="noopener noreferrer">- Mindfulness Practice Leads to Increases in Regional Brain Gray Matter Density</a></cite>
 
 </blockquote>
 
-Due to prevalent misinformation, social stigma, and gender bias, endometriosis related symptoms have been incorrectly labeled as hysteria or  as having a psychosomatic origin. Again and again, these antiquated notions are disproven by studies that show the various and complex molecular mechanisms involved in endometriosis. Social, psychological, and emotional changes are seen in those with endometriosis but these are a result of, not the cause of the disease. Such claims are dangerous for patients and can further delay diagnosis and result in ineffective treatment. Combining meditation and mindfulness with medical treatment may address these cognitive and emotional aspects of the disease. 
+Meditation techniques have been shown to increase gray matter density in several areas of the brain which can help <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/" target="_blank" rel="noopener noreferrer">regulate emotions and aid in learning and problem solving</a>. The hippocampus is one of these areas positively affected which may improve function in regulating emotional responses. Other areas of the brain include the posterior cingulate cortex, the left temporo-parietal junction, and the cerebellum. The cerebellum is known to play a role in the regulation of emotion and cognition. It’s thought that the morphological changes to these brain regions may contribute to the benefits of mindfulness meditation. Being equipped with a better ability to emotionally and cognitively process your experience can help in disease management, stress reduction, and less physical pain.
 
 <blockquote class="blockquote">Nevertheless,  endometriosis is certainly ‘not in your head’ – though a number of sources have indicated over the years that endometriosis is caused by 'negative emotions' and various deep-seated psychological components. While there are various social, psychological and emotional aspects to any painful, chronic illness such as endometriosis, these are consequences of the disease– not the cause. The highly offensive contention that endometriosis is a psychological ailment due to one’s internal failings or otherwise rooted in emotions leads only to further delayed diagnosis and ineffective treatment of the disease, and should be denounced wherever such claims appear.
 
 <cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">- Center for Endometriosis Care</a></cite>
 
 </blockquote>
+
+Due to prevalent misinformation, social stigma, and gender bias, endometriosis related symptoms have been incorrectly labeled as hysteria or  as having a psychosomatic origin. Again and again, these antiquated notions are disproven by studies that show the various and complex molecular mechanisms involved in endometriosis. Social, psychological, and emotional changes are seen in those with endometriosis but these are a result of, not the cause of the disease. Such claims are dangerous for patients and can further delay diagnosis and result in ineffective treatment. Combining meditation and mindfulness with medical treatment may address these cognitive and emotional aspects of the disease. 
 
 <h3>Resources</h3>
 
@@ -336,4 +339,15 @@ The following resources provide more information on cannabis use for endometrios
 * <a href="http://theconversation.com/1-in-10-women-with-endometriosis-report-using-cannabis-to-ease-their-pain-126516" target="_blank" rel="noopener noreferrer">1 in 10 Women with Endometriosis Report Using Cannabis to Ease Their Pain</a> discusses the results of a survey of endometriosis patients. 
 * <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">Self-management Strategies Amongst Australian Women with Endometriosis: A National Online Survey</a> provides insights into the self care techniques used by endometriosis patients.
 
-**Table of Contents** 
+<h3 class="table-of-contents">Endometriosis Series</h3>
+
+* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
+* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
+* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
+* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
+* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
+* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
+* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
+* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
+* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
+* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)
