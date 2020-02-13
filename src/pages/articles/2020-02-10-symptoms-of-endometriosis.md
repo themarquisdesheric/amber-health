@@ -90,7 +90,7 @@ Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 </blockquote>
 
-When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in the **article** [Endometriosis Treatments](/articles/2019-09-28-endometriosis-treatment/).
+When approaching medical treatment and care, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecologists, urologists, gastroenterologists, acupuncturists, and physical therapists. A further discussion on treatment options can be found in [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/).
 
 <h3>Key Facts to Keep in Mind as You Seek Care</h3>
 
@@ -99,7 +99,7 @@ When approaching medical treatment and care, it’s important to understand that
 * Do not accept a dismissal of your specific symptoms as unrelated. You should be heard and your symptoms should be further investigated and ruled out accordingly. Endometriosis has many comorbid conditions, including several autoimmune diseases.
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care. Your care team may include several providers from various specialties. 
 
-While the cause(s) of endometriosis remains largely unknown, theories abound. In the next **article** of the series, [Endometriosis Potential Causes](/articles/2019-09-24-endometriosis-potential-causes/), theories on etiology are examined. 
+While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series, [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/) theories on etiology are examined. 
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
