@@ -17,7 +17,7 @@ tags:
  - women’s health
 draft: true 
 --- 
-Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, racial bias, and misinformation. This series is dedicated to bringing up to date, accurate information and resources to patients, their caregivers, and the public. 
+Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, racial bias, and misinformation. This series is dedicated to bringing up to date, accurate information and resources to patients and the public. 
 
 <h3 class="table-of-contents">Table of Contents</h3>
 

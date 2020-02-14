@@ -26,7 +26,7 @@ draft: true
 
 </blockquote>
 
-The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the cause(s) of the disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endometriosis’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestations. 
+The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the causes of the disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endometriosis’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestations. 
 
 A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms</a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
 
@@ -36,7 +36,7 @@ A possible explanation is that individuals are born with <a href="http://centerf
 
 </blockquote>
 
-Since there are many theories in circulation, this article examines several of the current ones for a better understanding of the possible cause(s) of endometriosis.
+Since there are many theories in circulation, this article examines several of the current ones for a better understanding of the possible causes of endometriosis.
 
 <h3>Retrograde Menstruation</h3>
 
@@ -54,7 +54,7 @@ It’s thought that a dysfunctional immune system may allow for implantation of 
 
 <h3>Stem Cells</h3>
 
-The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stems cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed. 
+The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stems cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed to fully understand. 
 
 <h3>Genetics</h3>
 
@@ -62,7 +62,7 @@ Genetics may play a role in developing endometriosis. There is a <a href="https:
 
 <h3>Environmental Toxins</h3>
 
-Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, immune system, endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
+Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, the immune system, the endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
 
 <h3>Halban’s Theory of Lymphatic Spread</h3> 
 
@@ -70,11 +70,11 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 <h3>Meyer’s Theory of Metaplasia</h3>
 
-<a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Meyer’s Theory</a> suggests that metaplasia, or the abnormal change in the nature of a tissue, may explain endometriosis. Metaplasia commonly occurs as a response to inflammation. The process allows for cells to alter themselves to adapt better to their environment. This may explain the appearance of endometriosis on the lungs and skin and in women with no womb. While this theory seems logical,  it has been difficult to support <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">scientifically</a>.
+<a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Meyer’s Theory</a> suggests that metaplasia, or the abnormal change in the nature of a tissue, may explain endometriosis. Metaplasia commonly occurs as a response to inflammation. The process allows for cells to alter themselves to better adapt to their environment. This may explain the appearance of endometriosis on the lungs and skin and in patients with no womb. While this theory seems logical, it has been difficult to support <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">scientifically</a>.
 
 <h3>Theory of Mulleriosis & Embryonic Origin</h3>
 
-According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes or HOX genes play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> and alterations to the normal HOX gene expression patterns cause developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
+According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes, or HOX genes, play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> cause alterations to the normal gene expression patterns which leads to developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
 <blockquote class="blockquote">The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.
 
@@ -84,7 +84,7 @@ According to the theory of Mulleriosis, the development of the uterus is thought
 
 <h3>Additional Theories</h3>
 
-In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a> and in<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer"> Molecular and Cellular Pathogenesis of Endometriosis</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
+In conclusion, there is no single theory that is entirely adequate in describing the disease origin, process, locations, and behaviors of endometriosis. Additional theories are discussed on <a href="http://endopaedia.info/resources.html#theories" target="_blank" rel="noopener noreferrer">Endopaedia</a> and in<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer"> Molecular and Cellular Pathogenesis of Endometriosis</a>. Researchers and specialists speculate that it likely takes <a href="https://www.danmartinmd.com/files/endotheory.pdf" target="_blank" rel="noopener noreferrer">a variety of factors</a> described in each theory to cause endometriosis.
 
 <blockquote>Without question, there are various additional factors that contribute to disease pathophysiology and pathogenesis. Propagation of outdated myths and misinformation, and the continued research positioning of endometriosis as normal endometrium, keeps the disease mired in outdated concepts, hysterectomy, failed drug therapy, and incomplete treatment.  
 
