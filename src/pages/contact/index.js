@@ -31,9 +31,9 @@ const Index = () => {
     e.preventDefault();
 
     const { name, email, subject, message } = form;
-    const body = `${message.slice(0, 1800)} ${(name || email) ? `[FROM: ${name} ${email}]` : ''}`;
+    const body = `${message.slice(0, 1800)} ${(name || email) ? `[FROM: ${name}/${email}]` : ''}`;
 
-    window.location.href = `mailto:amber.robinson21@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:thechronicinfo@gmail.com?subject=${subject}&body=${body}`;
   };
 
   const messageLength = form.message.length;
