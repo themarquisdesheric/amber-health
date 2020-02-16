@@ -46,8 +46,11 @@ export const ArticleTemplate = ({
               ))}
             </ul>
           ) : null}
-        </div>
 
+          <p className="disclaimer text-sm italic mt-8 mb-0">
+            This website offers health and wellness information that is provided for informational purposes only. This information is not intended as a substitute for the advice provided by your physician or other healthcare professionals. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. Always speak with your physician or other healthcare professionals before taking any medication, or nutritional/herbal supplement, or using any treatment. Contact your healthcare provider promptly if you have or suspect that you have a health concern. Do not disregard professional medical advice or delay in seeking professional advice because of something you have read on this website. The use of any information provided on this website is solely at your own risk.
+          </p>
+        </div>
       </div>
     </section>
   );

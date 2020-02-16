@@ -17,4 +17,3 @@ thirdSnippetText: >-
 postSnippetsText: >-
   After spending a lifetime experiencing illness, adapting to life as a complex patient, and dedicating myself to researching various conditions, I felt compelled to share this cultivation of resources, skills, and insights to aid others on their journey to a better understanding of their conditions, restoring agency, and healing 
 ---
-

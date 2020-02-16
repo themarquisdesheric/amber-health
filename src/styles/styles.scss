@@ -162,6 +162,11 @@ li:not(.tag)::before {
   color: $theme;
 }
 
+.disclaimer {
+  text-align: justify;
+  hyphens: auto;
+}
+
 // INDEX
 .index-wrapper {
   hyphens: auto;
