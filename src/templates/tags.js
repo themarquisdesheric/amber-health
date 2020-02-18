@@ -24,7 +24,7 @@ const TagRoute = ({ data, pageContext }) => {
         <div className="flex flex-col items-center">
           <div className="max-w-xl">
             <Helmet title={`${tag} | ${title}`} />
-            <div className="mb-24">
+            <div>
               <p className="text-gray-800 text-xs uppercase tracking-wide">
                 {taggedWithText}
               </p>
