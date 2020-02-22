@@ -297,7 +297,7 @@ Patients with endometriosis self report that cannabis use is an important and be
 
 The greatest improvements from cannabis were reported in sleep and nausea and vomiting. Few adverse effects were reported and the ones reported were minor. Side effects were reported by one in ten cannabis users, which included anxiety, drowsiness, and fast heart rate.
 
- <blockquote class="blockquote">When patients were asked about the effect self-management had on their need for medications needed to manage their endometriosis symptoms, the most effective was cannabis. Fifty six percent of cannabis users reported being able to reduce their endometriosis related medication by more than 50% and another 27% percent of users reported being able to reduce medication by 25–50%.
+<blockquote class="blockquote">When patients were asked about the effect self-management had on their need for medications needed to manage their endometriosis symptoms, the most effective was cannabis. Fifty six percent of cannabis users reported being able to reduce their endometriosis related medication by more than 50% and another 27% percent of users reported being able to reduce medication by 25–50%.
 
 <cite><a href="https://www.jogc.com/article/S1701-2163(19)30808-4/fulltext" target="_blank" rel="noopener noreferrer">- Cannabis Use, A Self-Management Strategy Among Australian Women With Endometriosis: Results From A National Online Survey</a></cite>
 
@@ -335,13 +335,13 @@ The following resources provide more information on cannabis use for endometrios
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
-* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
-* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
-* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
-* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
-* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
-* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
-* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
-* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
-* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
-* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)
+1. [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
+2. [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
+3. [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
+4. [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
+5. [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
+6. [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
+7. [Hormonal Medications for Endometriosis](/articles/2020-02-09-hormonal-medications-for-endometriosis/)
+8. [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
+9. [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
+10. [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)

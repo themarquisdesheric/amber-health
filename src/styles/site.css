@@ -87,6 +87,15 @@ blockquote::before {
   text-align: center;
 }
 
+ol {
+  list-style: decimal;
+}
+
+ol > li:not(.tag) {
+  padding-left: .25rem;
+  margin-bottom: 1rem;
+}
+
 @media all and (min-width: 425px) {
   blockquote {
     margin: 2rem 1rem;   

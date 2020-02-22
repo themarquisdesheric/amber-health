@@ -27,7 +27,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 * [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
 * [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
 * [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
-* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
+* [Hormonal Medications for Endometriosis](/articles/2020-02-09-hormonal-medications-for-endometriosis/)
 * [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
 * [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
 * [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)

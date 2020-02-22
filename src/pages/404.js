@@ -8,7 +8,7 @@ const NotFoundPage = () => (
       <div className="pink-modal-wrapper">
         <div className="pink-modal-text p-4">
           <h1>404</h1>
-          <p className="text-white mt-4">This page has not been found... let's <Link to="/" className="underline text-black">go home</Link> instead?</p>
+          <p className="text-white mt-4">This page has not been found... let's <Link to="/" className="underline">go home</Link> instead?</p>
         </div>
       </div>
     </div>

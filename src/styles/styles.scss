@@ -78,7 +78,7 @@ p { color: $gray-text; }
     margin: 1rem 0;
   }
 
-  li:not(.tag) {
+  ul > li:not(.tag) {
     padding-left: 1.5rem;
     margin-bottom: 1rem;
     position: relative;
@@ -127,7 +127,7 @@ p { color: $gray-text; }
 }
 
 .topics a::before,
-li:not(.tag)::before {
+ul > li:not(.tag)::before {
   background: no-repeat center / contain url(/img/favicon-32.png);
   content: "";
   display: inline-block;
