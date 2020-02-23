@@ -23,7 +23,7 @@ tags:
  - orlissa
 draft: false
 --- 
-<h3>Hormonal Medications and Oral Contraceptives</h3>
+<h3>What are the Hormonal Medications options?</h3>
 
 Many doctors use hormonal medications as a first line treatment for endometriosis. Hormone medication can come in the form of oral contraceptives or birth control pills, progestin only pills, progestin medicines, and GnRH agonists. While hormonal medications are the most commonly prescribed drugs for endometriosis, they have been shown to <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">not eradicate</a>, <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">stop progression</a>, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">improve the disease long term</a>.
 
