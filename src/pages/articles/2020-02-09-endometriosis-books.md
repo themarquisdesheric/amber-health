@@ -43,7 +43,8 @@ This collection of books covers an array of topics on endometriosis, including d
 
 <h3>Surgery</h3> 
 
-* <a href="https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574" target="_blank" rel="noopener noreferrer">Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know</a> by Andrew S. Cook, MD and Robert Franklin, MD - This book provides extensive information about the realities and the myths of endometriosis and pelvic pain. Endometriosis specialists explain why so many patients are misunderstood and misdiagnosed, why most endometriosis surgery is done so poorly, the principles and correct techniques for effective endometriosis surgery, and how to find the best doctors and healthcare providers. I would highly recommend this book. This is a must read for those considering surgery! It provides essential information that you should know before making a decision about surgery and when choosing surgical methods.
+* <a href="https://www.amazon.com/Stop-Endometriosis-Pelvic-Pain-Doctor/dp/0984953574" target="_blank" rel="noopener noreferrer">Stop Endometriosis and Pelvic Pain: What Every Woman and Her Doctor Need to Know</a> by Andrew S. Cook, MD and Robert Franklin, MD - This book provides extensive information about the realities and the myths of endometriosis and pelvic pain. Endometriosis specialists explain why so many patients are misunderstood and misdiagnosed, why most endometriosis surgery is done so poorly, the principles and correct techniques for effective endometriosis surgery, and how to find the best doctors and healthcare providers. I would highly recommend this book. This is a must read for those considering surgery! It provides essential information that you should know before making a decision about surgery and when choosing surgical methods. The book was published in 2012 so some of information may be outdated.
+* <a href="https://www.amazon.com/Beating-Endo-Holistic-Treatment-Endometriosis-ebook/dp/B07CL2R74T" target="_blank" rel="noopener noreferrer">Beating Endo: How to Reclaim Your Life from Endometriosis</a> by Amy Stein DPT and Dr. Iris Kerin Orbuch - This informational, multidisciplinary approached book was written by leading endometriosis specialists. They provide their clinical expertise through a whole mind and body approach including diet, physical therapy, excision surgery, and mindfulness. I recommended this in the Endo 101 Section above. Since it is written by an excision specialist, the descriptions and details on surgery are very informative. It’s important to understand the benefits and risks of the available surgical approaches. I would recommend this book to anyone considering surgery.
 
 <h3>Nutrition and Diet</h3>
 
@@ -84,13 +85,14 @@ This collection of books covers an array of topics on endometriosis, including d
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
-* [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
-* [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
-* [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
-* [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
-* [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
-* [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
-* [Hormonal Medications for Endometriosis](/articles/2019-09-17-books-for-endometriosis/)
-* [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
-* [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
-* [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)
+1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/2020-02-10-how-to-diagnosis-endometriosis/" target="_blank" rel="noopener noreferrer">How to Diagnosis Endometriosis</a>
+5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

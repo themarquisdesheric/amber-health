@@ -218,8 +218,8 @@ Another holistic approach to medicine is <a href="https://nccih.nih.gov/health/n
 
 These resources provide insights on a whole body approach to wellness with dietary and lifestyle advice that can aid in the healing process. While surgery is an accepted treatment approach, information on non-surgical approaches have been provided below. 
 
-* <a href="https://drbrighten.com/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her [book](/articles/2020-02-09-endometriosis-books/), which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily hormonal health information and lifestyle and nutritional advice. 
-* <a href="https://www.larabriden.com/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. We highly recommended her [book](/articles/2020-02-09-endometriosis-books/).
+* <a href="https://drbrighten.com/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">IG</a> for daily hormonal health information and lifestyle and nutritional advice. 
+* <a href="https://www.larabriden.com/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. I highly recommended her <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">book</a>.
 * <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach and support platform that was created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner.
 * <a href="https://peacewithendo.com/" target="_blank" rel="noopener noreferrer">Peace with Endo</a> by Aubree Deimler who is an author, coach, and energy healer who helps people with endometriosis naturally manage pain, increase energy, and find peace with endo.
 
@@ -335,13 +335,14 @@ The following resources provide more information on cannabis use for endometrios
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
-1. [Endometriosis 101](/articles/2020-02-10-endometriosis-101/)
-2. [Symptoms of Endometriosis](/articles/2020-02-10-symptoms-of-endometriosis/)
-3. [Causes of Endometriosis](/articles/2020-02-10-causes-of-endometriosis/)
-4. [How to Diagnosis Endometriosis](/articles/2020-02-10-how-to-diagnosis-endometriosis/)
-5. [Treatments for Endometriosis](/articles/2020-02-10-treatments-for-endometriosis/)
-6. [Surgical Treatment for Endometriosis](/articles/2020-02-09-surgical-treatment-for-endometriosis/)
-7. [Hormonal Medications for Endometriosis](/articles/2020-02-09-hormonal-medications-for-endometriosis/)
-8. [Complementary and Alternative Therapies for Endometriosis](/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/)
-9. [Endometriosis Resources ](/articles/2020-02-09-endometriosis-resources/)
-10. [Endometriosis Books ](/articles/2020-02-09-endometriosis-books/)
+1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/2020-02-10-how-to-diagnosis-endometriosis/" target="_blank" rel="noopener noreferrer">How to Diagnosis Endometriosis</a>
+5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
