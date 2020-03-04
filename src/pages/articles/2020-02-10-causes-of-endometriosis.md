@@ -3,7 +3,7 @@ templateKey: article
 title: Causes of Endometriosis
 date: 2020-02-17
 description: Learn about the current theories on the causes of endometriosis
-featuredImage: /img/pom-2.jpg
+featuredImage: /img/pom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '3'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
@@ -15,7 +15,7 @@ tags:
  - invisible illness
  - health
  - women’s health
-draft: true
+draft: false
 --- 
 
 <h2>What are the Potential Causes?</h2>

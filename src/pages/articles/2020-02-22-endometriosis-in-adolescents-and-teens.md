@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis in Adolescents and Teens
 date: 2020-02-10
 description: Learn about the unique presentation of symptoms in adolescents and how treatment is approached for teens and pre-teens.
-featuredImage: /img/pom-3.jpg
+featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '9'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
@@ -19,7 +19,7 @@ tags:
  - excision surgery
  - laparoscopy
  - adolescent and teen
-draft: true 
+draft: false 
 --- 
 <h2>Can Adolescents And Teens Have Endometriosis?</h2>
 

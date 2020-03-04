@@ -3,7 +3,7 @@ templateKey: article
 title: How to Diagnosis Endometriosis
 date: 2020-02-16
 description: Learn how endometriosis is diagnosed and about the importance of diagnosis.
-featuredImage: /img/pom-2.jpg
+featuredImage: /img/sonjiawpom-3.jpg
 series: 'Endometriosis'
 seriesNumber: '4'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
@@ -16,7 +16,7 @@ tags:
  - health
  - women’s health
  - laparoscopy
-draft: true
+draft: false
 --- 
 
 <h2>How is it Diagnosed?</h2>

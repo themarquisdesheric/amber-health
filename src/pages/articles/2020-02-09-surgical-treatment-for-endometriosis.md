@@ -3,7 +3,7 @@ templateKey: article
 title: Surgical Treatment for Endometriosis
 date: 2020-02-13
 description: Learn about the surgical treatments for endometriosis, including excision and ablation.
-featuredImage: /img/pom-3.jpg
+featuredImage: /img/sonjiawpom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '6'
 seriesLink: '/articles/2020-02-10-endometriosis-series'

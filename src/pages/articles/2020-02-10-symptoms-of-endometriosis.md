@@ -3,7 +3,7 @@ templateKey: article
 title: Symptoms of Endometriosis
 date: 2020-02-18
 description: Learn about the symptoms of endometriosis
-featuredImage: /img/pom-2.jpg
+featuredImage: /img/sonjiawpom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '2'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
@@ -15,7 +15,7 @@ tags:
  - invisible illness
  - health
  - women’s health
-draft: true 
+draft: false 
 --- 
 
 <h2>What are the Symptoms?</h2>

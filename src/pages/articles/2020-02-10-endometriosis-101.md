@@ -17,7 +17,7 @@ tags:
  - women’s health
  - gender bias
  - racial bias
-draft: true 
+draft: false 
 --- 
 
 <h2>What is Endometriosis?</h2>

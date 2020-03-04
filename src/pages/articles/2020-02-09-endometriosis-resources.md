@@ -3,7 +3,7 @@ templateKey: article
 title: Endometriosis Resources
 date: 2020-02-10
 description: A guide to endometriosis resources, including support groups, locating specialists, mentions in media, and information on inclusive care.
-featuredImage: /img/sonjiawpom-1.jpg
+featuredImage: /img/sonjiawpom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '10'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
