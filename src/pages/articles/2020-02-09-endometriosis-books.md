@@ -1,7 +1,7 @@
 --- 
 templateKey: article
 title: Endometriosis Books
-date: 2020-02-09
+date: 2020-02-08
 description: A guide to books on endometriosis with book reviews.
 featuredImage: /img/pom-4.jpg
 series: 'Endometriosis'
