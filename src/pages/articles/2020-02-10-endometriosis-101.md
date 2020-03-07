@@ -98,7 +98,7 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 </blockquote>
 
-![pomegranate sketch](PomSketch4.png)
+<div class="page-break Slice3"></div>
 
 <h3>Resources</h3>
 

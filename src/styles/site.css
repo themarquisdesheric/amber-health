@@ -97,6 +97,18 @@ ol > li:not(.tag) {
   margin-bottom: 1rem;
 }
 
+.page-break::after {
+  display: inline-block;
+  content: "";
+  vertical-align: baseline;
+  width: 200px;
+  height: 200px;
+}
+
+.Slice3 {
+  background: no-repeat center / contain white url(/img/Slice3.png);
+}
+
 @media all and (min-width: 425px) {
   blockquote {
     margin: 2rem 1rem;   
