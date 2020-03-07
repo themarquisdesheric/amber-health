@@ -85,6 +85,8 @@ Clearly the hurdles to care for endometriosis are multidimensional and require a
 
 As a patient, being informed on the available treatments can help you advocate for your health needs and select the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the world and the medical community about endometriosis. Misinformation and myth has long dictated the approach to treating endometriosis. The following articles provide a detailed look at the treatments available for endometriosis, including surgery, hormonal medications, and complementary and alternative therapies. 
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>

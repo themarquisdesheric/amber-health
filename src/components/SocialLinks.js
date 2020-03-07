@@ -15,8 +15,8 @@ const MakeSocialLink = ({ title, href, src }) => (
 
 const SocialLinks = () => (
   <span className="social absolute block w-full text-center">
-    <MakeSocialLink title="instagram" href="https://instagram.com" src={instagram} />
-    <MakeSocialLink title="twitter" href="https://twitter.com" src={twitter} />
+    <MakeSocialLink title="The Chronic Instagram" href="https://www.instagram.com/thechronicinfo/" src={instagram} />
+    <MakeSocialLink title="The Chronic Twitter" href="https://twitter.com/info_chronic" src={twitter} />
   </span>
 );
 

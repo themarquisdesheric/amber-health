@@ -118,6 +118,8 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 * <a href="https://www.mdedge.com/podcasts/SGS-unscrubbed" target="_blank" rel="noopener noreferrer">Gynecologic Surgeons Unscrubbed</a> is a series-based podcast developed in collaboration with the Society of Gynecologic Surgeons focusing on surgical and medical education, hosted by Cara King, DO, MS.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> was created by Endo InVisible whose mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. If you need funds for excision surgery, they may be able to help.
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>

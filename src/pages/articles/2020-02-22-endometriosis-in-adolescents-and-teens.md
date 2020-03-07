@@ -100,6 +100,8 @@ If the answer is yes to any or all of these, he advises getting your preteen or 
 * <a href="https://theconversation.com/taking-the-pill-as-a-teenager-may-have-long-lasting-effect-on-depression-risk-121786" target="_blank" rel="noopener noreferrer">Taking The Pill As A Teenager May Have Long-lasting Effect On Depression Risk</a> looks at the findings of their study on hormonal contraceptive use in teens. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">Endometriosis In Adolescents Is A Hidden, Progressive and Severe Disease That Deserves Attention, Not Just Compassion</a> provides scientific insights on endometriosis in the younger patient population. 
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
