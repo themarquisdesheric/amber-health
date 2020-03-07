@@ -21,7 +21,7 @@ tags:
  - adolescent and teen
 draft: false 
 --- 
-<h2>Can Adolescents And Teens Have Endometriosis?</h2>
+<h2>Can Adolescents and Teens Have Endometriosis?</h2>
 
 Incorrectly, adolescents are often thought to be too young to be affected by endometriosis. Studies have shown endometriosis in patients as young as <a href="https://jamanetwork.com/journals/jama/article-abstract/1153958" target="_blank" rel="noopener noreferrer">11 years old</a> and other research suggests that two thirds of patients with endometriosis have symptoms <a href="https://endometriosis.org/resources/articles/teenagers/" target="_blank" rel="noopener noreferrer">before they are 20 years old</a>. The prevalence of endometriosis in adolescents with chronic pelvic pain, and/or dysmenorrhea resistance to OCPs, oral contraceptive pills, and NSAIDs is 62 percent. As high as <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">75 percent of adolescents with chronic pelvic pain resistant to OCPs</a> are later diagnosed with endometriosis.
 

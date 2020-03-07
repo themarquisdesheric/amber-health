@@ -22,7 +22,7 @@ tags:
 draft: false 
 --- 
 
-<h2>What are the Surgical Options?</h2>
+<h2>What Are the Surgical Options?</h2>
 
 The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method and your doctor's approach to endometriosis surgery to make the best informed decision for your care. 
 

@@ -20,7 +20,7 @@ tags:
 draft: false 
 --- 
 
-<h2>What is Endometriosis?</h2>
+<h2>What Is Endometriosis?</h2>
 
 Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">endometriosis tissue is different than the endometrium</a> which lines the uterus and is shed during a period. This is an important distinction since the tissues behave differently and aren’t structurally the same.
 
@@ -98,7 +98,9 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 </blockquote>
 
-![pomegranate sketch](PomSketch1.png)
+![hand drawn sketch of pink pomegranate with inner seeds](PomSketch1.png)
+
+![hand drawn sketch of pink pomegranate](PomSketch22.png)
 
 <h3>Resources</h3>
 

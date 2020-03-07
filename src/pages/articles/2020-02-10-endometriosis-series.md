@@ -2,7 +2,7 @@
 templateKey: article
 title: Endometriosis Series
 date: 2020-02-20
-description: Table of Contents
+description: Use this overview of articles to navigate the series and learn more about endometriosis.
 featuredImage: /img/sonjiawpom-1.jpg
 series: ''
 seriesNumber: ''
@@ -19,7 +19,9 @@ draft: false
 --- 
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, racial bias, and misinformation. Due to the lack of knowledgeable providers,  it's estimated that there are <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">as few as 100 excision surgeons</a> worldwide for a patient population exceeding 175 million people. Clearly there is a stark lack of support, which makes appropriate care even more scarce.  This series is dedicated to bringing up to date, accurate information and resources to patients and the public. 
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+![hand drawn sketch of pink pomegranate with inner seeds](PomSketch1.png)
+
+<h3 class="table-of-contents">Endometriosis Articles</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
