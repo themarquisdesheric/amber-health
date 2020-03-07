@@ -309,6 +309,10 @@ small { font-family: $averia-font; }
   }
 }
 
+a:visited {
+  color: $theme-brown;
+}
+
 .content {
   padding: 1.5rem;
   margin-bottom: 3rem;

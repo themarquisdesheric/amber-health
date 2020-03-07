@@ -129,6 +129,8 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a> details the history of the pill through a feminist lens. 
 * <a href="https://www.amazon.com/dp/0062937324?tag=harpercollinsus-20" target="_blank" rel="noopener noreferrer">Fix Your Period: Six Weeks to Banish Bloating, Conquer Cramps, Manage Moodiness, and Ignite Lasting Hormone Balance</a> is a life-changing step-by-step natural protocol to ignite lasting hormone balance and improve everything from PMS, period pain, and heavy periods to irregular cycles and missing periods.
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>

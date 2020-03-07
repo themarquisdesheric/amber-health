@@ -100,7 +100,7 @@ When approaching medical care and treatment, it’s important to understand that
 * The effects of having multiple diseases is wide reaching and demands a multidisciplinary approach to care. Your care team will likely include several providers from various specialties. 
 * Endometriosis specialists are highly trained, skilled surgeons who have dedicated their training and professional practice to treating this complex disease. Gynecologists are not equipped to perform the complex surgery needed and should refer patients to a capable and knowledgeable specialist. 
 
-While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a> theories on etiology are examined. 
+While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

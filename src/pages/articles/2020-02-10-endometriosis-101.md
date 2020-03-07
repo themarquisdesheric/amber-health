@@ -98,9 +98,7 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 </blockquote>
 
-![hand drawn sketch of pink pomegranate with inner seeds](PomSketch1.png)
-
-![hand drawn sketch of pink pomegranate](PomSketch22.png)
+<div class="page-break Slice3"></div>
 
 <h3>Resources</h3>
 
@@ -120,6 +118,8 @@ The following are trusted informational resources that explain endometriosis, di
 * <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is an informational guide on endometriosis that was written by a variety of doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on endometriosis and the treatment modalities to make informed decisions in their care. This is a must read. 
 
 ![endographic](EndoGraph101.jpg)
+
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

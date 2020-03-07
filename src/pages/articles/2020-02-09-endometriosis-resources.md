@@ -262,6 +262,8 @@ The following are opportunities to get involved in endometriosis research and co
 * <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. At the same time, it contributes to the largest collection of clinical data about endometriosis, which will be used to <a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
 * <a href="https://feinstein.northwell.edu/institutes-researchers/institute-molecular-medicine/robert-s-boas-center-for-genomics-and-human-genetics/rose-research-outsmarts-endometriosis" target="_blank" rel="noopener noreferrer">The ROSE Study (Research OutSmarts Endometriosis)</a> is researching how to diagnose endometriosis by analyzing menstrual blood. Learn More and sign up for the Clinical Study.
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>

@@ -333,6 +333,8 @@ The following resources provide more information on cannabis use for endometrios
 * <a href="https://drjess.com/new-breakthrough-endometriosis-cannabis/" target="_blank" rel="noopener noreferrer">The New Breakthrough for Endometriosis: Cannabis?</a> provides a deeper look at the enndocannabinoid system and how cannabis works in the body.
 * <a href="http://theconversation.com/1-in-10-women-with-endometriosis-report-using-cannabis-to-ease-their-pain-126516" target="_blank" rel="noopener noreferrer">1 in 10 Women with Endometriosis Report Using Cannabis to Ease Their Pain</a> discusses the results of a survey of endometriosis patients. 
 
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a></p>
+
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
