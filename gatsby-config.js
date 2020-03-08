@@ -4,12 +4,14 @@ module.exports = {
   siteMetadata: {
     title: 'The Chronic',
     description:
-      'A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety'
+      'A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety',
+    siteUrl: 'https://www.thechronic.info'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
+    'gatsby-plugin-sitemap',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
