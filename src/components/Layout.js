@@ -39,7 +39,7 @@ const TemplateWrapper = ({ children, className = '' }) => {
         />
       </Helmet>
       <Header />
-      <main className={`main-content ${className}`}>{children}</main>
+      <main className={`main-content mt-16 ${className}`}>{children}</main>
       <Footer />
     </div>
   );
