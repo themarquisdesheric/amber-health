@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
@@ -6,6 +6,21 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import Breadcrumbs from '../components/Breadcrumbs';
+
+const DonationLink = () => (
+  <p className="donation-link text-sm mt-6 py-6">
+    If you found this website useful, please consider <a href="/about#donate">donating</a>
+  </p>
+);
+
+const MedicalDisclaimer = () => (
+  <Fragment>
+    <hr className="mt-8" />
+    <p className="disclaimer text-sm italic mt-12 mb-0">
+      This website offers health and wellness information that is provided for informational purposes only. This information is not intended as a substitute for the advice provided by your physician or other healthcare professionals. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. Always speak with your physician or other healthcare professionals before taking any medication, or nutritional/herbal supplement, or using any treatment. Contact your healthcare provider promptly if you have or suspect that you have a health concern. Do not disregard professional medical advice or delay in seeking professional advice because of something you have read on this website. The use of any information provided on this website is solely at your own risk.
+    </p>
+  </Fragment>
+);
 
 export const ArticleTemplate = ({
   content,
@@ -30,6 +45,9 @@ export const ArticleTemplate = ({
             {title}
           </h1>
           <p className="pb-8 mb-12">{description}</p>
+
+          <div className="sharethis-inline-share-buttons mb-8" />
+          
           {series && (
             <p className="series italic">
               This is part {seriesNumber} of the &nbsp;
@@ -37,6 +55,7 @@ export const ArticleTemplate = ({
             </p>
           )}
           <PostContent content={content} className="article-content flex flex-col items-center" />
+
           {tags && tags.length ? (
             <ul className="tags mt-16">
               {tags.map(tag => (
@@ -47,9 +66,8 @@ export const ArticleTemplate = ({
             </ul>
           ) : null}
 
-          <p className="disclaimer text-sm italic mt-8 mb-0">
-            This website offers health and wellness information that is provided for informational purposes only. This information is not intended as a substitute for the advice provided by your physician or other healthcare professionals. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. Always speak with your physician or other healthcare professionals before taking any medication, or nutritional/herbal supplement, or using any treatment. Contact your healthcare provider promptly if you have or suspect that you have a health concern. Do not disregard professional medical advice or delay in seeking professional advice because of something you have read on this website. The use of any information provided on this website is solely at your own risk.
-          </p>
+          <DonationLink />
+          <MedicalDisclaimer />
         </div>
       </div>
     </section>

@@ -44,7 +44,7 @@ All too commonly, endometriosis is improperly labeled as bad menstrual cramps. W
 
 Though incorrect, endometriosis is commonly thought to be cyclical in nature and only associated with menses. This couldn’t be further from the truth for many patients. While some patients will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature.
 
-<blockquote class="blockquote">A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
+<blockquote>A common myth is that endometriosis only affects a patient during their period. While this may be the case for some patients, for most patients the pain affects them both during and outside their period. 
 
 <cite><a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">- Vital Health Endometriosis Center </a></cite>
 
@@ -54,7 +54,7 @@ For example, some patients will only have pain and dysfunction surrounding their
 
 Endometriosis has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer">various mechanisms</a> that can create pain. This includes inflammatory pain from the inflamed internal environment, pain from compression or infiltration of nerves by lesions, adhesions, fibrous tissue, organ compression, and neuropathic pain due to surgery or lesions. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">Pain</a> is a common and debilitating symptom of the disease. Patients experience both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6257623/" target="_blank" rel="noopener noreferrer">somatic and visceral</a> types of pain. Somatic pain arises from triggering sensory nerves that are located in skin and tissue like tendons, muscles, and joints. Visceral pain comes from within the inner organs, abdomen, and skeleton and can be referred to other locations. 
 
-<blockquote class="blockquote">Endometriosis is an unusual condition because of the potential of a variety of different mechanisms to generate pain. These include direct compression/infiltration of nerves by the lesions, inflammatory pain due to the enhanced inflammatory environment of the pelvis and ‘neuropathic’ pain secondary to damage of pelvic nerves during surgery or of the new nerves directly infiltrating the lesions.
+<blockquote>Endometriosis is an unusual condition because of the potential of a variety of different mechanisms to generate pain. These include direct compression/infiltration of nerves by the lesions, inflammatory pain due to the enhanced inflammatory environment of the pelvis and ‘neuropathic’ pain secondary to damage of pelvic nerves during surgery or of the new nerves directly infiltrating the lesions.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/" target="_blank" rel="noopener noreferrer">- Central Changes Associated with Chronic Pelvic Pain and Endometriosis
 </a></cite>
@@ -63,7 +63,7 @@ Endometriosis has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501205/
 
 Endometriosis symptoms have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of a patient’s daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance. It's no exaggeration to say that endometriosis can cost patients their <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">bodily organs, bodily functions, dignity, financial security, careers, and so much more</a>. 
 
-<blockquote class="blockquote">The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
+<blockquote>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">- The Impact of Endometriosis Upon Quality of Life: A Qualitative Analysis
 </a></cite>
@@ -83,7 +83,7 @@ It’s important to note that black women have a higher prevalence of both
 
 Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">higher risk</a> of ovarian and breast cancers and some autoimmune, cardiovascular, and atopic diseases. There is no current explanation or understanding in how these conditions overlap but the prevalence is significant. Further research is needed to understand the connection between these conditions. 
 
-<blockquote class="blockquote">Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. 
+<blockquote>Increasing evidence suggests that endometriosis patients are at higher risk of several chronic diseases. Although the underlying mechanisms are not yet understood, the available data to date suggest that endometriosis is not harmless with respects to patient’s long-term health. 
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">- Endometriosis: A High-Risk Population for Major Chronic Diseases?
 </a></cite>
