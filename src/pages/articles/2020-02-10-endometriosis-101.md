@@ -24,7 +24,7 @@ draft: false
 
 Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">endometriosis tissue is different than the endometrium</a> which lines the uterus and is shed during a period. This is an important distinction since the tissues behave differently and aren’t structurally the same.
 
-<blockquote class=”blockquote”>Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally and behave differently from the normal endometrium which is shed during a period.  
+<blockquote>Endometriosis is characterized by the presence of endometrial-like tissue located outside the womb. These fragments are different structurally and behave differently from the normal endometrium which is shed during a period.  
 
 <cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a></cite>
 
@@ -32,7 +32,7 @@ Endometriosis is a condition in which endometrial-like tissue that is located ou
 
 Many doctors and resources improperly define the two types of tissue as being identical. This is not only inaccurate but also problematic when trying to understand the disease mechanisms involved and to develop appropriate treatments. Hundreds of differences have been found between the two including those in their genetics, hormone receptors, and appearance. 
 
-<blockquote class=”blockquote”>It was once thought that endometriosis was exactly identical to the endometrium, but now we know that there are hundreds of basic and profound differences between endometriosis and endometrium. These differences include genetic differences between the two types of tissue as well as differences in enzymatic activity, hormone receptors, hormone responsiveness, microscopic appearance, and visual appearance. 
+<blockquote>It was once thought that endometriosis was exactly identical to the endometrium, but now we know that there are hundreds of basic and profound differences between endometriosis and endometrium. These differences include genetic differences between the two types of tissue as well as differences in enzymatic activity, hormone receptors, hormone responsiveness, microscopic appearance, and visual appearance. 
 
 <cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">- 100 Questions and Answers about Endometriosis</a></cite>
 
@@ -44,7 +44,7 @@ Many doctors and resources improperly define the two types of tissue as being id
 
 Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas. Endometriosis has been found on every internal structure except for <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. When endometriosis is located outside of the reproductive organs it's classified as extra-pelvic. While endometriosis has been found in all 11 systems of the body, the majority of <a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">extra-pelvic endometriosis </a> is found in the digestive, urinary, respiratory, and skin systems. Examples of these locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
-<blockquote class=”blockquote”>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
+<blockquote>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
 
 <cite><a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">- Extra Pelvic Not Rare</a></cite>
 
@@ -54,7 +54,7 @@ Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic 
 
 The endometriosis contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. The secretions substance has not been identified but it is likely irritating to nerves in the peritoneal lining and nearby capillaries which could cause bleeding and pain. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in scar tissue and adhesions, which bind organs and tissue together. Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
 
-<blockquote class=”blockquote”>Endometriosis is composed of glandular tissue surrounded by tissue called stroma. All glandular tissues secrete substances. This substance leaks out into surrounding tissue and can be very irritating. These secretions can destabilize adjacent capillaries, causing them to bleed, which may be part of the pain patients with endometriosis experience. Of course, many endo lesions are not associated with any bleeding at all, so the secretions themselves must have the ability to irritate tiny nerve in the peritoneal lining and the surrounding tissues.
+<blockquote>Endometriosis is composed of glandular tissue surrounded by tissue called stroma. All glandular tissues secrete substances. This substance leaks out into surrounding tissue and can be very irritating. These secretions can destabilize adjacent capillaries, causing them to bleed, which may be part of the pain patients with endometriosis experience. Of course, many endo lesions are not associated with any bleeding at all, so the secretions themselves must have the ability to irritate tiny nerve in the peritoneal lining and the surrounding tissues.
 
 <cite><a href="https://endometriosis.org/resources/selfhelp-books/100-questions-and-answers-about-endometriosis/" target="_blank" rel="noopener noreferrer">- 100 Questions and Answers about Endometriosis
 </a></cite>
@@ -68,7 +68,7 @@ While a complete understanding of the disease mechanism remains elusive, endomet
 
 Due to the complexity and insidious nature of the disease, we must learn a great deal more before we understand the process of endometriosis. What we know for certain is that endometriosis patients often experience chronic, severe, and debilitating  pain and symptoms. This significantly deteriorates their <a href="https://www.karger.com/Article/Abstract/494254?fbclid=IwAR0PXEJR8XQJ3JyLtH2LNKy61j95QVlz2AuNDna0XOrepbLnmJHRu-_PZK0" target="_blank" rel="noopener noreferrer">quality of life</a> and ability to work which has wide reaching negative social, mental, socioeconomic, legal, and political implications. 
 
-<blockquote class=”blockquote”>Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected. Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.  
+<blockquote>Endometriosis represents a significant clinical challenge commonly associated with reduced quality of life in those affected. Symptoms are frequently wide-ranging and often start early in life, but may be underappreciated by medical and lay communities alike.  
 
 <cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a></cite>
 
@@ -76,7 +76,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, bowel, and throughout the body. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. Some patients have several <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>.
 
-<blockquote class=”blockquote”>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
+<blockquote>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/15715035/" target="_blank" rel="noopener noreferrer">- The Impact of Endometriosis Upon Quality of Life: A Qualitative Analysis</a></cite>
 
@@ -92,7 +92,7 @@ Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-inv
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endometriosis care is even more stark. Gendered language surrounds the discussion of endometriosis. Anyone with a uterus, regardless of identity, can have the disease. This includes individuals who menstruate and those who do not. Incorrectly, trans men and non-binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
-<blockquote class=”blockquote”>It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected, across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due.
+<blockquote>It is also imperative to look beyond gendered health and include all persons, many of whom who are  often struggling to access endometriosis diagnosis, treatment and supportive, quality care in a traditionally female-identified space. The oft-overlooked, unique considerations in healthcare settings that fail to be inclusive can lead to additional stressors, further isolation and impaired treatments. Without a doubt: endometriosis has a significant social and psychological impact on the diverse population affected, across several domains of their lives. The time for the disease to receive recognition as a major public health issue is long past due.
 
 <cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">- Center for Endometriosis Care</a></cite>
 
@@ -102,7 +102,7 @@ Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-inv
 
 While the disease mechanism remains largely a mystery, we must use the information that we know to spread awareness, fund research, and promote understanding in the medical and patient communities. Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible for their neglect is equally unnerving. 
 
-<blockquote class=”blockquote”>Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible for their neglect is equally unnerving. 
+<blockquote>Raising awareness for endometriosis means challenging racial and gendered medical bias. It means demanding a better quality of care, respect, and an equal voice. It requires a more meaningful dialogue and accountability from society and the medical community. Though the amount of people affected by endometriosis is staggering, the amount of unrelenting misinformation and medical dogma responsible for their neglect is equally unnerving. 
 
 <cite><a href="/" target="_blank" rel="noopener noreferrer">- The Chronic</a></cite>
 

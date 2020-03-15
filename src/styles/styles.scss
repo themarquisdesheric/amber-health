@@ -162,6 +162,23 @@ ul > li:not(.tag)::before {
   color: $theme;
 }
 
+.donation-link a {
+  color: $theme;
+}
+
+#donate {
+  background: $theme-opaque;
+  
+  p {
+    color: $white;
+  }
+
+  form {
+    min-width: 150px;
+    width: 150px;
+  }
+}
+
 .disclaimer {
   text-align: justify;
   hyphens: auto;

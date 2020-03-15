@@ -37,9 +37,10 @@ const TemplateWrapper = ({ children, className = '' }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.png`}
         />
+        <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e6573e0d0c39800126ea9ef&product=inline-share-buttons&cms=website' async='async'></script>
       </Helmet>
       <Header />
-      <main className={`main-content ${className}`}>{children}</main>
+      <main className={`main-content mt-16 ${className}`}>{children}</main>
       <Footer />
     </div>
   );

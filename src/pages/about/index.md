@@ -2,7 +2,7 @@
 templateKey: about-page
 ---
 
-<blockquote class=”blockquote”>
+<blockquote>
   Healing is a matter of time, but it is sometimes also a matter of opportunity.
   <cite>- Hippocrates</cite>
 </blockquote>

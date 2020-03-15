@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 
 import Layout from '../components/Layout';
 
@@ -43,31 +43,37 @@ export const IndexPageTemplate = ({
             height: 'calc(100vh - 65px)'
           }}
         >
-          <div className="pink-modal-wrapper max-w-xl py-4">
-            <p className="pink-modal-text text-md">
-              {heroText}
-            </p>
-          </div>
+          <Link to="/articles">
+            <div className="pink-modal-wrapper max-w-xl py-4">
+              <p className="pink-modal-text text-md">
+                {heroText}
+              </p>
+            </div>
+          </Link>
         </section>
         
         <section className="snippets" style={{ background: 'rgb(65, 25, 19)' }}>
           {snippets.map(({ image, header, text }) => (
             <div key={header}>
-              <figure>
-                <img src={image} alt="pomegranate" />
-                <figcaption className="text-xl text-bold">
-                  {header}
-                </figcaption>
-              </figure>
-              <p>{text}</p>
+              <Link to="/articles">
+                <figure>
+                  <img src={image} alt="pomegranate" />
+                  <figcaption className="text-xl text-bold">
+                    {header}
+                  </figcaption>
+                </figure>
+                <p>{text}</p>
+              </Link>
             </div>
           ))}
         </section>
         
         <section className="p-6" style={{ background: 'rgba(179, 86, 75, 0.5)' }}>
-          <p className="max-w-xl" style={{ color: '#fff' }}>
-            {postSnippetsText}
-          </p>
+          <Link to="/articles">
+            <p className="max-w-xl" style={{ color: '#fff' }}>
+              {postSnippetsText}
+            </p>
+          </Link>
         </section>
       </div>
     </div>

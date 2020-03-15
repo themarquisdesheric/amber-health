@@ -27,7 +27,7 @@ Incorrectly, adolescents are often thought to be too young to be affected by end
 
 Clearly, the adolescent population is commonly affected by endometriosis and experience an early onset of symptoms. This makes sense when you consider the hormonal changes taking place at this transitional time. During the developmental stages of teenage years, hormones begin to fluctuate and the body starts producing estrogen. This change in hormones can initiate the pain and symptoms of endometriosis. Endometriosis lesions have been found to occur in patients both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">before menstruation and early after it</a>.
 
-<blockquote class="blockquote">Those who experience menstruation at an especially early, pre-teen age –between the ages of 9-12 for example – may also experience difficulties in getting diagnosed and receiving the proper care because so few in the general public, as well as the general medical community, realize that endometriosis can affect patients at such a young age.
+<blockquote>Those who experience menstruation at an especially early, pre-teen age –between the ages of 9-12 for example – may also experience difficulties in getting diagnosed and receiving the proper care because so few in the general public, as well as the general medical community, realize that endometriosis can affect patients at such a young age.
 
 <cite><a href="http://nezhat.org/endometriosis-of-young-girls-and-teenagers/" target="_blank" rel="noopener noreferrer">- Endometriosis of Young Girls and Teenagers</a></cite>
 
@@ -43,7 +43,7 @@ Pain and symptoms can greatly interfere with school attendance, academic perform
 
 Adolescents may be wary of speaking about their bodies and health openly. Routinely checking for endometriosis would allow for a more open dialog that may uncover signs or symptoms that the patient has dismissed as normal. The stigma surrounding pain and menstrual pain has given many the false impression that pain is normal. This antiquated myth keeps many who are suffering silenced. 
 
-<blockquote class="blockquote">In addition, when endometriosis appears during adolescence, there is likelihood that the disease will progress and, if left untreated, produce adverse effects that go beyond pain, and include infertility. Finally, a majority of adolescent girls with chronic pelvic pain not responding to conventional medical therapy have endometriosis. For all these reasons, an early identification of the disease may go a long way in slowing or preventing progression.
+<blockquote>In addition, when endometriosis appears during adolescence, there is likelihood that the disease will progress and, if left untreated, produce adverse effects that go beyond pain, and include infertility. Finally, a majority of adolescent girls with chronic pelvic pain not responding to conventional medical therapy have endometriosis. For all these reasons, an early identification of the disease may go a long way in slowing or preventing progression.
 
 <cite><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">- Endometriosis In Adolescents Is A Hidden, Progressive and Severe Disease that Deserves Attention, Not Just Compassion</a></cite>
 
@@ -55,7 +55,7 @@ Specialists agree that <a href="https://www.endofound.org/can-early-detection-an
 
 Endometriosis care for teens requires special attention and a fine tuned approach for their unique needs. Studies on hormonal medication use in younger populations are limited. Due to this lack of data, the true impact of treatment is not known. Placing a teen on hormonal medications will suppress their natural puberty process and replace it with synthetic chemicals, which could <a href="https://theconversation.com/taking-the-pill-as-a-teenager-may-have-long-lasting-effect-on-depression-risk-121786" target="_blank" rel="noopener noreferrer">potentially lead to developmental concerns</a>. 
 
-<blockquote class="blockquote">Puberty is a critical life stage that is marked by rapid growth and changes in the body and brain. In animals, sex hormones such as estrogen and progesterone are known to affect how the brain develops during puberty. If the same is true for humans, taking synthetic estrogen and/or progesterone — core ingredients found in most formulations of the pill — during this sensitive period could affect development in ways that have long-lasting consequences on mental health.
+<blockquote>Puberty is a critical life stage that is marked by rapid growth and changes in the body and brain. In animals, sex hormones such as estrogen and progesterone are known to affect how the brain develops during puberty. If the same is true for humans, taking synthetic estrogen and/or progesterone — core ingredients found in most formulations of the pill — during this sensitive period could affect development in ways that have long-lasting consequences on mental health.
 
 <cite><a href="https://theconversation.com/taking-the-pill-as-a-teenager-may-have-long-lasting-effect-on-depression-risk-121786" target="_blank" rel="noopener noreferrer">- Taking The Pill As A Teenager May Have Long-lasting Effect On depression Risk</a></cite>
 
@@ -65,7 +65,7 @@ The largest study on hormonal contraceptive use in women concluded that there is
 
 Interestingly, a retrospective study of 90 surgically treated adolescents experienced pain recurrence and exacerbation of pain <a href="https://www.ncbi.nlm.nih.gov/pubmed/19646673" target="_blank" rel="noopener noreferrer">while on continuous hormonal medications</a>. The efficacy and potential side effects of hormonal medications are discussed in further detail in <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Special consideration should be given to the potential side effects and long term effects of hormonal medications. More research is needed to be certain on the outcomes of hormonal medication use in teens. 
 
-<blockquote class="blockquote">If a patient has symptoms consistent with a diagnosis of endometriosis, it is crucial that the diagnosis be proven before subjecting a young person to prolonged bouts of powerful drugs. Sometimes physical abnormalities can cause painful symptoms. Such abnormalities can be corrected surgically and are not helped at all by medications.
+<blockquote>If a patient has symptoms consistent with a diagnosis of endometriosis, it is crucial that the diagnosis be proven before subjecting a young person to prolonged bouts of powerful drugs. Sometimes physical abnormalities can cause painful symptoms. Such abnormalities can be corrected surgically and are not helped at all by medications.
 
 <cite><a href="http://centerforendo.com/endometriosis-in-teenagers" target="_blank" rel="noopener noreferrer">- Endometriosis in Teenagers</a></cite>
 
@@ -79,7 +79,7 @@ Since research has not focused on the treatment of adolescent endometriosis, <a 
 
 The Endometriosis Foundation of America has developed some important questions for parents to ask their teens and pre-teens if they suspect endometriosis.
 
-<blockquote class="blockquote">It's advised that parents check in with their young teens and focus on these key questions:
+<blockquote>It's advised that parents check in with their young teens and focus on these key questions:
 
 Is your teen missing school every month because of their period?
 
