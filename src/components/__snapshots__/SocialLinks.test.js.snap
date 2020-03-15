@@ -5,14 +5,14 @@ exports[`SocialLinks 1`] = `
   className="social absolute block w-full text-center"
 >
   <MakeSocialLink
-    href="https://instagram.com"
+    href="https://www.instagram.com/thechronicinfo/"
     src="test-file-stub"
-    title="instagram"
+    title="The Chronic Instagram"
   />
   <MakeSocialLink
-    href="https://twitter.com"
+    href="https://twitter.com/info_chronic"
     src="test-file-stub"
-    title="twitter"
+    title="The Chronic Twitter"
   />
 </span>
 `;

@@ -2,7 +2,7 @@
 
 exports[`Header 1`] = `
 <header
-  className="site-header relative z-10"
+  className="site-header fixed w-full top-0 bg-white z-10"
 >
   <MobileMenu
     links={

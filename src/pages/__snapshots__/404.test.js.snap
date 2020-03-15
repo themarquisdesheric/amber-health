@@ -19,7 +19,7 @@ exports[`NotFoundPage/404 1`] = `
         >
           This page has not been found... let's 
           <mockConstructor
-            className="underline text-black"
+            className="underline"
             to="/"
           >
             go home
