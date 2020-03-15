@@ -103,6 +103,7 @@ ol > li:not(.tag) {
   vertical-align: baseline;
   width: 200px;
   height: 200px;
+  margin: 2rem 0;
 }
 
 .Slice3 {

@@ -28,7 +28,7 @@ draft: false
 
 The etiology of endometriosis is complex and not completely understood. There are <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">general theories</a> on the causes of the disease but each has its limitations. No theory is adequate in describing the many factors that contribute to endometriosis’s manifestation and behaviors. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">No theory</a> can explain endometriosis in all patients, especially cis men and in extrapelvic manifestations. 
 
-A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms</a> that combine overtime to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
+A possible explanation is that individuals are born with <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">multiple mechanisms</a> that combine over time to create the perfect environment for triggering the disease. It’s also possible that the pain and symptoms are due to a variety of comorbid conditions such as autoimmune diseases, allergies, and environmental sensitivities. 
 
 <blockquote>No single theory explains endometriosis in all patients. Likely, we are born with mechanisms which, when later combined, 'the perfect storm' trigger the disease.
 
@@ -56,17 +56,17 @@ It’s thought that a dysfunctional immune system may allow for implantation of 
 
 <h3>Stem Cells</h3>
 
-The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stems cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed to fully understand. 
+The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stem cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed to fully understand. 
 
 <div class="page-break Slice1"></div>
 
 <h3>Genetics</h3>
 
-Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. Likely, endometriosis is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">complex gene trait</a> that results from an interaction of multiple genes and the environment. 
+Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative have disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. Likely, endometriosis is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">complex gene trait</a> that results from an interaction of multiple genes and the environment. 
 
 <h3>Environmental Toxins</h3>
 
-Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, the immune system, the endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. Research <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
+Environmental pollutants or toxins are hypothesized to cause changes to cells that alter cytokines, the immune system, the endocrine system, and growth factors which could promote endometriosis. Chemicals like <a href="https://drbrighten.com/causes-endometriosis-5-natural-treatment-strategies/" target="_blank" rel="noopener noreferrer">dioxins and  polychlorinated biphenyls (PCBs)</a> have been considered to increase this risk but further research is needed to be certain. <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Research studies</a> have shown that animals develop endometriosis when exposed to high levels of dioxin but this has not been proven in humans. 
 
 <h3>Halban’s Theory of Lymphatic Spread</h3> 
 
@@ -82,7 +82,7 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes, or HOX genes, play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> cause alterations to the normal gene expression patterns which leads to developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 
-<blockquote>The theory of mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.
+<blockquote>The theory of Mulleriosis proposes that the cause of endometriosis lies in developmental abnormalities in the female reproductive system. It proposes that endometriosis occurs due to abnormal differentiation or migration of any component of the mullerian duct system. This system is a channel in the early embryo that goes on to develop into the fallopian tubes, uterus, and cervix.
 
 <cite><a href="https://www.endofound.org/mulleriosis-embryonic-origin" target="_blank" rel="noopener noreferrer">- The Endometriosis Foundation of America</a></cite>
 
@@ -98,14 +98,14 @@ In conclusion, there is no single theory that is entirely adequate in describing
 
 </blockquote>
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-how-to-diagnosis-endometriosis/" target="_blank" rel="noopener noreferrer">How to Diagnosis Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a></p>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
 3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-to-diagnosis-endometriosis/" target="_blank" rel="noopener noreferrer">How to Diagnosis Endometriosis</a>
+4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
 5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
 6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
 7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
