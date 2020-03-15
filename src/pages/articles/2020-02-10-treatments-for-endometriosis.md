@@ -46,6 +46,8 @@ Specialists believe that <a href="http://centerforendo.com/endometriosis-underst
 
 </blockquote>
 
+<div class="page-break PomSketch4"></div>
+
 <h3>Cost of Care</h3>
 
 Receiving long term care from a variety of specialists can become extremely costly making it inaccessible for many patients. Due to an <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">antiquated approach</a> to managing complex chronic diseases, insurance policies do not cover complementary treatments and often healthcare providers do not offer them.
@@ -74,6 +76,8 @@ The available literature and data suggest that endometriosis impairs <a href="ht
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/21718982" target="_blank" rel="noopener noreferrer">- Impact of Endometriosis on Quality of Life and Work Productivity: A Multicenter Study Across Ten Countries</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice1"></div>
 
 Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to specialized medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 

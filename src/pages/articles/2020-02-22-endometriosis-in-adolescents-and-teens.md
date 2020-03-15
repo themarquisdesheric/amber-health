@@ -33,6 +33,8 @@ Clearly, the adolescent population is commonly affected by endometriosis and exp
 
 </blockquote>
 
+<div class="page-break Slice3"></div>
+
 <h3>Symptoms</h3>
 
 Symptoms can present primarily as chronic pain throughout the body or as urinary and/or bowel pain and dysfunction. As a teen starts to menstruate, their periods can become painful or they may have acyclical symptoms. This means that their symptoms occur in irregular patterns that are not synced to their period. Symptoms can happen any time or even constantly. Studies have suggested that adolescents with endometriosis appear to experience <a href="http://nezhat.org/endometriosis-of-young-girls-and-teenagers/" target="_blank" rel="noopener noreferrer">acyclical pain</a> more often than adults. 
@@ -70,6 +72,8 @@ Interestingly, a retrospective study of 90 surgically treated adolescents experi
 </blockquote>
 
 Since research has not focused on the treatment of adolescent endometriosis, <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">we do not know</a> if early treatment can prevent adult endometriosis. Progression of endometriosis in adolescents is characterized by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">extensive adhesions and lesion formation</a> but further data is needed to understand the progressive changes.
+
+<div class="page-break Slice1"></div>
 
 <h3>Key Questions To Ask Your Teen or Pre-Teen</h3>
 

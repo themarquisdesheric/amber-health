@@ -33,7 +33,7 @@ Many doctors use hormonal medications as a first line treatment for endometriosi
 
 </blockquote>
 
-<h3>How do they work?</h3>
+<h3>How Do They Work?</h3>
 
 In theory, hormonal medication is thought to decrease endometriosis tissue activity by halting or suppressing menses. However, there are <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">several problems</a> with this approach. Although suppressed, the endometriosis is still <a href="https://www.jmig.org/article/S1553-4650(16)30047-4/abstract" target="_blank" rel="noopener noreferrer">progressing and growing deeper</a>. Since the disease was never removed, the endometriosis tissue will reactivate once suppression stops and <a href="https://www.thecrrs.com/endometriosis-excision-surgery/" target="_blank" rel="noopener noreferrer">symptoms will return</a>. Unsurprisingly, <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">high recurrence rates</a> of disease are associated with all hormonal medications.
 
@@ -53,7 +53,9 @@ It’s important to understand that hormonal contraceptives deliver synthetic ho
 
 </blockquote>
 
-<h3>Effectiveness</h3>
+<div class="page-break Slice1"></div>
+
+<h3>What Is the Effectiveness?</h3>
 
 <blockquote class="blockquote">All medical therapy, whether administered as first-line treatment or postoperatively, is associated with high rates of disease recurrence.
 
@@ -85,14 +87,14 @@ After reviewing 16 trails, <a href="https://www.cochrane.org/CD003678/MENSTR_the
 
 </blockquote>
 
-<h3>Side Effects</h3>
+<div class="page-break PomSketch3"></div>
+
+<h3>What Are the Side Effects?</h3>
 
 On the other hand, we do know that hormonal medications can cause intolerable and significant side effects including <a href="https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.020084" target="_blank" rel="noopener noreferrer">stroke</a>, <a href="https://gut.bmj.com/content/45/2/165" target="_blank" rel="noopener noreferrer">Crohn's Disease</a>, and <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1700732" target="_blank" rel="noopener noreferrer">certain cancers</a>, including brain, breast, and liver cancer. Other side effects include <a href="https://www.ncbi.nlm.nih.gov/pubmed/27680324" target="_blank" rel="noopener noreferrer">depression</a>,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/2960241" target="_blank" rel="noopener noreferrer">an increased risk of cardiovascular disease</a>, and <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.01041/full" target="_blank" rel="noopener noreferrer">an impairment in the ability to recognize others’ emotional expressions</a>. Early research has shown that by altering the hormonal chemistry of the body with birth control it might <a href="https://drbrighten.com/can-birth-control-affect-who-youre-attracted-to/" target="_blank" rel="noopener noreferrer"> change users behaviors and impact mate selection.</a> 
 Studies have shown that it can lead to nutrient deficiencies, increase the risk of developing certain autoimmune diseases, and negatively impact your adrenal and thyroid health. 
 
 Headache, persistent pain, Pelvic inflammatory disease (PID), life-threatening infection, blood clots, liver tumors, ovarian cysts, mood changes, weight gain, loss of scalp hair, and less sexual desire are potential side effects listed in the medical brochures for <a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021098s019lbl.pdf" target="_blank" rel="noopener noreferrer">Yasmin</a>, <a href="https://labeling.bayerhealthcare.com/html/products/pi/Mirena_PI.pdf" target="_blank" rel="noopener noreferrer">Mirena</a>,  <a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020246s036lbl.pdf" target="_blank" rel="noopener noreferrer">Depo-Provera</a>, and <a href="https://www.nuvaring.com/risks-side-effects/" target="_blank" rel="noopener noreferrer">NuvaRing</a>. This is not an exhaustive list of side effects. The amount of potential side effects of hormonal medications is staggering and varies greatly patient to patient. Side effects can last permanently or long after cessation of the medication. 
-
-**BC chart**
 
 <h3>Elagolix or Orilissa</h3>
 

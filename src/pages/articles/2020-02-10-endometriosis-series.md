@@ -19,7 +19,7 @@ draft: false
 --- 
 Ignorance is not bliss when it comes to your health. Being truly informed about endometriosis and its treatment options is the only way to receive adequate medical care and successfully manage your health. Unfortunately, endometriosis has long been shrouded in myths, medical dogma, gender bias, racial bias, and misinformation. Due to the lack of knowledgeable providers,  it's estimated that there are <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">as few as 100 excision surgeons</a> worldwide for a patient population exceeding 175 million people. Clearly there is a stark lack of support, which makes appropriate care even more scarce.  This series is dedicated to bringing up to date, accurate information and resources to patients and the public. 
 
-![hand drawn sketch of pink pomegranate with inner seeds](PomSketch1.png)
+<div class="page-break PomSketch4"></div>
 
 <h3 class="table-of-contents">Endometriosis Articles</h3>
 

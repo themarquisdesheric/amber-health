@@ -38,6 +38,10 @@ Many doctors and resources improperly define the two types of tissue as being id
 
 </blockquote>
 
+<div class="page-break PomSketch1"></div>
+
+<h3>Where Is It Located?</h3>
+
 Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas. Endometriosis has been found on every internal structure except for <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">the spleen</a>. When endometriosis is located outside of the reproductive organs it's classified as extra-pelvic. While endometriosis has been found in all 11 systems of the body, the majority of <a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">extra-pelvic endometriosis </a> is found in the digestive, urinary, respiratory, and skin systems. Examples of these locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
 <blockquote class=”blockquote”>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
@@ -46,7 +50,9 @@ Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic 
 
 </blockquote>
 
-The endometriosis contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. The secretions substance has not been identified but it is likely irritating to nerves in the peritoneal lining and nearby capillaries which could cause bleeding and pain. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in scar tissue and adhesions, which bind organs and tissue together.  Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
+<h3>What Do We Know About Endometriosis?</h3>
+
+The endometriosis contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. The secretions substance has not been identified but it is likely irritating to nerves in the peritoneal lining and nearby capillaries which could cause bleeding and pain. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in scar tissue and adhesions, which bind organs and tissue together. Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
 
 <blockquote class=”blockquote”>Endometriosis is composed of glandular tissue surrounded by tissue called stroma. All glandular tissues secrete substances. This substance leaks out into surrounding tissue and can be very irritating. These secretions can destabilize adjacent capillaries, causing them to bleed, which may be part of the pain patients with endometriosis experience. Of course, many endo lesions are not associated with any bleeding at all, so the secretions themselves must have the ability to irritate tiny nerve in the peritoneal lining and the surrounding tissues.
 
@@ -76,9 +82,13 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
+<div class="page-break Slice1"></div>
+
+<h3>How Are Patients Affected?</h3>
+
 Currently it's estimated that over 176 million people worldwide are affected. While endometriosis predominately affects cis females, trans men, non-binary individuals, non-menstruators (premenarche, post hysterectomy, post menopause), and rarely cis men are afflicted. Even with an early onset of symptoms, a majority of patients will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to repeated dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
-Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. Patient education and empowerment has led to more awareness surrounding menstrual health and gender bias in medicine. 
+Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects cis females, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. Patient education and empowerment has led to more awareness surrounding menstrual health and gender bias in medicine. 
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endometriosis care is even more stark. Gendered language surrounds the discussion of endometriosis. Anyone with a uterus, regardless of identity, can have the disease. This includes individuals who menstruate and those who do not. Incorrectly, trans men and non-binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
@@ -98,7 +108,7 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 </blockquote>
 
-<div class="page-break Slice3"></div>
+<div class="page-break PomSketch2"></div>
 
 <h3>Resources</h3>
 
@@ -117,7 +127,7 @@ The following are trusted informational resources that explain endometriosis, di
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> creates access to easily shareable educational infographics designed to spread awareness about endometriosis. They are easy to share, eye catching, and provide accurate information. 
 * <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Endometriosis from A to Z</a> is an informational guide on endometriosis that was written by a variety of doctors and healthcare providers. The authors hope that endometriosis patients will educate themselves on endometriosis and the treatment modalities to make informed decisions in their care. This is a must read. 
 
-![endographic](EndoGraph101.jpg)
+![infographic on endometriosis facts](EndoGraph101.jpg)
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
 

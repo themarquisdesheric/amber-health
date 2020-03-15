@@ -53,6 +53,8 @@ These complementary and alternative therapies have been recommended by specialis
 * Meditation
 * Cannabis
 
+<div class="page-break PomSketch1"></div>
+
 <h2>Diet and Nutrition</h2> 
 
 Diet and nutrition have become areas of increased interest for potential disease management and prevention. Dietary modification and nutrition therapy may provide various benefits as a complementary therapy for treating endometriosis. Several studies have shown <a href="https://academic.oup.com/humrep/article/19/8/1755/2356458" target="_blank" rel="noopener noreferrer">a potential link</a> between endometriosis and diet. It's important to note that more research is needed to understand <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">the role that diet</a> may play in endometriosis and its symptoms. Based on the available information, several diet recommendations for endometriosis have been developed. 
@@ -120,6 +122,8 @@ For more information on diet and nutrition for endometriosis, explore these help
 * <a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">Diet and Endometriosis: Revisiting the Linkages to Inflammation</a> examines their relationship in disease management.
 * <a href="https://endometriosis.net/complementary-alternative-treatment/diet/" target="_blank" rel="noopener noreferrer">Diet Management for Endometriosis</a> looks at some potential foods that could trigger endometriosis symptoms. 
 * <a href="https://www.healthline.com/nutrition/endometriosis-diet-tips" target="_blank" rel="noopener noreferrer">Endometriosis Diet and Tips</a> provides 8 tips to help address endometriosis through diet.
+
+<div class="page-break Slice1"></div>
 
 <h2>Physical Therapy</h2>
 
@@ -202,6 +206,8 @@ For more information on Yoga and its potential ability to address endometriosis 
 * <a href="https://physioyoga.ca/home" target="_blank" rel="noopener noreferrer">Physio Yoga with Shelly Prosko</a> is a program that adapts yoga and exercise to patients' specific needs. 
 * <a href="https://www.youtube.com/channel/UC8P8jYUnqtkxbTdJ2_xwWuQ" target="_blank" rel="noopener noreferrer">FemFusion Fitness</a> has free videos that focus on yoga, pelvic health, the pelvic floor, and women's health.
 
+<div class="page-break Slice3"></div>
+
 <h2>Integrative and Holistic Medicine</h2>
 
 <a href="https://nccih.nih.gov/health/integrative-health" target="_blank" rel="noopener noreferrer">Integrative medicine</a> is another form of a complementary therapy that may help treat endometriosis and benefit patients. Integrative medicine is defined as a practice of medicine that is holistic in its approach. Holistic means the doctor considers the whole person, including their physical, mental, emotional, and social health when evaluating and treating the patient. Integrative medicine uses both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">conventional and complementary approaches</a> together to provide a patient focused plan. This application of medicine uses a comprehensive approach to disease management, which can benefit an endometriosis patient. 
@@ -280,6 +286,8 @@ For additional information on meditation and mindfulness, explore the following 
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/27658913" target="_blank" rel="noopener noreferrer">Mindfulness Meditation for Chronic Pain: Systematic Review and Meta-analysis</a> found a redution in pain and deprssive symptoms in patients. 
 * <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a> provides several examples of practices and how they may help symptoms. 
 * <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a> looks at the benefits of meditation for pain and endometriosis related symptoms. 
+
+<div class="page-break PomSketch4"></div>
 
 <h2>Cannabis</h2>
 

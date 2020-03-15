@@ -37,6 +37,8 @@ Due to prevailing misinformation, healthcare providers often misdiagnose endomet
 
 </blockquote>
 
+<div class="page-break Slice3"></div>
+
 <h3>Surgery + Biopsy Specimens</h3>
 
 Surgery with confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis! Laparoscopy surgery is the most common diagnostic surgery and is also considered the <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">gold standard of treatment</a> for the disease.
@@ -61,7 +63,7 @@ Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/
 
 </blockquote>
 
-![graph of endo imaging facts](EndoImagingGraph.jpg)
+![infograph of endometriosis imaging facts](EndoImagingGraph.jpg)
 
 <h3>Clinical Diagnosis</h3>
 
@@ -80,6 +82,8 @@ Unfortunately, pharmaceutical companies have aligned themselves with this approa
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">- What's the Delay? A Qualitative Study of Women's Experiences of Reaching a Diagnosis of Endometriosis</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice1"></div>
 
 <h3>Delays in Diagnosis</h3>
 

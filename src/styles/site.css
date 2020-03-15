@@ -109,6 +109,26 @@ ol > li:not(.tag) {
   background: no-repeat center / contain white url(/img/Slice3.png);
 }
 
+.Slice1 {
+  background: no-repeat center / contain white url(/img/Slice1.png);
+}
+
+.PomSketch1 {
+  background: no-repeat center / contain white url(/img/PomSketch1.png);
+}
+
+.PomSketch2 {
+  background: no-repeat center / contain white url(/img/PomSketch2.png);
+}
+
+.PomSketch3 {
+  background: no-repeat center / contain white url(/img/PomSketch3.png);
+}
+
+.PomSketch4 {
+  background: no-repeat center / contain white url(/img/PomSketch4.png);
+}
+
 @media all and (min-width: 425px) {
   blockquote {
     margin: 2rem 1rem;   
