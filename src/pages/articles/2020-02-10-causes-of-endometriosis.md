@@ -18,7 +18,7 @@ tags:
 draft: false
 --- 
 
-<h2>What are the Potential Causes?</h2>
+<h2>What Are the Potential Causes?</h2>
 
 <blockquote>Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though a demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. 
 
@@ -38,6 +38,8 @@ A possible explanation is that individuals are born with <a href="http://centerf
 
 Since there are many theories in circulation, this article examines several of the current ones for a better understanding of the possible causes of endometriosis.
 
+<div class="page-break PomSketch3"></div>
+
 <h3>Retrograde Menstruation</h3>
 
 The century-old theory of <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">retrograde menstruation </a> remains one of the most popular theories despite its proven flaws. In the 1920's, Dr. Sampson proposed the disease resulted from a reversal in menstruation in which the endometrium is deposited and implanted outside of the uterus. The endometrium is not the same as endometriosis lesions so this does not offer an explanation. Also, retrograde menstruation is very common and does not cause endometriosis in a majority of those who menstruate. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12372441" target="_blank" rel="noopener noreferrer">Multiple studies</a> have demonstrated that retrograde menstruation does not account for pathogenesis, or disease development. Sadly this myth rules much of modern thinking and delays further disease management efforts. 
@@ -56,6 +58,8 @@ It’s thought that a dysfunctional immune system may allow for implantation of 
 
 The <a href="https://www.endofound.org/stem-cell-theory-of-endometriosis" target="_blank" rel="noopener noreferrer">stem cell theory</a> suggests that specific stem cells play a large part in the development of endometriosis and regeneration of the endometrium. Stem cells may spread to regions outside the uterus where they regenerate and spread further. Even in the absence of menstruation, <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">stems cells</a>  have been shown to populate lesions, or areas of endometriosis tissue. This might explain the rare cases of cis male endometriosis but more research is needed to fully understand. 
 
+<div class="page-break Slice1"></div>
+
 <h3>Genetics</h3>
 
 Genetics may play a role in developing endometriosis. There is a <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">7 to 10 fold risk</a> in those whose mother or relative has disease. While studies suggest that <a href="https://www.endofound.org/genetics-of-endometriosis" target="_blank" rel="noopener noreferrer">familial clustering</a> is a component of the disease, the mechanism of inheritance is not yet known. Likely, endometriosis is a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925869/" target="_blank" rel="noopener noreferrer">complex gene trait</a> that results from an interaction of multiple genes and the environment. 
@@ -72,7 +76,9 @@ Environmental pollutants or toxins are hypothesized to cause changes to cells th
 
 <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Meyer’s Theory</a> suggests that metaplasia, or the abnormal change in the nature of a tissue, may explain endometriosis. Metaplasia commonly occurs as a response to inflammation. The process allows for cells to alter themselves to better adapt to their environment. This may explain the appearance of endometriosis on the lungs and skin and in patients with no womb. While this theory seems logical, it has been difficult to support <a href="https://www.ncbi.nlm.nih.gov/books/NBK278996/" target="_blank" rel="noopener noreferrer">scientifically</a>.
 
-<h3>Theory of Mulleriosis & Embryonic Origin</h3>
+<div class="page-break PomSketch2"></div>
+
+<h3>Theory of Mulleriosis And Embryonic Origin</h3>
 
 According to the theory of Mulleriosis, the development of the uterus is thought to play a key role in the cause of endometriosis. Homeobox genes, or HOX genes, play a fundamental role in the shaping of the organism during embryonic development. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691806/" target="_blank" rel="noopener noreferrer">HOX gene mutations</a> cause alterations to the normal gene expression patterns which leads to developmental abnormalities in the reproductive tract. <a href="https://www.ncbi.nlm.nih.gov/pubmed/10325287" target="_blank" rel="noopener noreferrer">Studies</a> have shown abnormal HOX gene expression in patients with endometriosis. This dysfunctional expression may result in abnormal cell behavior that causes the disease later on. Dr. David Redwine, a leading endometriosis researcher and excision specialist, suggested an <a href="http://endopaedia.info/origin37.html" target="_blank" rel="noopener noreferrer">embryologic origin</a> some 30 years ago due to the presence of endometriosis in fetuses. 
 

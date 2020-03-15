@@ -17,7 +17,7 @@ tags:
  - women’s health
 draft: false
 --- 
-<h2>What are the Treatment options?</h2>
+<h2>What Are the Treatment Options?</h2>
 
 Currently there is no known cure or preventative treatments for endometriosis. There are several treatment options available that can help in disease management. Unfortunately, few options actually target the disease and most only address the symptoms. Each treatment has its own benefits, limitations, and risks to consider. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">Contemporary treatments</a> are based upon the surgical removal of lesions and medical strategies that suppress estrogen or menses. Due to the complexity of endometriosis and its symptoms, these strategies do not provide a suitable model of care for patients long term. While there have been efforts to define guidelines by <a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">various associations</a>, the best treatments for endometriosis still remain under debate. Specialists and researchers have taken a firm stance that <a href="https://www.jogc.com/article/S1701-2163(20)30013-X/fulltext" target="_blank" rel="noopener noreferrer">successful treatment</a> requires quality excision surgery and access to multidisciplinary care.  
 
@@ -45,6 +45,8 @@ Specialists believe that <a href="http://centerforendo.com/endometriosis-underst
 </a></cite>
 
 </blockquote>
+
+<div class="page-break PomSketch4"></div>
 
 <h3>Cost of Care</h3>
 
@@ -74,6 +76,8 @@ The available literature and data suggest that endometriosis impairs <a href="ht
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/21718982" target="_blank" rel="noopener noreferrer">- Impact of Endometriosis on Quality of Life and Work Productivity: A Multicenter Study Across Ten Countries</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice1"></div>
 
 Clearly the hurdles to care for endometriosis are multidimensional and require an immense amount of resources, dedicated time, and access to specialized medical care. For patients already burdened with illness, navigating a broken healthcare system and receiving inadequate care only further <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">detracts from their quality of life</a>. 
 

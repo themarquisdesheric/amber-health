@@ -19,7 +19,7 @@ tags:
 draft: false
 --- 
 
-<h2>How is it Diagnosed?</h2>
+<h2>How Is It Diagnosed?</h2>
 
 Currently there is only <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">one method</a> that can confirm a diagnosis of endometriosis. This is via surgery with confirmation of biopsy specimens. While symptoms, patient history, and physical findings can lead to a strong suspicion in identifying the disease, a diagnosis must be confirmed surgically and pathologically. <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">Minimally invasive Laparoscopy</a>, or LAPEX, is currently the most common method of surgical diagnosis.
 
@@ -36,6 +36,8 @@ Due to prevailing misinformation, healthcare providers often misdiagnose endomet
 <cite><a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">- Endometriosis A to Z</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice3"></div>
 
 <h3>Surgery + Biopsy Specimens</h3>
 
@@ -61,7 +63,7 @@ Imaging testing can be helpful a tool but it <a href="https://www.endofound.org/
 
 </blockquote>
 
-![graph of endo imaging facts](EndoImagingGraph.jpg)
+![infograph of endometriosis imaging facts](EndoImagingGraph.jpg)
 
 <h3>Clinical Diagnosis</h3>
 
@@ -80,6 +82,8 @@ Unfortunately, pharmaceutical companies have aligned themselves with this approa
 <cite><a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">- What's the Delay? A Qualitative Study of Women's Experiences of Reaching a Diagnosis of Endometriosis</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice1"></div>
 
 <h3>Delays in Diagnosis</h3>
 

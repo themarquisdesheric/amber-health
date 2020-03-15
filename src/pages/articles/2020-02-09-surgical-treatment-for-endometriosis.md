@@ -22,7 +22,7 @@ tags:
 draft: false 
 --- 
 
-<h2>What are the Surgical Options?</h2>
+<h2>What Are the Surgical Options?</h2>
 
 The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method and your doctor's approach to endometriosis surgery to make the best informed decision for your care. 
 
@@ -54,6 +54,8 @@ Studies have found the complete removal of the entire lesion is necessary for sy
 
 </blockquote>
 
+<div class="page-break PomSketch1"></div>
+
 <h3>Ablation</h3>
 
 Since lesions are deeply implanted in the surrounding tissue, superficial treatments leave much of the disease behind, untouched, and remaining to further progress. This explains the high recurrence of re-operation for superficial methods. <a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">Adhesion formations</a> can also increase substantially due to the presence of residual endometriosis, even in small amounts. The high heat and energy used during surgery can also damage surrounding healthy tissue leading to excess scar tissue. Superficial treatments, like ablation, cannot reach deep
@@ -67,7 +69,7 @@ implants so there are <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1UL
 
 As with any surgery there are risks and surgical complications to consider. <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Complications</a> during endometriosis surgery can include damage to organs, thermal and direct traumas, and excessive bleeding. After surgery complications can include infections, urinary and bowel difficulties, and prolonged vaginal bleeding. Due to the intensity of deep infiltrating endometriosis surgery there are other complications to consider including, urinary tract injuries, vascular lesions, and liver injury. 
 
-![graph of endo surgery facts](EndoSurgeryGraph.jpg)
+![infograph of endometriosis surgery facts](EndoSurgeryGraph.jpg)
 
 <h3>Excision Specialists</h3> 
 
@@ -96,6 +98,8 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 <cite><a href="https://www.endofound.org/endometriosis" target="_blank" rel="noopener noreferrer">- Endometriosis Foundation of America</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice1"></div>
 
 <h3>Finding a Specialist</h3>
 

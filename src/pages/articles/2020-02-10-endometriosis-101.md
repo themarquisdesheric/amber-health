@@ -20,7 +20,7 @@ tags:
 draft: false 
 --- 
 
-<h2>What is Endometriosis?</h2>
+<h2>What Is Endometriosis?</h2>
 
 Endometriosis is a condition in which endometrial-like tissue that is located outside of the uterus contributes to an inflammatory process that can lead to severe pain, adhesions, organ dysfunction, and many more complications. The <a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">endometriosis tissue is different than the endometrium</a> which lines the uterus and is shed during a period. This is an important distinction since the tissues behave differently and aren’t structurally the same.
 
@@ -38,6 +38,10 @@ Many doctors and resources improperly define the two types of tissue as being id
 
 </blockquote>
 
+<div class="page-break PomSketch1"></div>
+
+<h3>Where Is It Located?</h3>
+
 Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic structures, including the bladder, bowel, ovaries, intestines, and Pouch of Douglas. <a href="https://www.endometriosis-uk.org/sites/default/files/files/Information/Understanding-endometriosis.pdf" target="_blank" rel="noopener noreferrer">Endometriosis has been found on every internal structure except for the spleen</a>. When endometriosis is located outside of the reproductive organs it's classified as extra-pelvic. While endometriosis has been found in all 11 systems of the body, the majority of <a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">extra-pelvic endometriosis </a> is found in the digestive, urinary, respiratory, and skin systems. Examples of these locations include the skin, eyes, spine, lungs, surgical scars, and brain. 
 
 <blockquote>Endometriosis has been found in all 11 systems of the body. The majority of extra-pelvic disease is found in these four systems: Digestive, Urinary, Respiratory, and Skin.
@@ -45,6 +49,8 @@ Endometriosis lesions are commonly found in the pelvic cavity and on the pelvic 
 <cite><a href="https://extrapelvicnotrare.org/the-abcs-of-epd-extrapelvic-disease-for-endometriosis/" target="_blank" rel="noopener noreferrer">- Extra Pelvic Not Rare</a></cite>
 
 </blockquote>
+
+<h3>What Do We Know About Endometriosis?</h3>
 
 The endometriosis contains endometrial glands and stroma that irritate the surrounding tissue with their secretions. The secretions themselves have not been identified, but are likely irritating to nerves in the peritoneal lining and nearby capillaries which could cause bleeding and pain. This irritation leads to the immune system releasing inflammatory proteins to target the disease. <a href="https://www.vitalhealth.com/conditions-treated/pelvic-pain-conditions/endometriosis/" target="_blank" rel="noopener noreferrer">The process</a> causes inflammation, swelling, and can eventually result in scar tissue and adhesions, which bind organs and tissue together.  Endometriosis is evident in the growth of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096669/" target="_blank" rel="noopener noreferrer">lesions, nodules, and cysts</a>. 
 
@@ -76,9 +82,13 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
+<div class="page-break Slice1"></div>
+
+<h3>How Are Patients Affected?</h3>
+
 Currently it's estimated that over 176 million people worldwide are afflicted. While endometriosis predominately affects cis females, it can also affect trans men, non-binary individuals, non-menstruators (such as premenarche, post hysterectomy, post menopause), and even cis men. Even with an early onset of symptoms, a majority of patients will go without proper care and a diagnosis for an average of <a href="https://www.fertstert.org/article/S0015-0282(06)03522-9/pdf" target="_blank" rel="noopener noreferrer">10 years</a>. Many more will be subjected to repeated dismissals of symptoms, unnecessary surgeries, and medical abuse and neglect. 
 
-Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects women, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. Patient education and empowerment has led to more awareness surrounding menstrual health and gender bias in medicine. 
+Incorrectly labeled as <a href="https://www.goodreads.com/book/show/33931697-invisible" target="_blank" rel="noopener noreferrer">hysteria</a>, women's health has been marginalized since the beginning of medicine. <a href="https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials?CMP=Share_iOSApp_Other&fbclid=IwAR3ZyB3GUf-y_bsuUXklhpMCBd5bwQMSSzIZJoldHOVlsD9RIdWyV8mbjxQ" target="_blank" rel="noopener noreferrer">Gender bias</a> in medicine has historically hindered diagnoses, research, and funding and continues to do so. Since endometriosis largely affects cis females, the <a href="https://www.ajog.org/article/S0002-9378(19)30385-0/fulltext" target="_blank" rel="noopener noreferrer">stigma</a> surrounding menstruation and <a href="https://www.goodreads.com/book/show/30653955-doing-harm" target="_blank" rel="noopener noreferrer">female pain</a> has damned it to be dismissed by society. Patient education and empowerment has led to more awareness surrounding menstrual health and gender bias in medicine. 
 
 <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Inclusion</a> in endometriosis care is even more stark. Gendered language surrounds the discussion of endometriosis. Anyone with a uterus, regardless of identity, can have the disease. This includes individuals who menstruate and those who do not. Incorrectly, trans men and non-binary individuals are excluded from a majority of medical texts, research, and awareness. This leads to an even longer delay in diagnosis or a complete exclusion from appropriate care. The resulting isolation, stress, and burden are profound. 
 
@@ -98,7 +108,7 @@ While the disease mechanism remains largely a mystery, we must use the informati
 
 </blockquote>
 
-<div class="page-break Slice3"></div>
+<div class="page-break PomSketch2"></div>
 
 <h3>Resources</h3>
 
@@ -117,7 +127,7 @@ The following are trusted informational resources that explain endometriosis, di
 * <a href="https://www.endowhat.com/" target="_blank" rel="noopener noreferrer">Endo What?</a> is a film created by endometriosis patient Shannon Cohn to educate and bring more widespread awareness to the disease. It's available for public screening.
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> creates access to easily shareable educational infographics designed to spread awareness about endometriosis. They are easy to share, eye catching, and provide accurate information:
 
-![endographic](EndoGraph101.jpg)
+![infographic on endometriosis facts](EndoGraph101.jpg)
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
 

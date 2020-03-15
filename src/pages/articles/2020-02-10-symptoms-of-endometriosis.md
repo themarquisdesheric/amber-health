@@ -18,7 +18,7 @@ tags:
 draft: false 
 --- 
 
-<h2>What are the Symptoms?</h2>
+<h2>What Are the Symptoms?</h2>
 
 All too commonly, endometriosis is improperly labeled as bad menstrual cramps. While intense cramping and pain with menses are often associated, endometriosis can cause many significant symptoms and is a far reaching, systemic disease. Each patient is unique and may experience any range of these symptoms or even ones that are not listed.
 
@@ -41,6 +41,8 @@ All too commonly, endometriosis is improperly labeled as bad menstrual cramps. W
 * Infertility
 * Heavy Bleeding with Menstruation
 * Possible Comorbidities: <a href="https://www.ncbi.nlm.nih.gov/pubmed/22442736" target="_blank" rel="noopener noreferrer">Migraines</a>, Fibromyalgia, Allergies, Asthma, <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Hypothyroidism</a>, and <a href="https://www.ncbi.nlm.nih.gov/pubmed/25765863" target="_blank" rel="noopener noreferrer">Chronic Diseases</a>
+
+<div class="page-break Slice1"></div>
 
 Though incorrect, endometriosis is commonly thought to be cyclical in nature and only associated with menses. This couldn’t be further from the truth for many patients. While some patients will experience symptoms cyclical to their menstrual cycle, many more will experience a gradual worsening of symptoms that can become chronic in nature.
 
@@ -91,6 +93,8 @@ Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubme
 </blockquote>
 
 When approaching medical care and treatment, it’s important to understand that there are wide reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecology, urology, gastroenterology, acupuncture, physical therapy, and beyond. A further discussion on treatment options can be found in <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>.
+
+<div class="page-break PomSketch4"></div>
 
 <h3>Key Facts to Keep in Mind as You Seek Care</h3>
 
