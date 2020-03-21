@@ -31,4 +31,4 @@ How we treat those in need is reflective of our society and ourselves. We need t
 
 As much as I am able to, I separate myself from the symptoms, the time spent at appointments, the side effects of treatments, and the burden of medical trauma. I am more than the sum of those parts but they are still reflective of my experience. My attention is focused on the intricate tapestry that’s woven of health and self that I’ve been tasked to mend. Little by little, I’ve collected the leftover strings and started braiding a new design. It will be vibrant, and it will be as illustrious as the original plan, but it will simply not be as before. 
 
-- Amber 
+<cite>- Amber</cite>

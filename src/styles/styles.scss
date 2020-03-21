@@ -162,7 +162,8 @@ ul > li:not(.tag)::before {
   color: $theme;
 }
 
-.donation-link a {
+.donation-link a,
+.donation-link a:visited {
   color: $theme;
 }
 
