@@ -318,6 +318,11 @@ form {
   img { bottom: 1px; }
 }
 
+.footer-link,
+.footer-link:visited {
+  color: $theme;
+}
+
 // GENERAL
 .averia-font a,
 .header,
