@@ -1,6 +1,7 @@
 import React from 'react';
 
 import instagram from '../img/social/instagram.svg';
+import facebook from '../img/social/facebook.svg';
 import twitter from '../img/social/twitter.svg';
 
 const MakeSocialLink = ({ title, href, src }) => (
@@ -16,6 +17,7 @@ const MakeSocialLink = ({ title, href, src }) => (
 const SocialLinks = () => (
   <span className="social absolute block w-full text-center">
     <MakeSocialLink title="The Chronic Instagram" href="https://www.instagram.com/thechronicinfo/" src={instagram} />
+    <MakeSocialLink title="The Chronic Facebook" href="https://www.facebook.com/thechronicinfo" src={facebook} />
     <MakeSocialLink title="The Chronic Twitter" href="https://twitter.com/info_chronic" src={twitter} />
   </span>
 );
