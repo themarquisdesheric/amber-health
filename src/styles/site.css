@@ -103,6 +103,7 @@ ol > li:not(.tag) {
   vertical-align: baseline;
   width: 200px;
   height: 200px;
+  margin: 4rem 0;
 }
 
 .Slice3 {
@@ -138,5 +139,9 @@ ol > li:not(.tag) {
 @media all and (min-width: 768px) {
   blockquote {
     padding: 6rem 2rem 1rem;
+  }
+
+  .page-break::after {
+    margin: 6rem 0;
   }
 }

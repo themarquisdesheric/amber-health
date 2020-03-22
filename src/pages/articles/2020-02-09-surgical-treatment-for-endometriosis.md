@@ -2,7 +2,7 @@
 templateKey: article
 title: Surgical Treatment for Endometriosis
 date: 2020-02-13
-description: Learn about the surgical treatments for endometriosis, including excision and ablation.
+description: Learn about the surgical treatments for endometriosis, including excision and ablation
 featuredImage: /img/sonjiawpom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '6'
@@ -24,13 +24,13 @@ draft: false
 
 <h2>What Are the Surgical Options?</h2>
 
-The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method and your doctor's approach to endometriosis surgery to make the best informed decision for your care. 
+The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method, as well as your doctor's approach to endometriosis surgery, to make the best decision for your care. 
 
 It's important to note that surgery with a confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered a <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">cornerstone of treatment</a> for the disease. Laparoscopy is a minimally invasive procedure in which the endometriosis lesions are removed. 
 
 <h3>Excision</h3>
 
-During laparoscopy, the surgical options of removal include excision and superficial treatments such as ablation, fulguration, diathermy, vaporization, cautery, etc. Laparoscopic excision, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">LAPEX</a>, is defined by the full removal of the entire lesion where it is found. Superficial treatments are as they sound and only target the lesion's surface.
+During laparoscopy, the surgical options of removal include excision and superficial treatments such as ablation, fulguration, diathermy, vaporization, cautery, etc. Laparoscopic excision, or <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">LAPEX</a>, is the removal of the entire lesion where it is found. Superficial treatments only target the lesion's surface.
 
 <blockquote>Endometriosis acts like an iceberg.  Despite the disease being identified above the surface of the tissue, the majority is implanted into the tissue below the surface. This is why it is so important to find a surgeon who removes lesions in their entirety.
 
@@ -38,7 +38,7 @@ During laparoscopy, the surgical options of removal include excision and superfi
 
 </blockquote>
 
-Since endometriosis lesions are often <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">deeply imbedded</a> in the surrounding tissue, a thorough approach like excision is needed for complete removal. During excision surgery, the lesions are excised or cut out and the tissue underneath is evaluated for abnormal tissue and removed if necessary.  
+Since endometriosis lesions are often <a href="https://www.contemporaryobgyn.net/endometriosis/case-surgery-endometriosis" target="_blank" rel="noopener noreferrer">deeply imbedded</a> in the surrounding tissue, a thorough approach like excision is needed for complete removal. During excision surgery, the lesions are cut out and the tissue underneath is evaluated for abnormalities and removed if necessary.  
 
 <blockquote>Laparoscopic Excision (LAPEX) is the surgical cornerstone of any high quality, multidisciplinary approach to correctly treating endometriosis. LAPEX allows for the disease to be meticulously removed, cut out, from all areas, without damaging surrounding structures or removing otherwise healthy organs.
 
@@ -75,13 +75,13 @@ As with any surgery there are risks and surgical complications to consider. <a h
 
 While the type of surgery ultimately matters, the skill of the surgeon defines the quality of surgery for patients. Unfortunately, a majority of gynecologists are only trained in superficial methods such as cauterization or ablation. Due to the lack of knowledgeable providers,  it's estimated that there are only <a href="https://www.endofound.org/why-is-it-so-hard-to-find-an-endometriosis-specialist" target="_blank" rel="noopener noreferrer">as few as 100 excision surgeons</a> worldwide for a patient population exceeding 175 million people. Clearly there is a stark lack of support which makes appropriate care even more scarce. Excision surgery is commonly not covered by health insurance and is also one of the most expensive options, making it inaccessible for many patients. 
 
-<blockquote>Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis...then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
+<blockquote>Who performs the surgery, how and when is of critical importance, however; excision is a highly advanced surgical technique requiring extensive training. Likewise, accuracy in diagnosis and treatment is dependent on the ability of the surgeon to recognize disease in all its different manifestations. This means, if the surgeon is not familiar with all signs of endometriosis... then disease will be missed and left behind untreated; surgeons can only see and treat what they recognize.
 
 <cite><a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">- Center for Endometriosis Care</a></cite>
 
 </blockquote>
 
-When considering surgery, LAPEX is considered the <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">gold standard of care</a>, or the best available option, for endometriosis. This is based on clinical trails that look at the long term outcomes of LAPEX compared to other treatments. As discussed above, the skill and clinical experience of the surgeon is equally important to a patient's outcome and should also be considered before surgery. 
+Clinical trials that study the long-term outcomes of LAPEX compared to other treatments have determined that it is the <a href="http://centerforendo.com/lapex-laparoscopic-excision-of-endometriosis" target="_blank" rel="noopener noreferrer">gold standard of care</a> for endometriosis. As discussed above, the skill and clinical experience of the surgeon is equally important to a patient's outcome and should also be considered before surgery. 
 
 <blockquote>In the medical field, a 'gold standard' treatment for a disease is one that has been proven through validated clinical trials to have the best long-term outcomes and the least complications when compared to other methods of treatment. It simply means that there is no better treatment. In the case of surgical management for treatment of endometriosis, the gold standard is now complete and total surgical excision of any and all visible implants of endometriosis with wide margins around all endometriosis and removal of all underlying scar tissue.
 
@@ -91,7 +91,7 @@ When considering surgery, LAPEX is considered the <a href="http://centerforendo.
 
 <h3>Why is Hysterectomy not a treatment option?</h3>
 
-Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Since there is no cure for endometriosis, hysterectomy is not a cure. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. It is recommended that excision be used during castration to remove endometriosis. Hysterectomy can be used to treat other conditions that can be gynaecological comorbidities of endometriosis, including <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">adenomyosis and fibroids</a>. 
+Hysterectomy is not a suitable treatment option for endometriosis. Since endometriosis is found outside of the reproductive organs, removing the uterus does not remove the disease. Endometriosis can <a href="https://www.ncbi.nlm.nih.gov/pubmed/8127534?fbclid=IwAR1PCTJ0BUkHuiB03sg8QrKMECRCFjofBmpSDSc3ipADCLww5NyuLK2asvA" target="_blank" rel="noopener noreferrer"> remain symptomatic</a> after hysterectomy, with or without estrogen therapy. Hysterectomy can be used to treat other conditions that can be gynaecological comorbidities of endometriosis, including <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">adenomyosis and fibroids</a>. In that event, it is recommended that excision be used during the hysterectomy to remove endometriosis.
 
 <blockquote>It is a common myth that having a hysterectomy will cure endometriosis. There is no cure for endometriosis and a hysterectomy is rarely the best treatment. Most endometriosis is located in areas other than the reproductive organs. If you simply remove the uterus and do not excise the remaining lesions, the patient will continue to have pain. 
 
@@ -103,9 +103,9 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 
 <h3>Finding a Specialist</h3>
 
- Finding a knowledgeable and compassionate provider can be one of the hardest aspects of managing the disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Knowing how to communicate with your doctors and how to gauge their expertise in endometriosis care are important skills to learn. Several communication and screening techniques are offered below, as well as, tools for finding an endometriosis specialist near you.
+ Finding a knowledgeable and compassionate provider can be one of the hardest aspects of managing the disease. Without proper medical support, the symptoms can become chronic comorbidities that will need their own medical intervention. Knowing how to communicate with your doctors and how to gauge their expertise in endometriosis care are important skills to learn. Several communication and screening techniques are offered below, as well as tools for finding an endometriosis specialist near you.
 
-* <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse and endo activist Nancy Peterson.
+* <a href="https://www.facebook.com/groups/418136991574617/" target="_blank" rel="noopener noreferrer">Nancy's Nook</a> is a self-guided research tool that provides an updated list of excision specialists that have undergone a specific vetting process developed by nurse and endo activist Nancy Peterson.
 * <a href="https://endofendoproject.org/physician-directory/" target="_blank" rel="noopener noreferrer">The American End of Endo Project</a> has a physician's directory, which is a locator tool for excision specialists.
 * <a href="http://endometriosis.org/resources/articles/finding-a-specialist/" target="_blank" rel="noopener noreferrer">Endometriosis.org</a> provides some key points on finding a specialist.
 * <a href="http://endowest.net/questions-to-ask-your-doctor/" target="_blank" rel="noopener noreferrer">Endo West: Endo and Pelvic Surgery Center</a> has a list of questions to ask your doctor before surgery.
@@ -117,8 +117,8 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 * <a href="https://www.vitalhealth.com/" target="_blank" rel="noopener noreferrer">Dr. Andrew Cook, MD</a> is a trusted endometriosis excision specialist located in California and Colorado. 
 * <a href="https://www.facebook.com/EndometriosisSurgeon/" target="_blank" rel="noopener noreferrer">Dr. Andrea Vidali, MD</a> is a trusted endometriosis excision specialist located in New York, New York.
 * <a href="https://www.lagyndr.com/" target="_blank" rel="noopener noreferrer">Dr. Iris Orbuch, MD</a> is an endometriosis expert and surgeon in Los Angeles, California. 
-* <a href="https://www.possover.com/en/" target="_blank" rel="noopener noreferrer">Possover International Medical Center</a> is the world's first center for Neuropelveology which was founded and pioneered by Prof Marc Possover. This clinic specializes in pelvic nerve laparoscopy. 
-* <a href="https://www.painperceptionproject.com/" target="_blank" rel="noopener noreferrer">The Pelvic Pain Project</a> created the Pelvic Pain Assessment, which is a HIPAA complaint assessment tool that can create more meaningful patient doctor communication and encourage necessary referrals. 
+* <a href="https://www.possover.com/en/" target="_blank" rel="noopener noreferrer">Possover International Medical Center</a> is the world's first center for Neuropelveology which was founded and pioneered by Professor Marc Possover. This clinic specializes in pelvic nerve laparoscopy. 
+* <a href="https://www.painperceptionproject.com/" target="_blank" rel="noopener noreferrer">The Pelvic Pain Project</a> created the Pelvic Pain Assessment, which is a HIPAA-compliant assessment tool that can create more meaningful patient/doctor communication and encourage necessary referrals. 
 * <a href="https://www.mdedge.com/podcasts/SGS-unscrubbed" target="_blank" rel="noopener noreferrer">Gynecologic Surgeons Unscrubbed</a> is a series-based podcast developed in collaboration with the Society of Gynecologic Surgeons focusing on surgical and medical education, hosted by Cara King, DO, MS.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> was created by Endo InVisible whose mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. If you need funds for excision surgery, they may be able to help.
 
@@ -129,7 +129,7 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
 3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-to-diagnosis-endometriosis/" target="_blank" rel="noopener noreferrer">How to Diagnosis Endometriosis</a>
+4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
 5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
 6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
 7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
