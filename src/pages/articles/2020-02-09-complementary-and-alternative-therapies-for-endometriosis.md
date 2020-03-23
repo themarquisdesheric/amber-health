@@ -2,7 +2,7 @@
 templateKey: article
 title: Complementary and Alternative Therapies for Endometriosis
 date: 2020-02-11
-description: UPDATE THIS!!!!!!!
+description: Learn about the complementary and alternative therapies that are recommended by endo specialists 
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Endometriosis'
 seriesNumber: '8'
