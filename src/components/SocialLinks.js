@@ -1,5 +1,4 @@
 import React from 'react';
-
 import instagram from '../img/social/instagram.svg';
 import facebook from '../img/social/facebook.svg';
 import twitter from '../img/social/twitter.svg';

@@ -6,12 +6,7 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import Breadcrumbs from '../components/Breadcrumbs';
-
-const DonationLink = () => (
-  <p className="donation-link text-sm mt-6 py-6">
-    If you found this website useful, please consider <a href="/about#donate">donating</a>
-  </p>
-);
+import Donate from '../components/Donate';
 
 const MedicalDisclaimer = () => (
   <Fragment>
@@ -66,7 +61,7 @@ export const ArticleTemplate = ({
             </ul>
           ) : null}
 
-          <DonationLink />
+          <Donate />
           <MedicalDisclaimer />
         </div>
       </div>

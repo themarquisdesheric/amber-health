@@ -170,14 +170,17 @@ ul > li:not(.tag)::before {
 
 #donate {
   background: $theme-opaque;
-  
+  max-width: 400px;
+
   p {
     color: $white;
+
+    &:last-of-type { max-width: 365px; }
   }
 
   form {
-    min-width: 150px;
-    width: 150px;
+    min-width: 175px;
+    width: 175px;
   }
 }
 
