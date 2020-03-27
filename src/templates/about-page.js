@@ -22,7 +22,7 @@ export const AboutPageTemplate = ({ content, contentComponent }) => {
         <div className="article flex flex-col items-center">
           <div className="max-w-xl">
             <PageContent content={content} className="article-content" />
-            <Donate />
+            <Donate aboutPage />
           </div>
         </div>
       </div>

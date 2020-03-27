@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import { Link } from 'gatsby';
 
-const Donate = () => (
+const Donate = ({ aboutPage = false }) => (
   <div id="donate" className="relative text-center text-sm rounded-lg mx-auto my-12 p-4">
     <p className="mt-4">
       If you found this website useful, <br />
@@ -14,7 +15,10 @@ const Donate = () => (
       <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
     </form>
     <p className="mx-auto mt-2">
-      Donations will be used to maintain the website and support the author as she works towards a healthier future
+      {aboutPage
+        ? 'Donations will be used to maintain the website and support the author as she works towards a healthier future'
+        : <Fragment>Donations will be used to maintain the website and support the <Link to="/about">author</Link> as she works towards a healthier future</Fragment>
+      }
     </p>
   </div>
 );
