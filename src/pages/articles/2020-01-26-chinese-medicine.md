@@ -24,7 +24,7 @@ draft: false
 
 <h2>Chinese Medicine</h2>
 
-Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
+Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis-related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
 
 One of the primary mechanisms involved in endometriosis is angiogenesis, or the process by which new blood vessels are formed. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Angiogenesis inhibitors</a> have been shown to stop the regression of endometriosis lesions. Chinese herbs show anti-angiogenic effects. Research suggests there may be a therapeutic potential to agents derived from natural compounds and Chinese medicines. Due to the limited amount of research, more studies are needed.
 
@@ -38,7 +38,7 @@ In studies, certain Chinese therapies were not entirely curative of endometriosi
 
 <h3>Resources</h3>
 
-The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis related symptoms.
+The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis-related symptoms.
 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a> examines if Chinese herbs can offer a safer, less reactive treatment option.
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">The Complementary and Alternative Medicine for Endometriosis: A Review of Utilization and Mechanism</a> try to identify therapeutic efficacy and mechanisms based on several clinical and experimental studies. 

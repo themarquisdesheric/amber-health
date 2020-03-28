@@ -24,7 +24,7 @@ draft: false
 
 <h2>Meditation and Mindfulness</h2>
 
-Practicing <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">meditation and mindfulness</a> may have health benefits that can be useful in managing endometriosis related symptoms. 
+Practicing <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">meditation and mindfulness</a> may have health benefits that can be useful in managing endometriosis-related symptoms. 
 Those with endometriosis often suffer from chronic pain and stress due to living with a chronic illness. This intense burden can lead to depression and anxiety, which can be hard to manage. Learning to manage stress and symptoms of depression can result in less distress and physical pain. In research, a positive association between coping, depression levels, type, and levels of stress and pain intensity in patients with endometriosis has been shown.
  Finding positive coping mechanisms results in a better <a href="https://www.ncbi.nlm.nih.gov/pubmed/28444092" target="_blank" rel="noopener noreferrer">adaptation to stress and less depression</a>. 
  
@@ -47,7 +47,7 @@ Meditation techniques have been shown to increase gray matter density in several
 
 </blockquote>
 
-Due to prevalent misinformation, social stigma, and gender bias, endometriosis related symptoms have been incorrectly labeled as hysteria or  as having a psychosomatic origin. Again and again, these antiquated notions are disproven by studies that show the various and complex molecular mechanisms involved in endometriosis. Social, psychological, and emotional changes are seen in those with endometriosis but these are a result of, not the cause of the disease. Such claims are dangerous for patients and can further delay diagnosis and result in ineffective treatment. Combining meditation and mindfulness with medical treatment may address these cognitive and emotional aspects of the disease. 
+Due to prevalent misinformation, social stigma, and gender bias, endometriosis-related symptoms have been incorrectly labeled as hysteria or  as having a psychosomatic origin. Again and again, these antiquated notions are disproven by studies that show the various and complex molecular mechanisms involved in endometriosis. Social, psychological, and emotional changes are seen in those with endometriosis but these are a result of, not the cause of the disease. Such claims are dangerous for patients and can further delay diagnosis and result in ineffective treatment. Combining meditation and mindfulness with medical treatment may address these cognitive and emotional aspects of the disease. 
 
 <h3>Resources</h3>
 
@@ -55,7 +55,7 @@ For additional information on meditation and mindfulness, explore the following 
 
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/27658913" target="_blank" rel="noopener noreferrer">Mindfulness Meditation for Chronic Pain: Systematic Review and Meta-analysis</a> found a redution in pain and deprssive symptoms in patients. 
 * <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a> provides several examples of practices and how they may help symptoms. 
-* <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a> looks at the benefits of meditation for pain and endometriosis related symptoms.
+* <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a> looks at the benefits of meditation for pain and endometriosis-related symptoms.
 
 <h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
