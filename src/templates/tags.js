@@ -28,7 +28,7 @@ const TagRoute = ({ data, pageContext }) => {
               <p className="text-gray-800 text-xs uppercase tracking-wide">
                 {taggedWithText}
               </p>
-              <h1 className="theme-color text-3xl font-bold pb-3">
+              <h1 className="theme-color text-3xl font-bold text-left pb-3">
                 {tagTitle}
               </h1>
               <ul className="py-4 flex flex-wrap">

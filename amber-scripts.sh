@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# prevent using unset variables
+set -u
+
 REPO_DIRECTORY="$HOME/Desktop/Code/amber-health"
 IMAGE_DIRECTORY="$REPO_DIRECTORY/static/img"
 ARTICLE_DIRECTORY="$REPO_DIRECTORY/src/pages/articles"
