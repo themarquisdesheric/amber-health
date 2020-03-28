@@ -2,8 +2,8 @@
 templateKey: article
 title: Acupuncture
 date: 2020-01-29
-description: DESCRIPTION AND TAGS NEEDED!!!
-featuredImage: /img/sonjiawpom-1.jpg
+description: Learn how acupuncture can be used to treat endometriosis related pain
+featuredImage: /img/sonjiawpom-4.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -11,22 +11,26 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - chinese medicine
  - acupuncture
- - yoga
- - diet and nutrition 
+ - complementary therapy
+ - alternative therapy
 draft: false
 --- 
 
-<h2>Acupuncture</h2>
+<h2>How Can Acupuncture Be Used to Treat Endometriosis?</h2>
 
 There has been limited research on the efficacy of acupuncture for treating endometriosis related pain. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18794019/" target="_blank" rel="noopener noreferrer">Current literature</a> suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 levels have been reported in more advanced degrees of endometriosis. 
 
 A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">acupuncture</a> can alleviate the pain of dysmenorrhoea and reduce peripheral blood CA-125. As a result, the therapy could be applied as a complementary treatment for endometriosis-related pain. However due to the limitations of the original studies, additional studies are needed to confirms these findings. 
+
+<div class="page-break Slice1"></div>
 
 <blockquote>Acupuncture may serve as a complement or alternative to these treatments. The pain-alleviating effects of acupuncture have been attributed to various physiological and psychological processes, such as activation of endogenous descending pain inhibitory systems, deactivation of brain areas that transmit pain-related signals, interaction between nociceptive impulses and somato-visceral reflexes, and the expectation of symptom relief.
 
@@ -44,6 +48,8 @@ The following resources provide more information on acupuncture for endometriosi
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is Acupuncture in Addition to Conventional Medicine Effective as Pain Treatment for Endometriosis? A Randomized Controlled Cross-over Trial</a> examines whether acupuncture is an effective additional pain treatment for endometriosis.
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> presents an overview of the biomedical model of myofascial pelvic pain and its treatment using a Western acupuncture approach.
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/27242909?dopt=Abstract" target="_blank" rel="noopener noreferrer">More Than Needles: The Importance of Explanations and Self-Care Advice in Treating Primary Dysmenorrhea with Acupuncture</a> found patients had improved symptom control and reduced pain. 
+
+<div class="page-break PomSketch4"></div>
 
 <h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 

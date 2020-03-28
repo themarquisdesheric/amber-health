@@ -2,8 +2,8 @@
 templateKey: article
 title: Chinese Medicine
 date: 2020-01-28
-description: DESCRIPTION AND TAGS NEEDED!!!
-featuredImage: /img/sonjiawpom-1.jpg
+description: Learn how Chinese Medicine Can be Used to Treat Endometriosis
+featuredImage: /img/pom-3.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -11,18 +11,22 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - complementary therapy
+ - alternative therapy
+ - chinese medicine
  - acupuncture
- - yoga
+ - herbal medicine
  - diet and nutrition 
 draft: false
 --- 
 
-<h2>Chinese Medicine</h2>
+<h2>How Can Chinese Medicine Be Used to Treat Endometriosis?</h2>
 
 Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
 
@@ -36,6 +40,8 @@ In studies, certain Chinese therapies were not entirely curative of endometriosi
 
 </blockquote>
 
+<div class="page-break PomSketch3"></div>
+
 <h3>Resources</h3>
 
 The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis related symptoms.
@@ -44,6 +50,8 @@ The following studies and articles provide more information on Chinese Medicine 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">The Complementary and Alternative Medicine for Endometriosis: A Review of Utilization and Mechanism</a> try to identify therapeutic efficacy and mechanisms based on several clinical and experimental studies. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a> looks at the mechanisms in which Chinese herbs may work.
 * <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview on the practice.
+
+<div class="page-break PomSketch2"></div>
 
 <h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 

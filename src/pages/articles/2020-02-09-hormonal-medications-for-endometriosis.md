@@ -54,7 +54,7 @@ It’s important to understand that hormonal contraceptives deliver synthetic ho
 
 <div class="page-break Slice1"></div>
 
-<h3>What Is the Effectiveness?</h3>
+<h3>How Effective Are Hormonal Medications?</h3>
 
 <blockquote>All medical therapy, whether administered as first-line treatment or postoperatively, is associated with high rates of disease recurrence.
 
@@ -129,6 +129,8 @@ For more information on hormonal medications and hormonal health, please explore
 * <a href="https://www.sarahehill.com/book" target="_blank" rel="noopener noreferrer">This Is Your Brain on Birth Control</a> uncovers the known effects of birth control on the brain. 
 * <a href="https://www.sweeteningthepill.com/" target="_blank" rel="noopener noreferrer">Sweetening The Pill or How We Got Hooked on Hormonal Birth Control</a> details the history of the pill through a feminist lens. 
 * <a href="https://www.amazon.com/dp/0062937324?tag=harpercollinsus-20" target="_blank" rel="noopener noreferrer">Fix Your Period: Six Weeks to Banish Bloating, Conquer Cramps, Manage Moodiness, and Ignite Lasting Hormone Balance</a> is a life-changing step-by-step natural protocol to achieve lasting hormone balance and improve everything from PMS, period pain, and heavy periods to irregular cycles and missing periods.
+
+<div class="page-break Slice3"></div>
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a></p>
 

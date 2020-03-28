@@ -2,8 +2,8 @@
 templateKey: article
 title: Physical Therapy
 date: 2020-01-30
-description: DESCRIPTION AND TAGS NEEDED!!!
-featuredImage: /img/sonjiawpom-1.jpg
+description: Learn about the importance of pelvic floor physical therapy in the treatment of pelvic pain 
+featuredImage: /img/pom-1.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -16,15 +16,19 @@ tags:
  - health
  - women’s health
  - endometriosis treatment
- - acupuncture
- - yoga
- - diet and nutrition 
+ - pelvic floor physical therapy
+ - physical therapy 
+ - pelvic floor dysfunction
+ - kegel
+ - pelvic pain
 draft: false
 --- 
 
-<h2>Physical Therapy</h2>
+<h2>How Can Pelvic Floor Physical Therapy Treat Pelvic Pain?</h2>
 
 Specialists agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary treatments, like physical therapy,</a> may help to reduce the patient's pain from endometriosis and provide additional health benefits. <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Pelvic Floor Physical Therapy</a> is a specialty of physical therapy that focuses on the pelvis and the surrounding affected areas. This includes working on the muscles, bones, ligaments, and fascia in the core, hips, back, legs, and pelvis. Physical therapy to address endometriosis related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of <a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction</a>. The specific manual therapy used is thought to deform or cause the failure of adhesive bonds. As a result, pain decreases and mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
+
+<div class="page-break PomSketch1"></div>
 
 <blockquote>Although future research is needed, this therapy, designed to increase function and reduce pain by restoring soft tissue, visceral and osseous mobility, is a non-pharmaceutical, non-surgical technique that has produced few adverse effects or complications. As such, it offers a promising alternative to physicians, clinicians, and others involved in women’s health.
 
@@ -35,6 +39,8 @@ Specialists agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC666
 The pelvic floor muscles function as a support for the pelvic organs and make up part of the urethra, rectum, and vagina. These muscles allow for sexual intercourse and the normal functioning of bladder and bowel. When the muscles are too relaxed or too tight, it is called <a href="http://centerforendo.com/the-significance-of-pelvic-floor-muscle-dysfunction" target="_blank" rel="noopener noreferrer">Pelvic Floor Dysfunction, or PFD</a>. PFD is closely associated with endometriosis, Interstitial Cystitis, and Chronic Pelvic Pain.
 
 Chronic Pelvic Pain and Interstitial Cystitis, or painful bladder syndrome, are common comorbidities of endometriosis. Studies on <a href="https://www.ncbi.nlm.nih.gov/pubmed/18304280" target="_blank" rel="noopener noreferrer">pelvic floor physical therapy</a> for these two conditions have shown promise. Pelvic floor physical therapy addresses musculoskeletal components that are involved in pelvic and genital pain syndromes and sexual dysfunction. Physical therapy treatments include manual therapy, electrical stimulation modalities, self-care education, stress management, and biofeedback. 
+
+<div class="page-break Slice2"></div>
 
 <h3>To Kegel or Not?</h3>
 
@@ -58,6 +64,8 @@ For more resources on physical therapy for endometriosis and how to find a quali
 * <a href="https://www.amazon.com/Ending-Female-Womans-Manual-Expanded/dp/0615988636" target="_blank" rel="noopener noreferrer">Ending Female Pain, A Woman's Manual: The Ultimate Self-Help Guide for Women Suffering From Chronic Pelvic and Sexual Pain</a> is the quintessential self-help book for patients suffering from chronic pelvic and sexual pain. Written by Isa Herrara, MSPT.
 * <a href="https://podcasts.apple.com/us/podcast/the-v-hive/id1379107302" target="_blank" rel="noopener noreferrer">The V Hive</a> has weekly episodes from the field’s top practitioners in women's health. Their mission is to make the highest quality information on the most beloved part of your body, accessible, understandable, and implementable.
 * <a href="https://www.choosept.com/Default.aspx" target="_blank" rel="noopener noreferrer">ChoosePT</a> can help you locate a Physical Therapist.
+
+<div class="page-break PomSketch2"></div>
 
 <h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
