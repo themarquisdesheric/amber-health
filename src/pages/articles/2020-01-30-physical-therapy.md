@@ -59,7 +59,7 @@ For more resources on physical therapy for endometriosis and how to find a quali
 * <a href="https://podcasts.apple.com/us/podcast/the-v-hive/id1379107302" target="_blank" rel="noopener noreferrer">The V Hive</a> has weekly episodes from the field’s top practitioners in women's health. Their mission is to make the highest quality information on the most beloved part of your body accessible, understandable, and implementable.
 * <a href="https://www.choosept.com/Default.aspx" target="_blank" rel="noopener noreferrer">ChoosePT</a> can help you locate a Physical Therapist.
 
-<h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>

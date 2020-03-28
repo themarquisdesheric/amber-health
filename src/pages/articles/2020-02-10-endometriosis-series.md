@@ -21,7 +21,7 @@ Ignorance is not bliss when it comes to your health. Being truly informed about 
 
 <div class="page-break PomSketch4"></div>
 
-<h3 class="table-of-contents">Endometriosis Articles</h3>
+<h4 class="table-of-contents">Endometriosis Articles</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

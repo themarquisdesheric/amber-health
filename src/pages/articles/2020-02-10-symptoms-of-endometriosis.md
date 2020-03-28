@@ -106,7 +106,7 @@ When approaching medical care and treatment, it’s important to understand that
 
 While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<h4 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

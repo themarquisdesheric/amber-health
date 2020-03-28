@@ -46,7 +46,7 @@ export const ArticleTemplate = ({
           {series && (
             <p className="series italic">
               This is part {seriesNumber} of the &nbsp;
-              <Link to={seriesLink} className="underline" style={{ color: '#b3564b' }}>{series} Series</Link>
+              <a href={seriesLink} className="underline" style={{ color: '#b3564b' }} target="_blank" rel="noopener noreferrer">{series} Series</a>
             </p>
           )}
           <PostContent content={content} className="article-content flex flex-col items-center" />

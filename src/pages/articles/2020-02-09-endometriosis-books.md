@@ -89,7 +89,7 @@ This collection of books covers an array of topics on endometriosis, including d
 * <a href="https://www.amazon.com/Invisible-Serious-Navigate-Relationships-Pressure/dp/0807023957" target="_blank" rel="noopener noreferrer">Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine</a> by Michele Lent Hirsch - Though young women with serious illness tend to be seen as outliers, young female patients are in fact the primary demographic for many illnesses. They are also one of the most ignored groups in our medical system, a system where young women, especially women of color and trans women, are invisible. This is one of my top recommendations. This balances the autobiography of a chronically ill person with a historical look at medical abuse and neglect. While this doesn't focus on endometriosis specifically, this is a favorite of mine and it's extremely relevant.
 * <a href="https://www.amazon.com/Sick-Memoir-Porochista-Khakpour/dp/006242873X" target="_blank" rel="noopener noreferrer">Sick: A Memoir</a> by Porochista Khakpour - This is a grueling, emotional journey of an Iranian-American writer who is a lifelong sufferer of undiagnosed health problems. In it, she examines her struggles with late-stage Lyme disease, mental illness, and her addiction to medications prescribed by her doctor.
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<h4 class="table-of-contents">Endometriosis Series</h3>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

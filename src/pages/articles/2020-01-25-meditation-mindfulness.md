@@ -57,7 +57,7 @@ For additional information on meditation and mindfulness, explore the following 
 * <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a> provides several examples of practices and how they may help symptoms. 
 * <a href="https://www.endofound.org/mindfulness-manage-your-endometriosis-symptoms" target="_blank" rel="noopener noreferrer">Mindfulness: Manage your Endometriosis Symptoms</a> looks at the benefits of meditation for pain and endometriosis-related symptoms.
 
-<h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>

@@ -87,7 +87,8 @@ p { color: $gray-text; }
 
   p + ul,
   h2 + ul,
-  h3 + ul { margin-top: 0; }
+  h3 + ul,
+  h4 + ul { margin-top: 0; }
 }
 
 .series + .article-content > p:first-child {
@@ -324,7 +325,7 @@ form {
     }
   }
 
-  img { bottom: 1px; }
+  img { bottom: 2px; }
 }
 
 .footer-link,

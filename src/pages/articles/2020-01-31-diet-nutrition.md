@@ -90,7 +90,7 @@ For more information on diet and nutrition for endometriosis, explore these help
 * <a href="https://endometriosis.net/complementary-alternative-treatment/diet/" target="_blank" rel="noopener noreferrer">Diet Management for Endometriosis</a> looks at some potential foods that could trigger endometriosis symptoms. 
 * <a href="https://www.healthline.com/nutrition/endometriosis-diet-tips" target="_blank" rel="noopener noreferrer">Endometriosis Diet and Tips</a> provides 8 tips to help address endometriosis through diet.
 
-<h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>

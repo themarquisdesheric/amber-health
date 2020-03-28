@@ -45,7 +45,7 @@ The following resources provide more information on acupuncture for endometriosi
 * <a href="https://www.journalofchinesemedicine.com/the-treatment-of-pelvic-pain-with-acupuncture-part-1.html" target="_blank" rel="noopener noreferrer">The Treatment of Pelvic Pain with Acupuncture: Part 1</a> presents an overview of the biomedical model of myofascial pelvic pain and its treatment using a Western acupuncture approach.
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/27242909?dopt=Abstract" target="_blank" rel="noopener noreferrer">More Than Needles: The Importance of Explanations and Self-Care Advice in Treating Primary Dysmenorrhea with Acupuncture</a> found patients had improved symptom control and reduced pain. 
 
-<h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
