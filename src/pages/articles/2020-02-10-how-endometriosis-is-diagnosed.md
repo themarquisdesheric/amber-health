@@ -11,11 +11,26 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - endometriosis surgery
+ - excision surgery
  - laparoscopy
+ - endometriosis specialist
+ - excision surgeon
+keywords:
+ - inflammation
+ - estrogen
+ - hormones
+ - gender bias
+ - racial bias
+ - inclusive care  
+ - endometriosis treatment
+ - endometriosis symptoms
+ - endometriosis diagnosis
 draft: false
 --- 
 
@@ -112,6 +127,8 @@ The medical neglect and abuse of endometriosis patients must stop. As with any d
 </blockquote>
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a></p>
+
+<div class="page-break Slice3"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

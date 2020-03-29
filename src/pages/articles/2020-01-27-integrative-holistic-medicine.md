@@ -3,7 +3,7 @@ templateKey: article
 title: Integrative and Holistic Medicine
 date: 2020-01-27
 description: Learn about Integrative and Holistic Medicine and how it can be used to treat endometriosis
-featuredImage: /img/pom-4.jpg
+featuredImage: /img/sonjiawpom-1.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -18,11 +18,17 @@ tags:
  - women’s health
  - endometriosis treatment
  - complementary therapy
- - alternative therapy 
+ - multidisciplinary care
  - holistic medicine
- - integrative medicine
  - diet and nutrition
- - herbal medicine
+ - herbal medicine 
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy 
+ - integrative medicine 
  - naturopathic medicine 
 draft: false
 --- 

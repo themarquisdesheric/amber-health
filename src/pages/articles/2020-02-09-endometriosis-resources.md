@@ -11,19 +11,47 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
- - birth control
- - lupron
- - orlissa
+ - endometriosis treatment
+ - endometriosis surgery
  - excision surgery
  - laparoscopy
- - support
- - gender bias
+ - endometriosis specialist
+ - excision surgeon
+ - birth control
+ - hormonal medications
+ - hormonal health
+ - complementary therapy
+ - self-care
+ - healing
  - racial bias
+ - gender bias
+ - inclusive care
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
  - adolescent and teen
+ - multidisciplinary care
+ - endometriosis resources
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormonal suppression
+ - hormones
+ - mental health 
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
 draft: false
 --- 
 
@@ -155,7 +183,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * <a href="https://www.facebook.com/groups/unsweeteningthepill/?ref=pages_profile_groups_tab&source_id=162535677236310" target="_blank" rel="noopener noreferrer">Unsweetening the Pill: Support For Going Off Hormonal Birth Control</a> is a support group that provides community, resources, and care to those making the transition off hormonal birth control.
 * <a href="https://slate.com/human-interest/2018/03/online-uti-and-endometriosis-communities-for-women-are-a-crucial-resource.html" target="_blank" rel="noopener noreferrer">Why Online UTI and Endometriosis Communities Are a Godsend for Many Women</a> discusses the important and often fundamental role that online communities can provide for patients. 
 
-<div class="page-break PomSketch4"></div>
+<div class="page-break PomSketch1"></div>
 
 <h3>Inclusive Care: Trans and Non-binary Patients</h3>
 
@@ -269,6 +297,8 @@ The following are opportunities to get involved in endometriosis research and co
 * <a href="https://feinstein.northwell.edu/institutes-researchers/institute-molecular-medicine/robert-s-boas-center-for-genomics-and-human-genetics/rose-research-outsmarts-endometriosis" target="_blank" rel="noopener noreferrer">The ROSE Study (Research OutSmarts Endometriosis)</a> is researching how to diagnose endometriosis by analyzing menstrual blood. Learn more and sign up for the Clinical Study.
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a></p>
+
+<div class="page-break PomSketch2"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

@@ -16,18 +16,25 @@ tags:
  - invisible illness
  - health
  - women’s health
- - inflammation
  - endometriosis treatment
+ - complementary therapy
+ - multidisciplinary care
  - diet and nutrition 
  - anti-inflammatory diet
- - xenoestrogen
- - phytoestrogen
+ - phytoestrogens
  - elimination diet
- - omega-3 fatty acids
  - celiac disease
- - complementary therapy
- - alternative therapy
  - self-care
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy 
+ - bloating
+ - endo belly
+ - xenoestrogens
+ - omega-3 fatty acids
 draft: false
 --- 
 

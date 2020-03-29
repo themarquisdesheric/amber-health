@@ -3,7 +3,7 @@ templateKey: article
 title: Meditation and Mindfulness
 date: 2020-01-28
 description: Learn about meditation and mindfulness and how they can be used as management practices
-featuredImage: /img/pom-3.jpg
+featuredImage: /img/sonjiawpom-2.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -11,18 +11,27 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
  - complementary therapy
- - alternative therapy
- - meditation
+ - self-care
+ - healing
  - mindfulness
+ - mental health
  - depression
+keywords: 
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - multidisciplinary care
+ - alternative therapy 
  - stress
  - anxiety
+ - meditation  
 draft: false
 --- 
 

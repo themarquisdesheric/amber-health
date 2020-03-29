@@ -11,10 +11,45 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - endometriosis treatment
+ - endometriosis surgery
+ - excision surgery
+ - laparoscopy
+ - endometriosis specialist
+ - excision surgeon
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - complementary therapy
+ - multidisciplinary care
+ - self-care
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
+ - adolescent and teen
+ - racial bias
+ - gender bias 
+ - endometriosis resources
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormones
+ - mental health
+ - healing
 draft: false
 --- 
 <h2>What Are the Treatment Options?</h2>
@@ -90,6 +125,8 @@ Clearly the hurdles to care for endometriosis are multidimensional and require a
 As a patient, being informed about available treatments will help you advocate for your health needs and guide you in selecting the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the world and the medical community about endometriosis. Misinformation and myth has long dictated the approach to treating endometriosis. The next articles in the Endometriosis Series provide a detailed look at the different types of treatments available for endometriosis, including surgery, hormonal medications, and complementary and alternative therapies. 
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a></p>
+
+<div class="page-break PomSketch1"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

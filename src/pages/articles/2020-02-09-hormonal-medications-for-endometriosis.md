@@ -11,15 +11,29 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
- - birth control
- - hormones
  - endometriosis treatment
+ - estrogen
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - hormones
+ - hormonal health
+ - depression
+ - mental health
+ - autoimmune disease
+keywords:
+ - multidisciplinary care
+ - inflammation
+ - adolescent and teen
  - lupron
  - orlissa
+ - stroke
+ - cancer
 draft: false
 --- 
 <h3>What Hormonal Medications Are Available?</h3>

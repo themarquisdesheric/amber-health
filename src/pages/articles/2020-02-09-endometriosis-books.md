@@ -8,14 +8,51 @@ series: 'Endometriosis'
 seriesNumber: '11'
 seriesLink: '/articles/2020-02-10-endometriosis-series'
 tags:
-  - endometriosis
-  - endo
-  - chronic pain
-  - chronic illness 
-  - invisible illness
-  - health
-  - women’s health
-  - book
+ - endometriosis
+ - endo
+ - chronic pain
+ - pelvic pain
+ - chronic illness
+ - invisible illness
+ - health
+ - women’s health
+ - endometriosis treatment
+ - endometriosis book
+ - endometriosis surgery
+ - excision surgery
+ - laparoscopy
+ - endometriosis specialist
+ - birth control
+ - hormonal medications
+ - hormonal health
+ - complementary therapy
+ - self-care
+ - healing
+ - racial bias
+ - gender bias
+ - inclusive care
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - endometriosis resources 
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
+ - adolescent and teen
+ - multidisciplinary care
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormonal suppression
+ - hormones
+ - excision surgeon
+ - mental health
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
 draft: false 
 --- 
 
@@ -23,7 +60,7 @@ draft: false
 
 This collection of books covers an array of topics on endometriosis, including diet and nutrition, surgery, disease management, holistic treatment options, and much more. The titles have been arranged according to their main focus but often there is an overlap in subjects. Reviews have been provided for books I have personally read, but I've also included titles which I have not read that have received good reviews from doctors and patients. Of course, there are many excellent books for endometriosis that may not be listed. Though it is unfortunate that many of these titles do not use inclusive language, read as many as you can to expand your understanding of this complex condition. You can use your local library to access many of these titles for free. 
 
-<div class="page-break PomSketch2"></div>
+<div class="page-break PomSketch4"></div>
 
 <h3>Endometriosis 101</h3>
 
@@ -50,7 +87,7 @@ This collection of books covers an array of topics on endometriosis, including d
 
 <div class="page-break PomSketch1"></div>
 
-<h3>Nutrition and Diet</h3>
+<h3>Diet and Nutrition</h3>
 
 * <a href="https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">Endometriosis: A Key to Healing Through Nutrition</a> by Dian Shepperson Mills and Michael Vernon - Drawing upon years of research, the authors show how the right diet can provide the key to optimum health in overcoming endometriosis. It includes an explanation of how endometriosis affects the body, advice on how to cope with it, an account of the key role played by nutritious and healthy food, and information on foods that are harmful as well as foods with healing qualities. I highly recommend this book. <b>Since most doctors are not well-versed in diet and nutritional therapy, I found this book essential in understanding the connection between disease and diet. It details the science behind the methods and provides an in-depth look at endometriosis. I felt empowered by learning these tools for self-care.</b>
 * <a href="https://www.amazon.com/Endometriosis-Health-Diet-Program-Your/dp/077880562X" target="_blank" rel="noopener noreferrer">The Endometriosis Health and Diet Program: Get Your Life Back</a> by Andrew Cook, MD and Danielle Cook, MS, RD, CDE - This will dispel the myths surrounding endometriosis and provide scientifically based recommendations that are easy to understand and follow. It offers recommendations on treating root causes rather than just symptoms.
@@ -88,6 +125,8 @@ This collection of books covers an array of topics on endometriosis, including d
 * <a href="https://www.amazon.com/Doing-Harm-Medicine-Dismissed-Misdiagnosed/dp/0062470809" target="_blank" rel="noopener noreferrer">Doing Harm: The Truth About How Bad Medicine and Lazy Science Leave Women Dismissed, Misdiagnosed, and Sick</a> by Maya Dusenbery - An eye-opening read for patients and health care providers alike, this shows how women suffer because the medical community knows relatively less about their diseases and bodies and too often doesn’t trust their reports of their symptoms. Offering a clear explanation of the root causes of this insidious and entrenched bias and laying out its sometimes catastrophic consequences, this is a rallying wake-up call that will change the way we look at health care for women. I highly recommend it! <b>This is one of my top recommendations. This was as riveting as it was harrowing. The substantial evidence of medical neglect, abuse, and bias is truly maddening.</b> Having experienced medical abuse, it felt validating to hear other's stories. <b>I wish this book was required reading for doctors.</b>
 * <a href="https://www.amazon.com/Invisible-Serious-Navigate-Relationships-Pressure/dp/0807023957" target="_blank" rel="noopener noreferrer">Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine</a> by Michele Lent Hirsch - Though young women with serious illness tend to be seen as outliers, young female patients are in fact the primary demographic for many illnesses. They are also one of the most ignored groups in our medical system, a system where young women, especially women of color and trans women, are invisible. This is one of my top recommendations. This balances the autobiography of a chronically ill person with a historical look at medical abuse and neglect. While this doesn't focus on endometriosis specifically, this is a favorite of mine and it's extremely relevant.
 * <a href="https://www.amazon.com/Sick-Memoir-Porochista-Khakpour/dp/006242873X" target="_blank" rel="noopener noreferrer">Sick: A Memoir</a> by Porochista Khakpour - This is a grueling, emotional journey of an Iranian-American writer who is a lifelong sufferer of undiagnosed health problems. In it, she examines her struggles with late-stage Lyme disease, mental illness, and her addiction to medications prescribed by her doctor.
+
+<div class="page-break PomSketch2"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 

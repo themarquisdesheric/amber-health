@@ -20,6 +20,14 @@ tags:
  - chinese medicine
  - acupuncture
  - complementary therapy
+ - multidisciplinary care
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - visceral pain
+ - somatic pain
  - alternative therapy
 draft: false
 --- 

@@ -18,11 +18,17 @@ tags:
  - women’s health
  - endometriosis treatment
  - complementary therapy
- - alternative therapy
+ - multidisciplinary care
  - chinese medicine
  - acupuncture
  - herbal medicine
- - diet and nutrition 
+ - diet and nutrition
+ - healing
+keywords:
+ - estrogen
+ - inflammation 
+ - endometriosis comorbidities
+ - alternative therapy 
 draft: false
 --- 
 

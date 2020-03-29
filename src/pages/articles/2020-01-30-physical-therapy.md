@@ -11,16 +11,31 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
- - pelvic floor physical therapy
+ - complementary therapy
+ - multidisciplinary care
  - physical therapy 
  - pelvic floor dysfunction
  - kegel
- - pelvic pain
+ - interstitial cystitis
+ - painful bladder syndrome
+ - adhesions
+ - self-care
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy 
+ - pelvic floor physical therapy 
+ - visceral pain
+ - somatic pain
+ - bladder
 draft: false
 --- 
 

@@ -11,10 +11,45 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - inflammation
+ - endometriosis symptoms
+ - pelvic floor dysfunction
+ - interstitial cystitis
+ - painful bladder syndrome
+ - painful sex
+ - painful menstruation
+ - infertility
+ - endo belly
+ - fatigue
+ - endometriosis comorbidities
+ - autoimmune disease
+ - fibroids
+ - adenomyosis 
+keywords:
+ - migraines
+ - fibromyalgia
+ - hypothyroidism 
+ - cancer
+ - allergies
+ - asthma
+ - estrogen
+ - hormones 
+ - adolescent and teen 
+ - bladder 
+ - bowel
+ - somatic pain
+ - visceral pain
+ - neuropathic pain
+ - nausea
+ - adhesions
+ - back pain
+ - bloating
+ - leg pain
 draft: false 
 --- 
 
@@ -105,6 +140,8 @@ When approaching medical care and treatment, it’s important to understand that
 * Endometriosis specialists are highly trained, skilled surgeons who have dedicated their training and professional practice to treating this complex disease. Gynecologists are not equipped to perform the complex surgery needed and should refer patients to a capable and knowledgeable specialist. 
 
 While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
+
+<div class="page-break Slice3"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
