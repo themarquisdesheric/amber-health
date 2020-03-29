@@ -1,7 +1,7 @@
 --- 
 templateKey: article
 title: Chinese Medicine
-date: 2020-01-28
+date: 2020-01-26
 description: DESCRIPTION AND TAGS NEEDED!!!
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
@@ -38,12 +38,12 @@ In studies, certain Chinese therapies were not entirely curative of endometriosi
 
 <h3>Resources</h3>
 
-The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis-related symptoms.
+The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis-related symptoms:
 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a> examines if Chinese herbs can offer a safer, less reactive treatment option.
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">The Complementary and Alternative Medicine for Endometriosis: A Review of Utilization and Mechanism</a> try to identify therapeutic efficacy and mechanisms based on several clinical and experimental studies. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a> looks at the mechanisms in which Chinese herbs may work.
-* <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview on the practice.
+* <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview of the practice.
 
 <h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 

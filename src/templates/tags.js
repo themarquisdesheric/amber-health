@@ -36,7 +36,7 @@ const TagRoute = ({ data, pageContext }) => {
                   <Article post={post} className="tag-tile max-w-sm" key={post.id} />
                 ))}
               </ul>
-              <p className="browse-all-tags text-gray-800 text-sm">
+              <p className="browse-all-tags text-sm">
                 <Link to="/tags/">Browse all tags</Link>
               </p>
             </div>

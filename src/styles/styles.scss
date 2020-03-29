@@ -366,7 +366,8 @@ a:visited {
 nav a:hover,
 .breadcrumbs a:hover,
 ul a:hover,
-.browse-all-tags a:hover { color: $theme; }
+.browse-all-tags a:hover,
+.browse-all-tags a:visited { color: $theme; }
 
 .full-width-image,
 .four-oh-four {
