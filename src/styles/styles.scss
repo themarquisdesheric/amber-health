@@ -114,6 +114,9 @@ p { color: $gray-text; }
           -1px 1px 0 $black, 
             1px 1px 0 $black;
   }
+
+  // fix firefox float bug
+  &.firefox > p:first-of-type::first-letter { margin-top: .5rem; }
   
   p { width: 100%; }
 

@@ -29,6 +29,8 @@ export const ArticleTemplate = ({
   helmet
 }) => {
   const PostContent = contentComponent || Content;
+  // fix firefox float bug
+  const isFirefox = typeof InstallTrigger !== 'undefined';
 
   return (
     <section className="content">
@@ -49,7 +51,7 @@ export const ArticleTemplate = ({
               <a href={seriesLink} className="underline" style={{ color: '#b3564b' }} target="_blank" rel="noopener noreferrer">{series} Series</a>
             </p>
           )}
-          <PostContent content={content} className="article-content flex flex-col items-center" />
+          <PostContent content={content} className={`article-content flex flex-col items-center ${isFirefox ? 'firefox' : ''}`} />
 
           {tags && tags.length ? (
             <ul className="tags mt-16">

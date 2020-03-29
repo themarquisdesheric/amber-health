@@ -7,7 +7,7 @@ const Footer = () => (
     <SocialLinks />
     <small className="flex justify-center py-4">
       <span>
-        © {new Date().getFullYear()} Amber Robinson | website by <a href="https://www.whoisyuval.com" className="footer-link">yuval allweil</a>
+        © {new Date().getFullYear()} Amber Robinson | website by <a href="https://www.whoisyuval.com" target="_blank" rel="noopener noreferrer" className="footer-link">yuval allweil</a>
       </span>
     </small>
   </footer>
