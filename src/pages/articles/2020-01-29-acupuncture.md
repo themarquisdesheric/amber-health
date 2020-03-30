@@ -2,7 +2,7 @@
 templateKey: article
 title: Acupuncture
 date: 2020-01-29
-description: Learn how acupuncture can be used to treat endometriosis related pain
+description: Learn how acupuncture can be used to treat endometriosis-related pain
 featuredImage: /img/sonjiawpom-4.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
