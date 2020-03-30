@@ -11,14 +11,29 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - multidisciplinary care
+ - endometriosis surgery
  - excision surgery
- - ablation surgery
+ - excision surgeon
  - laparoscopy
+ - hysterectomy
+ - endometriosis specialist
+ - fibroids
+ - adenomyosis
+ - adhesions
+keywords:
+ - healing
+ - adolescent and teen
+ - endometriosis comorbidities
+ - inflammation
+ - estrogen
+ - ablation surgery
 draft: false 
 --- 
 
@@ -123,6 +138,8 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> was created by Endo InVisible whose mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. If you need funds for excision surgery, they may be able to help.
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a></p>
+
+<div class="page-break PomSketch1"></div>
 
 <h3 class="table-of-contents">Endometriosis Series</h3>
 
