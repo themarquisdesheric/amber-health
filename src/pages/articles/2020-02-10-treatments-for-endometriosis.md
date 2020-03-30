@@ -11,10 +11,45 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - endometriosis treatment
+ - endometriosis surgery
+ - excision surgery
+ - laparoscopy
+ - endometriosis specialist
+ - excision surgeon
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - complementary therapy
+ - multidisciplinary care
+ - self-care
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
+ - adolescent and teen
+ - racial bias
+ - gender bias 
+ - endometriosis resources
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormones
+ - mental health
+ - healing
 draft: false
 --- 
 <h2>What Are the Treatment Options?</h2>
@@ -91,7 +126,9 @@ As a patient, being informed about available treatments will help you advocate f
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a></p>
 
-<h4 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch1"></div>
+
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

@@ -2,7 +2,7 @@
 templateKey: article
 title: Integrative and Holistic Medicine
 date: 2020-01-27
-description: DESCRIPTION AND TAGS NEEDED!!!
+description: Learn about Integrative and Holistic Medicine and how it can be used to treat endometriosis
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
@@ -11,18 +11,29 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
- - acupuncture
- - yoga
- - diet and nutrition 
+ - complementary therapy
+ - multidisciplinary care
+ - holistic medicine
+ - diet and nutrition
+ - herbal medicine 
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy 
+ - integrative medicine 
+ - naturopathic medicine 
 draft: false
 --- 
 
-<h2>Integrative and Holistic Medicine</h2>
+<h2>How Can Integrative and Holistic Medicine Be Used to Treat Endometriosis?</h2>
 
 <a href="https://nccih.nih.gov/health/integrative-health" target="_blank" rel="noopener noreferrer">Integrative medicine</a> is another complementary therapy that may help treat endometriosis and benefit patients. Integrative medicine is defined as a practice of medicine that is holistic in its approach. Holistic means the doctor considers the whole person, including their physical, mental, emotional, and social health when evaluating and treating the patient. Integrative medicine uses both <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">conventional and complementary approaches</a> together to provide a patient-focused plan. This application of medicine uses a comprehensive approach to disease management, which can benefit an endometriosis patient. 
 
@@ -34,6 +45,8 @@ Another holistic approach to medicine is <a href="https://nccih.nih.gov/health/n
 
 </blockquote>
 
+<div class="page-break PomSketch1"></div>
+
 <h3>Resources</h3>
 
 These resources provide insights on a whole-body approach to wellness with dietary and lifestyle advice that can aid in the healing process. While surgery is an accepted treatment approach, information on non-surgical approaches have been provided below as well. 
@@ -43,7 +56,9 @@ These resources provide insights on a whole-body approach to wellness with dieta
 * <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach and support platform that was created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner.
 * <a href="https://peacewithendo.com/" target="_blank" rel="noopener noreferrer">Peace with Endo</a> by Aubree Deimler who is an author, coach, and energy healer who helps people with endometriosis naturally manage pain, increase energy, and find peace with endo.
 
-<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<div class="page-break Slice2"></div>
+
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>

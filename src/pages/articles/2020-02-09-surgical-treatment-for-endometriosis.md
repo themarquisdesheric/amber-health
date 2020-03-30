@@ -11,14 +11,29 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - multidisciplinary care
+ - endometriosis surgery
  - excision surgery
- - ablation surgery
+ - excision surgeon
  - laparoscopy
+ - hysterectomy
+ - endometriosis specialist
+ - fibroids
+ - adenomyosis
+ - adhesions
+keywords:
+ - healing
+ - adolescent and teen
+ - endometriosis comorbidities
+ - inflammation
+ - estrogen
+ - ablation surgery
 draft: false 
 --- 
 
@@ -124,7 +139,9 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a></p>
 
-<h4 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch1"></div>
+
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

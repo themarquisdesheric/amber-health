@@ -11,14 +11,34 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - complementary therapy
+ - multidisciplinary care
+ - self-care
+ - healing
+ - physical therapy
  - acupuncture
  - yoga
  - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
+ - mindfulness
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - stress
+ - depression
+ - mental health
+ - cannabis
+ - integrative medicine
+ - meditation 
 draft: false
 --- 
 
@@ -35,6 +55,8 @@ A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZ
 At UC San Diego's Center for Endometriosis Research and Treatment, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">integrative medicine</a> accounted for 43% of the referrals made outside of the core patient-gynecologist team. Physical therapy accounted for 11% of the referrals patients received. Specialists at this center recognize and stress the importance of a multidisciplinary program that reflects the individual needs and wishes of their patients. Again and again, specialists emphasize the importance of establishing a comprehensive approach that includes <a href="https://www.jogc.com/article/S1701-2163(20)30013-X/fulltext" target="_blank" rel="noopener noreferrer">speciality clinics</a>, which are solely dedicated to treating endometriosis and include complementary modalities. 
 
 Using complementary and alternative medicine allows patients to make informed decisions about their health and to manage their chronic illness. Research has found chronically ill patients practice complementary and alternative medicines as a personal responsibility for their health and as <a href="https://www.ncbi.nlm.nih.gov/pubmed/12231024?dopt=Abstract" target="_blank" rel="noopener noreferrer">a critical aspect of self-care management</a>. Patients with endometriosis have turned to self-management due to frustration at the lack of effective medical treatments. Self-management may help patients with endometriosis <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">feel empowered and have a sense of agency</a>.
+
+<div class="page-break Slice1"></div>
 
 <blockquote>The findings confirm that complementary and alternative medicine use can be understood as a critical component of self-care management in general, and not as a rejection of conventional medicine or an unrealistic search for cure. In contrast, it represents personal responsibility for health, reframing the measures by which therapeutics are evaluated, and adopting a pragmatic approach to living as well as possible in the context of a chronic condition.
 
@@ -59,7 +81,9 @@ These complementary and alternative therapies have been recommended by specialis
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a></p>
 
-<h4 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch1"></div>
+
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

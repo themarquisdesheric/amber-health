@@ -11,10 +11,25 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - inflammation
+ - genetics
+ - retrograde menstruation
+ - environmental toxins 
+keywords:
+ - halban's theory
+ - meyer's theory
+ - stem cells
+ - estrogen
+ - hormones
+ - endometriosis comorbidities
+ - adolescent and teen
+ - endometriosis causes
+ - theory of mulleriosis  
 draft: false
 --- 
 
@@ -97,6 +112,8 @@ In conclusion, there is no single theory that is entirely adequate in describing
 <cite><a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">- Center for Endometriosis Care</a></cite>
 
 </blockquote>
+
+<div class="page-break Slice3"></div>
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a></p>
 

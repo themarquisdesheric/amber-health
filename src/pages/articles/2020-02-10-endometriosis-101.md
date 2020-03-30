@@ -11,12 +11,41 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - inflammation
+ - estrogen
+ - hormones
+ - endometriosis symptoms
+ - painful sex
+ - painful menstruation
+ - infertility
+ - endo belly
+ - fatigue
+ - adhesions
+ - endometriosis comorbidities
  - gender bias
  - racial bias
+ - inclusive care   
+keywords:
+ - nausea
+ - bladder
+ - bowel
+ - adolescent and teen
+ - back pain
+ - bloating
+ - allergies
+ - asthma 
+ - pelvic floor dysfunction
+ - interstitial cystitis
+ - painful bladder syndrome
+ - autoimmune disease
+ - migraines
+ - fibromyalgia
+ - hypothyroidism  
 draft: false 
 --- 
 
@@ -126,6 +155,8 @@ The following are trusted informational resources that explain endometriosis, di
 * <a href="https://www.endographics.org/english" target="_blank" rel="noopener noreferrer">Endographics</a> creates access to easily shareable educational infographics designed to spread awareness about endometriosis. They are easy to share, eye catching, and provide accurate information:
 
 ![infographic on endometriosis facts](EndoGraph101.jpg)
+
+<div class="page-break Slice3"></div>
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
 

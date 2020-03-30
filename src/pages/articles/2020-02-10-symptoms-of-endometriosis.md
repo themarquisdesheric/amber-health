@@ -11,10 +11,45 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - inflammation
+ - endometriosis symptoms
+ - pelvic floor dysfunction
+ - interstitial cystitis
+ - painful bladder syndrome
+ - painful sex
+ - painful menstruation
+ - infertility
+ - endo belly
+ - fatigue
+ - endometriosis comorbidities
+ - autoimmune disease
+ - fibroids
+ - adenomyosis 
+keywords:
+ - migraines
+ - fibromyalgia
+ - hypothyroidism 
+ - cancer
+ - allergies
+ - asthma
+ - estrogen
+ - hormones 
+ - adolescent and teen 
+ - bladder 
+ - bowel
+ - somatic pain
+ - visceral pain
+ - neuropathic pain
+ - nausea
+ - adhesions
+ - back pain
+ - bloating
+ - leg pain
 draft: false 
 --- 
 
@@ -106,7 +141,9 @@ When approaching medical care and treatment, it’s important to understand that
 
 While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
 
-<h4 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break Slice3"></div>
+
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

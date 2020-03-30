@@ -129,6 +129,10 @@ ol > li:not(.tag) {
   background: no-repeat center / contain white url(/img/Slice1.png);
 }
 
+.Slice2 {
+  background: no-repeat center / contain white url(/img/Slice2.png);
+}
+
 .PomSketch1 {
   background: no-repeat center / contain white url(/img/PomSketch1.png);
 }

@@ -19,7 +19,7 @@ Ableism acts as a shield to protect the mind from believing one could become ill
 
 Society only desires a sickspiration story with a happy ending and clear resolution but that isn’t my truth, or the truth of many patients, at least for now. I have not achieved remission for a majority of my conditions, but I still live with purpose. I live a life that pivots to meet the realities. I can decide my fate as long as there is consideration for my health. I can utilize the available healing modalities and assistive devices to further my range of abilities and attain better health.
 
-Reading scientific journals and literature, devouring medical books and studies, attending conferences, and by challenging and working with talented doctors some profound arches in my conditions have been discovered. This has led me closer to resolution mentally and relief physically. 
+Reading scientific journals and literature, devouring medical books and studies, attending conferences, and by challenging and working with talented doctors some significant underpinnings in my conditions have been discovered. This has led me closer to resolution mentally and relief physically. 
 
 This progress couldn’t be accomplished without dedicating decades to researching, learning, and implementing treatments for disease management. The continuation of this journey is lifelong and requires all of my resources. The expense alone is staggering and the cost of the necessary surgeries, medications, travel, health insurance, and treatments remain unattainable for myself and many patients. This also equates to lack of treatment options, disease progression, and further disability for those same patients.
  

@@ -11,16 +11,48 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
- - birth control
+ - endometriosis treatment
+ - endometriosis surgery
  - excision surgery
  - laparoscopy
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - endometriosis symptoms
+ - painful menstruation
+ - endo belly
+ - fatigue
+ - adhesions
+ - mental health
  - adolescent and teen
+keywords:
+ - inflammation
+ - estrogen 
+ - multidisciplinary care
+ - endometriosis specialist
+ - excision surgeon
+ - hormones
+ - hormonal health
+ - pelvic floor dysfunction
+ - bladder
+ - interstitial cystitis
+ - painful bladder syndrome
+ - painful sex
+ - bowel
+ - leg pain 
+ - infertility
+ - back pain
+ - bloating 
+ - nausea
+ - endometriosis comorbidities
 draft: false 
 --- 
+
 <h2>Can Adolescents and Teens Have Endometriosis?</h2>
 
 Incorrectly, adolescents are often thought to be too young to be affected by endometriosis. Studies have shown endometriosis in patients as young as <a href="https://jamanetwork.com/journals/jama/article-abstract/1153958" target="_blank" rel="noopener noreferrer">11 years old</a> and other research suggests that two thirds of patients with endometriosis have symptoms <a href="https://endometriosis.org/resources/articles/teenagers/" target="_blank" rel="noopener noreferrer">before they are 20 years old</a>. The prevalence of endometriosis in adolescents with chronic pelvic pain, and/or dysmenorrhea resistance to OCPs (oral contraceptive pills) and NSAIDs is 62 percent. As high as <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">75 percent of adolescents with chronic pelvic pain resistant to OCPs</a> are later diagnosed with endometriosis.
@@ -73,7 +105,7 @@ Interestingly, a retrospective study of 90 surgically-treated adolescents experi
 
 Since research has not focused on the treatment of adolescent endometriosis, <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">we do not know</a> if early treatment can prevent adult endometriosis. Progression of endometriosis in adolescents is characterized by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">extensive adhesions and lesion formation</a> but further data is needed to understand the progressive changes.
 
-<div class="page-break Slice1"></div>
+<div class="page-break PomSketch1"></div>
 
 <h3>Key Questions To Ask Your Teen or Pre-Teen</h3>
 
@@ -108,7 +140,9 @@ If the answer is yes to any or all of these, he advises getting your preteen or 
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
 
-<h4 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break Slice1"></div>
+
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

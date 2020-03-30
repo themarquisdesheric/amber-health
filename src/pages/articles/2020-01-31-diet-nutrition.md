@@ -2,8 +2,8 @@
 templateKey: article
 title: Diet and Nutrition
 date: 2020-01-31
-description: DESCRIPTION AND TAGS NEEDED!!!
-featuredImage: /img/sonjiawpom-1.jpg
+description: Learn how diet and nutrition may impact endometriosis and what specialists recommend
+featuredImage: /img/sonjiawpom-3.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
@@ -11,18 +11,34 @@ tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
- - acupuncture
- - yoga
+ - complementary therapy
+ - multidisciplinary care
  - diet and nutrition 
+ - anti-inflammatory diet
+ - phytoestrogens
+ - elimination diet
+ - celiac disease
+ - self-care
+ - healing
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy 
+ - bloating
+ - endo belly
+ - xenoestrogens
+ - omega-3 fatty acids
 draft: false
 --- 
 
-<h2>Diet and Nutrition</h2> 
+<h2>How Can Diet and Nutrition Affect Endometriosis?</h2> 
 
 Diet and nutrition have become areas of increased interest for potential disease management and prevention. Dietary modification and nutrition therapy may provide various benefits as a complementary therapy for treating endometriosis. Several studies have shown <a href="https://academic.oup.com/humrep/article/19/8/1755/2356458" target="_blank" rel="noopener noreferrer">a potential link</a> between endometriosis and diet. It's important to note that more research is needed to understand <a href="https://www.rbmojournal.com/article/S1472-6483(13)00007-2/fulltext" target="_blank" rel="noopener noreferrer">the role that diet may play</a> in endometriosis and its symptoms. Based on the available information, several diet recommendations for endometriosis have been developed. 
 
@@ -31,6 +47,8 @@ Diet and nutrition have become areas of increased interest for potential disease
 <cite><a href="https://www.researchgate.net/publication/324729920_Diet_and_endometriosis-revisiting_the_linkages_to_inflammation" target="_blank" rel="noopener noreferrer">- Diet and Endometriosis: Revisiting the Linkages to Inflammation</a></cite>
 
 </blockquote>
+
+<div class="page-break PomSketch4"></div>
 
 <h3>Anti-Inflammatory Diet</h3>
 
@@ -62,9 +80,11 @@ Estrogen is thought to contribute to disease progression in endometriosis. Becau
 
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/10866031" target="_blank" rel="noopener noreferrer">Xenoestrogens</a> are chemicals that mimic bad estrogen. Like phytoestrogens, they may act like estrogen internally and could interfere with the actions of endogenous estrogens. Xenoestrogens are commonly found in our environment. They can be found in plastic, pesticides, parabens, commercial food products, children’s toys, and more. Since non-organic produce has high levels of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138025/" target="_blank" rel="noopener noreferrer">pesticides</a>, organic produce has been recommended. Patients should avoid these products to reduce their exposure. Using the <a href="https://www.ewg.org/" target="_blank" rel="noopener noreferrer">Environmental Working Group's database</a> can help you discover safer household and personal products. 
 
+<div class="page-break Slice2"></div>
+
 <h3>Gluten</h3>
 
-Gluten may play a role in endometriosis symptoms and pain. Several studies have found that following a <a href="https://www.glutenfreesociety.org/gluten-and-endometriosis-is-there-a-connection/" target="_blank" rel="noopener noreferrer">gluten-free diet</a> can lead to a reduction in symptoms and improvements in quality of life for endometriosis patients. 75 percent of the women who took part in the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubmed/23334113" target="_blank" rel="noopener noreferrer">decrease in painful symptoms</a> after following a gluten-free diet for 12 months. A considerable increase in physical functioning, general health perception, vitality, social functioning, and mental health was observed in all patients as well. Endometriosis is known to have a variety of comorbidities and <a href="https://academic.oup.com/humrep/article/26/10/2896/611791" target="_blank" rel="noopener noreferrer">Celiacs Disease</a> may be one. In research, endometriosis seems to be associated with prior Celiacs Disease. Potential explanations might be shared etiological factors and inflammation from Celiacs Disease. 
+Gluten may play a role in endometriosis symptoms and pain. Several studies have found that following a <a href="https://www.glutenfreesociety.org/gluten-and-endometriosis-is-there-a-connection/" target="_blank" rel="noopener noreferrer">gluten-free diet</a> can lead to a reduction in symptoms and improvements in quality of life for endometriosis patients. 75 percent of the women who took part in the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubmed/23334113" target="_blank" rel="noopener noreferrer">decrease in painful symptoms</a> after following a gluten-free diet for 12 months. A considerable increase in physical functioning, general health perception, vitality, social functioning, and mental health was observed in all patients as well. Endometriosis is known to have a variety of comorbidities and <a href="https://academic.oup.com/humrep/article/26/10/2896/611791" target="_blank" rel="noopener noreferrer">Celiac disease</a> may be one. In research, endometriosis seems to be associated with prior Celiac Disease. Potential explanations might be shared etiological factors and inflammation from Celiac Disease. 
 
 <h3>Elimination Diet</h3>
 
@@ -90,7 +110,9 @@ For more information on diet and nutrition for endometriosis, explore these help
 * <a href="https://endometriosis.net/complementary-alternative-treatment/diet/" target="_blank" rel="noopener noreferrer">Diet Management for Endometriosis</a> looks at some potential foods that could trigger endometriosis symptoms. 
 * <a href="https://www.healthline.com/nutrition/endometriosis-diet-tips" target="_blank" rel="noopener noreferrer">Endometriosis Diet and Tips</a> provides 8 tips to help address endometriosis through diet.
 
-<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<div class="page-break PomSketch4"></div>
+
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
 
 - <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
