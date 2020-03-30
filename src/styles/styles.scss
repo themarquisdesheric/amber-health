@@ -74,6 +74,8 @@ p { color: $gray-text; }
     left: calc(50% - 1.5rem);
   }
 
+  .subtitle { max-width: 400px; }
+
   ul:not(.tags),
   ol {
     margin: 1rem 0;

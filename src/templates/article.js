@@ -41,7 +41,11 @@ export const ArticleTemplate = ({
           <h1 className="font-bold pt-2 pb-3">
             {title}
           </h1>
-          <p className="pb-8 mb-12">{description}</p>
+          <p className="pb-8 mb-12">
+            <span className="subtitle inline-block">
+              {description}
+            </span>
+          </p>
 
           <div className="sharethis-inline-share-buttons mb-8" />
           
