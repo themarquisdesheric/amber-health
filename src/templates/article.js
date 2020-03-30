@@ -106,6 +106,12 @@ const Article = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            {post.frontmatter.keywords && post.frontmatter.keywords.length > 0 && 
+              <meta
+                name="keywords"
+                content={post.frontmatter.keywords.join(', ')}
+              />
+            }
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -136,6 +142,7 @@ export const pageQuery = graphql`
         seriesNumber
         seriesLink
         tags
+        keywords
       }
     }
   }
