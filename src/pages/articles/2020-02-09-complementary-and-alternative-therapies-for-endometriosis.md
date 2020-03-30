@@ -81,8 +81,6 @@ These complementary and alternative therapies have been recommended by specialis
 
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a></p>
 
-<div class="page-break PomSketch1"></div>
-
 <h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
