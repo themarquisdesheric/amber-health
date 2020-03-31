@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
+import _kebabCase from 'lodash/kebabCase';
+import _uniq from 'lodash/uniq';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
@@ -60,7 +61,7 @@ export const ArticleTemplate = ({
           {tags && tags.length ? (
             <ul className="tags mt-16">
               {tags.map(tag => (
-                <Link to={`/tags/${kebabCase(tag)}/`} key={tag + 'tag'}>
+                <Link to={`/tags/${_kebabCase(tag)}/`} key={tag + 'tag'}>
                   <li className="tag">{tag}</li>
                 </Link>
               ))}
@@ -89,33 +90,44 @@ ArticleTemplate.propTypes = {
 
 const Article = ({ data }) => {
   const { markdownRemark: post } = data;
+  const { 
+    tags,
+    keywords,
+    description,
+    series,
+    seriesNumber,
+    seriesLink, 
+    title
+  } = post.frontmatter;
+
+  const seoKeywords = _uniq(tags.concat(keywords)).join(', ');
 
   return (
     <Layout>
       <ArticleTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
-        series={post.frontmatter.series}
-        seriesNumber={post.frontmatter.seriesNumber}
-        seriesLink={post.frontmatter.seriesLink}
+        description={description}
+        series={series}
+        seriesNumber={seriesNumber}
+        seriesLink={seriesLink}
         helmet={
           <Helmet titleTemplate="%s | The Chronic">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{title}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${description}`}
             />
-            {post.frontmatter.keywords && post.frontmatter.keywords.length > 0 && 
+            {seoKeywords.length > 0 && 
               <meta
                 name="keywords"
-                content={post.frontmatter.keywords.join(', ')}
+                content={seoKeywords}
               />
             }
           </Helmet>
         }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+        tags={tags}
+        title={title}
       />
     </Layout>
   );
