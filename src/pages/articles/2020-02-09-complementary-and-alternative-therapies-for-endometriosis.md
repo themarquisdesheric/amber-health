@@ -64,9 +64,7 @@ Using complementary and alternative medicine allows patients to make informed de
 
 </blockquote>
 
-These complementary and alternative therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. This is not an exhaustive list of therapies. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone. 
-
-I encourage you to explore my <i>Complementary and Alternative Therapies for Endometriosis</i> series which provides an in-depth look at each type of treatment:
+I encourage you to explore the rest of my <i>Complementary and Alternative Therapies for Endometriosis</i> series, which provides an in-depth look at each type of treatment:
 
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
 - <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
@@ -77,11 +75,13 @@ I encourage you to explore my <i>Complementary and Alternative Therapies for End
 - <a href="/articles/2020-01-25-meditation-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
 - <a href="/articles/2020-01-24-cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>
 
+These complementary and alternative therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. Please keep in mind the above is not an exhaustive list of therapies. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone. 
+
+<div class="page-break PomSketch3"></div>
+
 <p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a></p>
 
-<div class="page-break PomSketch1"></div>
-
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>

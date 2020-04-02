@@ -29,6 +29,8 @@ export const ArticleTemplate = ({
   helmet
 }) => {
   const PostContent = contentComponent || Content;
+  // fix firefox float bug
+  const isFirefox = typeof InstallTrigger !== 'undefined';
 
   return (
     <section className="content">
@@ -39,17 +41,21 @@ export const ArticleTemplate = ({
           <h1 className="font-bold pt-2 pb-3">
             {title}
           </h1>
-          <p className="pb-8 mb-12">{description}</p>
+          <p className="pb-8 mb-12">
+            <span className="subtitle inline-block">
+              {description}
+            </span>
+          </p>
 
           <div className="sharethis-inline-share-buttons mb-8" />
           
           {series && (
             <p className="series italic">
               This is part {seriesNumber} of the &nbsp;
-              <Link to={seriesLink} className="underline" style={{ color: '#b3564b' }}>{series} Series</Link>
+              <a href={seriesLink} className="underline" style={{ color: '#b3564b' }} target="_blank" rel="noopener noreferrer">{series} Series</a>
             </p>
           )}
-          <PostContent content={content} className="article-content flex flex-col items-center" />
+          <PostContent content={content} className={`article-content flex flex-col items-center ${isFirefox ? 'firefox' : ''}`} />
 
           {tags && tags.length ? (
             <ul className="tags mt-16">
@@ -100,6 +106,12 @@ const Article = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            {post.frontmatter.keywords && post.frontmatter.keywords.length > 0 && 
+              <meta
+                name="keywords"
+                content={post.frontmatter.keywords.join(', ')}
+              />
+            }
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -130,6 +142,7 @@ export const pageQuery = graphql`
         seriesNumber
         seriesLink
         tags
+        keywords
       }
     }
   }

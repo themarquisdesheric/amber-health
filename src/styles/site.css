@@ -12,35 +12,45 @@ h3 {
   @apply text-xl;
 }
 
+h4 {
+  @apply text-lg;
+}
+
 @tailwind components;
 
 @tailwind utilities;
 
 h1,
 h2,
-h3 { 
+h3,
+h4 { 
   line-height: 1;
   text-align: center;
   font-weight: 600;
 }
 
 h2, 
-h3 {
+h3,
+h4 {
   margin: 1rem 0;
 }
 
 h2 + p,
-h3 + p {
+h3 + p,
+h4 + p {
   margin-top: 1rem;
 }
 
 p + h2,
-p + h3 {
+p + h3,
+p + h4,
+ul + h4 {
   margin-top: 2rem;
 }
 
 h2 + blockquote,
 h3 + blockquote,
+h4 + blockquote,
 p + blockquote {
   margin-top: 1rem;
 }
@@ -85,6 +95,11 @@ blockquote::before {
 
 .table-of-contents {
   text-align: center;
+  font-weight: 600;
+}
+
+.table-of-contents + ol {
+  margin: 1rem 0;
 }
 
 ol {

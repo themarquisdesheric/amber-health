@@ -74,6 +74,8 @@ p { color: $gray-text; }
     left: calc(50% - 1.5rem);
   }
 
+  .subtitle { max-width: 400px; }
+
   ul:not(.tags),
   ol {
     margin: 1rem 0;
@@ -87,7 +89,8 @@ p { color: $gray-text; }
 
   p + ul,
   h2 + ul,
-  h3 + ul { margin-top: 0; }
+  h3 + ul,
+  h4 + ul { margin-top: 0; }
 }
 
 .series + .article-content > p:first-child {
@@ -113,6 +116,9 @@ p { color: $gray-text; }
           -1px 1px 0 $black, 
             1px 1px 0 $black;
   }
+
+  // fix firefox float bug
+  &.firefox > p:first-of-type::first-letter { margin-top: .5rem; }
   
   p { width: 100%; }
 
@@ -324,7 +330,7 @@ form {
     }
   }
 
-  img { bottom: 1px; }
+  img { bottom: 2px; }
 }
 
 .footer-link,
@@ -362,7 +368,8 @@ a:visited {
 nav a:hover,
 .breadcrumbs a:hover,
 ul a:hover,
-.browse-all-tags a:hover { color: $theme; }
+.browse-all-tags a:hover,
+.browse-all-tags a:visited { color: $theme; }
 
 .full-width-image,
 .four-oh-four {

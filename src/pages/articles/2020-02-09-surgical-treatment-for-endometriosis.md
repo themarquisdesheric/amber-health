@@ -141,7 +141,7 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 
 <div class="page-break PomSketch1"></div>
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<h4 class="table-of-contents">Endometriosis Series</h4>
 
 1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
 2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
