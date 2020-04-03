@@ -6,7 +6,7 @@ description: Learn about the endocannabinoid system and how cannabis can be used
 featuredImage: /img/pom-2.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
-seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
+seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'
 tags:
  - endometriosis
  - endo
@@ -91,7 +91,7 @@ The following resources provide more information on cannabis use for endometrios
 
 <h4 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
 
-- <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+- <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
 - <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
 - <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>

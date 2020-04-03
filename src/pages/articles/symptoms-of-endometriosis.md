@@ -127,7 +127,7 @@ Endometriosis patients are also at a <a href="https://www.ncbi.nlm.nih.gov/pubme
 
 </blockquote>
 
-When approaching medical care and treatment, it’s important to understand that there are wide-reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecology, urology, gastroenterology, acupuncture, physical therapy, and beyond. A further discussion on treatment options can be found in <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>.
+When approaching medical care and treatment, it’s important to understand that there are wide-reaching effects to having multiple diseases. Healthcare providers who do not address this reality will not be able to treat endometriosis or manage the symptoms successfully. The complexity of endometriosis and the diversity of related conditions demand a <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU " target="_blank" rel="noopener noreferrer">multidisciplinary approach</a> to care. Often this will entail the care of several specialists, including gynecology, urology, gastroenterology, acupuncture, physical therapy, and beyond. A further discussion on treatment options can be found in <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>.
 
 <div class="page-break PomSketch4"></div>
 
@@ -139,22 +139,22 @@ When approaching medical care and treatment, it’s important to understand that
 * The effects of having multiple diseases is wide-reaching and demands a multidisciplinary approach to care. Your care team will likely include several providers from various specialties. 
 * Endometriosis specialists are highly trained, skilled surgeons who have dedicated their training and professional practice to treating this complex disease. Gynecologists are not equipped to perform the complex surgery needed and should refer patients to a capable and knowledgeable specialist. 
 
-While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
+While the cause(s) of endometriosis remains largely unknown, theories abound. In the next part of the series,  <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>, theories on etiology are examined. 
 
 <div class="page-break Slice3"></div>
 
 <h4 class="table-of-contents">Endometriosis Series</h4>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
 
 

@@ -137,20 +137,20 @@ Hysterectomy is not a suitable treatment option for endometriosis. Since endomet
 * <a href="https://www.mdedge.com/podcasts/SGS-unscrubbed" target="_blank" rel="noopener noreferrer">Gynecologic Surgeons Unscrubbed</a> is a series-based podcast developed in collaboration with the Society of Gynecologic Surgeons focusing on surgical and medical education, hosted by Cara King, DO, MS.
 * <a href="https://endoinvisible.org/funds-for-excision/" target="_blank" rel="noopener noreferrer">Funds for Excision Surgery</a> was created by Endo InVisible whose mission is threefold: raise the profile of, educate the world about, and help fund surgery for endometriosis. If you need funds for excision surgery, they may be able to help.
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a></p>
 
 <div class="page-break PomSketch1"></div>
 
 <h4 class="table-of-contents">Endometriosis Series</h4>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

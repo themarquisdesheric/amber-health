@@ -6,7 +6,7 @@ description: Learn about Integrative and Holistic Medicine and how it can be use
 featuredImage: /img/sonjiawpom-1.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
-seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
+seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'
 tags:
  - endometriosis
  - endo
@@ -51,8 +51,8 @@ Another holistic approach to medicine is <a href="https://nccih.nih.gov/health/n
 
 These resources provide insights on a whole-body approach to wellness with dietary and lifestyle advice that can aid in the healing process. While surgery is an accepted treatment approach, information on non-surgical approaches have been provided below as well. 
 
-* <a href="https://drbrighten.com/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/2020-02-09-endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Instagram</a> for daily hormonal health information as well as lifestyle and nutritional advice. 
-* <a href="https://www.larabriden.com/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. I highly recommended her <a href="/articles/2020-02-09-endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
+* <a href="https://drbrighten.com/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Instagram</a> for daily hormonal health information as well as lifestyle and nutritional advice. 
+* <a href="https://www.larabriden.com/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. I highly recommended her <a href="/articles/endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
 * <a href="https://www.endoempowered.com/" target="_blank" rel="noopener noreferrer">Endo Empowered</a> offers a non-surgical and holistic approach and support platform that was created by an endometriosis patient and Naturopathic Medicine student, Melissa Turner.
 * <a href="https://peacewithendo.com/" target="_blank" rel="noopener noreferrer">Peace with Endo</a> by Aubree Deimler who is an author, coach, and energy healer who helps people with endometriosis naturally manage pain, increase energy, and find peace with endo.
 
@@ -60,7 +60,7 @@ These resources provide insights on a whole-body approach to wellness with dieta
 
 <h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
 
-- <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+- <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
 - <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
 - <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>

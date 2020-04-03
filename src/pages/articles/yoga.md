@@ -6,7 +6,7 @@ description: Learn how yoga is used as a form of self-care for endometriosis
 featuredImage: /img/pom-2.jpg
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
-seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
+seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'
 tags:
  - endometriosis
  - endo
@@ -58,7 +58,7 @@ For more information on Yoga and its potential ability to address endometriosis 
 
 <h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
 
-- <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+- <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
 - <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
 - <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
 - <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>

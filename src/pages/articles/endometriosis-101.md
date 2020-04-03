@@ -101,7 +101,7 @@ Due to the complexity and insidious nature of the disease, we must learn a great
 
 </blockquote>
 
-<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, bowel, and throughout the body. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Some patients have several comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>.
+<a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">Symptoms</a> include pain with menstruation and pain in the pelvis, abdomen, lower back, legs, bladder, bowel, and throughout the body. Patients can also experience bladder and bowel dysfunction, pain with sex, bloating, fatigue, and infertility. <a href="https://www.ncbi.nlm.nih.gov/pubmed/12351553" target="_blank" rel="noopener noreferrer">Some patients have several comorbidities</a> including migraines, fibromyalgia, allergies, hypothyroidism, asthma, and chronic diseases. A more detailed look at symptoms can be found in <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>.
 
 <blockquote>The impact of endometriosis-associated symptoms upon quality of life is multidimensional and more complex than just negatively affecting psychosocial parameters.
 
@@ -158,20 +158,20 @@ The following are trusted informational resources that explain endometriosis, di
 
 <div class="page-break Slice3"></div>
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a></p>
 
 <h4 class="table-of-contents">Endometriosis Series</h3>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
 
 
