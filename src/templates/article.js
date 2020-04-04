@@ -100,6 +100,7 @@ const Article = ({ data }) => {
     title
   } = post.frontmatter;
 
+  const url = `/${_kebabCase(title)}`;
   const seoKeywords = _uniq(tags.concat(keywords)).join(', ');
 
   return (
@@ -118,6 +119,20 @@ const Article = ({ data }) => {
               name="description"
               content={`${description}`}
             />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content={title} />
+            <meta property="og:description" content={description} />
+            <meta property="og:url" content={url} />
+            <meta property="og:image" content="/img/sonjiawpom-1.jpg" />
+
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:site" content="@info_chronic" />
+            <meta name="twitter:creator" content="@info_chronic" />
+            <meta name="twitter:url" content={url} />
+            <meta name="twitter:title" content={title} />
+            <meta name="twitter:description" content={description} />
+            <meta name="twitter:image" content="/img/sonjiawpom-1.jpg" />
+            <meta name="twitter:image:alt" content="woman holding pomegranate" />
             {seoKeywords.length > 0 && 
               <meta
                 name="keywords"
