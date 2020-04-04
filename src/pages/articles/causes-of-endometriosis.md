@@ -6,7 +6,7 @@ description: Learn about the current theories on the causes of endometriosis
 featuredImage: /img/pom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '3'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

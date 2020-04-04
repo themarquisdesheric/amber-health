@@ -6,7 +6,7 @@ description: Learn about the surgical treatments for endometriosis, including ex
 featuredImage: /img/sonjiawpom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '6'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

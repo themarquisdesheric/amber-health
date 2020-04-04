@@ -6,7 +6,7 @@ description: Learn how endometriosis is diagnosed and about the importance of di
 featuredImage: /img/sonjiawpom-3.jpg
 series: 'Endometriosis'
 seriesNumber: '4'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

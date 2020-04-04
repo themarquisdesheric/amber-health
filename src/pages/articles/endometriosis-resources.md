@@ -6,7 +6,7 @@ description: A guide to endometriosis resources, including support groups, locat
 featuredImage: /img/sonjiawpom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '10'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

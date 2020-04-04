@@ -6,7 +6,7 @@ description: Learn about the current treatments for endometriosis and the import
 featuredImage: /img/pom-1.jpg
 series: 'Endometriosis'
 seriesNumber: '5'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

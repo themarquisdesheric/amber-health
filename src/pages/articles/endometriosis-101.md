@@ -6,7 +6,7 @@ description: Learn about the basics of endometriosis and what to know when youâ€
 featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '1'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

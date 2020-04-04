@@ -6,7 +6,7 @@ description: Learn about the symptoms of endometriosis
 featuredImage: /img/sonjiawpom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '2'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

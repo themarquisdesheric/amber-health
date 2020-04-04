@@ -6,7 +6,7 @@ description: Learn about hormonal treatments like birth control and Lupron
 featuredImage: /img/pom-3.jpg
 series: 'Endometriosis'
 seriesNumber: '7'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

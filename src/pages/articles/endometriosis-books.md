@@ -6,7 +6,7 @@ description: A guide to books on endometriosis with book reviews
 featuredImage: /img/pom-4.jpg
 series: 'Endometriosis'
 seriesNumber: '11'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo

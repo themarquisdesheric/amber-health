@@ -6,7 +6,7 @@ description: Learn about the unique presentation of symptoms in adolescents and 
 featuredImage: /img/pom-2.jpg
 series: 'Endometriosis'
 seriesNumber: '9'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo
