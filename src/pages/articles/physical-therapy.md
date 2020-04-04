@@ -85,11 +85,11 @@ For more resources on physical therapy for endometriosis and how to find a quali
 <h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
 
 - <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-- <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
-- <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
-- <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
-- <a href="/articles/2020-01-28-yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
-- <a href="/articles/2020-01-27-integrative-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
-- <a href="/articles/2020-01-26-chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
-- <a href="/articles/2020-01-25-meditation-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
-- <a href="/articles/2020-01-24-cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>
+- <a href="/articles/diet-and-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
+- <a href="/articles/physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
+- <a href="/articles/acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
+- <a href="/articles/yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
+- <a href="/articles/integrative-and-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
+- <a href="/articles/chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
+- <a href="/articles/meditation-and-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
+- <a href="/articles/cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>

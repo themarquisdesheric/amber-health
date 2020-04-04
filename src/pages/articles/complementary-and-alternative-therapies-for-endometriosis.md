@@ -66,14 +66,14 @@ Using complementary and alternative medicine allows patients to make informed de
 
 I encourage you to explore the rest of my <i>Complementary and Alternative Therapies for Endometriosis</i> series, which provides an in-depth look at each type of treatment:
 
-- <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
-- <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
-- <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
-- <a href="/articles/2020-01-28-yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
-- <a href="/articles/2020-01-27-integrative-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
-- <a href="/articles/2020-01-26-chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
-- <a href="/articles/2020-01-25-meditation-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
-- <a href="/articles/2020-01-24-cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>
+- <a href="/articles/diet-and-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
+- <a href="/articles/physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
+- <a href="/articles/acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
+- <a href="/articles/yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
+- <a href="/articles/integrative-and-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
+- <a href="/articles/chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
+- <a href="/articles/meditation-and-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
+- <a href="/articles/cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>
 
 These complementary and alternative therapies have been recommended by specialists due to the potential benefit they may have for managing endometriosis and related symptoms. Please keep in mind the above is not an exhaustive list of therapies. Since all endometriosis patients are different, these methods may not be suitable or successful for everyone. 
 
