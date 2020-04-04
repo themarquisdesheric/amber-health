@@ -18,7 +18,7 @@ const Index = () => {
     if (!isValid && subject.length && message.length) {
       setIsValid(true);
     }
-  }, [form]);
+  }, [form, isValid]);
 
   const handleChange = ({ target: { name, value } }) => {
     setForm({

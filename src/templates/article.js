@@ -100,7 +100,7 @@ const Article = ({ data }) => {
     title
   } = post.frontmatter;
 
-  const url = `/${_kebabCase(title)}`;
+  const url = `/articles/${_kebabCase(title)}`;
   const seoKeywords = _uniq(tags.concat(keywords)).join(', ');
 
   return (
