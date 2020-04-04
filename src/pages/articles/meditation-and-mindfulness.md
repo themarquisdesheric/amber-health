@@ -4,6 +4,7 @@ title: Meditation and Mindfulness
 date: 2020-01-25
 description: Learn about meditation and mindfulness and how they can be used as management practices
 featuredImage: /img/sonjiawpom-2.jpg
+shareCardImage: /img/sonjiawpom-2
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

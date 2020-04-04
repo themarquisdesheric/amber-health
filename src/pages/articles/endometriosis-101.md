@@ -4,6 +4,7 @@ title: Endometriosis 101
 date: 2020-02-19
 description: Learn about the basics of endometriosis and what to know when you’re first diagnosed
 featuredImage: /img/pom-2.jpg
+shareCardImage: /img/pom-2
 series: 'Endometriosis'
 seriesNumber: '1'
 seriesLink: '/articles/endometriosis-series'

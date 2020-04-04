@@ -4,6 +4,7 @@ title: Cannabis
 date: 2020-01-24
 description: Learn about the endocannabinoid system and how cannabis can be used to treat endometriosis
 featuredImage: /img/pom-2.jpg
+shareCardImage: /img/pom-2
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

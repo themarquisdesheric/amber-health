@@ -4,6 +4,7 @@ title: Treatments for Endometriosis
 date: 2020-02-15
 description: Learn about the current treatments for endometriosis and the importance of a multidisciplinary approach to disease management
 featuredImage: /img/pom-1.jpg
+shareCardImage: /img/pom-1
 series: 'Endometriosis'
 seriesNumber: '5'
 seriesLink: '/articles/endometriosis-series'

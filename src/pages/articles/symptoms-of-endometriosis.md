@@ -4,6 +4,7 @@ title: Symptoms of Endometriosis
 date: 2020-02-18
 description: Learn about the symptoms of endometriosis
 featuredImage: /img/sonjiawpom-2.jpg
+shareCardImage: /img/sonjiawpom-2
 series: 'Endometriosis'
 seriesNumber: '2'
 seriesLink: '/articles/endometriosis-series'

@@ -4,6 +4,7 @@ title: Hormonal Medications for Endometriosis
 date: 2020-02-12
 description: Learn about hormonal treatments like birth control and Lupron
 featuredImage: /img/pom-3.jpg
+shareCardImage: /img/pom-3
 series: 'Endometriosis'
 seriesNumber: '7'
 seriesLink: '/articles/endometriosis-series'

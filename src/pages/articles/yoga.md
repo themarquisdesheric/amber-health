@@ -4,6 +4,7 @@ title: Yoga
 date: 2020-01-28
 description: Learn how yoga is used as a form of self-care for endometriosis
 featuredImage: /img/pom-2.jpg
+shareCardImage: /img/pom-2
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

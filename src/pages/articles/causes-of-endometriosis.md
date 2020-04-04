@@ -4,6 +4,7 @@ title: Causes of Endometriosis
 date: 2020-02-17
 description: Learn about the current theories on the causes of endometriosis
 featuredImage: /img/pom-4.jpg
+shareCardImage: /img/pom-4
 series: 'Endometriosis'
 seriesNumber: '3'
 seriesLink: '/articles/endometriosis-series'

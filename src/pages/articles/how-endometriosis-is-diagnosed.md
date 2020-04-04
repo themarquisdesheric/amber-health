@@ -4,6 +4,7 @@ title: How Endometriosis Is Diagnosed
 date: 2020-02-16
 description: Learn how endometriosis is diagnosed and about the importance of diagnosis
 featuredImage: /img/sonjiawpom-3.jpg
+shareCardImage: /img/sonjiawpom-3
 series: 'Endometriosis'
 seriesNumber: '4'
 seriesLink: '/articles/endometriosis-series'

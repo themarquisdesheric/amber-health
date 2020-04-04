@@ -4,6 +4,7 @@ title: Chinese Medicine
 date: 2020-01-26
 description: Learn how Chinese Medicine Can be Used to Treat Endometriosis
 featuredImage: /img/pom-3.jpg
+shareCardImage: /img/pom-3
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

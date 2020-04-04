@@ -4,6 +4,7 @@ title: Physical Therapy
 date: 2020-01-30
 description: Learn about the importance of pelvic floor physical therapy in the treatment of pelvic pain 
 featuredImage: /img/pom-1.jpg
+shareCardImage: /img/pom-1
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

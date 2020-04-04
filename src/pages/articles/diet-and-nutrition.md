@@ -4,6 +4,7 @@ title: Diet and Nutrition
 date: 2020-01-31
 description: Learn how diet and nutrition may impact endometriosis and what specialists recommend
 featuredImage: /img/sonjiawpom-3.jpg
+shareCardImage: /img/sonjiawpom-3
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
 seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'

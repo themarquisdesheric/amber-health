@@ -4,6 +4,7 @@ title: Endometriosis Series
 date: 2020-02-20
 description: Use this overview of articles to navigate the series and learn more about endometriosis
 featuredImage: /img/sonjiawpom-1.jpg
+shareCardImage: /img/sonjiawpom-1
 series: ''
 seriesNumber: ''
 seriesLink: ''
