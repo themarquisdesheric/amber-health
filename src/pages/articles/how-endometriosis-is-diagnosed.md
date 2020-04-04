@@ -84,7 +84,7 @@ Imaging testing can be a helpful tool but it <a href="https://www.endofound.org/
 
 There has been an increased interest in accepting and treating a clinical diagnosis of endometriosis that relies on patient history and symptoms. This diagnosis would <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">not be proven with surgery</a>. While patients would benefit from an easier and earlier diagnostic method, undergoing medical treatment without a definitive diagnosis has its own <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">clear dangers and limitations</a>.
 
-Unfortunately, pharmaceutical companies have aligned themselves with this approach to promote the use of their ineffective hormonal medications as a standard in diagnosis and treatment. There are proven limitations and risks to using hormonal suppression which will be discussed in <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Foregoing a diagnosis and relying on an ineffective medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
+Unfortunately, pharmaceutical companies have aligned themselves with this approach to promote the use of their ineffective hormonal medications as a standard in diagnosis and treatment. There are proven limitations and risks to using hormonal suppression which will be discussed in <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Foregoing a diagnosis and relying on an ineffective medical option is <a href="https://www.ncbi.nlm.nih.gov/pubmed/17070183?dopt=AbstractPlus" target="_blank" rel="noopener noreferrer">not advised</a> for successful disease management.
 
 <blockquote>Although recent guidelines for the management of chronic pelvic pain suggest that diagnostic laparoscopy may be considered a secondary investigation after the failure of therapeutic interventions, the present study highlights the importance of an early diagnosis for patients who suffer from physical, emotional, and social levels when they remain undiagnosed.   
 
@@ -110,7 +110,7 @@ Additional factors that contribute to the delay include symptom suppression thro
 
 <h3>Importance of Diagnosis</h3>
 
-Endometriosis patients see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer">7 doctors</a> on average, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. Studies have shown that <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">the symptoms of endometriosis</a> have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of patients' daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
+Endometriosis patients see <a href="https://swhr.org/experts-identify-challenges-in-endometriosis-research-and-patient-care/" target="_blank" rel="noopener noreferrer">7 doctors</a> on average, are often misdiagnosed multiple times, and receive unnecessary and inappropriate treatments including irreversible surgical procedures. Studies have shown that <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">the symptoms of endometriosis</a> have a <a href="https://www.ncbi.nlm.nih.gov/pubmed/15154905/" target="_blank" rel="noopener noreferrer">substantial impact on quality of life</a> including the physical, emotional, and social wellbeing of patients. Symptoms are reported to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860000/" target="_blank" rel="noopener noreferrer">disrupt all aspects of patients' daily lives</a> and are characterized by physical limitations that significantly disrupt health and work performance.
 
 <blockquote>Despite the existence of severe pain, often described as 'intense' or 'overwhelming', patients experienced a delay in receiving a diagnosis of endometriosis, and their symptoms were frequently trivialized or normalized. This, and the limited effectiveness of treatments, affected relationships with partners and family, work, and sexual relations, although individual experiences in each area were diverse.
 
@@ -126,20 +126,20 @@ The medical neglect and abuse of endometriosis patients must stop. As with any d
 
 </blockquote>
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a></p>
 
 <div class="page-break Slice3"></div>
 
 <h4 class="table-of-contents">Endometriosis Series</h4>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

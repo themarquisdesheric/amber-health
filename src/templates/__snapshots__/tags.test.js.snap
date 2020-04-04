@@ -26,7 +26,7 @@ exports[`Tags 1`] = `
             6 articles tagged with
           </p>
           <h1
-            className="theme-color text-3xl font-bold pb-3"
+            className="theme-color text-3xl font-bold text-left pb-3"
           >
             Endometriosis
           </h1>
@@ -194,7 +194,7 @@ exports[`Tags 1`] = `
             />
           </ul>
           <p
-            className="browse-all-tags text-gray-800 text-sm"
+            className="browse-all-tags text-sm"
           >
             <mockConstructor
               to="/tags/"

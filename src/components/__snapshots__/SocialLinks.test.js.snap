@@ -10,6 +10,11 @@ exports[`SocialLinks 1`] = `
     title="The Chronic Instagram"
   />
   <MakeSocialLink
+    href="https://www.facebook.com/thechronicinfo"
+    src="test-file-stub"
+    title="The Chronic Facebook"
+  />
+  <MakeSocialLink
     href="https://twitter.com/info_chronic"
     src="test-file-stub"
     title="The Chronic Twitter"

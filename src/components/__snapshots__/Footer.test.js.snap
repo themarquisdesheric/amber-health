@@ -11,7 +11,15 @@ exports[`Footer 1`] = `
     <span>
       © 
       2020
-       Amber Robinson
+       Amber Robinson | website by 
+      <a
+        className="footer-link"
+        href="https://www.whoisyuval.com"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        yuval allweil
+      </a>
     </span>
   </small>
 </footer>

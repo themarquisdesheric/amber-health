@@ -129,8 +129,8 @@ The newest hormonal drug, Orilissa, has received <a href="https://www.ncbi.nlm.n
 
 For more information on hormonal medications and hormonal health, please explore these resources:
 
-* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/2020-02-09-endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Instagram</a> for daily hormonal health information, lifestyle, and nutritional advice. 
-* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. We highly recommended her <a href="/articles/2020-02-09-endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
+* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Instagram</a> for daily hormonal health information, lifestyle, and nutritional advice. 
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. We highly recommended her <a href="/articles/endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
 * <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a> explores ways in which birth control negatively impacts users' health.
 * <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a> examines the history of birth control and some of the lesser-known facts about its side effects.
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a> provides information on which contraceptives are available today, when you can start taking birth control, whether contraceptives are safe, and what exactly emergency contraception is. 
@@ -146,18 +146,18 @@ For more information on hormonal medications and hormonal health, please explore
 
 <div class="page-break Slice3"></div>
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a></p>
 
 <h4 class="table-of-contents">Endometriosis Series</h3>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

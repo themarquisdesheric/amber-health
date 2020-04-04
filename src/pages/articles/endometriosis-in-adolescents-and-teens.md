@@ -95,7 +95,7 @@ Endometriosis care for teens requires special attention and a fine-tuned approac
 
 The largest study on hormonal contraceptive use in women concluded that there is an increased risk for depression with <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2552796" target="_blank" rel="noopener noreferrer">the strongest relationship found in teenage women</a>. Similarly, another study's findings suggest that oral contraceptives taken during teen years can have <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpp.13115" target="_blank" rel="noopener noreferrer">an enduring effect on a woman’s risk for depression</a>. This can even last years after cessation, or ceasing to use the medication. 
 
-Interestingly, a retrospective study of 90 surgically-treated adolescents experienced pain recurrence and exacerbation of pain <a href="https://www.ncbi.nlm.nih.gov/pubmed/19646673" target="_blank" rel="noopener noreferrer">while on continuous hormonal medications</a>. The efficacy and potential side effects of hormonal medications are discussed in further detail in <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Special consideration should be given to the potential side effects and long-term effects of hormonal medications. More research is needed to be certain of the outcomes of hormonal medication use in teens. 
+Interestingly, a retrospective study of 90 surgically-treated adolescents experienced pain recurrence and exacerbation of pain <a href="https://www.ncbi.nlm.nih.gov/pubmed/19646673" target="_blank" rel="noopener noreferrer">while on continuous hormonal medications</a>. The efficacy and potential side effects of hormonal medications are discussed in further detail in <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Special consideration should be given to the potential side effects and long-term effects of hormonal medications. More research is needed to be certain of the outcomes of hormonal medication use in teens. 
 
 <blockquote>If a patient has symptoms consistent with a diagnosis of endometriosis, it is crucial that the diagnosis be proven before subjecting a young person to prolonged bouts of powerful drugs. Sometimes physical abnormalities can cause painful symptoms. Such abnormalities can be corrected surgically and are not helped at all by medications.
 
@@ -138,21 +138,21 @@ If the answer is yes to any or all of these, he advises getting your preteen or 
 * <a href="https://theconversation.com/taking-the-pill-as-a-teenager-may-have-long-lasting-effect-on-depression-risk-121786" target="_blank" rel="noopener noreferrer">Taking The Pill As A Teenager May Have Long-lasting Effect On Depression Risk</a> looks at the findings of their study on hormonal contraceptive use in teens. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">Endometriosis In Adolescents Is A Hidden, Progressive and Severe Disease That Deserves Attention, Not Just Compassion</a> provides scientific insights on endometriosis in the younger patient population. 
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
 
 <div class="page-break Slice1"></div>
 
 <h4 class="table-of-contents">Endometriosis Series</h4>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
 
