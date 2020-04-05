@@ -134,7 +134,7 @@ const Article = ({ data }) => {
             <meta name="twitter:url" content={url} />
             <meta name="twitter:title" content={title} />
             <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={imageUrl} />
+            <meta name="twitter:image:src" content={imageUrl} />
             <meta name="twitter:image:alt" content="woman holding pomegranate" />
             {seoKeywords.length > 0 && 
               <meta

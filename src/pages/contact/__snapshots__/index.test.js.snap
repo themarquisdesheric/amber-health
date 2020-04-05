@@ -50,6 +50,7 @@ exports[`ContactForm 1`] = `
             name="name"
             onChange={[Function]}
             type="text"
+            value=""
           />
         </div>
         <label
@@ -63,6 +64,7 @@ exports[`ContactForm 1`] = `
             name="email"
             onChange={[Function]}
             type="email"
+            value=""
           />
         </div>
         <label
@@ -77,6 +79,7 @@ exports[`ContactForm 1`] = `
             onChange={[Function]}
             required={true}
             type="text"
+            value=""
           />
         </div>
         <label
@@ -91,6 +94,7 @@ exports[`ContactForm 1`] = `
             onChange={[Function]}
             required={true}
             rows="6"
+            value=""
           />
         </div>
         <div

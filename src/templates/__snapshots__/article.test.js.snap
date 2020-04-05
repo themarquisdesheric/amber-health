@@ -65,7 +65,7 @@ exports[`Article 1`] = `
         />
         <meta
           content="/img/sonjiawpom-1.jpg"
-          name="twitter:image"
+          name="twitter:image:src"
         />
         <meta
           content="woman holding pomegranate"
