@@ -101,9 +101,9 @@ const Article = ({ data }) => {
     shareCardImage
   } = post.frontmatter;
 
-  const url = `/articles/${_kebabCase(title)}`;
+  const url = `https://www.thechronic.info/articles/${_kebabCase(title)}`;
   // can't use featuredImage because it gets interpreted as a file (not a string) so need redundant field :(
-  const imageUrl = `${shareCardImage}.jpg`;
+  const imageUrl = `https://www.thechronic.info${shareCardImage}.jpg`;
   const seoKeywords = _uniq(tags.concat(keywords)).join(', ');
 
   return (
