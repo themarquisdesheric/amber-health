@@ -32,8 +32,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Can Yoga Be Used as a Treatment for Endometriosis?</h2>
-
 Specialists recommend <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary therapies (like yoga)</a> to successfully manage the pain from endometriosis long-term and improve quality of life. That said, there has been limited research on the efficacy of yoga as a treatment for endometriosis. The available literature reports it has the ability to <a href="https://www.liebertpub.com/doi/10.1089/acm.2015.0343" target="_blank" rel="noopener noreferrer">lower daily pain, reduce levels of chronic pelvic pain, and improve quality of life</a> for those with endometriosis.
 
 Participants of the study reported a <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">greater knowledge of self, autonomy, and self-care</a>. They also reported it was beneficial to control pelvic pain and, in turn, they reduced their use of pain and psychiatric medications. Researchers identified bodily and psychosocial mechanisms  that could control pain in patients with endometriosis. For successful pain control,  <a href="https://www.ncbi.nlm.nih.gov/pubmed/27552065" target="_blank" rel="noopener noreferrer">mind and body integrative techniques</a> are very important.

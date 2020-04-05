@@ -33,8 +33,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Can Chinese Medicine Be Used to Treat Endometriosis?</h2>
-
 Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis-related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
 
 One of the primary mechanisms involved in endometriosis is angiogenesis, or the process by which new blood vessels are formed. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Angiogenesis inhibitors</a> have been shown to stop the regression of endometriosis lesions. Chinese herbs show anti-angiogenic effects. Research suggests there may be a therapeutic potential to agents derived from natural compounds and Chinese medicines. Due to the limited amount of research, more studies are needed.

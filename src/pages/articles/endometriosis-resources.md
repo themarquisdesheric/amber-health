@@ -56,8 +56,6 @@ keywords:
 draft: false
 --- 
 
-<h2>Learn More</h2>
-
 The following are trusted informational resources that explain endometriosis, discuss possible causes, compare diagnostic methods, and critically examine the treatment options that are available. While each source may offer a variety of tools, they have been categorized according to their main focus. Many of these same resources have been cited as references throughout the site. Unfortunately, some of the sources do not use inclusive language. This is not meant to be an exhaustive list of resources, only a helpful starting point. It's likely that there are excellent sites, studies, and doctors not listed.
 
 <div class="page-break PomSketch4"></div>

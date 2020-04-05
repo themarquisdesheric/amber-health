@@ -38,8 +38,6 @@ keywords:
 draft: false 
 --- 
 
-<h2>What Are the Surgical Options?</h2>
-
 The medical treatment of endometriosis involves surgery. Endometriosis surgery is considered to be one of the <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">most complex and difficult surgeries</a> in the human body. There are several surgical options currently available. It is important to learn about each surgical method, as well as your doctor's approach to endometriosis surgery, to make the best decision for your care. 
 
 It's important to note that surgery with a confirmation of biopsy specimens is the <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">only definitive diagnostic tool</a> for confirming endometriosis. Laparoscopy surgery is the most common diagnostic surgery and is also considered a <a href="https://womenssurgerycentertn.com/122/endometriosis-surgery" target="_blank" rel="noopener noreferrer">cornerstone of treatment</a> for the disease. Laparoscopy is a minimally invasive procedure in which the endometriosis lesions are removed. 

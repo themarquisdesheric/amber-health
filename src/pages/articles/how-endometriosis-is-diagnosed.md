@@ -35,8 +35,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Is It Diagnosed?</h2>
-
 Currently there is only <a href="http://centerforendo.com/endometriosis-understanding-a-complex-disease" target="_blank" rel="noopener noreferrer">one method</a> that can confirm a diagnosis of endometriosis. This is via surgery with confirmation of biopsy specimens. While symptoms, patient history, and physical findings can lead to a strong suspicion in identifying the disease, a diagnosis must be confirmed surgically and pathologically. <a href="http://endopaedia.info/diagnosis12.html" target="_blank" rel="noopener noreferrer">Minimally invasive laparoscopy</a>, or LAPEX, is currently the most common method of surgical diagnosis.
 
 <blockquote>The only way to confirm a definitive diagnosis of endometriosis is still surgically; usually via the minimally invasive procedure known as Laparoscopy.
@@ -127,9 +125,9 @@ The medical neglect and abuse of endometriosis patients must stop. As with any d
 
 </blockquote>
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a></p>
-
 <div class="page-break Slice3"></div>
+
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a></p>
 
 <h4 class="table-of-contents">Endometriosis Series</h4>
 

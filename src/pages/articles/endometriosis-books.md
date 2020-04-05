@@ -57,8 +57,6 @@ keywords:
 draft: false 
 --- 
 
-<h2>Learn More</h2>
-
 This collection of books covers an array of topics on endometriosis, including diet and nutrition, surgery, disease management, holistic treatment options, and much more. The titles have been arranged according to their main focus but often there is an overlap in subjects. Reviews have been provided for books I have personally read, but I've also included titles which I have not read that have received good reviews from doctors and patients. Of course, there are many excellent books for endometriosis that may not be listed. Though it is unfortunate that many of these titles do not use inclusive language, read as many as you can to expand your understanding of this complex condition. You can use your local library to access many of these titles for free. 
 
 <div class="page-break PomSketch4"></div>

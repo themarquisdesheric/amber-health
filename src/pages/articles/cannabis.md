@@ -34,8 +34,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Is Cannabis Used to Treat Endometriosis?</h2>
-
 <blockquote>The use of self-management strategies, especially non-pharmacological practices, in chronic illnesses is common. Patients with endometriosis often feel frustrated at the lack of effective medical treatments and therefore turn to self-management as one of the coping strategies to manage their condition. Patients with endometriosis often feel disempowered, and self-management strategies may help them feel a sense of agency and empowerment.
 
 <cite><a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">- Self-management Strategies Amongst Australian Women with Endometriosis: A National Online Survey</a></cite>

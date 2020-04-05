@@ -40,8 +40,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Can Pelvic Floor Physical Therapy Treat Pelvic Pain?</h2>
-
 Specialists agree that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">complementary treatments</a> may help to reduce the patient's pain from endometriosis and provide additional health benefits. <a href="https://drive.google.com/file/d/1fIVCGwNYAQfzW1ULc4CIEtxeN2eAVOjv/view?fbclid=IwAR0C80P8GY_oUzcNUPBERyXbL8I71LRXYSwUp6Zl3YzCfEUCype56z9c0Cc" target="_blank" rel="noopener noreferrer">Pelvic floor physical therapy</a> is a specialty of physical therapy that focuses on the pelvis and surrounding affected areas. This includes working on the muscles, bones, ligaments, and fascia in the core, hips, back, legs, and pelvis. Physical therapy to address endometriosis-related pain has shown promise in initial studies. In one study, participants experienced significant improvements in all domains of <a href="https://journals.sagepub.com/doi/pdf/10.5301/JE.2012.9088" target="_blank" rel="noopener noreferrer">sexual function, including pain, desire, arousal, lubrication, orgasm, and satisfaction</a>. The specific manual therapy used is thought to deform or cause the failure of adhesive bonds. As a result, pain decreases and mobility appears to improve. Since few studies have been conducted, more research is needed to confirm these findings. 
 
 <div class="page-break PomSketch1"></div>

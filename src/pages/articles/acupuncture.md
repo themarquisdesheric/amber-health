@@ -33,8 +33,6 @@ keywords:
 draft: false
 --- 
 
-<h2>How Can Acupuncture Be Used to Treat Endometriosis?</h2>
-
 There has been limited research on the efficacy of acupuncture for treating endometriosis-related pain. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18794019/" target="_blank" rel="noopener noreferrer">Current literature</a> suggests that acupuncture has the ability to reduce pain and serum CA-125 levels. Higher levels of CA-125 have been reported in more advanced stages of endometriosis. 
 
 A systemic review found that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5659600/" target="_blank" rel="noopener noreferrer">acupuncture</a> can alleviate the pain of dysmenorrhoea and reduce peripheral blood CA-125. As a result, the therapy could be applied as a complementary treatment for endometriosis-related pain. Due to limitations of the original studies, additional studies are needed to confirm these findings. 
