@@ -13,6 +13,8 @@ Becoming sick takes a multitude of mechanisms. It can feel like an orchestration
 
 Medical neglect is common due to a lack of knowledgeable healthcare providers and medical dogma that’s saturated with gender and racial bias. Stigmas surrounding marginalized health issues normalize mistreatment and dismissal of patients in society and medical communities alike. Early detection, prevention, accurate diagnosis, and treatment are all forms of validation and can be life saving. They also determine a person’s access to resources and care. Without those, a patient will be neglected and often abused.
 
+<div class="page-break Slice1"></div>
+
 When I fell ill, I was deemed lazy, depressed, and delusional rather than in need of support or medical intervention. My femininity was misconstrued as hysteria, my intelligence as malingering, and my smiles as wellness. Those who knew my history of academic and personal achievements unintentionally damned me further with their disbelief. My conditions may have been at times invisible to my general appearance, but my physical limitations, abnormal test results, and relentless symptoms were glaringly apparent. 
 
 Ableism acts as a shield to protect the mind from believing one could become ill. Illness isn’t as simple as a choice. It’s not an inherent character flaw. It isn’t as simple as a mindset. It’s also something intelligent, happy, motivated, successful, and enlightened people can experience. Being ill has many sorrows but being vilified for it is the most harrowing and condemning aspect. 
@@ -23,6 +25,8 @@ Reading scientific journals and literature, devouring medical books and studies,
 
 This progress couldn’t be accomplished without dedicating decades to researching, learning, and implementing treatments for disease management. The continuation of this journey is lifelong and requires all of my resources. The expense alone is staggering and the cost of the necessary surgeries, medications, travel, health insurance, and treatments remain unattainable for myself and many patients. This also equates to lack of treatment options, disease progression, and further disability for those same patients.
  
+<div class="page-break PomSketch1"></div>
+
 Through this journey I have learned that you will need others to provide you space to exist, time to heal, and a capacity to find your needs reasonable. You’ll need passionate and curious doctors and healthcare providers to work with you to identify, demystify, and treat your conditions. They can provide a clearer focus, find patterns in the chaos, and be the eye of the storm.
 
 It is not as simple as prescribing self care for those who need significant comprehensive and community care. Ultimately, it is the team effort of patient and provider that results in the most successful disease management. We need to see substantial collective change throughout our dwindling healthcare system. Patients are taking responsibility. If patients can rally, petition, and fight for change within the medical and political realms, why are so few others willing to do the work? 

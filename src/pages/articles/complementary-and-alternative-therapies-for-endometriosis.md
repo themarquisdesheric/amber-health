@@ -43,8 +43,6 @@ keywords:
 draft: false
 --- 
 
-<h2>What Are the Alternative and Complementary Therapies?</h2>
-
 A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer"> comprehensive, multidisciplinary approach</a> that is individualized to the patient’s needs will provide the most successful, long-term outcome in endometriosis management. Often this involves receiving care from a variety of doctors and specialists to properly address a wide range of symptoms. This can include working with a gynecologist, nutritionist, integrative doctor, urologist, and many other types of healthcare providers. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/" target="_blank" rel="noopener noreferrer">Research</a> has shown several potential benefits to <a href="https://www.jmig.org/article/S1553-4650(15)00753-0/fulltext" target="_blank" rel="noopener noreferrer">complementary and alternative therapies</a> for endometriosis patients. Examples of complementary therapies include physical therapy, acupuncture, yoga, and meditation. These therapies use various methods to potentially <a href="http://www.endometriosis.co.uk/complementary.html" target="_blank" rel="noopener noreferrer">mitigate symptoms, reduce pain or stress, and aid disease management</a>. 
 
 <blockquote>The majority of patients with chronic pelvic pain and endometriosis have additional related comorbidities. This preliminary data suggests that a thorough approach that addresses these additional processes that contribute to chronic pelvic pain may be a key factor in maintaining such re-operation rates lower than previously reported for patients with endometriosis.

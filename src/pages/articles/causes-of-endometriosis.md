@@ -34,8 +34,6 @@ keywords:
 draft: false
 --- 
 
-<h2>What Are the Potential Causes?</h2>
-
 <blockquote>Often called a 'disease of theories,' the definitive cause(s) of endometriosis remain under debate, though a demonstrated association with a number of hereditary, environmental, epigenetic, and menstrual characteristics exist. No single researcher has found 'the' answer. 
 
 <cite><a href="https://www.endocenter.org/do-you-have-endo/" target="_blank" rel="noopener noreferrer">- Endometriosis Research Center</a>  </cite>

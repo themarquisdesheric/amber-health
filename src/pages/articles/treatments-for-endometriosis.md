@@ -53,7 +53,6 @@ keywords:
  - healing
 draft: false
 --- 
-<h2>What Are the Treatment Options?</h2>
 
 Currently there is no known cure or preventative treatments for endometriosis. There are several treatment options available that can help in disease management. Unfortunately, few options actually target the disease and most only address the symptoms. Each treatment has its own benefits, limitations, and risks to consider. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZua-OpiBsknNROSa0ucyF3dB5ExX2IIDSFEAeFsPdru1SXW22mHZKU" target="_blank" rel="noopener noreferrer">Contemporary treatments</a> are based upon the surgical removal of lesions and medical strategies that suppress estrogen or menses. Due to the complexity of endometriosis and its symptoms, these strategies do not provide a suitable model of long-term care for patients. While there have been efforts to define guidelines by <a href="https://www.ncbi.nlm.nih.gov/pubmed/23528916" target="_blank" rel="noopener noreferrer">various associations</a>, the best treatments for endometriosis still remain under debate. Specialists and researchers have taken a firm stance that <a href="https://www.jogc.com/article/S1701-2163(20)30013-X/fulltext" target="_blank" rel="noopener noreferrer">successful treatment</a> requires quality excision surgery and access to multidisciplinary care.  
 

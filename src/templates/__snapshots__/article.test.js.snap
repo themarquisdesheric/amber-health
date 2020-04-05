@@ -32,11 +32,11 @@ exports[`Article 1`] = `
           property="og:description"
         />
         <meta
-          content="/articles/endometriosis-treatments"
+          content="https://www.thechronic.info/articles/endometriosis-treatments"
           property="og:url"
         />
         <meta
-          content="/img/sonjiawpom-1.jpg"
+          content="https://www.thechronic.info/img/sonjiawpom-1.jpg"
           property="og:image"
         />
         <meta
@@ -52,7 +52,7 @@ exports[`Article 1`] = `
           name="twitter:creator"
         />
         <meta
-          content="/articles/endometriosis-treatments"
+          content="https://www.thechronic.info/articles/endometriosis-treatments"
           name="twitter:url"
         />
         <meta
@@ -64,7 +64,7 @@ exports[`Article 1`] = `
           name="twitter:description"
         />
         <meta
-          content="/img/sonjiawpom-1.jpg"
+          content="https://www.thechronic.info/img/sonjiawpom-1.jpg"
           name="twitter:image:src"
         />
         <meta
