@@ -19,7 +19,7 @@ alias images="open $IMAGE_DIRECTORY"
 alias articles="code $ARTICLE_DIRECTORY"
 alias preview="amberHealth && npm run develop"
 alias previewDrafts="GATSBY_SHOW_DRAFTS=true npm run develop"
-alias update="amberHealth && git checkout master && git pull && npm i || echo -e "$RED_COLOR Dang! Maybe try committing first? 🤔 $WHITE_COLOR"
+alias update="amberHealth && git checkout master && git pull && npm i || echo -e "$RED_COLOR Oh dang! Maybe try committing first? 🤔 $WHITE_COLOR""
 alias updateScripts="amberHealth && git pull && cp amber-scripts.sh ~ && source ~/.bash_profile"
 
 # functions

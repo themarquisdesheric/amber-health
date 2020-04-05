@@ -19,6 +19,62 @@ exports[`Article 1`] = `
           content="Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management "
           name="description"
         />
+        <meta
+          content="article"
+          property="og:type"
+        />
+        <meta
+          content="Endometriosis Treatments"
+          property="og:title"
+        />
+        <meta
+          content="Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management "
+          property="og:description"
+        />
+        <meta
+          content="/articles/endometriosis-treatments"
+          property="og:url"
+        />
+        <meta
+          content="/img/sonjiawpom-1.jpg"
+          property="og:image"
+        />
+        <meta
+          content="summary"
+          name="twitter:card"
+        />
+        <meta
+          content="@info_chronic"
+          name="twitter:site"
+        />
+        <meta
+          content="@info_chronic"
+          name="twitter:creator"
+        />
+        <meta
+          content="/articles/endometriosis-treatments"
+          name="twitter:url"
+        />
+        <meta
+          content="Endometriosis Treatments"
+          name="twitter:title"
+        />
+        <meta
+          content="Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management "
+          name="twitter:description"
+        />
+        <meta
+          content="/img/sonjiawpom-1.jpg"
+          name="twitter:image"
+        />
+        <meta
+          content="woman holding pomegranate"
+          name="twitter:image:alt"
+        />
+        <meta
+          content="endometriosis, women's health, "
+          name="keywords"
+        />
       </HelmetWrapper>
     }
     tags={

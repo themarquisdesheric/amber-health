@@ -4,26 +4,55 @@ title: Endometriosis Resources
 date: 2020-02-09
 description: A guide to endometriosis resources, including support groups, locating specialists, mentions in the media, and information on inclusive care
 featuredImage: /img/sonjiawpom-2.jpg
+shareCardImage: /img/sonjiawpom-2
 series: 'Endometriosis'
 seriesNumber: '10'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
- - birth control
- - lupron
- - orlissa
+ - endometriosis treatment
+ - endometriosis surgery
  - excision surgery
  - laparoscopy
- - support
- - gender bias
+ - endometriosis specialist
+ - excision surgeon
+ - birth control
+ - hormonal medications
+ - hormonal health
+ - complementary therapy
+ - self-care
+ - healing
  - racial bias
+ - gender bias
+ - inclusive care
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
  - adolescent and teen
+ - multidisciplinary care
+ - endometriosis resources
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormonal suppression
+ - hormones
+ - mental health 
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
 draft: false
 --- 
 
@@ -81,8 +110,8 @@ Many doctors use hormonal medications as a first line treatment for endometriosi
 
 </blockquote>
 
-* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/2020-02-09-endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">instagram</a> for daily hormonal health information and lifestyle and nutritional advice. 
-* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. We highly recommended her <a href="/articles/2020-02-09-endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
+* <a href="https://drbrighten.com/birth-control-what-your-doctor-didnt-tell-you/" target="_blank" rel="noopener noreferrer">Dr. Jolene Brighten</a> is a Functional Medicine Naturopathic Physician and women's health expert. We've recommended her <a href="/articles/endometriosis-books#hormonal-health-books" rel="noopener noreferrer">book</a>, which has been called the Period Bible by readers. Also, check out her <a href="https://www.instagram.com/drjolenebrighten/?hl=en" target="_blank" rel="noopener noreferrer">Instagram</a> for daily hormonal health information and lifestyle and nutritional advice. 
+* <a href="https://www.larabriden.com/the-pill-is-bad-medicine-7-ways-that-hormonal-contraception-harms-women/" target="_blank" rel="noopener noreferrer">Dr. Lara Briden</a> is a Naturopathic Doctor and women's health expert. She offers excellent insights on hormonal health, contraceptive side effects, and holistic solutions for period problems. We highly recommended her <a href="/articles/endometriosis-books#briden-book" rel="noopener noreferrer">book</a>.
 * <a href="https://thyroidpharmacist.com/articles/14-ways-birth-control-pills-rob-us-of-our-health/" target="_blank" rel="noopener noreferrer">14 Ways Birth Control Pills Rob Us of Our Health</a> explores ways in which birth control negatively impacts users' health.
 * <a href="https://www.bbc.com/future/article/20180822-the-birth-control-pill-can-have-male-side-effects" target="_blank" rel="noopener noreferrer">The Strange Truth About the Pill</a> examines the history of birth control and some of the lesser-known facts about its side effects.
 * <a href="https://drbrighten.com/the-contraception-guide/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Happy+World+Contraception+Day%21&utm_campaign=Happy+World+Contraception+Day%21" target="_blank" rel="noopener noreferrer">The Contraception Guide</a> provides information on which contraceptives are available today, when you can start taking birth control, whether contraceptives are safe, and what exactly emergency contraception is. 
@@ -108,7 +137,7 @@ A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661982/?fbclid=IwAR1ytZ
 * <a href="https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-019-2431-x" target="_blank" rel="noopener noreferrer">Self-management Strategies Amongst Australian Women with Endometriosis: A National Online Survey</a> provides insights into the self-care techniques used by endometriosis patients.
 * <a href="https://endometriosis.net/complementary-alternative-treatment/mind-body-practices/" target="_blank" rel="noopener noreferrer">Mind-Body Practices for Endometriosis</a> looks at how these techniques may help to manage symptoms of endometriosis.
 * <a href="https://yourpaceyoga.com/why-yoga/yoga-for-pelvic-pain/" target="_blank" rel="noopener noreferrer">Your Pace Yoga: Yoga for Incontinence and Pelvic Pain</a> provides poses, sequences, and detailed information on using yoga for pain management and treating the symptoms of endometriosis.
-* <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of Acupuncture for the Treatment of Endometriosis-related Pain: A Systematic Review and Meta-analysis</a> examines the effectiveness of acupuncture as a treatment for endometriosis related pain.
+* <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186616" target="_blank" rel="noopener noreferrer">Effects of Acupuncture for the Treatment of Endometriosis-related Pain: A Systematic Review and Meta-analysis</a> examines the effectiveness of acupuncture as a treatment for endometriosis-related pain.
 * <a href="https://www.ncbi.nlm.nih.gov/pubmed/20728977" target="_blank" rel="noopener noreferrer">Is Acupuncture in Addition to Conventional Medicine Effective as Pain Treatment for Endometriosis? A Randomized Controlled Cross-over Trial</a> examines whether acupuncture is an effective additional pain treatment for endometriosis.
 * <a href="https://pelvicrehab.com/" target="_blank" rel="noopener noreferrer">Find a Pelvic Rehab Practitioner</a> through Pelvic Rehab's provider locator tool.
 * <a href="https://www.pelvicsanity.com/" target="_blank" rel="noopener noreferrer">Pelvic Sanity</a> is a physical therapy clinic located in Southern California that specializes in pelvic pain, sexual dysfunction, and urinary and bowel conditions. They offer remote consultations, patient resources, and an immersive out of town program.
@@ -155,7 +184,7 @@ Finding adequate support, receiving validation, and maintaining one's self worth
 * <a href="https://www.facebook.com/groups/unsweeteningthepill/?ref=pages_profile_groups_tab&source_id=162535677236310" target="_blank" rel="noopener noreferrer">Unsweetening the Pill: Support For Going Off Hormonal Birth Control</a> is a support group that provides community, resources, and care to those making the transition off hormonal birth control.
 * <a href="https://slate.com/human-interest/2018/03/online-uti-and-endometriosis-communities-for-women-are-a-crucial-resource.html" target="_blank" rel="noopener noreferrer">Why Online UTI and Endometriosis Communities Are a Godsend for Many Women</a> discusses the important and often fundamental role that online communities can provide for patients. 
 
-<div class="page-break PomSketch4"></div>
+<div class="page-break PomSketch1"></div>
 
 <h3>Inclusive Care: Trans and Non-binary Patients</h3>
 
@@ -235,7 +264,7 @@ These Apps provide tools to track and monitor your symptoms, menstrual cycle, me
 As our understanding of endometriosis continues to grow, more awareness is being raised through publications, articles, and blogs. The more awareness that society has, the more research and funding can be dedicated to endometriosis. Patients' personal stories can be informative and validating. These are great for sharing on social media or with friends and family to educate them and to bring awareness to endometriosis. 
 
 * <a href="https://www.forbes.com/sites/javierhasse/2019/12/04/lara-parker/#16937b1561e2" target="_blank" rel="noopener noreferrer">Weed And Vagina Problems: The Story Of Lara Parker, Cannabis And Endometriosis Activist</a> looks at the role cannabis plays in an endometriosis patient's treatments. 
-* <a href="https://www.instagram.com/laraeparker/?hl=en" target="_blank" rel="noopener noreferrer">Lara Parker's instagram</a> addresses endometriosis, vaginal problems, body positivity, and medical marijuana. 
+* <a href="https://www.instagram.com/laraeparker/?hl=en" target="_blank" rel="noopener noreferrer">Lara Parker's Instagram</a> addresses endometriosis, vaginal problems, body positivity, and medical marijuana. 
 * <a href="https://lilywilliamsart.com/portfolio/my-endo-story/" target="_blank" rel="noopener noreferrer">My Endometriosis Story by Lily Williams</a> tells an endometriosis patient's story in comic form.
 * <a href="https://www.theguardian.com/us-news/2015/sep/27/endometriosis-ignored-federal-research-funding" target="_blank" rel="noopener noreferrer">Endometriosis Often Ignored As Millions of American Women Suffer</a> examines how research funding has neglected the disease leading to a misunderstanding in the medical community.
 * <a href="http://honisoit.com/2019/03/the-invisible-one-in-ten-endometriosis-hidden-on-campus/?fbclid=IwAR36_Ef6pbFKuHv2OtEPJq4zXlLNuzuUTawLjUTQYyJ08jU0vWc3tSpBrF8" target="_blank" rel="noopener noreferrer">The Invisible One in Ten: Endometriosis Hidden on Campus</a> examines why endometriosis remains much of a mystery despite its prevalence. 
@@ -268,18 +297,20 @@ The following are opportunities to get involved in endometriosis research and co
 * <a href="http://citizenendo.org/phendo/" target="_blank" rel="noopener noreferrer">Phendo</a> is a multipurpose app that allows patients to track their symptoms, medicines, etc. At the same time, it contributes to the largest collection of clinical data about endometriosis, which will be used to <a href="https://www.fastcompany.com/90311757/this-female-professor-developed-an-app-to-help-200-million-suffering-women?fbclid=IwAR0NTVjdiOSJqwNYET-CZ7NpO9Hn_onNlxwdqGfbHQGyo8t1hDacOQ_5atY" target="_blank" rel="noopener noreferrer">begin phenotyping the disease</a>. It's created by Noemie Elhadad, PhD, an associate professor of Biomedical Informatics at Columbia University and an endometriosis patient.
 * <a href="https://feinstein.northwell.edu/institutes-researchers/institute-molecular-medicine/robert-s-boas-center-for-genomics-and-human-genetics/rose-research-outsmarts-endometriosis" target="_blank" rel="noopener noreferrer">The ROSE Study (Research OutSmarts Endometriosis)</a> is researching how to diagnose endometriosis by analyzing menstrual blood. Learn more and sign up for the Clinical Study.
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a></p>
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch2"></div>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+<h4 class="table-of-contents">Endometriosis Series</h4>
+
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

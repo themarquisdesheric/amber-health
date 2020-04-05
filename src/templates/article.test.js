@@ -11,6 +11,7 @@ const data = {
     frontmatter: {
       date: 'September 28, 2019',
       title: 'Endometriosis Treatments',
+      shareCardImage: '/img/sonjiawpom-1',
       description: 'Learn about the available treatments for endometriosis and the importance of a multidisciplinary approach to disease management ',
       tags: [
         'endometriosis',

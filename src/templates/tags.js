@@ -1,7 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby';
-import { capitalize } from 'lodash';
+import _capitalize from 'lodash/capitalize';
 import Layout from '../components/Layout';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Article from '../components/Article';
@@ -15,7 +15,7 @@ const TagRoute = ({ data, pageContext }) => {
   const taggedWithText = `${totalCount} article${
     totalCount === 1 ? '' : 's'
   } tagged with`;
-  const tagTitle = capitalize(tag);
+  const tagTitle = _capitalize(tag);
 
   return (
     <Layout>
@@ -36,7 +36,7 @@ const TagRoute = ({ data, pageContext }) => {
                   <Article post={post} className="tag-tile max-w-sm" key={post.id} />
                 ))}
               </ul>
-              <p className="browse-all-tags text-gray-800 text-sm">
+              <p className="browse-all-tags text-sm">
                 <Link to="/tags/">Browse all tags</Link>
               </p>
             </div>

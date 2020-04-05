@@ -4,17 +4,53 @@ title: Treatments for Endometriosis
 date: 2020-02-15
 description: Learn about the current treatments for endometriosis and the importance of a multidisciplinary approach to disease management
 featuredImage: /img/pom-1.jpg
+shareCardImage: /img/pom-1
 series: 'Endometriosis'
 seriesNumber: '5'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
+ - endometriosis treatment
+ - endometriosis surgery
+ - excision surgery
+ - laparoscopy
+ - endometriosis specialist
+ - excision surgeon
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - complementary therapy
+ - multidisciplinary care
+ - self-care
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
+ - adolescent and teen
+ - racial bias
+ - gender bias 
+ - endometriosis resources
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormones
+ - mental health
+ - healing
 draft: false
 --- 
 <h2>What Are the Treatment Options?</h2>
@@ -89,18 +125,20 @@ Clearly the hurdles to care for endometriosis are multidimensional and require a
 
 As a patient, being informed about available treatments will help you advocate for your health needs and guide you in selecting the most appropriate options. Unfortunately, the onus is on the patient to become informed and educate the world and the medical community about endometriosis. Misinformation and myth has long dictated the approach to treating endometriosis. The next articles in the Endometriosis Series provide a detailed look at the different types of treatments available for endometriosis, including surgery, hormonal medications, and complementary and alternative therapies. 
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a></p>
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch1"></div>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+<h4 class="table-of-contents">Endometriosis Series</h4>
+
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

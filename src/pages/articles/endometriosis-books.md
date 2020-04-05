@@ -4,18 +4,56 @@ title: Endometriosis Books
 date: 2020-02-08
 description: A guide to books on endometriosis with book reviews
 featuredImage: /img/pom-4.jpg
+shareCardImage: /img/pom-4
 series: 'Endometriosis'
 seriesNumber: '11'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
-  - endometriosis
-  - endo
-  - chronic pain
-  - chronic illness 
-  - invisible illness
-  - health
-  - women’s health
-  - book
+ - endometriosis
+ - endo
+ - chronic pain
+ - pelvic pain
+ - chronic illness
+ - invisible illness
+ - health
+ - women’s health
+ - endometriosis treatment
+ - endometriosis book
+ - endometriosis surgery
+ - excision surgery
+ - laparoscopy
+ - endometriosis specialist
+ - birth control
+ - hormonal medications
+ - hormonal health
+ - complementary therapy
+ - self-care
+ - healing
+ - racial bias
+ - gender bias
+ - inclusive care
+keywords:
+ - inflammation
+ - estrogen
+ - endometriosis comorbidities
+ - endometriosis resources 
+ - alternative therapy
+ - acupuncture
+ - yoga
+ - cannabis
+ - integrative medicine  
+ - adolescent and teen
+ - multidisciplinary care
+ - endometriosis symptoms
+ - endometriosis causes
+ - hormonal suppression
+ - hormones
+ - excision surgeon
+ - mental health
+ - physical therapy
+ - diet and nutrition 
+ - holistic medicine
+ - chinese medicine
 draft: false 
 --- 
 
@@ -23,7 +61,7 @@ draft: false
 
 This collection of books covers an array of topics on endometriosis, including diet and nutrition, surgery, disease management, holistic treatment options, and much more. The titles have been arranged according to their main focus but often there is an overlap in subjects. Reviews have been provided for books I have personally read, but I've also included titles which I have not read that have received good reviews from doctors and patients. Of course, there are many excellent books for endometriosis that may not be listed. Though it is unfortunate that many of these titles do not use inclusive language, read as many as you can to expand your understanding of this complex condition. You can use your local library to access many of these titles for free. 
 
-<div class="page-break PomSketch2"></div>
+<div class="page-break PomSketch4"></div>
 
 <h3>Endometriosis 101</h3>
 
@@ -50,7 +88,7 @@ This collection of books covers an array of topics on endometriosis, including d
 
 <div class="page-break PomSketch1"></div>
 
-<h3>Nutrition and Diet</h3>
+<h3>Diet and Nutrition</h3>
 
 * <a href="https://www.amazon.com/Endometriosis-Key-Healing-Through-Nutrition/dp/0007133103" target="_blank" rel="noopener noreferrer">Endometriosis: A Key to Healing Through Nutrition</a> by Dian Shepperson Mills and Michael Vernon - Drawing upon years of research, the authors show how the right diet can provide the key to optimum health in overcoming endometriosis. It includes an explanation of how endometriosis affects the body, advice on how to cope with it, an account of the key role played by nutritious and healthy food, and information on foods that are harmful as well as foods with healing qualities. I highly recommend this book. <b>Since most doctors are not well-versed in diet and nutritional therapy, I found this book essential in understanding the connection between disease and diet. It details the science behind the methods and provides an in-depth look at endometriosis. I felt empowered by learning these tools for self-care.</b>
 * <a href="https://www.amazon.com/Endometriosis-Health-Diet-Program-Your/dp/077880562X" target="_blank" rel="noopener noreferrer">The Endometriosis Health and Diet Program: Get Your Life Back</a> by Andrew Cook, MD and Danielle Cook, MS, RD, CDE - This will dispel the myths surrounding endometriosis and provide scientifically based recommendations that are easy to understand and follow. It offers recommendations on treating root causes rather than just symptoms.
@@ -89,16 +127,18 @@ This collection of books covers an array of topics on endometriosis, including d
 * <a href="https://www.amazon.com/Invisible-Serious-Navigate-Relationships-Pressure/dp/0807023957" target="_blank" rel="noopener noreferrer">Invisible: How Young Women with Serious Health Issues Navigate Work, Relationships, and the Pressure to Seem Just Fine</a> by Michele Lent Hirsch - Though young women with serious illness tend to be seen as outliers, young female patients are in fact the primary demographic for many illnesses. They are also one of the most ignored groups in our medical system, a system where young women, especially women of color and trans women, are invisible. This is one of my top recommendations. This balances the autobiography of a chronically ill person with a historical look at medical abuse and neglect. While this doesn't focus on endometriosis specifically, this is a favorite of mine and it's extremely relevant.
 * <a href="https://www.amazon.com/Sick-Memoir-Porochista-Khakpour/dp/006242873X" target="_blank" rel="noopener noreferrer">Sick: A Memoir</a> by Porochista Khakpour - This is a grueling, emotional journey of an Iranian-American writer who is a lifelong sufferer of undiagnosed health problems. In it, she examines her struggles with late-stage Lyme disease, mental illness, and her addiction to medications prescribed by her doctor.
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break PomSketch2"></div>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+<h4 class="table-of-contents">Endometriosis Series</h4>
+
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>

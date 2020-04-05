@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
+import _kebabCase from 'lodash/kebabCase';
+import _uniq from 'lodash/uniq';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
@@ -29,6 +30,8 @@ export const ArticleTemplate = ({
   helmet
 }) => {
   const PostContent = contentComponent || Content;
+  // fix firefox float bug
+  const isFirefox = typeof InstallTrigger !== 'undefined';
 
   return (
     <section className="content">
@@ -39,22 +42,26 @@ export const ArticleTemplate = ({
           <h1 className="font-bold pt-2 pb-3">
             {title}
           </h1>
-          <p className="pb-8 mb-12">{description}</p>
+          <p className="pb-8 mb-12">
+            <span className="subtitle inline-block">
+              {description}
+            </span>
+          </p>
 
           <div className="sharethis-inline-share-buttons mb-8" />
           
           {series && (
             <p className="series italic">
               This is part {seriesNumber} of the &nbsp;
-              <Link to={seriesLink} className="underline" style={{ color: '#b3564b' }}>{series} Series</Link>
+              <a href={seriesLink} className="underline" style={{ color: '#b3564b' }} target="_blank" rel="noopener noreferrer">{series} Series</a>
             </p>
           )}
-          <PostContent content={content} className="article-content flex flex-col items-center" />
+          <PostContent content={content} className={`article-content flex flex-col items-center ${isFirefox ? 'firefox' : ''}`} />
 
           {tags && tags.length ? (
             <ul className="tags mt-16">
               {tags.map(tag => (
-                <Link to={`/tags/${kebabCase(tag)}/`} key={tag + 'tag'}>
+                <Link to={`/tags/${_kebabCase(tag)}/`} key={tag + 'tag'}>
                   <li className="tag">{tag}</li>
                 </Link>
               ))}
@@ -83,27 +90,62 @@ ArticleTemplate.propTypes = {
 
 const Article = ({ data }) => {
   const { markdownRemark: post } = data;
+  const { 
+    tags,
+    keywords,
+    description,
+    series,
+    seriesNumber,
+    seriesLink, 
+    title,
+    shareCardImage
+  } = post.frontmatter;
+
+  const url = `/articles/${_kebabCase(title)}`;
+  // can't use featuredImage because it gets interpreted as a file (not a string) so need redundant field :(
+  const imageUrl = `${shareCardImage}.jpg`;
+  const seoKeywords = _uniq(tags.concat(keywords)).join(', ');
 
   return (
     <Layout>
       <ArticleTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
-        series={post.frontmatter.series}
-        seriesNumber={post.frontmatter.seriesNumber}
-        seriesLink={post.frontmatter.seriesLink}
+        description={description}
+        series={series}
+        seriesNumber={seriesNumber}
+        seriesLink={seriesLink}
         helmet={
           <Helmet titleTemplate="%s | The Chronic">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{title}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${description}`}
             />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content={title} />
+            <meta property="og:description" content={description} />
+            <meta property="og:url" content={url} />
+            <meta property="og:image" content={imageUrl} />
+
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:site" content="@info_chronic" />
+            <meta name="twitter:creator" content="@info_chronic" />
+            <meta name="twitter:url" content={url} />
+            <meta name="twitter:title" content={title} />
+            <meta name="twitter:description" content={description} />
+            <meta name="twitter:image" content={imageUrl} />
+            <meta name="twitter:image:alt" content="woman holding pomegranate" />
+            {seoKeywords.length > 0 && 
+              <meta
+                name="keywords"
+                content={seoKeywords}
+              />
+            }
           </Helmet>
         }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+        tags={tags}
+        title={title}
       />
     </Layout>
   );
@@ -130,6 +172,8 @@ export const pageQuery = graphql`
         seriesNumber
         seriesLink
         tags
+        keywords
+        shareCardImage
       }
     }
   }

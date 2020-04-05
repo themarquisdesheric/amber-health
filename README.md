@@ -2,6 +2,12 @@
 
 A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety
 
+## SEO Keywords
+
+Non-article pages of your site inject the keywords listed in `src/SEOkeywords.js`. 
+
+Article pages take the `tags` and `keywords` listed in the article file and inject those, after ensuring duplicates are removed. 
+
 ---
 
 ## Scripts

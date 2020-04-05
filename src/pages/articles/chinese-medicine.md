@@ -1,30 +1,41 @@
 --- 
 templateKey: article
 title: Chinese Medicine
-date: 2020-01-28
-description: DESCRIPTION AND TAGS NEEDED!!!
-featuredImage: /img/sonjiawpom-1.jpg
+date: 2020-01-26
+description: Learn how Chinese Medicine Can be Used to Treat Endometriosis
+featuredImage: /img/pom-3.jpg
+shareCardImage: /img/pom-3
 series: 'Complementary and Alternative Therapies for Endometriosis'
 seriesNumber: ''
-seriesLink: '/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/'
+seriesLink: '/articles/complementary-and-alternative-therapies-for-endometriosis/'
 tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
  - endometriosis treatment
+ - complementary therapy
+ - multidisciplinary care
+ - chinese medicine
  - acupuncture
- - yoga
- - diet and nutrition 
+ - herbal medicine
+ - diet and nutrition
+ - healing
+keywords:
+ - estrogen
+ - inflammation 
+ - endometriosis comorbidities
+ - alternative therapy 
 draft: false
 --- 
 
-<h2>Chinese Medicine</h2>
+<h2>How Can Chinese Medicine Be Used to Treat Endometriosis?</h2>
 
-Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
+Chinese medicine is another example of a complementary therapy that may be beneficial as a treatment for endometriosis-related symptoms. Clinical studies suggest that Chinese herbs can relieve pain symptoms related to endometriosis. The mechanisms at work may include the inhibition of growth of ectopic endometrium, endocrine regulation, and the regulation of prostaglandin-related receptors. Chinese medicine might also work by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">improving blood circulation and regulating immune function</a>. Further research is needed to know the efficacy and safety of these methods. 
 
 One of the primary mechanisms involved in endometriosis is angiogenesis, or the process by which new blood vessels are formed. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Angiogenesis inhibitors</a> have been shown to stop the regression of endometriosis lesions. Chinese herbs show anti-angiogenic effects. Research suggests there may be a therapeutic potential to agents derived from natural compounds and Chinese medicines. Due to the limited amount of research, more studies are needed.
 
@@ -36,23 +47,27 @@ In studies, certain Chinese therapies were not entirely curative of endometriosi
 
 </blockquote>
 
+<div class="page-break PomSketch3"></div>
+
 <h3>Resources</h3>
 
-The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis related symptoms.
+The following studies and articles provide more information on Chinese Medicine as a treatment for endometriosis-related symptoms:
 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6637095/" target="_blank" rel="noopener noreferrer">Novel Drug Targets with Traditional Herbal Medicines for Overcoming Endometriosis</a> examines if Chinese herbs can offer a safer, less reactive treatment option.
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950373/" target="_blank" rel="noopener noreferrer">The Complementary and Alternative Medicine for Endometriosis: A Review of Utilization and Mechanism</a> try to identify therapeutic efficacy and mechanisms based on several clinical and experimental studies. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191968/" target="_blank" rel="noopener noreferrer">Anti-Angiogenic Alternative and Complementary Medicines for the Treatment of Endometriosis: A Review of Potential Molecular Mechanisms</a> looks at the mechanisms in which Chinese herbs may work.
-* <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview on the practice.
+* <a href="https://nccih.nih.gov/health/whatiscam/chinesemed.htm" target="_blank" rel="noopener noreferrer">Traditional Chinese Medicine: What You Need To Know</a> provides a general overview of the practice.
 
-<h3 class="table-of-contents">Complementary and Alternative Therapies Series</h3>
+<div class="page-break PomSketch2"></div>
 
-- <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-- <a href="/articles/2020-01-31-diet-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
-- <a href="/articles/2020-01-30-physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
-- <a href="/articles/2020-01-29-acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
-- <a href="/articles/2020-01-28-yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
-- <a href="/articles/2020-01-27-integrative-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
-- <a href="/articles/2020-01-26-chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
-- <a href="/articles/2020-01-25-meditation-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
-- <a href="/articles/2020-01-24-cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>
+<h4 class="table-of-contents">Complementary and Alternative Therapies Series</h4>
+
+- <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+- <a href="/articles/diet-and-nutrition" target="_blank" rel="noopener noreferrer">Diet and Nutrition</a>
+- <a href="/articles/physical-therapy" target="_blank" rel="noopener noreferrer">Physical Therapy</a>
+- <a href="/articles/acupuncture" target="_blank" rel="noopener noreferrer">Acupuncture</a>
+- <a href="/articles/yoga" target="_blank" rel="noopener noreferrer">Yoga</a>
+- <a href="/articles/integrative-and-holistic-medicine" target="_blank" rel="noopener noreferrer">Integrative and Holistic Medicine</a>
+- <a href="/articles/chinese-medicine" target="_blank" rel="noopener noreferrer">Chinese Medicine</a>
+- <a href="/articles/meditation-and-mindfulness" target="_blank" rel="noopener noreferrer">Meditation and Mindfulness</a>
+- <a href="/articles/cannabis" target="_blank" rel="noopener noreferrer">Cannabis</a>

@@ -4,23 +4,56 @@ title: Endometriosis in Adolescents and Teens
 date: 2020-02-10
 description: Learn about the unique presentation of symptoms in adolescents and how treatment is approached for teens and pre-teens
 featuredImage: /img/pom-2.jpg
+shareCardImage: /img/pom-2
 series: 'Endometriosis'
 seriesNumber: '9'
-seriesLink: '/articles/2020-02-10-endometriosis-series'
+seriesLink: '/articles/endometriosis-series'
 tags:
  - endometriosis
  - endo
  - chronic pain
+ - pelvic pain
  - chronic illness
  - invisible illness
  - health
  - women’s health
- - birth control
+ - endometriosis treatment
+ - endometriosis surgery
  - excision surgery
  - laparoscopy
+ - birth control
+ - hormonal medications
+ - hormonal suppression
+ - endometriosis symptoms
+ - painful menstruation
+ - endo belly
+ - fatigue
+ - adhesions
+ - mental health
  - adolescent and teen
+keywords:
+ - inflammation
+ - estrogen 
+ - multidisciplinary care
+ - endometriosis specialist
+ - excision surgeon
+ - hormones
+ - hormonal health
+ - pelvic floor dysfunction
+ - bladder
+ - interstitial cystitis
+ - painful bladder syndrome
+ - painful sex
+ - bowel
+ - leg pain 
+ - infertility
+ - back pain
+ - bloating 
+ - nausea
+ - endometriosis comorbidities
 draft: false 
 --- 
+
 <h2>Can Adolescents and Teens Have Endometriosis?</h2>
 
 Incorrectly, adolescents are often thought to be too young to be affected by endometriosis. Studies have shown endometriosis in patients as young as <a href="https://jamanetwork.com/journals/jama/article-abstract/1153958" target="_blank" rel="noopener noreferrer">11 years old</a> and other research suggests that two thirds of patients with endometriosis have symptoms <a href="https://endometriosis.org/resources/articles/teenagers/" target="_blank" rel="noopener noreferrer">before they are 20 years old</a>. The prevalence of endometriosis in adolescents with chronic pelvic pain, and/or dysmenorrhea resistance to OCPs (oral contraceptive pills) and NSAIDs is 62 percent. As high as <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">75 percent of adolescents with chronic pelvic pain resistant to OCPs</a> are later diagnosed with endometriosis.
@@ -63,7 +96,7 @@ Endometriosis care for teens requires special attention and a fine-tuned approac
 
 The largest study on hormonal contraceptive use in women concluded that there is an increased risk for depression with <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2552796" target="_blank" rel="noopener noreferrer">the strongest relationship found in teenage women</a>. Similarly, another study's findings suggest that oral contraceptives taken during teen years can have <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpp.13115" target="_blank" rel="noopener noreferrer">an enduring effect on a woman’s risk for depression</a>. This can even last years after cessation, or ceasing to use the medication. 
 
-Interestingly, a retrospective study of 90 surgically-treated adolescents experienced pain recurrence and exacerbation of pain <a href="https://www.ncbi.nlm.nih.gov/pubmed/19646673" target="_blank" rel="noopener noreferrer">while on continuous hormonal medications</a>. The efficacy and potential side effects of hormonal medications are discussed in further detail in <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Special consideration should be given to the potential side effects and long-term effects of hormonal medications. More research is needed to be certain of the outcomes of hormonal medication use in teens. 
+Interestingly, a retrospective study of 90 surgically-treated adolescents experienced pain recurrence and exacerbation of pain <a href="https://www.ncbi.nlm.nih.gov/pubmed/19646673" target="_blank" rel="noopener noreferrer">while on continuous hormonal medications</a>. The efficacy and potential side effects of hormonal medications are discussed in further detail in <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>. Special consideration should be given to the potential side effects and long-term effects of hormonal medications. More research is needed to be certain of the outcomes of hormonal medication use in teens. 
 
 <blockquote>If a patient has symptoms consistent with a diagnosis of endometriosis, it is crucial that the diagnosis be proven before subjecting a young person to prolonged bouts of powerful drugs. Sometimes physical abnormalities can cause painful symptoms. Such abnormalities can be corrected surgically and are not helped at all by medications.
 
@@ -73,7 +106,7 @@ Interestingly, a retrospective study of 90 surgically-treated adolescents experi
 
 Since research has not focused on the treatment of adolescent endometriosis, <a href="https://www.endofound.org/can-early-detection-and-treatment-of-adolescent-endometriosis-prevent-adult-endometriosis-thomas-d-h" target="_blank" rel="noopener noreferrer">we do not know</a> if early treatment can prevent adult endometriosis. Progression of endometriosis in adolescents is characterized by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">extensive adhesions and lesion formation</a> but further data is needed to understand the progressive changes.
 
-<div class="page-break Slice1"></div>
+<div class="page-break PomSketch1"></div>
 
 <h3>Key Questions To Ask Your Teen or Pre-Teen</h3>
 
@@ -106,19 +139,21 @@ If the answer is yes to any or all of these, he advises getting your preteen or 
 * <a href="https://theconversation.com/taking-the-pill-as-a-teenager-may-have-long-lasting-effect-on-depression-risk-121786" target="_blank" rel="noopener noreferrer">Taking The Pill As A Teenager May Have Long-lasting Effect On Depression Risk</a> looks at the findings of their study on hormonal contraceptive use in teens. 
 * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712662/" target="_blank" rel="noopener noreferrer">Endometriosis In Adolescents Is A Hidden, Progressive and Severe Disease That Deserves Attention, Not Just Compassion</a> provides scientific insights on endometriosis in the younger patient population. 
 
-<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
+<p class="pt-12">For the next article in the Endometriosis Series, see <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a></p>
 
-<h3 class="table-of-contents">Endometriosis Series</h3>
+<div class="page-break Slice1"></div>
 
-1. <a href="/articles/2020-02-10-endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
-2. <a href="/articles/2020-02-10-symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
-3. <a href="/articles/2020-02-10-causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
-4. <a href="/articles/2020-02-10-how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
-5. <a href="/articles/2020-02-10-treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
-6. <a href="/articles/2020-02-09-surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
-7. <a href="/articles/2020-02-09-hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
-8. <a href="/articles/2020-02-09-complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
-9. <a href="/articles/2020-02-22-endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
-10. <a href="/articles/2020-02-09-endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
-11. <a href="/articles/2020-02-09-endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
+<h4 class="table-of-contents">Endometriosis Series</h4>
+
+1. <a href="/articles/endometriosis-101/" target="_blank" rel="noopener noreferrer">Endometriosis 101</a>
+2. <a href="/articles/symptoms-of-endometriosis/" target="_blank" rel="noopener noreferrer">Symptoms of Endometriosis</a>
+3. <a href="/articles/causes-of-endometriosis/" target="_blank" rel="noopener noreferrer">Causes of Endometriosis</a>
+4. <a href="/articles/how-endometriosis-is-diagnosed/" target="_blank" rel="noopener noreferrer">How Endometriosis Is Diagnosed</a>
+5. <a href="/articles/treatments-for-endometriosis/" target="_blank" rel="noopener noreferrer">Treatments for Endometriosis</a>
+6. <a href="/articles/surgical-treatment-for-endometriosis/" target="_blank" rel="noopener noreferrer">Surgical Treatment for Endometriosis</a>
+7. <a href="/articles/hormonal-medications-for-endometriosis/" target="_blank" rel="noopener noreferrer">Hormonal Medications for Endometriosis</a>
+8. <a href="/articles/complementary-and-alternative-therapies-for-endometriosis/" target="_blank" rel="noopener noreferrer">Complementary and Alternative Therapies for Endometriosis</a>
+9. <a href="/articles/endometriosis-in-adolescents-and-teens/" target="_blank" rel="noopener noreferrer">Endometriosis in Adolescents and Teens</a>
+10. <a href="/articles/endometriosis-resources/" target="_blank" rel="noopener noreferrer">Endometriosis Resources</a>
+11. <a href="/articles/endometriosis-books/" target="_blank" rel="noopener noreferrer">Endometriosis Books</a>
 
