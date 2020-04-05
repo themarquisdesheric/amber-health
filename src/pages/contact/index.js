@@ -3,13 +3,16 @@ import Layout from '../../components/Layout';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import GetInTouchAnimation from './GetInTouchAnimation';
 
+const initializeForm = () => ({
+  name: '',
+  email: '',
+  subject: '',
+  message: ''
+});
+
 const Index = () => {
-  const [form, setForm] = useState({
-    name: '',
-    email: '',
-    subject: '',
-    message: ''
-  });
+  const [emailSaved, setEmailSaved] = useState(false);
+  const [form, setForm] = useState(initializeForm());
   const [isValid, setIsValid] = useState(false);
 
   useEffect(() => {
@@ -19,6 +22,28 @@ const Index = () => {
       setIsValid(true);
     }
   }, [form, isValid]);
+
+  const saveEmail = () => {
+    for (const key in form) {
+      localStorage.setItem(key, form[key]);
+    }
+
+    setForm(initializeForm());
+    setEmailSaved(true);
+  };
+
+  const restoreEmail = (e) => {
+    e.preventDefault();
+
+    const restoredEmail = {};
+
+    for (const key in form) {
+      restoredEmail[key] = localStorage.getItem(key);
+    }
+
+    setForm(restoredEmail);
+    setEmailSaved(false);
+  };
 
   const handleChange = ({ target: { name, value } }) => {
     setForm({
@@ -32,15 +57,18 @@ const Index = () => {
 
     const { name, email, subject, message } = form;
     const body = `${message.slice(0, 1800)} ${(name || email) ? `[FROM: ${name}/${email}]` : ''}`;
-
+    
     if (window !== undefined) {
       window.location.href = `mailto:thechronicinfo@gmail.com?subject=${subject}&body=${body}`;
     }
+
+    saveEmail();  
   };
 
   const messageLength = form.message.length;
   const showEmailClientNotification = messageLength > 10;
   const showMessageLengthLimit = messageLength > 1800;
+  const { name, email, subject, message } = form;
 
   return ( 
     <Layout className="contact">
@@ -68,6 +96,7 @@ const Index = () => {
                 type="text"
                 name="name"
                 onChange={handleChange}
+                value={name}
                 id="name"
               />
             </div>
@@ -80,6 +109,7 @@ const Index = () => {
                 type="email"
                 name="email"
                 onChange={handleChange}
+                value={email}
                 id="email"
               />
             </div>
@@ -92,6 +122,7 @@ const Index = () => {
                 type="text"
                 name="subject"
                 onChange={handleChange}
+                value={subject}
                 id="subject"
                 required={true}
               />
@@ -104,6 +135,7 @@ const Index = () => {
               <textarea
                 name="message"
                 onChange={handleChange}
+                value={message}
                 id="message"
                 rows="6"
                 required={true}
@@ -120,9 +152,17 @@ const Index = () => {
                 }
               </span>
 
-              <button onClick={handleSubmit} disabled={!isValid}>
-                Send
-              </button>
+              {!emailSaved && (
+                <button onClick={handleSubmit} disabled={!isValid}>
+                  Send
+                </button>
+              )}
+
+              {emailSaved && (
+                <button onClick={restoreEmail} className="restore-email bg-black text-white">
+                  Restore email
+                </button>
+              )}
             </div>
           </form>
         </div>
