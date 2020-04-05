@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'The Chronic',
     description:
-      'A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety',
+      'The Chronic is a comprehensive guide of curated resources for those with chronic illness who are navigating a broken healthcare system while trying to preserve their dignity and self worth, and ultimately attain wellness and health',
     siteUrl: 'https://www.thechronic.info'
   },
   plugins: [
