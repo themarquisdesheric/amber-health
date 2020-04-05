@@ -293,6 +293,8 @@ form {
       opacity: .8;
       cursor: no-drop;
     }
+
+    &.restore-email { background-color: $theme-brown; }
   }
 }
 
