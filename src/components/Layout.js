@@ -36,14 +36,14 @@ const TemplateWrapper = ({ children, className = '' }) => {
         <meta property="og:url" content="https://www.thechronic.info" />
         <meta
           property="og:image"
-          content="https://www.thechronic.info/img/og-image.png"
+          content="https://www.thechronic.info/img/og-image.jpg"
         />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="The Chronic" />
         <meta name="twitter:url" content="https://www.thechronic.info" />
         <meta name="twitter:title" content="The Chronic" />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://www.thechronic.info/img/og-image.png" />
+        <meta name="twitter:image" content="https://www.thechronic.info/img/og-image.jpg" />
         <meta name="twitter:image:alt" content="pomegranate logo" />
         {seoKeywords.length > 0 && 
           <meta
