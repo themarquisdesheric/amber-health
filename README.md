@@ -2,13 +2,17 @@
 
 <img src="./static/img/og-image.jpg" width="300" style="display: block; margin: auto;" />
 
-A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety
+The Chronic is a comprehensive guide of curated resources for those with chronic illness who are navigating a broken healthcare system while trying to preserve their dignity and self worth, and ultimately attain wellness and health. 
 
 ## SEO Keywords
 
 Non-article pages of your site inject the keywords listed in `src/SEOkeywords.js`. 
 
 Article pages take the `tags` and `keywords` listed in the article file and inject those, after ensuring duplicates are removed. 
+
+## Tests
+
+This site uses Jest and Enzyme for testing. To run unit tests, run `npm test`
 
 ---
 

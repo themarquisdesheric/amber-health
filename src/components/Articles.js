@@ -35,8 +35,8 @@ export const Articles = ({ data }) => {
     <section className="content">
       <Breadcrumbs path="Articles" />
       <div className="articles-list flex flex-col items-center">
-        {handleDrafts(posts).map(({ node: post }) => 
-          <Article post={post} className="article-card max-w-xl" key={post.id} />
+        {handleDrafts(posts).map(({ node: post }, index) => 
+          <Article post={post} className="article-card max-w-xl" key={post.id} index={index} />
         )}
         {/* <Topics /> */}
       </div>

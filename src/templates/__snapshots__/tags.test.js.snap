@@ -35,6 +35,7 @@ exports[`Tags 1`] = `
           >
             <Article
               className="tag-tile max-w-sm"
+              index={0}
               key="73358e5e-d586-563b-8e98-34c40eaf71f2"
               post={
                 Object {
@@ -62,6 +63,7 @@ exports[`Tags 1`] = `
             />
             <Article
               className="tag-tile max-w-sm"
+              index={1}
               key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
               post={
                 Object {
@@ -88,6 +90,7 @@ exports[`Tags 1`] = `
             />
             <Article
               className="tag-tile max-w-sm"
+              index={2}
               key="7d461f40-0eaf-509d-bb8b-40092e3189a1"
               post={
                 Object {
@@ -115,6 +118,7 @@ exports[`Tags 1`] = `
             />
             <Article
               className="tag-tile max-w-sm"
+              index={3}
               key="5a6af559-152a-5ade-ae88-d9ac123ca14e"
               post={
                 Object {
@@ -141,6 +145,7 @@ exports[`Tags 1`] = `
             />
             <Article
               className="tag-tile max-w-sm"
+              index={4}
               key="0c59930c-86ec-5f9a-a260-5c10da03d8a4"
               post={
                 Object {
@@ -168,6 +173,7 @@ exports[`Tags 1`] = `
             />
             <Article
               className="tag-tile max-w-sm"
+              index={5}
               key="59baf936-30e6-5971-b1ba-88d8539d7f57"
               post={
                 Object {

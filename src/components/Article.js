@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
-const Article = ({ post, className = '' }) => (
-  <article className={className}>
+const Article = ({ post, index, className = '' }) => (
+  <article style={{ '--index': index }} className={className}>
     <Link to={post.fields.slug}>
       <header>
         {post.frontmatter.featuredImage ? (
@@ -28,6 +28,7 @@ const Article = ({ post, className = '' }) => (
 
 Article.propTypes = {
   post: PropTypes.object.isRequired,
+  index: PropTypes.number.isRequired,
   className: PropTypes.string
 };
 

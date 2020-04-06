@@ -29,7 +29,7 @@ const post = {
 };
 
 test('Article', () => {
-  const wrapper = shallow(<Article post={post} />);
+  const wrapper = shallow(<Article post={post} index={0} />);
 
   expect(toJson(wrapper)).toMatchSnapshot();
 });

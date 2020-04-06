@@ -32,8 +32,8 @@ const TagRoute = ({ data, pageContext }) => {
                 {tagTitle}
               </h1>
               <ul className="py-4 flex flex-wrap">
-                {posts.map(({ node: post }) => (
-                  <Article post={post} className="tag-tile max-w-sm" key={post.id} />
+                {posts.map(({ node: post }, index) => (
+                  <Article post={post} className="tag-tile max-w-sm" index={index} key={post.id} />
                 ))}
               </ul>
               <p className="browse-all-tags text-sm">

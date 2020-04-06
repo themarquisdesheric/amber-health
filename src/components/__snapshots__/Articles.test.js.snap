@@ -8,10 +8,11 @@ exports[`Articles should match snapshot 1`] = `
     path="Articles"
   />
   <div
-    className="flex flex-col items-center"
+    className="articles-list flex flex-col items-center"
   >
     <Article
       className="article-card max-w-xl"
+      index={0}
       key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
       post={
         Object {
@@ -41,6 +42,7 @@ exports[`Articles should match snapshot 1`] = `
     />
     <Article
       className="article-card max-w-xl"
+      index={1}
       key="a3a3d5f0-fd76-5738-9d6c-b6e250ee9f10"
       post={
         Object {

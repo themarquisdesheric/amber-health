@@ -2,7 +2,12 @@
 
 exports[`Article 1`] = `
 <article
-  className=" mb-8"
+  className=""
+  style={
+    Object {
+      "--index": 0,
+    }
+  }
 >
   <mockConstructor
     to="/articles/2019-09-27-endometriosis-diagnosis/"

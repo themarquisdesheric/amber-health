@@ -48,6 +48,19 @@ p { color: $gray-text; }
 
 .article-card { margin-bottom: 2rem; }
 
+.article-card,
+.tag-tile {
+  animation: pop-in .3s backwards;
+  animation-delay: calc(var(--index) * 0.03s);
+}
+
+@keyframes pop-in {
+  from { 
+    transform: scale(0.5);
+    opacity: 0;
+  }
+}
+
 .article {
   *::selection {
     background: $theme-light;
