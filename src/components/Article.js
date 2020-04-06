@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const Article = ({ post, className = '' }) => (
-  <article className={`${className} mb-8`}>
+  <article className={className}>
     <Link to={post.fields.slug}>
       <header>
         {post.frontmatter.featuredImage ? (

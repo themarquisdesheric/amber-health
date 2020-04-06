@@ -1,5 +1,7 @@
 # The Chronic
 
+<img src="./static/img/og-image.jpg" width="300" style="display: block; margin: auto;" />
+
 A platform to spread knowledge and awareness of chronic conditions like endometriosis, Ehler-Danlos Syndrome, POTS, and those of the autoimmune variety
 
 ## SEO Keywords
