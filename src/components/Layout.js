@@ -39,7 +39,7 @@ const TemplateWrapper = ({ children, className = '' }) => {
           content="https://www.thechronic.info/img/og-image.jpg"
         />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="The Chronic" />
+        <meta name="twitter:creator" content="@info_chronic" />
         <meta name="twitter:url" content="https://www.thechronic.info" />
         <meta name="twitter:title" content="The Chronic" />
         <meta name="twitter:description" content={description} />

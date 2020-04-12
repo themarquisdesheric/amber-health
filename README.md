@@ -14,8 +14,6 @@ Article pages take the `tags` and `keywords` listed in the article file and inje
 
 This site uses Jest and Enzyme for testing. To run unit tests, run `npm test`
 
----
-
 ## Scripts
 
 - `createArticle` generates a new markdown Article. It will ask you for some metadata like the article title, description, and a featured image ✨
