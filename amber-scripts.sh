@@ -69,7 +69,7 @@ function createArticle() {
 
   KEBAB_CASE_TITLE=${RAW_TITLE// /-}
   TITLE=$(echo $KEBAB_CASE_TITLE | tr '[:upper:]' '[:lower:]')
-  FILE_PATH="$ARTICLE_DIRECTORY/$CURRENT_DATE-$TITLE.md"
+  FILE_PATH="$ARTICLE_DIRECTORY/$TITLE.md"
 
   echo -e "--- \ntemplateKey: article" > $FILE_PATH
   echo "title: $RAW_TITLE" >> $FILE_PATH
@@ -91,10 +91,18 @@ function createArticle() {
   fi
 
   echo -e "featuredImage: /img/$FEATURED_IMAGE" >> $FILE_PATH
+
+  SHARE_CARD_IMAGE=${FEATURED_IMAGE/.jpg/}
+  SHARE_CARD_IMAGE=${SHARE_CARD_IMAGE/.jpeg/}
+  SHARE_CARD_IMAGE=${SHARE_CARD_IMAGE/.png/}
+  SHARE_CARD_IMAGE=${SHARE_CARD_IMAGE/.gif/}
+
+  echo -e "shareCardImage: /img/$SHARE_CARD_IMAGE" >> $FILE_PATH
   echo -e "series: ''" >> $FILE_PATH
   echo -e "seriesNumber: ''" >> $FILE_PATH
   echo -e "seriesLink: ''" >> $FILE_PATH
-  echo -e "tags:\n  - MAKE\n  - THESE\n  - TAGS\ndraft: true \n--- \n" >> $FILE_PATH
+  echo -e "tags:\n  - MAKE\n  - THESE\n  - TAGS" >> $FILE_PATH
+  echo -e "keywords:\n  - MAKE\n  - THESE\n  - KEYWORDS\ndraft: true \n--- \n" >> $FILE_PATH
 
   code $FILE_PATH
 }
