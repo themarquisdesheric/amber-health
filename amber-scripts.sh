@@ -20,7 +20,7 @@ alias articles="code $ARTICLE_DIRECTORY"
 alias preview="amberHealth && npm run develop"
 alias previewDrafts="GATSBY_SHOW_DRAFTS=true npm run develop"
 alias update="amberHealth && git checkout master && git pull && npm i || echo -e "$RED_COLOR Oh dang! Maybe try committing first? 🤔 $WHITE_COLOR""
-alias updateScripts="amberHealth && git pull && cp amber-scripts.sh ~ && source ~/.bash_profile"
+alias updateScripts="amberHealth && git pull && cp amber-scripts.sh ~ && source ~/.bash_profile || echo -e "$RED_COLOR Oh dang! Error while pulling from GitHub 😵 Maybe try committing first? 🤔 $WHITE_COLOR""
 
 # functions
 
@@ -92,6 +92,7 @@ function createArticle() {
 
   echo -e "featuredImage: /img/$FEATURED_IMAGE" >> $FILE_PATH
 
+  # scrub extension. this is necessary because gatsby pulls shareCardImage as a file (not a string path) so need redundant field :(
   SHARE_CARD_IMAGE=${FEATURED_IMAGE/.jpg/}
   SHARE_CARD_IMAGE=${SHARE_CARD_IMAGE/.jpeg/}
   SHARE_CARD_IMAGE=${SHARE_CARD_IMAGE/.png/}
