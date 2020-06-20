@@ -107,3 +107,6 @@ function createArticle() {
 
   code $FILE_PATH
 }
+
+# clear amber's terminal output
+clear
