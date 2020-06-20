@@ -1,8 +1,10 @@
 # The Chronic
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ba4ca02-ed2e-4c59-a2c8-52e1dc7824d8/deploy-status)](https://app.netlify.com/sites/cocky-ramanujan-2991b8/deploys)
+
 <img src="./static/img/og-image.jpg" width="300" style="display: block; margin: auto;" />
 
-The Chronic is a comprehensive guide of curated resources for those with chronic illness who are navigating a broken healthcare system while trying to preserve their dignity and self worth, and ultimately attain wellness and health. 
+The Chronic is a comprehensive guide of curated resources for those with chronic illness who are navigating a broken healthcare system while trying to preserve their dignity and self worth, and ultimately attain wellness and health.
 
 ## SEO Keywords
 
